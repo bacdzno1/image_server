@@ -1,0 +1,21 @@
+#cv-top {
+    background-color: #fff;
+    background-image: url(hd3.png);
+    background-repeat: no-repeat;
+}
+
+div#cv-boxtitle {
+    color: #a82f2f;
+}
+
+.icf .fa {
+    color: #a82f2f;
+}
+
+#cv-content .head #cvo-experience-blocktitle {
+    color: #a82f2f;
+}
+
+#block02 .exp-title {
+    color: #a82f2f;
+}

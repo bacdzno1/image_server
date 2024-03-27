@@ -1,0 +1,170 @@
+#cv-content .cvo-block {
+    padding: 0;
+    float: left;
+    width: 100%;
+    background: #efdfe1;
+    margin-bottom: 13px;
+    padding-top: 10px;
+}
+.bar-exp div {
+    float: left;
+    height: 7px;
+    background: #efdfe1;
+    margin-top: 0px;
+}
+.bar-exp {
+    background: #9e1d29;
+    height: 7px;
+    float: none;
+    margin-top: 5px;
+    margin-bottom: 0px;
+    padding: 0px;
+    border: 1px solid #efdfe1;
+    float: right;
+    width: 100%;
+}
+.ski {
+    padding: 0;
+    margin: 0 auto;
+    height: 35px;
+    width: 100%;
+    line-height: 35px;
+    text-align: left;
+    border-bottom: 2px solid #efdfe1;
+    border-top: 2px solid #efdfe1;
+}
+.cum {
+    padding: 0;
+    margin: 0 auto;
+    height: 35px;
+    width: 100%;
+    line-height: 35px;
+    text-align: left;
+    border-bottom: 2px solid #efdfe1;
+    border-top: 2px solid #efdfe1;
+}
+#cv-top {
+    width: 100%;
+    height: 265px;
+    background-image: url(hd3.png);
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    position: relative;
+}
+.all{
+  float: left;
+  clear: both;
+  width: 100%;
+  background:url(main3.png)no-repeat;
+  background-size: 100% 100%;
+}
+#cv-top h1 {
+    padding: 0;
+    margin: 0;
+    font-size: 28px;
+    font-family: "Roboto";
+    line-height: 35px;
+    text-transform: uppercase;
+    margin-bottom: 0;
+    color: #9e1d29;
+    font-weight: bold;
+    text-align: left;
+    width: 100%;
+    float: left;
+}
+#cv-top h2 {
+    margin: 0;
+    padding: 0;
+    text-transform: uppercase;
+    width: 100%;
+    font-size: 13px;
+    color: #9e1d29;
+    text-align: left;
+    float: left;
+}
+#cv-content #block02 h3 {
+  font-weight: bold;
+  color: #9e1d29;
+  float: left;
+}
+.icf .fa {
+    font-size: 20px;
+    color: #9e1d29;
+    margin-top: 0;
+    float: left;
+}
+#block01 .head{
+  background: #9e1d29;
+  width: 51%;
+}
+#block02 .head{
+  background: #9e1d29;
+  width: 61%;
+}
+#block03 .head{
+  background: #9e1d29;
+  width: 35%;
+}
+#block04 .head{
+  background: #9e1d29;
+  width: 62%;
+}
+#block05 .head{
+  background: #9e1d29;
+  width: 60%;
+}
+.cumicc2 {
+    width: 50px;
+    height: 35px;
+    float: left;
+    background: url(icccc_02.png);
+    background-position:left;
+    background-repeat: no-repeat;
+}
+.cumicc3 {
+    width: 50px;
+    height: 35px;
+    float: left;
+    background: url(icccc_05.png);
+    background-position:left;
+    background-repeat: no-repeat;
+}
+.cumicc4 {
+    width: 50px;
+    height: 35px;
+    float: left;
+    background: url(icccc_07.png);
+    background-position:left;
+    background-repeat: no-repeat;
+}
+.cumicc5 {
+    width: 50px;
+    height: 35px;
+    float: left;
+    background: url(icccc_09.png);
+    background-position:left;
+    background-repeat: no-repeat;
+}
+.cumicc6 {
+    width: 50px;
+    height: 35px;
+    float: left;
+    background: url(icccc_11.png);
+    background-position:left;
+    background-repeat: no-repeat;
+}
+.cumicc7 {
+    width: 50px;
+    height: 35px;
+    float: left;
+    background: url(icccc_13.png);
+    background-position:left;
+    background-repeat: no-repeat;
+}
+.footer {
+  background:url(ft3.png)no-repeat;
+  background-size: 100% 100%;
+  height:30px; 
+    float: left;
+    width: 100%;
+}

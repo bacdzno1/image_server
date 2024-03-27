@@ -1,0 +1,17 @@
+#cv-top {
+    background-image: url(top3.png);
+    background-size: 100% 100%;
+}
+.all {
+    background: url(main3.png);
+    background-size: 100% 100%;
+}
+#cv-top h1 ,div#cv-boxtitle {
+    color: blue;
+}
+.icf .fa,#cv-content .head #cvo-experience-blocktitle {
+    color: rgb(229, 128, 13)
+}
+.bar-exp div {
+    background: #4056f5;
+}

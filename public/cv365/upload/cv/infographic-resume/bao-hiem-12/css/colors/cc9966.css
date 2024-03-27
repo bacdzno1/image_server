@@ -1,0 +1,28 @@
+#cv-top {
+    background-image: url(hd2.png);
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+}
+
+.all {
+    background-image: url(main2.png);
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+}
+
+#cv-content .head #cvo-experience-blocktitle {
+    color: #cc9966;
+}
+
+div#cv-boxtitle {
+    color: #cc9966;
+}
+
+.icf .fa {
+    color: #cc9966;
+}
+
+.box-dm {
+    background: url(avata2.png)no-repeat;
+    background-size: 100% 100%;
+}

@@ -1,0 +1,264 @@
+#form-cv{
+	width: 100%;	
+	float: left;
+	position: relative;
+	font-size: 14px;
+	line-height: 24px;
+	color:#494949;	
+	background:#c4ced4	
+}
+#form-cv p{
+	margin-top: 0;
+	margin-bottom: 6px
+}
+#sortable .cvo-block{
+	margin-bottom: 25px;
+	margin-top: 8px;	
+	padding:0 10px;
+}
+#cvo-profile{	
+	display: block;
+}
+#cv-content{
+	width: 60%;
+	float: right;	
+	position: relative;	
+	padding-top: 10px;			
+}
+#cv-content .ir{
+	padding:0 10px;
+}
+#cv-main{
+	padding:0;
+	position: relative;			
+	float: left;	
+	background: #2f3a40;
+	color:#fff;
+	width: 39.99%
+}
+#cv-right .ir{
+	padding: 0 10px;
+}
+p.skill-name input{
+	color: #fff!important;
+}
+
+#cv-right .ctbx {
+	padding: 0;
+	margin:0;
+	border:0;
+}
+
+#cv-top{	
+	padding:20px 0 25px;
+}
+#cv-top h1{
+	font-size: 30px;    
+    line-height: normal;
+    text-transform: uppercase;    
+    color: #fff;        
+    margin-bottom: 10px;
+    margin-top: 10px;
+    font-weight: bold    
+	
+}
+#box-hvt{	
+	text-align: center;
+	margin-bottom: 20px
+}
+
+#cv-right .cvo-block .head div{
+	color:#fff;
+}
+#cv-top h2{
+	font-size: 16px;    
+    color: #fff;    
+    text-transform: capitalize;    
+    font-weight: normal;
+    font-style: italic;
+    margin-top: 0;       
+    margin-bottom: 0
+}
+.box-01 p{		
+    overflow: hidden;
+}
+
+#cv-content p{
+	margin-bottom: 5px
+}
+#cv-content .ir a{
+	color: #2ebb2f
+}
+#cv-right h3, #cv-content .head{
+	font-size: 18px;        
+    text-transform: uppercase;
+    color:#fff;
+    font-weight: bold;        
+    margin: 0px auto 15px;    
+    line-height: 24px;       
+    text-align: center; 
+} 
+#cv-content .head{
+	text-align: left;
+}
+#cv-content .exp-title{
+	float: left;
+	font-weight: bold;
+	width: 70%;
+}
+#cv-content .exp-date{
+	float: right;
+	width: 29.99%;
+	text-align: right;
+}
+#cv-content h3{	
+    font-size: 14px;
+    font-weight: normal;
+    line-height: 24px;
+    margin-bottom: 5px;
+    margin-top: 0;
+    color:#2a383e;
+    width: 100%;   
+    float: left;
+}
+#cv-content p.h3{
+
+}
+#cv-content .cvo-block {    
+}
+.ctbx{
+	padding-left: 10px;
+	padding-right: 10px
+}
+
+#cv-content span{
+	display: inline-block;	
+	z-index: 9999;
+}
+
+.ctbx{
+	margin-bottom: 20px;
+	padding-left: 0;
+	padding-right: 0;
+	position: relative;
+}
+.ctbx:hover {
+	box-shadow: 0 0 1px #999;
+}
+.ctbx:hover .fieldgroup_controls{
+	display: block;
+}
+[cvo-form-field] {
+    cursor: text;
+}
+
+#cvo-profile-avatar-wraper .wimg{    
+    margin:auto;
+    width: 160px;   
+    border: solid 3px #fff;    
+}
+#cvo-profile-avatar-wraper img{
+	width: 160px;  	
+  	height: 160px;
+  	float:none;  
+  	display: inline-block;
+}
+#line-seperate {
+    height: 25px;    
+}
+.bar-exp div {
+    float: left;
+    height: 8px;
+    background: #d9d9d9;
+}
+.ctbx .skill-name{
+	
+}
+.bar-exp {  	
+  	background: #2f3a40;
+  	height: 8px;  	
+  	margin-top: 0;
+  	border:2px solid #d9d9d9;
+  	width: 98%;
+  	margin-bottom: 12px;
+}      
+.bar-value-exp{
+	width: 100%
+}
+.bar-value-exp input[type="text"]{
+	color:#fff;
+	width: 95%
+}
+.icoweb label{
+	display: block;
+}
+#sortable .icoweb{
+	line-height: 25px;	
+	float: left;
+	padding-left: 10px;
+	margin-bottom: 0
+}
+.ic{
+	float: left;width: 100%
+}
+#form-cv .icf{
+	float: left;		
+	line-height: 22px;
+	font-size: 12px;
+	margin-bottom: 0;
+	width: 22px;	
+	border-radius: 20px;
+	background: #fff;
+	text-align: center;	
+}
+.ic .icoweb{
+	float: left	
+}
+.icf .fa{
+	font-size: 12px;	
+	color:#2f3a40;	
+	font-weight: normal;
+	margin-top: 0;	
+	float: none
+}
+#cv-right h3, #cv-content .head{
+	display: table;
+	width: 100%
+}
+#cv-right h3 .wfa, #cv-content .head .wfa{
+    float: left;
+    width: 36px;
+    font-size: 20px;
+    line-height: 36px;
+    background: #0ca4cd;
+    border-radius: 6px 0;
+    text-align: center;    
+    color:#fff;    
+}
+#cv-right h3 .wfa{
+	background: #fff;
+	color:#0ca4cd;
+}
+#cv-right h3{
+	color:#fff;
+}
+div#box01 span {
+    width: 230px;
+}
+span.box-content {
+    width: 280px;
+}
+.exp-subtitle,.exp-content {
+    width: 100%;
+}
+
+.watermark {
+    float: left;
+    width: 100%;
+    height: 22px;
+    color: #999;
+    text-align: right;
+    padding-right: 22px;
+    font-size: 15px;
+    font-family: Courier;
+}

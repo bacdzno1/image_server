@@ -1,0 +1,147 @@
+#cv-top h1 {
+    padding: 0;
+    margin: 0;
+    font-size: 40px;
+    font-family: "Roboto";
+    line-height: 45px;
+    text-transform: uppercase;
+    margin-bottom: 0;
+    color: #7286d3;
+    font-weight: bold;
+    text-align: left;
+    float: left;
+}
+#cvo-profile-avatar-wraper img {
+  float: none;
+  border-radius: 99em;
+  border: 1px solid #7286d3;
+}
+div#sort_block {
+    padding: 0;
+    margin: 0;
+    float: left;
+    padding-left: 20px;
+    border-left: 3px solid #7286d3;
+}
+#cv-content .head #cvo-experience-blocktitle, #cv-boxtitle {
+    color: #7286d3 !important;
+    text-align: left;
+    float: left;
+}
+.bar-exp {
+  height: 12px;
+  margin-top: 5px;
+  margin-bottom: 0px;
+  padding: 0px;
+  float: left;
+  width: 228px;
+  background: url(../bar_exp2.png) no-repeat;
+  background-size: 100% 100%;
+}
+.bar-exp div {
+    float: left;
+    height: 11px;
+    margin: 1px;
+    border-radius: 10px;
+    background-color: #7286d3;
+    
+}
+.ic1 .icf {
+  background: url(../date2.png) no-repeat;
+  width: 32px;
+  height: 27px;
+}
+.ic2 .icf {
+  background: url(../sex2.png) no-repeat;
+  width: 32px;
+  height: 33px;
+}
+.ic3 .icf {
+  background: url(../phone2.png) no-repeat;
+  width: 32px;
+  height: 28px;
+}
+.ic4 .icf {
+  background: url(../mail2.png) no-repeat;
+  width: 32px;
+  height: 28px;
+}
+.ic5 .icf {
+  background: url(../add2.png) no-repeat;
+  width: 32px;
+  height: 33px;
+}
+#cv-main {
+    text-align: justify;
+    margin: 0;
+    padding: 0;
+    float: right;
+    width: 38%;
+    padding: 20px;
+    border-left: 3px solid #7286d3;
+    padding-left: 25px;
+    padding-top: 0;
+}
+#block01 .head {
+    background: url(../edu2.png) no-repeat;
+    background-position: left;
+    margin: 5px 0;
+  }
+  #block02 .head {
+    background: url(../exp2.png) no-repeat;
+    background-position: left;
+    margin: 5px 0;
+  }
+  #block03 .head {
+    background: url(../act2.png) no-repeat;
+    background-position: left;
+    margin: 5px 0;
+  }
+  #block04 .head {
+    background: url(../project2.png) no-repeat;
+    background-position: left;
+    margin: 5px 0;
+  }
+  
+  #block05 .head {
+    background: url(../more_infor2.png) no-repeat;
+    background-position: left;
+    margin: 5px 0;
+  }
+  #box02 .cum {
+    background: url(../target2.png) no-repeat;
+    background-position: left;
+  }
+  #box03 .ski {
+    background: url(../exp2.png) no-repeat;
+    background-position: left;
+    padding-left: 40px;
+    margin-left: -40px;
+    position: relative;
+    z-index: 99;
+  }
+  #box04 .cum {
+    background: url(../prize2.png) no-repeat;
+    background-position: left;
+  }
+  #box05 .cum {
+    background: url(../cer2.png) no-repeat;
+    background-position: left;
+  }
+  #box06 .cum {
+    background: url(../hobbies2.png) no-repeat;
+    background-position: left;
+  }
+  #box07 .cum {
+    background: url(../rp2.png) no-repeat;
+    background-position: left;
+  }
+  .box-content, .ctbx {
+    background: url(../bg_content2.png) no-repeat;
+    padding-left: 30px ;
+    margin-left: -32px ;
+  }
+
+  .fake_img {
+    background: url(../fake_img2.png) no-repeat;
+}

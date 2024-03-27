@@ -1,0 +1,29 @@
+/* 4 */
+
+:root {
+    --sex: url(sex4.png) no-repeat;
+    --phone: url(phone4.png) no-repeat;
+    --date: url(date4.png) no-repeat;
+    --email: url(email4.png) no-repeat;
+    --add: url(add4.png) no-repeat;
+    --avt: url(avt4.png) no-repeat;
+    --name: url(name4.png) no-repeat;
+    --info: url(t-i4.1.png) no-repeat, url(t-i4.2.png) no-repeat, url(t-i.png) no-repeat;
+    --dot: url(dot4.png) no-repeat;
+    --b-doc: url(b-doc4.png) repeat-y;
+    --b-ngang: url(b-ngang4.png) no-repeat;
+    --ngang: url(ngang4.png) no-repeat;
+    --color: #4faf9c;
+    --foot: url(foot4.png) no-repeat;
+    --kn: url(kn4.png) no-repeat;
+    --muctieu: url(muctieu4.png) no-repeat;
+    --chungchi: url(chungchi4.png) no-repeat;
+    --giaithuong: url(giaithuong4.png) no-repeat;
+    --sothich: url(sothich4.png) no-repeat;
+    --kynang: url(kynang4.png) no-repeat;
+    --thamchieu: url(thamchieu4.png) no-repeat;
+    --hocvan: url(hocvan4.png) no-repeat;
+    --kinhnghiem: url(kinhnghiem4.png) no-repeat;
+    --duan: url(duan4.png) no-repeat;
+    --hoatdong: url(hoatdong4.png) no-repeat;
+}

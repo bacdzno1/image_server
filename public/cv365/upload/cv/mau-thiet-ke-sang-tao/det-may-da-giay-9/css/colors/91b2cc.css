@@ -1,0 +1,93 @@
+#cv-top {
+    width: 100%;
+    height: 280px;
+    background-image: url(hd1.png);
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    position: relative;
+}
+
+.all {
+    float: left;
+    clear: both;
+    width: 100%;
+    background: url(main1.png)no-repeat;
+    background-size: 100% 100%;
+}
+
+#cvo-profile-avatar-wraper .wimg {
+    width: 180px;
+    height: 160px;
+    float: right;
+    display: unset !important;
+    /*border-radius: 10px;*/
+    border: 2px solid #91b2cc;
+}
+
+.bar-exp div {
+    float: left;
+    height: 7px;
+    background: #91b2cc;
+    margin-top: 0px;
+    border-radius: 10px;
+}
+
+.bar-exp {
+    background: #fff5cf;
+    height: 7px;
+    margin-top: 5px;
+    margin-bottom: 0px;
+    border: 1px solid #91b2cc;
+    border-radius: 10px;
+    padding: 0px;
+    float: right;
+    width: 100%;
+}
+
+#cv-content .head {
+    padding: 0;
+    margin: 0 auto;
+    height: 45px;
+    line-height: 45px;
+    text-align: center;
+    width: 100%;
+    background: url(t1.png)no-repeat;
+    background-size: 100% 10%;
+    background-position: bottom;
+}
+
+.tt-box1 {
+    padding: 0;
+    margin: 0 auto;
+    height: 45px;
+    width: 100%;
+    line-height: 45px;
+    text-align: center;
+    background: url(t1.png)no-repeat;
+    background-size: 100% 10%;
+    background-position: bottom;
+}
+
+.ski {
+    padding: 0;
+    margin: 0 auto;
+    height: 45px;
+    width: 100%;
+    line-height: 45px;
+    text-align: center;
+    background: url(t1.png)no-repeat;
+    background-size: 100% 10%;
+    background-position: bottom;
+}
+
+.cum {
+    padding: 0;
+    margin: 0 auto;
+    height: 45px;
+    width: 100%;
+    line-height: 45px;
+    text-align: center;
+    background: url(t1.png)no-repeat;
+    background-size: 100% 10%;
+    background-position: bottom;
+}

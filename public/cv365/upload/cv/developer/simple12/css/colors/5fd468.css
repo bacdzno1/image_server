@@ -1,0 +1,27 @@
+#form-cv{
+	border:solid 1px #9ae8a0;
+	border-left: solid 40px  #5fd468;
+}
+
+#cv-top h1{
+    color:#3177b4;
+}
+#cv-top h2{
+	color: #3177b4;
+}
+#cv-right .h3, #cv-content .head{
+    color: #3177b4;    
+}
+#cv-right .icoweb i.fa{
+    color: #9ae8a0;
+}
+.icoweb{
+	color: #325b65;
+}
+.ui-sortable-handle{
+    border-left: solid 5px #3177b4;
+}
+.box-01{
+
+	background-color:#5fd468 ;
+}

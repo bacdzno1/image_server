@@ -1,0 +1,15 @@
+#cv-top h1, #cv-content h3, #cv-content p.h3{
+	color:#77b300;
+}
+#form-cv #cv-right h3, #form-cv #cv-content .head{
+	background: url(line77b300.png) left center repeat-x;
+}
+#cv-right h3 div, #cv-content .head div, .bar-exp div{
+	background: #77b300;
+}
+#form-cv .icf{
+	border:1px solid #77b300;
+}
+.icf .fa{
+	color:#77b300;
+}

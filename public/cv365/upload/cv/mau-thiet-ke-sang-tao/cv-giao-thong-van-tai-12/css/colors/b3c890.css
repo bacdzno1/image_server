@@ -1,0 +1,29 @@
+/* 3 */
+
+:root {
+    --sex: url(sex3.png) no-repeat;
+    --phone: url(phone3.png) no-repeat;
+    --date: url(date3.png) no-repeat;
+    --email: url(email3.png) no-repeat;
+    --add: url(add3.png) no-repeat;
+    --top: url(top3.png) no-repeat;
+    --avt: url(avt3.png) no-repeat;
+    --all: url(all3-1.png) no-repeat;
+    --all1: url(all3-2.png) no-repeat;
+    --color-j: #b3c890;
+    --dot: url(dot3.png) no-repeat;
+    --ngang: url(ngang3.png) no-repeat;
+    --muctieu: url(muctieu.png) no-repeat;
+    --kynang: url(kynang.png) no-repeat;
+    --chungchi: url(chungchi.png) no-repeat;
+    --giaithuong: url(giaithuong.png) no-repeat;
+    --sothich: url(sothich.png) no-repeat;
+    --thamchieu: url(thamchieu.png) no-repeat;
+    --hocvan: url(hocvan.png) no-repeat;
+    --kinhnghiem: url(kinhnghiem.png) no-repeat;
+    --hoatdong: url(hoatdong.png) no-repeat;
+    --duan: url(duan.png) no-repeat;
+    --them: url(them.png) no-repeat;
+    --skill: url(skill.png) no-repeat;
+    --kn: url(kn.png) no-repeat;
+}

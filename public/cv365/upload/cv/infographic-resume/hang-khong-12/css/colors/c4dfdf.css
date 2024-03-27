@@ -1,0 +1,17 @@
+/* 3 */
+
+:root {
+    --sex: url(sex.png) no-repeat;
+    --phone: url(phone.png) no-repeat;
+    --date: url(date.png) no-repeat;
+    --email: url(email.png) no-repeat;
+    --add: url(add.png) no-repeat;
+    --top: url(top3.png) no-repeat;
+    --page: url(page3.png) no-repeat;
+    --name1: url(name3-1.png) no-repeat;
+    --name2: url(name3-2.png) no-repeat;
+    --name3: url(name3-3.png) no-repeat;
+    --them: url(them3.png) no-repeat;
+    --skill: url(skill.png) no-repeat;
+    --kn: url(kn3.png) no-repeat;
+}

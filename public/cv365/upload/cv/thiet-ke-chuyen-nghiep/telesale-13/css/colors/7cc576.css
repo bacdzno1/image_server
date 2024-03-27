@@ -1,0 +1,76 @@
+#cv-top {
+    width: 100%;
+    height: 297px;
+    background-image: url(hd2.png);
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    position: relative;
+    overflow: hidden;
+}
+.all {
+    float: left;
+    clear: both;
+    width: 100%;
+    background: url(main2.png)no-repeat;
+    background-size: 100% 100%;
+}
+.footer {
+    background: url(ft2.png)no-repeat;
+    background-size: 100% 100%;
+    height: 71px;
+    float: left;
+    width: 100%;
+}
+.tt-box1 {
+    padding: 0;
+    margin: 0 auto;
+    height: 35px;
+    width: 100%;
+    float: left;
+    line-height: 35px;
+    color: #7cc576;
+}
+.ski {
+    padding: 0;
+    margin: 0 auto;
+    height: 35px;
+    width: 100%;
+    float: left;
+    line-height: 35px;
+    color: #7cc576;
+}
+    .cum {
+    padding: 0;
+    margin: 0 auto;
+    height: 35px;
+    width: 100%;
+    float: left;
+    line-height: 35px;
+    color: #7cc576;
+}
+#cvo-experience-blocktitle {
+    color: #7cc576;
+    text-align: left;
+    float: left;
+    text-transform: uppercase;
+    font-weight: bold;
+    width: 70%;
+    font-size: 24px;
+    padding-bottom: 5px;
+}
+#cvo-profile .box-dm{
+    width: 234px;
+    height: 234px;
+    padding: 0;
+    margin: 0;
+    float: left;
+    display: table;
+    background: url(avata2.png)no-repeat;
+    background-size: 100% 100%;
+    clear: both;
+    z-index: 1;
+    margin-left: 73px;
+    margin-top: -234px;
+    top: -800px;
+    position: absolute;
+    }

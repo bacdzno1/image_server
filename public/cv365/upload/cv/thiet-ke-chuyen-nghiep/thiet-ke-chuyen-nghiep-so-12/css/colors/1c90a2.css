@@ -1,0 +1,29 @@
+#cv-right{	
+	background: #ffffff;	
+}
+
+#form-cv{
+	background: #fff;
+}
+#cv-top{	
+	background:  #1c90a2;
+}
+#cv-right .h3{
+	background-color: #a9e1ef;
+}
+#cv-right .h3 span{
+	background:#02b5e1;
+}
+
+#cv-content .head{
+	background: #a9e1ef;
+}
+#cv-content .head span{
+	background: #02b5e1;
+}
+.bar-exp span {
+	background:#05ff75;
+}
+.bar-exp{
+		border:1px solid #44d886;
+}

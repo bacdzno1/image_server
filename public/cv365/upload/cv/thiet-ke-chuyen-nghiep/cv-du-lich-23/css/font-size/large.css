@@ -1,0 +1,26 @@
+#form-cv{	
+	font-size: 15px
+}
+#cv-content .head{
+	font-size: 19px
+}
+/* #cv-right .h3{
+	font-size: 19px
+} */
+#cv-content h3{
+	font-size: 15px
+}
+#cv-top h2{
+	font-size: 21px
+}
+#cv-top h1{
+	font-size: 41px
+}
+
+#cv-right #cv-boxtitle {
+	font-size: 20px;
+}
+
+#cv-content .cvo-block .head {
+	font-size: 21px;
+}

@@ -1,0 +1,17 @@
+
+.box-dm {
+    background: url(fake3.png)no-repeat;
+    background-size: 100% 100%;
+}
+#cv-top {
+    background-image: url(top3.png);
+    background-size: 100% 100%;
+}
+
+.all {
+    background: url(main3.png)no-repeat;
+    background-size: 100% 100%;
+}
+div#cv-boxtitle {
+    background: #80558c;
+}

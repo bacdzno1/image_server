@@ -1,0 +1,90 @@
+.ifo {
+    background: url(../icon/bg_b1.png) no-repeat;
+    background-size: 100% 100%;
+}
+.chu {
+    background: url(../icon/bg_b7.png) no-repeat;
+}
+.anh {
+    background: url(../vien.png) no-repeat, url(../icon/bg_b3.png) no-repeat;
+    background-position: 4px 37px, right;
+}
+div#box-hvt {
+    background: url(../icon/bg_b8.png) no-repeat,url(../icon/bg_b2.png) no-repeat;
+    background-position: 411px,0px;
+    background-size: auto,cover;
+}
+.ic1 #cv-profile-birthday {
+    background: url(../icon/ngaysinh_b.png) no-repeat;
+    background-position: 2px 5px;
+}
+.ic2 #cv-profile-sex {
+    background: url(../icon/gioitinh_b.png) no-repeat;
+    background-position: 2px 9px;
+}
+.ic3 #cv-profile-phone {
+    background: url(../icon/phone_b.png) no-repeat;
+    background-position: 0px 5px;
+}
+.ic4 #cv-profile-email {
+    background: url(../icon/gmail_b.png) no-repeat;
+    background-position: 0px 8px;
+}
+.ic5 #cv-profile-address {
+    background: url(../icon/diachi_b.png) no-repeat;
+    background-position: 0px 5px;
+}
+.all {
+    background: url(../icon/bg_b4.png) no-repeat,url(../icon/bg_b5.png) no-repeat,url(../icon/bg_b6.png) no-repeat;
+    background-position: 120px 50px ,369px 70px,left bottom;
+}
+#block01 .head {
+    background: url(../icon/hocvan_b.png) no-repeat;
+    background-position: left center;
+}
+#block02 .head {
+    background: url(../icon/kinhnghiem_b.png) no-repeat;
+    background-position: left center;
+}
+#block03 .head {
+    background: url(../icon/hoatdong_b.png) no-repeat;
+    background-position: left center;
+}
+#block04 .head {
+    background: url(../icon/du_an_b.png) no-repeat;
+    background-position: left center;
+}
+#block05 .head {
+    background: url(../icon/thongtinthem_b.png) no-repeat;
+    background-position: left center;
+}
+#box02 div#cv-boxtitle {
+    background: url(../icon/muctieu_b.png) no-repeat;
+        background-position: left center;
+}
+#box03 div#cv-boxtitle {
+    background: url(../icon/kynang_b.png) no-repeat;
+        background-position: left center;
+}
+#box04 div#cv-boxtitle {
+    background: url(../icon/giaithuong_b.png) no-repeat;
+        background-position: left center;
+}
+#box05 div#cv-boxtitle {
+    background: url(../icon/chungchi_b.png) no-repeat;
+        background-position: left center;
+}
+#box06 div#cv-boxtitle {
+    background: url(../icon/sothich_b.png) no-repeat;
+        background-position: left center;
+}
+#box07 div#cv-boxtitle {
+    background: url(../icon/cuoi_b.png) no-repeat;
+        background-position: left center;
+}
+.bar-exp div {
+    background: #fbb486;
+}
+.bar-exp {
+    background: #ffe0cc;
+}

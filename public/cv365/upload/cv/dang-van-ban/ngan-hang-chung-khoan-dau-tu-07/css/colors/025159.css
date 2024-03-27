@@ -1,0 +1,228 @@
+#cv-top h1 {
+  width: 87%;
+  padding: 0;
+  margin: 0;
+  float: right;
+  font-size: 35px;
+  font-family: "Roboto";
+  line-height: 36px;
+  text-transform: uppercase;
+  margin-bottom: 0;
+  color: #025159;
+  font-weight: bold;
+  text-align: center;
+  height: 92px;
+}
+#cv-top h2 {
+    text-transform: uppercase;
+    font-size: 15px;
+    line-height: 60px;
+    font-family: "Roboto";
+    color: #025159;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+    margin-top: 5px;
+    margin-bottom: 0;
+    height: 60px;
+    width: 80%;
+}
+#cv-content h3 {
+    font-size: 16px;
+    line-height: 24px;
+    font-weight: bold;
+    margin: 0px;
+    padding: 0px;
+    color: #025159;
+}
+.all {
+  background: url(main1.png)no-repeat;
+  background-size: 100% 100%;
+  /* border-bottom: 30px solid #025159; */
+}
+.footer{
+    background-color: #025159;
+}
+#cvo-profile-avatar-wraper .wimg {
+    width: 175px;
+    height: 175px;
+    padding: 0px;
+    margin: 0px;
+    margin-top: 0px;
+    border: 6px solid #025159;
+    border-radius: 5px;
+}
+.bar-exp div {
+    float: left;
+    height: 10px;
+    background: #025159;
+    margin-top: 0px;
+}
+.bar-exp {
+    background: #f3f3f3;
+    height: 10px;
+    float: none;
+    margin-top: 0;
+    margin-bottom: 0px;
+    padding: 0px;
+    border: 1px solid #025159;
+    border-radius: 5px;
+}
+.icf .fa {
+    font-size: 20px;
+    color: #025159;
+    margin-top: 0;
+    float: none;
+}
+#cv-content .head #cvo-experience-blocktitle {
+    color: #025159;
+    padding-left: 10px;
+    float: left;
+}
+div#cv-boxtitle {
+    font-size: 19px;
+    font-weight: bold;
+    text-transform: uppercase;
+    color: #fff;
+    background: #025159;
+    width: 70%;
+    text-align: center;
+    border-top-right-radius: 10px;
+    border-bottom-right-radius: 10px;
+}
+.icright1 {
+    width: 37px;
+    height: 35px;
+    float: left;
+    background: url(ico_05.png);
+    background-position: center;
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    border-top-right-radius: 10px;
+    border-bottom-right-radius: 10px;
+}
+.icright2 {
+    width: 37px;
+    height: 35px;
+    float: left;
+    background: url(ico_10.png);
+    background-position: center;
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    border-top-right-radius: 10px;
+    border-bottom-right-radius: 10px;
+}
+.icright3 {
+    width: 37px;
+    height: 35px;
+    float: left;
+    background: url(ico_18.png);
+    background-position: center;
+        background-size: 100% 100%;
+    background-repeat: no-repeat;
+border-top-right-radius: 10px;
+    border-bottom-right-radius: 10px;
+}
+.icright4 {
+    width: 37px;
+    height: 35px;
+    float: left;
+    background: url(ico_25.png);
+    background-position: center;
+        background-size: 100% 100%;
+    background-repeat: no-repeat;
+    border-top-right-radius: 10px;
+    border-bottom-right-radius: 10px;
+}
+.icright5 {
+    width: 37px;
+    height: 35px;
+    float: left;
+    background: url(ico_33.png);
+    background-position: center;
+        background-size: 100% 100%;
+    background-repeat: no-repeat;
+    border-top-right-radius: 10px;
+    border-bottom-right-radius: 10px;
+}
+.icon1 {
+    width: 37px;
+    height: 35px;
+    float: left;
+    background: url(ico_03.png);
+    background-position: center left;
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    border-top-left-radius: 10px;
+    border-bottom-left-radius: 10px;
+}
+
+.icon2 {
+    width: 37px;
+    height: 35px;
+    float: left;
+    background: url(ico_13.png);
+    background-position: center left;
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    border-top-left-radius: 10px;
+    border-bottom-left-radius: 10px;
+}
+.icon3 {
+    width: 37px;
+    height: 35px;
+    float: left;
+    background: url(ico_15.png);
+    background-position: center left;
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    border-top-left-radius: 10px;
+    border-bottom-left-radius: 10px;
+}
+
+.icon4 {
+    width: 37px;
+    height: 35px;
+    float: left;
+    background: url(ico_22.png);
+    background-position: center left;
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    border-top-left-radius: 10px;
+    border-bottom-left-radius: 10px;
+}
+
+.icon5 {
+    width: 37px;
+    height: 35px;
+    float: left;
+    background: url(ico_27.png);
+    background-position: center left;
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    border-top-left-radius: 10px;
+    border-bottom-left-radius: 10px;
+}
+.icon6 {
+    width: 37px;
+    height: 35px;
+    float: left;
+    background: url(ico_30.png);
+    background-position: center left;
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    border-top-left-radius: 10px;
+    border-bottom-left-radius: 10px;
+}
+
+.icon7 {
+    width: 37px;
+    height: 35px;
+    float: left;
+    background: url(ico_37.png);
+    background-size: 100% 100%;
+    background-position: center left;
+    background-repeat: no-repeat;
+    border-top-left-radius: 10px;
+    border-bottom-left-radius: 10px;
+}

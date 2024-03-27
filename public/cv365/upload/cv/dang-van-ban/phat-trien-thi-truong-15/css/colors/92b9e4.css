@@ -1,0 +1,32 @@
+#cv-top {
+    background: url(../top2.png) no-repeat;
+}
+
+#cvo-profile-avatar-wraper {
+    background: url(../avt2.png) no-repeat;
+}
+
+.fake_img {
+    background: url(../fake2.png) no-repeat;
+}
+
+#cv-content .exp-date {
+    background: url(../time2.png) no-repeat, #fff;
+    background-size: 100% 100%;
+    background-color: #fff;
+}
+
+#block01 .ctbx, #block02 .ctbx, #block04 .ctbx {
+    background: url(../soc2.png) repeat-y;
+    background-position: 47px 0px;
+}
+
+.bar-exp div {
+    background: url(../kn2.png) no-repeat;
+    background-position: right;
+}
+
+.footer {
+    background: url(../foot2.png) no-repeat;
+    background-position: left bottom;
+}

@@ -1,0 +1,81 @@
+.box-01 {
+  background: url(hd2.png);
+  background-position: left;
+  background-size: 100% 100%;
+}
+#cv-right #box01 h3{
+	background: url(t2_03.png)no-repeat;
+    background-position: left;
+}
+#cv-right #box02 h3{
+	background: url(t2_06.png)no-repeat;
+    background-position: left;
+}
+#cv-right #box03 h3{
+	background: url(t2_08.png)no-repeat;
+    background-position: left;
+}
+#cv-right #box04 h3{
+	background: url(t2_10.png)no-repeat;
+    background-position: left;
+}
+#cv-right #box05 h3{
+	background: url(t2_12.png)no-repeat;
+    background-position: left;
+}
+#cv-right #box06 h3{
+	background: url(t2_14.png)no-repeat;
+    background-position: left;
+}
+#cv-right #box07 h3{
+	background: url(t2_16.png)no-repeat;
+    background-position: left;
+}
+.bar-exp div {
+    background: #215aab;
+}
+.bar-exp {
+	background: #d2e2fb;
+}  
+#block01 #experience-table .ctbx{
+	background: #d1e2fc;
+  }
+  #block02 #experience-table .ctbx{
+	background: #d1e2fc;
+  }
+  #block01 h3{
+    background: url(bgr2_07.png)no-repeat;
+    background-position: left top;
+    background-size: 15%;
+  }
+  #block02 h3{
+    background: url(bgr2_10.png)no-repeat;
+    background-position: left top;
+    background-size: 15%;
+  }
+  #block01 .head{
+    background: url(bgr2_03.png)no-repeat;
+      background-position: left;
+  }
+  #block02 .head{
+    background: url(bgr2_03.png)no-repeat;
+      background-position: left;
+  }
+  #block03 .head{
+    background: url(head_block3.png)no-repeat;
+      background-position: center;
+  }
+  #block04 .head{
+    background: url(head_block3.png)no-repeat;
+      background-position: center;
+    
+  }
+  #block05 .head{
+    background: url(head_block3.png)no-repeat;
+      background-position: center;
+    
+  }
+  .box-dm {
+    background: url(ava3.png)no-repeat;
+    background-size: 100% 100%;
+}

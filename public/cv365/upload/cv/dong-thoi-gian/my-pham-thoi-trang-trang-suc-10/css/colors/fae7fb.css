@@ -1,0 +1,81 @@
+.box-01 {
+  background: url(hd3.png);
+  background-position: left;
+  background-size: 100% 100%;
+}
+#cv-right #box01 h3{
+	background: url(t3_03.png)no-repeat;
+    background-position: left;
+}
+#cv-right #box02 h3{
+	background: url(t3_06.png)no-repeat;
+    background-position: left;
+}
+#cv-right #box03 h3{
+	background: url(t3_08.png)no-repeat;
+    background-position: left;
+}
+#cv-right #box04 h3{
+	background: url(t3_10.png)no-repeat;
+    background-position: left;
+}
+#cv-right #box05 h3{
+	background: url(t3_12.png)no-repeat;
+    background-position: left;
+}
+#cv-right #box06 h3{
+	background: url(t3_14.png)no-repeat;
+    background-position: left;
+}
+#cv-right #box07 h3{
+	background: url(t3_16.png)no-repeat;
+    background-position: left;
+}
+.bar-exp div {
+    background: #a420a9;
+}
+.bar-exp {
+	background: #fae7fb;
+}  
+#block01 #experience-table .ctbx{
+	background: #fae7fb;
+  }
+  #block02 #experience-table .ctbx{
+	background: #fae7fb;
+  }
+  #block01 h3{
+    background: url(bgr3_07.png)no-repeat;
+    background-position: left top;
+    background-size: 15%;
+  }
+  #block02 h3{
+    background: url(bgr3_10.png)no-repeat;
+    background-position: left top;
+    background-size: 15%;
+  }
+  #block01 .head{
+    background: url(bgr3_03.png)no-repeat;
+      background-position: left;
+  }
+  #block02 .head{
+    background: url(bgr3_03.png)no-repeat;
+      background-position: left;
+  }
+  #block03 .head{
+    background: url(head_block4.png)no-repeat;
+      background-position: center;
+  }
+  #block04 .head{
+    background: url(head_block4.png)no-repeat;
+      background-position: center;
+    
+  }
+  #block05 .head{
+    background: url(head_block4.png)no-repeat;
+      background-position: center;
+    
+  }
+  .box-dm {
+    background: url(ava4.png)no-repeat;
+    background-size: 100% 100%;
+}

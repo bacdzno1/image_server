@@ -1,0 +1,68 @@
+#cvo-profile-avatar-wraper .wimg {
+    width: 250px;
+    height: 250px;
+    padding: 0px;
+    margin: 0px;
+    margin-top: 0px;
+    border: 5px solid #004bc8;
+}
+.bar-exp div {
+    float: left;
+    height: 10px;
+    background: #004bc8;
+    margin-top: 0px;
+}
+.icf .fa {
+    font-size: 20px;
+    color: #004bc8;
+    margin-top: 0;
+    float: left;
+}
+#cv-top h1 {
+    font-size: 35px;
+    font-family: "Roboto";
+    line-height: normal;
+    text-transform: uppercase;
+    margin-bottom: 0;
+    color: #004bc8;
+    font-weight: bold;
+    text-align: left;
+    width: 48%;
+}
+.tt-box1 {
+    height: 38px;
+    width: 100%;
+    line-height: 38px;
+    background: url(tt4.png);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    background-position: center;
+    text-align: center;
+}
+div#cv-boxtitle {
+    font-size: 19px;
+    font-weight: bold;
+    text-transform: uppercase;
+    color: #fff;
+}
+
+.ski {
+    height: 38px;
+    width: 100%;
+    line-height: 38px;
+    background: url(tt4.png);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    background-position: center;
+    text-align: center;
+}
+.cum {
+    height: 38px;
+    width: 100%;
+    line-height: 38px;
+    background: url(tt4.png);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    background-position: center;
+    text-align: center;
+}

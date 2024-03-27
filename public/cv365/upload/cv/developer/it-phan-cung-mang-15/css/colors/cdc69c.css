@@ -1,0 +1,18 @@
+/* 3 */
+
+:root {
+  --sex: url(sex3.png) no-repeat;
+  --phone: url(phone3.png) no-repeat;
+  --date: url(date3.png) no-repeat;
+  --email: url(email3.png) no-repeat;
+  --add: url(add3.png) no-repeat;
+  --top: url(top3-1.png) no-repeat, url(top3-3.png) no-repeat, #cdc69c;
+  --box02: url(box02-3.1.png) no-repeat, url(box02-3.2.png) no-repeat, url(box02-3.3.png) no-repeat;
+  --dot: url(dot3.png) no-repeat;
+  --soc: url(soc2.png) no-repeat;
+  --title: url(dot-tt3.png) no-repeat;
+  --ngang: url(ngang3.png) no-repeat;
+  --left: url(left3.png) no-repeat;
+  --skill: url(skill3.png) no-repeat;
+  --foot: url(foot3.png) no-repeat;
+}

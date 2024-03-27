@@ -1,0 +1,187 @@
+#cv-top {
+    width: 100%;
+    height: 280px;
+    background-image: url(hd2.png);
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    position: relative;
+}
+#cvo-profile-avatar-wraper .wimg {
+    width: 180px;
+    height: 180px;
+    float: right;
+    display: unset !important;
+    /*border-radius: 10px;*/
+    border: 2px solid #02b8cc;
+}
+.bar-exp div {
+    float: left;
+    height: 7px;
+    background: #02b8cc;
+    margin-top: 0px;
+    border-radius: 10px;
+}
+.bar-exp {
+    background: #fff;
+    height: 7px;
+    margin-top: 5px;
+    margin-bottom: 0px;
+    border: 1px solid #02b8cc;
+    border-radius: 10px;
+    padding: 0px;
+    float: right;
+    width: 100%;
+}
+#cv-content .head {
+    padding: 0;
+    margin: 0 auto;
+    height: 50px;
+    line-height:50px;
+    text-align: center;
+    width: 100%;
+    background:url(t2.png)no-repeat;
+    background-size: 100% 100% ;
+    
+}
+#cv-content .head #cvo-experience-blocktitle {
+    color: #fff;
+    padding-left: 0px;
+    text-align: center;
+    float: left;
+    width: 68%;
+}
+.cumicc1 {
+    width: 54px;
+    height: 50px;
+    float: left;
+    background: url(iccc_06.png);
+    background-position:center;
+    background-repeat: no-repeat;
+}
+.cumicc2 {
+    width: 54px;
+    height: 50px;
+    float: left;
+    background: url(iccc_13.png);
+    background-position:center;
+    background-repeat: no-repeat;
+}
+.cumicc3 {
+    width: 54px;
+    height: 50px;
+    float: left;
+    background: url(iccc_17.png);
+    background-position:center;
+    background-repeat: no-repeat;
+}
+.cumicc4 {
+    width: 54px;
+    height: 50px;
+    float: left;
+    background: url(iccc_21.png);
+    background-position:center;
+    background-repeat: no-repeat;
+}
+.cumicc5 {
+    width: 54px;
+    height: 50px;
+    float: left;
+    background: url(iccc_28.png);
+    background-position:center;
+    background-repeat: no-repeat;
+}
+.cumicc6 {
+    width: 54px;
+    height: 50px;
+    float: left;
+    background: url(iccc_32.png);
+    background-position:center;
+    background-repeat: no-repeat;
+}
+.cumicc7 {
+    width: 54px;
+    height: 50px;
+    float: left;
+    background: url(iccc_39.png);
+    background-position:center;
+    background-repeat: no-repeat;
+}
+.tt-box1 {
+    padding: 0;
+    margin: 0 auto;
+    height: 50px;
+    width: 100%;
+    line-height: 50px;
+    text-align: center;
+    background:url(t2.png)no-repeat;
+    background-size: 100% 100%;
+}
+div#cv-boxtitle {
+    font-size: 19px;
+    font-weight: bold;
+    text-transform: uppercase;
+    color: #fff;
+    padding-left: 0px;
+    float: left;
+    width: 71%;
+}
+.ski {
+    padding: 0;
+    margin: 0 auto;
+    height: 50px;
+    width: 100%;
+    line-height: 50px;
+    text-align: center;
+    background:url(t2.png)no-repeat;
+    background-size: 100% 100%;
+}
+.cum {
+    padding: 0;
+    margin: 0 auto;
+    height: 50px;
+    width: 100%;
+    line-height: 50px;
+    text-align: center;
+    background:url(t2.png)no-repeat;
+    background-size: 100% 100%;
+}
+.icright1 {
+    width: 59px;
+    height: 50px;
+    float:left;
+    background: url(iccc_03.png);
+    background-position:center;
+    background-repeat: no-repeat;
+  }
+.icright2 {
+    width: 59px;
+    height: 50px;
+    float:left;
+    background: url(iccc_10.png);
+    background-position:center;
+    background-repeat: no-repeat;
+}
+.icright3 {
+    width: 59px;
+    height: 50px;
+    float:left;
+    background: url(iccc_25.png);
+    background-position:center;
+    background-repeat: no-repeat;
+}
+.icright4 {
+    width: 59px;
+    height: 50px;
+    float:left;
+    background: url(iccc_36.png);
+    background-position:center;
+    background-repeat: no-repeat;
+}
+.icright5 {
+    width: 59px;
+    height: 50px;
+    float:left;
+    background: url(iccc_43.png);
+    background-position:center;
+    background-repeat: no-repeat;
+}

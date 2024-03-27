@@ -1,0 +1,17 @@
+/* 3 */
+
+:root {
+  --page: url(page3.png) no-repeat;
+  --fake: url(fake3.png) no-repeat;
+  --skill: url(skill3.png) no-repeat;
+  --hocvan: url(hocvan3.png) no-repeat;
+  --kinhnghiem: url(kinhnghiem3.png) no-repeat;
+  --hoatdong: url(hoatdong3.png) no-repeat;
+  --duan: url(duan3.png) no-repeat;
+  --TTthem: url(TTthem3.png) no-repeat;
+  --name: url(name3.png) no-repeat;
+  --job: url(job3.png) no-repeat;
+  --tt: url(tt-t3.png) no-repeat, url(tt-b3.png) no-repeat, url(tt-f3.png) no-repeat;
+  --title-m: url(title-m3.png) no-repeat;
+  --title-c: url(title-c3.png) no-repeat;
+}

@@ -1,0 +1,66 @@
+#cvo-profile {
+	background: url(hd_02.png) no-repeat;
+	background-size: 100% 100%;
+}
+#form-cv .icf {
+	background: url(cham_02.png) no-repeat;
+}
+.cumicc1{
+	background: url(tr_02_03.png) no-repeat;
+    background-size: 100% 100%;
+    float: right;
+    width: 60%;
+    height: 30px;
+  }
+  .cumicc2{
+	background: url(tr_02_07.png) no-repeat;
+    background-size: 100% 100%;
+    float: right;
+    width: 60%;
+    height: 30px;
+  }
+  .cumicc3{
+	background: url(tr_02_10.png) no-repeat;
+    background-size: 100% 100%;
+    float: right;
+    width: 60%;
+    height: 30px;
+  }
+  .cumicc4{
+	background: url(tr_02_13.png) no-repeat;
+    background-size: 100% 100%;
+    float: right;
+    width: 65%;
+    height: 30px;
+  }
+  .cumicc5{
+	background: url(tr_02_15.png) no-repeat;
+    background-size: 100% 100%;
+    float: right;
+    width: 65%;
+    height: 30px;
+  }
+  .cumicc6{
+	background: url(tr_02_18.png) no-repeat;
+    background-size: 100% 100%;
+    float: right;
+    width: 65%;
+    height: 30px;
+  }
+  .cumicc7{
+	background: url(tr_02_20.png) no-repeat;
+    background-size: 100% 100%;
+    float: right;
+    width: 65%;
+    height: 30px;
+  }
+  .bar-exp div{
+      background: #acd373;
+  }
+  #block02 .head{
+      background: #acd373;
+  }
+  .footer{
+    background: url(ft_02.png) no-repeat;
+    background-position: 100% 100%;
+  }

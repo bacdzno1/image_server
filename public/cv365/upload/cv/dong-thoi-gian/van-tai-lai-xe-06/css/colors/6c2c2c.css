@@ -1,0 +1,252 @@
+#cv-top {
+    width: 100%;
+    height: 285px;
+    background-image: url(bg-4.png);
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    position: relative;
+}
+.cumicc1 {
+    width: 50px;
+    height: 37px;
+    float: right;
+    background: url(ic-41.png);
+    background-position: center right;
+    background-repeat: no-repeat;
+    margin-right: 5px;
+    margin-left: 5px;
+}
+.cumic2 {
+    width: 50px;
+    height: 35px;
+    float: right;
+    background: url(ic-42.png);
+    background-position: center right;
+    background-repeat: no-repeat;
+    margin-right: 5px;
+    margin-left: 5px;
+}
+.cumicc3 {
+    width: 50px;
+    height: 35px;
+    float: right;
+    background: url(ic-43.png);
+    background-position: center right;
+    background-repeat: no-repeat;
+    margin-right: 5px;
+    margin-left: 5px;
+}
+.cumic4 {
+    width: 50px;
+    height: 37px;
+    float: right;
+    background: url(ic-44.png);
+    background-position: center right;
+    background-repeat: no-repeat;
+    margin-right: 5px;
+    margin-left: 5px;
+}
+.cumic5 {
+    width: 50px;
+    height: 37px;
+    float: right;
+    background: url(ic-45.png);
+    background-position: center right;
+    background-repeat: no-repeat;
+    margin-right: 5px;
+    margin-left: 5px;
+}
+.cumic6 {
+    width: 50px;
+    height: 37px;
+    float: right;
+    background: url(ic-46.png);
+    background-position: center right;
+    background-repeat: no-repeat;
+    margin-right: 5px;
+    margin-left: 5px;
+}
+.cumic7 {
+    width: 50px;
+    height: 37px;
+    float: right;
+    background: url(ic-47.png);
+    background-position: center right;
+    background-repeat: no-repeat;
+    margin-right: 5px;
+    margin-left: 5px;
+}
+.icright1 {
+    width: 60px;
+    height: 30px;
+    float: right;
+    background: url(ic-48.png);
+    background-position: center right;
+    background-repeat: no-repeat;
+    margin-left: 10px;
+}
+.icright2 {
+    width: 60px;
+    height: 35px;
+    float: right;
+    background: url(ic-49.png);
+    background-position: center right;
+    background-repeat: no-repeat;
+    margin-left: 10px;
+}
+.icright3 {
+    width: 60px;
+    height: 35px;
+    float: right;
+    background: url(ic-410.png);
+    background-position: center right;
+    background-repeat: no-repeat;
+    margin-left: 10px;
+}
+.icright4 {
+    width: 60px;
+    height: 35px;
+    float: right;
+    background: url(ic-411.png);
+    background-position: center right;
+    background-repeat: no-repeat;
+    margin-left: 10px;
+}
+.icright5 {
+    width: 60px;
+    height: 35px;
+    float: right;
+    background: url(ic-412.png);
+    background-position: center right;
+    background-repeat: no-repeat;
+    margin-left: 10px;
+}
+#cv-top h1 {
+    font-size: 28px;
+    font-family: "Roboto";
+    line-height: normal;
+    text-transform: uppercase;
+    margin-bottom: 0;
+    color: #6c2c2c;
+    font-weight: bold;
+    text-align: left;
+    margin-left: 10px;
+}
+#cv-right .cvo-block .head div {
+  color: #6c2c2c;
+}
+#cv-top h2 {
+    text-transform: uppercase;
+    width: 100%;
+    font-size: 14px;
+    font-family: "Roboto";
+    color: #6c2c2c;
+    text-align: left;
+    margin: 0;
+    padding: 0;
+    margin-top: 5px;
+    margin-bottom: 0;
+    margin-left: 10px;
+}
+#cv-content h3 {
+    font-size: 16px;
+    line-height: 24px;
+    font-weight: bold;
+    margin: 0px;
+    padding: 0px;
+    color: #6c2c2c;
+}
+div#cv-right {
+    background-color: #ffb7b7;
+    padding-bottom: 20px;
+    padding-top: 10px;
+    color: #6c2c2c;
+    border-top-right-radius: 15px;
+    border-bottom-right-radius: 15px;
+}
+#cvo-profile-avatar-wraper .wimg {
+    width: 155px;
+    height: 165px;
+    padding: 0px;
+    margin: 0px;
+    margin-top: 0px;
+    border:5px solid #6c2c2c;
+        border-radius: 10px;
+}
+.bar-exp div {
+    float: left;
+    height: 10px;
+    background: #6c2c2c;
+    margin-top: 0px;
+}
+.bar-exp {
+    background: #ffb7b7;
+    height: 10px;
+    float: none;
+    margin-top: 0;
+    margin-bottom: 0px;
+    padding: 0px;
+    border: 1px solid #6c2c2c;
+    border-radius: 5px;
+}
+.bar-value-exp input[type="text"] {
+  color: #6c2c2c;
+  width: 95%
+}
+.icf .fa {
+    font-size: 20px;
+    color: #6c2c2c;
+    margin-top: 0;
+    float: none;
+}
+#cv-content .head {
+    height: 35px;
+    width: 100%;
+    line-height: 35px;
+    border-bottom: 2px solid #6c2c2c;
+    margin-bottom: 10px;
+}
+#cv-right h3 {
+    width: 100%;
+    height: 30px;
+    margin: 0;
+    color: #6c2c2c;
+    padding: 0;
+    float: left;
+    line-height: 30px;
+    text-align: center;
+    background: #b82731;
+}
+#cv-content .head #cvo-experience-blocktitle {
+    color: #6c2c2c;
+}
+.tt-box1 {
+    height: 38px;
+    width: 95%;
+    line-height: 40px;
+    border-bottom: 2px solid #6c2c2c;
+    margin-left: 10px;
+}
+div#cv-boxtitle {
+    font-size: 19px;
+    font-weight: bold;
+    text-transform: uppercase;
+    color: #6c2c2c;
+}
+.ski {
+    height: 38px;
+    width: 95%;
+    line-height: 40px;
+    border-bottom: 2px solid #6c2c2c;
+    margin-left: 10px;
+}
+.cum {
+    height: 38px;
+    width: 95%;
+    line-height: 40px;
+    border-bottom: 2px solid #6c2c2c;
+    margin-left: 10px;
+}
+p.skill-name input {
+  color: #6c2c2c !important;
+}

@@ -1,0 +1,270 @@
+#form-cv{
+	width: 100%;	
+	float: left;
+	position: relative;
+	font-size: 14px;
+	line-height: 24px;
+	color:#000000;	
+	background:#37838A;
+	outline: 1px solid #e1e1e1	
+}
+#form-cv p{
+	margin-top: 0;
+	margin-bottom: 6px
+}
+#sortable .cvo-block{
+	margin-bottom: 25px;
+	margin-top: 30px;	
+	padding:0 10px;
+}
+#cvo-profile{	
+	display: block;
+}
+#cv-content{
+	width: 63%;
+	background: #fff;
+	float: left;	
+	position: relative;	
+	padding: 10px 0;
+}
+#cv-content .ir{
+	padding:0 10px;	
+}
+#cv-main{	
+	position: relative;			
+	float: right;	
+	background: #37838A;
+	color:#fff;
+	width: 36.99%;
+	padding-top: 10px
+}
+#cv-right .ir{
+	padding: 0 10px;
+}
+p.skill-name input{
+	color: #fff!important;
+}
+
+#cv-right .ctbx {
+	padding: 0;
+	margin:0;
+	border:0;
+}
+
+#cv-top{	
+	margin: 10px 10px 20px 10px;
+	padding:20px 0;
+	background: #fff;
+}
+#cv-top h1{
+	font-size: 28px;    
+    line-height: normal;    
+    color: #37838A;        
+    margin-bottom: 10px;
+    margin-top: 20px;
+    font-weight: bold    
+	
+}
+#box-hvt{	
+	text-align: center;
+}
+
+#cv-right .cvo-block .head div{
+	color:#fff;
+}
+#cv-top h2{
+	font-size: 15px;    
+    color: #000;    
+    text-transform: capitalize; 
+    font-style: italic;   
+    font-weight: normal;
+    margin-top: 0;       
+    margin-bottom: 0
+}
+.box-01 p{		
+    overflow: hidden;
+}
+
+#cv-content p{
+	margin-bottom: 5px
+}
+#cv-content .ir a{
+	color: #2ebb2f
+}
+#cv-right h3, #cv-content .head{
+	font-size: 18px;
+    color:#263238;
+	text-transform: uppercase;
+    font-weight: bold;        
+    margin: 0px auto 15px;    
+    line-height: 24px;        
+} 
+#cv-content .exp-title{
+	float: left;
+	width: 70%;
+}
+#cv-content .exp-date{
+	float: right;
+	width: 29.99%;
+	text-align: right;
+}
+#cv-content h3{	
+    font-size: 14px;
+    font-weight: bold;
+    color:#000;
+    margin-bottom: 10px;
+    margin-top: 0;    
+}
+#cv-content p.h3{
+
+}
+#cv-content .cvo-block {    
+}
+.ctbx{
+	padding-left: 10px;
+	padding-right: 10px
+}
+
+#cv-content span{
+	display: inline-block;	
+	z-index: 9999;
+}
+
+.ctbx{
+	margin-bottom: 20px;
+	padding-left: 0;
+	padding-right: 0;
+	position: relative;
+}
+.ctbx:hover {
+	box-shadow: 0 0 1px #999;
+}
+.ctbx:hover .fieldgroup_controls{
+	display: block;
+}
+[cvo-form-field] {
+    cursor: text;
+}
+
+#cvo-profile-avatar-wraper .wimg{    
+    margin:auto;
+    width: 160px;       
+}
+#cvo-profile-avatar-wraper img{
+  	width: 160px;  	
+  	height: 160px;
+  	float:none;  
+  	display: inline-block;
+}
+#line-seperate {
+    height: 25px;    
+}
+.bar-exp div {
+    float: left;
+    height: 8px;
+    background: #fff;
+}
+.ctbx .skill-name{
+	
+}
+.bar-exp {  	
+  	background: #c1c1c1;
+  	height: 8px;  	
+  	margin-top: 0;  	  	
+  	width: 100%;
+  	margin-bottom: 12px;
+}      
+.bar-value-exp{
+	width: 100%
+}
+.bar-value-exp input[type="text"]{
+	color:#fff;
+	width: 95%
+}
+.icoweb label{
+	display: block;
+}
+#sortable .icoweb{
+	line-height: 25px;	
+	float: left;		
+	margin-bottom: 0;
+	padding-left: 5px
+}
+.ic{
+	float: left;width: 100%
+}
+#form-cv .icf{
+	float: left;		
+	line-height: 24px;
+	font-size: 12px;
+	margin-bottom: 0;
+	width: 24px;	
+	text-align: center;	
+}
+.ic .icoweb{
+	float: left	
+}
+.icf .fa{
+	font-size: 14px;	
+	color:#fff;	
+	font-weight: normal;
+	margin-top: 0;	
+	float: none
+}
+#cv-content .head{
+	display: table;
+	width: 100%;
+	border-bottom: 1px solid #ddd;
+}
+#cv-content .head .wfa{
+    float: left;
+    width: 22px;
+    font-size: 20px;        
+    color:#3f9599;    
+}
+#cv-right h3{	
+	color:#fff;
+}
+#cv-content .block-title{
+	float: left;	
+	padding-left: 10px;
+}
+div#box01 span {
+    width: 200px;
+}
+.box-content {
+    width: 250px;
+}
+.exp-content,.exp-subtitle,span.exp-title {
+    width: 100%;
+}
+#cv-profile-birthday::before{
+    color: #fff;
+}
+#cv-profile-sex::before{
+    color: #fff;
+}
+#cv-profile-phone::before{
+    color: #fff;
+}
+#cv-profile-email::before{
+    color: #fff;
+}
+#cv-profile-address::before{
+    color: #fff;
+}
+#cv-profile-face::before{
+    color: #fff;
+}
+
+.watermark {
+    float: left;
+    width: 100%;
+    height: 22px;
+    color: #999;
+    text-align: right;
+    padding-right: 22px;
+    font-size: 15px;
+    font-family: Courier;
+	padding-top: 30px;
+}

@@ -1,0 +1,54 @@
+#cv-top {
+    background: url(../bg_top3.png) no-repeat;
+}
+#form-cv {
+    background: url(../main3.png) repeat-y;
+}
+.fake_img {
+    background: url(../fake_img_3.png) no-repeat;
+}
+.infor_title {
+    background: url(../bg_title3.png) no-repeat;
+}
+#cv-content .cvo-block .head {
+    background: url(../bg_title3.png) no-repeat;
+}
+#cv-top h2 {
+    background: url(../bg_jop3.png) no-repeat;
+    background-position: bottom;
+}
+.cum {
+    border-bottom: 2px solid #680c38;
+}
+.ski {
+    border-bottom: 2px solid #680c38;
+}
+.bar-exp {
+    background: unset;
+    border: 1px solid #680c38;
+}
+.bar-exp div {
+    background-color: #de6392;
+}
+#cv-top h1 {
+    color: #680c38;
+}
+.ic1 .icf {
+    background: url(../date3.png) no-repeat;
+}
+
+.ic2 .icf {
+    background: url(../sex3.png) no-repeat;
+}
+
+.ic3 .icf {
+    background: url(../phone3.png) no-repeat;
+}
+
+.ic4 .icf {
+    background: url(../mail3.png) no-repeat;
+}
+
+.ic5 .icf {
+    background: url(../add3.png) no-repeat;
+}

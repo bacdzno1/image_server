@@ -1,0 +1,26 @@
+#cv-top {
+    background-image: url(hd3.png);
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+}
+
+#form-cv {
+    color: #536ff9;
+    line-height: 21px;
+}
+
+.all {
+    background-image: url(bd3.png);
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+}
+
+#form-cv {
+    font-family: "Roboto", sans-serif;
+    color: #536ff9;
+}
+
+.footer {
+    background: url(ft3.png)no-repeat;
+    background-size: 100% 100%;
+}

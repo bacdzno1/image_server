@@ -1,0 +1,54 @@
+#cv-top {
+    background: url(../top3.png) no-repeat, url(../tg-top3.png) no-repeat;
+    background-position: 20px 0.1%, 25px 25px;
+}
+
+.cv_page{
+    background: url(../form1-3.png) no-repeat, url(../form2-3.png) no-repeat, url(../foot3.png) no-repeat;
+    background-position: left, right, 20px bottom;
+    background-size: 20px 100%, 350px 100%, 770px 20px;
+}
+
+.bar-exp div {
+    background: url(../kn3.png) no-repeat;
+    background-position: right;
+}
+
+.chu {
+    background: url(../chu3.png) no-repeat, #c3bcaf;
+    background-size: 20px 100%;
+}
+
+div#cv-boxtitle {
+    background-color: #343641;
+}
+
+.ic1 .icf {
+    background: url(../date3.png) no-repeat;
+    background-position: 0% 50%;
+}
+
+.ic2 .icf {
+    background: url(../sex3.png) no-repeat;
+    background-position: 0% 50%;
+}
+
+.ic3 .icf {
+    background: url(../phone3.png) no-repeat;
+    background-position: 0% 50%;
+}
+
+.ic4 .icf {
+    background: url(../mail3.png) no-repeat;
+    background-position: 0% 50%;
+}
+
+.ic5 .icf {
+    background: url(../add3.png) no-repeat;
+    background-position: 0% 50%;
+}
+
+.footer {
+    background: url(../tg-foot3.png) no-repeat;
+    background-position: 25px bottom;
+}

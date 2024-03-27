@@ -1,0 +1,23 @@
+/* 2 */
+
+:root {
+  --ngang: url(ngang2.png) no-repeat;
+  --muctieu: url(muctieu2.png) no-repeat;
+  --kinang: url(kinang2.png) no-repeat;
+  --giaithuong: url(giaithuong2.png) no-repeat;
+  --chungchi: url(chungchi2.png) no-repeat;
+  --sothich: url(sothich2.png) no-repeat;
+  --nguoiTC: url(nguoiTC2.png) no-repeat;
+  --skill: url(skill2.png) no-repeat;
+  --kn: url(kn2.png) no-repeat;
+  --vuong: url(vuong2.png) no-repeat;
+  --fake: url(fake2.png) no-repeat;
+  --page: url(page_2.png) no-repeat;
+  --top: url(top2.png) no-repeat;
+  --chu: url(chu-f2.png) no-repeat;
+  --ifo: url(chu-t2.png) no-repeat, url(chu-b2.png) no-repeat;
+  --tt: url(tt-t2.png) no-repeat, url(tt-b2.png) no-repeat, url(tt-f2.png) no-repeat;
+  --content: url(content2.png) no-repeat;
+  --ct-t: url(ct2.png) no-repeat;
+  --color: #3b4c74;
+}

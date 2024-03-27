@@ -1,0 +1,45 @@
+#cv-top h2 {
+    font-size: 16px;
+    color: #000;
+    font-weight: normal;
+    margin-bottom: 10px;
+    text-align: center;
+    width: 55%;
+    margin-left: 179px;
+    background: #fce616;
+}
+#box02 {
+    border-top: solid 2px #000;
+    border-bottom: solid 2px #000;
+    height: 340px;
+    background: #fce616;
+}
+.bar-exp div {
+    float: left;
+    height: 13px;
+    background: #fce616;
+}
+#cvo-profile-avatar-wraper img {
+    width: 180px;
+    height: 180px;
+    border-radius: 50%;
+    border: solid 3px #fce616;
+    float: none;
+    display: inline-block;
+}
+.box-dm {
+    padding: 0;
+    margin: 0;
+    float: left;
+    display: table;
+    background: url(avata2.png)no-repeat;
+    background-size: 100% 100%;
+    clear: both;
+    z-index: 1;
+    top: -900px;
+    position: absolute;
+    width: 222px;
+    height: 185px;
+    margin-top: -191px;
+    margin-left: 280px;
+}

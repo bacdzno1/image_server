@@ -1,0 +1,395 @@
+#form-cv{
+	width: 790px;
+	float: left;
+	position: relative;
+	font-size: 14px;
+	line-height: 24px;
+	color:#374d59;	
+	background:#fff;
+	border: solid 1px #0c907d;
+}
+#form-cv p{
+	margin-top: 0;
+	margin-bottom: 6px
+}
+#sortable .cvo-block{
+	float: left;
+	width: 100%;
+	background: #f2f4b2;
+	padding: 0px;
+}
+
+#sortable .icoweb i.fa{
+	float: left;
+}
+#cv-main{
+	display: table;
+	width: 100%;
+	background: #fff;
+}
+#cv-top{		  
+    background: #fff;
+}
+#cvo-profile{
+	padding:10px;
+	display: block;
+}
+#cv-content{
+	width: 100%;
+	float: left;
+	position: relative;	
+	background: #ffffff;
+}
+#cv-right{
+	width: 100%;
+	float: left;	
+	position: relative;	
+	background:#fff;
+}
+#cv-right .ir{
+	float: left;
+	padding: 0px 10px;
+	width: 97%;
+}
+#sortable{
+	float: left;
+	width: 100%;
+}
+p.skill-name input{
+	color: #070000!important;
+}
+
+#cv-top .right-top .icoweb {
+    float: left;
+    width: 45%;
+    padding: 0px;
+    margin:0px;
+    color: #fff;
+    border-radius: 5px;
+    margin-right: 2%;
+    text-align: left;
+
+}
+#cv-right #sortable .cvo-block{
+	margin: 0px;
+}
+
+#cv-top .right-top .cvi-phone,
+#cv-top .right-top .cvi-envelope-square{
+	border: solid 2px #fff;
+	padding-left: 10px;
+	}
+#cv-top .right-top .cvi-map-marker{
+	margin-right: 0px;
+	margin-left: 28px;
+}
+#cv-top .right-top .cvi-date{
+	margin-right: 0px;
+	margin-left: 28px;
+}
+#cv-top .right-top .cvi-envelope-square{
+	float: right;
+}
+
+
+#cv-right .cvo-block #cv-boxtitle{
+    color: #0c907d;
+}
+
+#cv-right #box01{
+	display: none;
+}
+
+#cv-right .ctbx {
+	padding: 0;
+	margin:0;
+	border:0;
+}
+.skill{
+	float: left;
+	width: 100%;
+}
+#cv-right .block{
+	margin: 0px;
+}
+
+#cv-top h1{
+	float: left;
+    width: 95%;
+    padding: 0px;
+    margin: 0px;
+    padding-left: 5%;
+	font-size: 33px;
+    line-height: normal;
+    text-transform: uppercase;
+    margin-bottom: 0px;
+    letter-spacing: 2px;
+    margin-left: 0px;
+    color: #000000;
+}
+
+#box-hvt{
+	float: left;
+	width: 100%;
+	margin-top: 30px;
+	text-align: left;
+}
+
+#cv-top h1 span{
+	font-weight: 500;
+	color: #fff;
+}
+
+#cv-top h2{
+font-size: 20px;
+    text-align: center;
+    float: left;
+    width: 100%;
+    color: #fff;
+    font-weight: 500;
+    margin: 0px;
+}
+
+
+.job_name{
+	background: url('cv_name.png') top center no-repeat;
+	height: 46px;
+	line-height: 36px;
+	color: #fff;
+	float: left;
+	width: 100%;
+	margin: 0px;
+	margin-top: 20px;
+
+}
+.box-01 p{		
+    overflow: hidden;
+}
+#cv-content p{
+	float: left;
+	width: 100%;
+	padding: 0px;
+	margin: 0px;
+	margin-bottom: 5px;
+}
+
+#cv-content .exp-content{
+	float: left;
+	padding: 0px;
+	margin:0px;
+}
+
+#cv-content .ir a{
+	color: #2ebb2f
+}
+#cv-right .h3, #cv-right h3, #cv-content .head{
+	font-size: 18px;    
+    margin-top: 0;
+    text-transform: uppercase;
+    font-weight: bold;
+    padding: 5px;
+}
+
+#cv-right h3{
+	margin-bottom: -4px;
+	color: #374d59;
+	float: left;
+	width: 100%;
+}
+
+#cv-content .head{
+    line-height: 30px;
+    color: #0c907d;
+    float: left;
+    width: 27%;
+    background: #f2f4b2;
+    margin-top: 0px;
+}
+#cv-content .cvo-block #experience-table{
+	float: right;
+	width: 71%;
+	background: #fff;
+	margin: 0px;
+}
+
+#sortable .cvo-block .box_ct,
+.skill{
+	float: right;
+	width: 69%;
+	background: #fff;
+	padding: 1%;
+}
+
+
+#cv-right .h3{
+	height: 45px;
+	text-align: center;
+	width: 100%;
+}
+
+#cv-right .h3 span{
+	margin: 3px 0px;
+	color: #000000;
+	line-height: 43px;
+}
+#cv-content h3{	
+    font-size: 15px;
+    font-weight: bold;
+}
+
+#cv-main #cv-content .cvo-block { 
+    float: left;
+    width: 100%;
+    background: #f2f4b2;
+    padding: 0px!important;
+	margin: 0px;  
+}
+#cv-content .ui-sortable-handle{
+	padding: 0px;
+}
+.ctbx{
+	float: left;
+	width: 97%;
+	padding: 0px;
+	margin: 0px;
+	padding-left: 2%;
+	padding-right: 1%;
+}
+#sort_block{
+	float: left;
+	padding: 0px 10px;
+}
+
+#cv-content span{
+	display: inline-block;	
+	z-index: 9999;
+}
+
+#cv-right .h3:first-child{
+	margin-top: 0
+}
+.ctbx{
+	/* margin-bottom: 20px; */
+	position: relative;
+}
+.ctbx .r5 .h3{
+	text-transform: uppercase;
+}
+.ctbx:hover {
+	box-shadow: 0 0 1px #999;
+}
+.ctbx:hover .fieldgroup_controls{
+	display: block;
+}
+[cvo-form-field] {
+    cursor: text;
+}
+.right-top{
+	float: right;
+	width:70%;
+	height: 176px;
+	background: #0c907d;
+}
+#cvo-profile-avatar-wraper{	    
+    float: right;
+    width: 176px;
+    	margin-right:20px;
+}
+#cvo-profile-avatar-wraper img{
+    width: 176px;
+    height: 176px;
+    float: right;
+}
+#line-seperate {
+    height: 25px;
+}
+.bar-exp div {
+    float: left;
+    height: 8px;
+    background: #374d59;
+    
+}
+.bar-exp {
+  	width: 100%;
+  	background: #cce490;
+  	height: 8px;
+  	float: right;
+  	margin-bottom: 12px;
+}      
+.icoweb label{
+	display: block;
+	color:#627e88;
+}
+#cv-right .icoweb span{
+	color: #070000;
+}
+
+.box-contact{
+	font-size: 15px;
+	float: left;
+	width: 100%;
+	margin-top: 5px;
+}
+#sortable .icoweb{
+	padding-left: 28px;
+	height: 32px;
+	line-height: 32px;
+	display: table;
+	margin-bottom: 0
+}
+
+
+
+.head i.fa, .h3 i.fa{
+	font-size: 12px;
+	border: solid 1px #7c7a79;
+	border-radius: 50%;
+	width: 12px;
+	color: #7c7a79;
+	margin-bottom: 5px;
+	text-align: center;
+	padding: 4px;
+}
+.bar-value-exp input[type="text"]{
+	color: #000;
+}
+span#cv-profile-address {
+    width: 230px;
+}
+.exp-content,.exp-subtitle,span.exp-title {
+    width: 530px;
+}
+#cv-profile-birthday::before{
+    color: #fff;
+}
+#cv-profile-sex::before{
+    color: #fff;
+}
+#cv-profile-phone::before{
+    color: #fff;
+}
+#cv-profile-email::before{
+    color: #fff;
+}
+#cv-profile-address::before{
+    color: #fff;
+}
+#cv-profile-face::before{
+    color: #fff;
+}
+#cv-profile-fullname::before{
+  color: #fff;
+}
+#cv-profile-job::before{
+  color: #fff;
+}
+.watermark {
+    float: left;
+    width: 100%;
+    height: 22px;
+    color: #999;
+    text-align: right;
+    padding-right: 22px;
+    font-size: 15px;
+    font-family: Courier;
+}

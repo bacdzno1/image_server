@@ -1,0 +1,26 @@
+:root {
+    --sex: url(sex.png) no-repeat;
+    --phone: url(phone.png) no-repeat;
+    --date: url(date.png) no-repeat;
+    --email: url(email.png) no-repeat;
+    --add: url(add.png) no-repeat;
+    --avt: url(avt.png) no-repeat;
+    --fake: url(fake2.png) no-repeat;
+    --page: url(page2.png) no-repeat;
+    --top: url(top2.png) no-repeat;
+    --all: url(all2.png) no-repeat;
+    --hocvan: url(hocvan.png) no-repeat;
+    --kinhnghiem: url(kinhnghiem.png) no-repeat;
+    --hoatdong: url(hoatdong.png) no-repeat;
+    --duan: url(duan.png) no-repeat;
+    --them: url(them.png) no-repeat;
+    --muctieu: url(muctieu.png) no-repeat;
+    --kynang: url(kynang.png) no-repeat;
+    --giaithuong: url(giaithuong.png) no-repeat;
+    --sothich: url(sothich.png) no-repeat;
+    --chungchi: url(chungchi.png) no-repeat;
+    --thamchieu: url(thamchieu.png) no-repeat;
+    --skill: url(skill2.png) no-repeat;
+    --kn: url(kn2.png) no-repeat;
+    --color-i: #f5f0bb;
+}

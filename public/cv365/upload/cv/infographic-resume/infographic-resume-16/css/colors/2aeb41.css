@@ -1,0 +1,26 @@
+/*color 1
+*/
+.color {
+    color: #2aeb41!important;
+}
+.bar-exp span {
+    background-color: #2aeb41!important;
+}
+
+#form-cv {
+    background-image: url(../images/1.png);
+}
+
+/* Dan trang */
+#cv-main {
+    background-image: url(../images/111.png);
+}
+
+#cv-content .head, #cv-right .h3 {
+    background-image: url(../images/11.png);
+}
+#cv-right .icoweb {
+    background-image: url(../images/11.png);
+    background-repeat: no-repeat;
+    background-position: center center;
+}

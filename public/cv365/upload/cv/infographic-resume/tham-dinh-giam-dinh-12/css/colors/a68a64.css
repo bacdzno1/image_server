@@ -1,0 +1,116 @@
+ 
+  #box07 .box-content.err_cv_content {
+    background: #a68a64;
+}
+
+
+#cv-top {
+  background: url(../top3.png) no-repeat;
+  background-position: 95% 0px;
+}
+
+#box-hvt {
+ background: #a68a64;
+}
+
+#cv-content .exp-date {
+  background: url(../time3.png) no-repeat;
+  background-size: 100% 100%;
+}
+
+#cvo-profile-avatar-wraper .wimg {
+  border: solid 3px #a68a64;
+}
+
+#sortable #box07 .box-content {
+    background: #a68a64;
+}
+
+#cv-content {
+    border-left: solid 5px #a68a64;
+   }
+
+.bar-exp div {
+  background: url(../kn3.png) no-repeat;
+}
+
+.bar-exp {
+  background: url(../skill3.png) no-repeat;
+}
+
+#block01 .head {border-bottom: solid 4px #a68a64;}
+#block02 .head {border-bottom: solid 4px #a68a64;}
+#block05 .head {border-bottom: solid 4px #a68a64;}
+#block03 .head {border-bottom: solid 4px #a68a64;}
+#block04 .head {border-bottom: solid 4px #a68a64;}
+
+#box03 .ski #cv-boxtitle {
+    background: url(../kinang3.png) no-repeat;
+    background-position: 0px center;
+}
+
+#box04 .cum #cv-boxtitle {
+    background: url(../giaithuong3.png) no-repeat;
+    background-position: 0px center;
+}
+
+#box05 .cum #cv-boxtitle {
+    background: url(../chungchi3.png) no-repeat;
+    background-position: 0px center;
+}
+
+#box06 .cum #cv-boxtitle {
+    background: url(../sothich3.png) no-repeat;
+    background-position: 0px center;
+}
+
+#box07 .cum #cv-boxtitle {
+    background: url(../nguoithamchieu3.png) no-repeat;
+    background-position: 0px center;
+}
+.ski {
+  border-bottom: solid 4px #a68a64;
+}
+.cum {border-bottom: solid 4px #a68a64;}
+
+#block01 #cvo-experience-blocktitle{background: url(../hocvan3.png) no-repeat;background-position: right center;}
+#block02 #cvo-experience-blocktitle{
+    background: url(../kinhnghiem3.png) no-repeat;
+    background-position: right center;
+}
+#block03 #cvo-experience-blocktitle{
+    background: url(../hoatdong3.png) no-repeat;
+    background-position: right center;
+}
+#block04 #cvo-experience-blocktitle{
+    background: url(../duan3.png) no-repeat;
+    background-position: right center;
+}
+#block05 #cvo-experience-blocktitle{
+    background: url(../thongtinthem3.png) no-repeat;
+    background-position: right center;
+}
+.ic1 .icf {
+  background: url(../sex3.png) no-repeat;
+}
+.ic2 .icf {
+  background: url(../date3.png) no-repeat;
+}
+.ic3 .icf {
+  background: url(../phone3.png) no-repeat;
+  margin-right: 6px;
+}
+.ic4 .icf {
+  background: url(../mail3.png) no-repeat;
+  margin-right: 6px;
+}
+.ic5 .icf {
+  background: url(../add3.png) no-repeat;
+  margin-right: 6px;
+}
+
+#cv-right .ir #sortable #box02 {
+    background: url(../chu3-3.png) no-repeat, url(../chu3-2.png) no-repeat,url(../chu3.png) no-repeat;
+    background-size: 100% 27px, 100% 25px, 100% 100%;
+    background-position: left top, left bottom, left top;
+}

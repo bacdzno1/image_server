@@ -1,0 +1,86 @@
+.fake_img {
+    width: 267px;
+    height: 265px;
+    z-index: 1;
+    padding: 0;
+    margin: 0;
+    position: absolute;
+    float: left;
+    background: url(../fake_img2.png)no-repeat;
+    background-size: 100% 100%;
+    margin-top: -250px;
+    top: 250px;
+}
+.fake_img {
+    width: 275px;
+    height: 273px;
+    z-index: 1;
+    position: absolute !important;
+    background: url(../fake_img2.png)no-repeat;
+    background-size: 100% 100%;
+    margin-top: -270px;
+    top: 9999px;
+    left: 0px;
+}
+#cv-top {
+    width: 100%;
+    background: url(../top2.png) no-repeat;
+    position: relative;
+    float: left;
+}
+
+.ic1 .icf {
+    background: url(../date2.png) no-repeat;
+    background-position: left center;
+}
+
+.ic2 .icf {
+    background: url(../sex2.png) no-repeat;
+    background-position: left center;
+}
+
+.ic3 .icf {
+    background: url(../phone2.png) no-repeat;
+    background-position: left center;
+}
+
+.ic4 .icf {
+    background: url(../mail2.png) no-repeat;
+    background-position: left center;
+}
+
+.ic5 .icf {
+    background: url(../add2.png) no-repeat;
+    background-position: left center;
+}
+
+.bar-exp div {
+    float: left;
+    height: 10px;
+    background: #ee9b17;
+    margin-top: 0px;
+    position: relative;
+}
+
+img#cvo-profile-avatar {
+    width: 100%;
+    height: 100%;
+    padding: 0px;
+    position: static;
+    border-radius: 99em;
+}
+#cvo-profile-avatar-wraper .wimg {
+    width: 240px;
+    height: 240px;
+    float: left;
+    padding: 5px;
+    margin-left: 10px;
+    position: relative;
+    border-radius: 99em;
+    border: 5px solid #ee9b17;
+}
+span.exp-date {
+    float: left !important;
+    color: #ee9b17;
+    width: 100%;
+}

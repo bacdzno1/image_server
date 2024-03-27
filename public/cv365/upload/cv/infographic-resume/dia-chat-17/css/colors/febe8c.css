@@ -1,0 +1,15 @@
+/* 3 */
+
+:root {
+    --sex: url(sex.png) no-repeat;
+    --phone: url(phone.png) no-repeat;
+    --date: url(date.png) no-repeat;
+    --email: url(email.png) no-repeat;
+    --add: url(add.png) no-repeat;
+    --avt: url(avt.png) no-repeat;
+    --dot: url(dot.png) no-repeat;
+    --top: url(top3.png) no-repeat;
+    --page: url(page3.png) no-repeat;
+    --tt: url(tt3.png) no-repeat;
+    --soc: url(soc3.png) no-repeat;
+}

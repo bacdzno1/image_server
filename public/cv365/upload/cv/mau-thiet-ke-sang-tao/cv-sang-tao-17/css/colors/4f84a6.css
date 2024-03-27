@@ -1,0 +1,33 @@
+#form-cv{
+	background: #4f84a6;
+}
+#cv-content{
+	background: #4f84a6;
+}
+#cv-right{
+	background: #4f84a6;
+}
+#cv-content .head span{
+	background: #4f84a6;
+}
+
+#cv-content .head{
+	border-bottom:dotted 2px #4f84a6;
+}
+
+#cv-right .h3 span{
+	color: #4f84a6;
+
+}
+
+#cvo-profile-avatar-wraper{	
+	border-left:solid 3px #4f84a6;
+}
+#cvo-profile-avatar-wraper #cvo-profile-avatar{
+
+	border: solid 3px #4f84a6;
+
+}
+#form-cv{
+	background: #4f84a6;
+}

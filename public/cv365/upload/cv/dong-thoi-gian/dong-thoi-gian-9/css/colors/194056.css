@@ -1,0 +1,20 @@
+#cvo-profile-avatar-wraper{
+	background: #132e3e
+}
+#cv-top, .bar-exp div{
+	background: #194056;
+}
+#cv-top h1 span {
+    border-left: 10px solid #194056;
+    border-right: 10px solid #194056;
+    background: #194056; 
+}
+#cv-right h3, .icf .fa, #cv-content .head, #cv-content .exp-title{
+	color:#194056;
+}
+#cv-content .head{
+	border-left: 5px solid #194056
+}
+#cv-content .exp-date{
+	border:1px solid #194056;
+}

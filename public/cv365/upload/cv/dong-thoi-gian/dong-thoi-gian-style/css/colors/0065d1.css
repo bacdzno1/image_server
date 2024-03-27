@@ -1,0 +1,15 @@
+/* Xanh nền trời */
+.cr {
+	color: #0065d1!important;
+}
+.bg {
+	background-color: #0065d1!important;
+}
+
+.bd {
+	border-color: #0065d1!important;
+}
+
+#cv-content span.exp-date:before {
+	border: 9px solid #0065d1;
+}

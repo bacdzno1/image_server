@@ -1,0 +1,20 @@
+#cv-top {
+    background-image: url(hd3.png);
+    background-size: 100% 100%;
+}
+
+.all {
+    background: url(main3.png)no-repeat;
+    background-size: 100% 100%;
+}
+.footer {
+    background: url(ft3.png)no-repeat;
+    background-size: 100% 100%;
+}
+.box-dm {
+    background: url(fake3.png)no-repeat;
+    background-size: 100% 100%;
+}
+#cv-content .head #cvo-experience-blocktitle {
+    border: 2px dashed #ffa5d6;
+}

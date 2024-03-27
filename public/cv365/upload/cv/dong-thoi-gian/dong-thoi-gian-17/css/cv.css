@@ -1,0 +1,223 @@
+
+
+#page-cv{
+	width: 1072px;
+	float: left;
+}
+#form-cv{
+	width: 900px;
+	min-height: 1273px;	
+	float: left;
+	background: #eef7f9;
+	position: relative;
+	font-size: 14px;
+	line-height: 24px;
+	color:#000000;
+	border: solid 1px #e1e1e1;
+}
+#form-cv p{
+	margin-top: 0;
+	margin-bottom: 12px;
+}
+/*#sortable .cvo-block{
+	margin-bottom: 30px
+}*/
+h1{
+	color:#eef7f9;
+}
+#cv-main{
+	width: 100%;
+	display: table;
+}
+#cv-top{	
+	min-height: 200px;
+	width: 100%;
+	color: #eef7f9;	
+	background-image: url('../anhnen.jpg');
+	background-size: cover ;
+	text-shadow: 0.1 0 0.5em #000000;
+/*    opacity: 0.9;*/
+	 background-position: 15% 5%;
+	 text-transform: uppercase;
+    background-repeat: no-repeat;
+	position: relative;
+	border-bottom: solid 15px #a5c5ea;
+
+}
+
+#cv-content{
+	width: 100%;
+	height: auto;
+	display: block;
+	position: relative;
+}
+#cv-right{
+	width: 100%;
+	height: auto;
+	display: block;
+	background: #eef7f9;
+	border:0;	
+	position: relative;
+}
+#cv-right .block{
+	width: 47.7%;
+	float: left
+}
+#cv-right .ctbx {
+	padding-bottom: 0;
+	margin:0;
+}
+.skill{
+	margin-top: 15px
+}
+
+#cv-top h1{
+	font-weight: 500;
+	font-size: 38px;	
+	color:#eef7f9;
+	margin-bottom: 10px;
+}
+#cv-top h2{
+	font-size: 20px;
+	font-weight: normal;
+	margin-top: 0;
+	font-weight: bold;
+	color: #eef7f9;
+}
+.box-01 p{		
+    overflow: hidden;
+}
+.box-01{	
+	display: block;
+    padding-top: 60px;
+    padding-left: 35px;
+}
+#cv-content .ir{
+	
+}
+#cv-content p{
+	margin-bottom: 5px
+}
+#cv-content .ir a{
+	color: #2ebb2f;
+}
+#cv-right .h3, #cv-content .head{
+	font-size: 18px;
+	text-transform: uppercase;
+    color: #2c5f99;    
+    font-weight: 500;
+    margin-top: 20;
+
+}
+
+#cv-content h3{	
+	font-weight: 500;
+    font-size: 14px;
+    color: #494949;    
+    margin-bottom: 0;
+}
+
+#cv-content .h3{
+	
+}
+#cv-content span{
+	display: inline-block;
+	background: #eef7f9;
+	padding-right: 8px;
+	z-index: 9999;	
+}
+
+#cv-right .h3:first-child{
+	margin-top: 0
+}
+.ctbx{
+	margin-bottom: 10px;
+	position: relative;
+}
+.ctbx .r5 .h3{
+	text-transform: uppercase;
+}
+.ctbx:hover {
+	box-shadow: 0 0 1px #999;
+}
+.ctbx:hover .fieldgroup_controls{
+	display: block;
+}
+[cvo-form-field] {
+    cursor: text;
+}
+#cvo-profile-avatar-wraper{
+	float: right;
+	border:5px solid #eef7f9;	
+	padding:5px;
+	margin-top: 20px;
+	margin-right: 40px;	
+
+}
+#cvo-profile-avatar-wraper #cvo-profile-avatar{
+	padding: 0;
+	border:0;
+	display: table;
+	width: 150px;
+	height: 150px;	
+
+}
+#line-seperate {
+    height: 25px;
+    background-color: #e3ecec;
+}
+.bar-exp span {
+    float: left;
+    height: 8px;
+    background: #2c5f99;
+}
+.bar-exp{
+	background: #cecece;
+	width: 50%;
+	margin-top: 8px;
+}
+.bar-value-exp{
+	width: 50%;
+}
+.skill-name{
+	float: left;
+}
+.icoweb label{	
+
+}
+#cv-right .icoweb span{
+	display: block;
+
+}
+#cv-right .icoweb i.fa{
+	width: 19px;
+    height: 19px;
+    text-align: center;
+    line-height: 17px;
+    color: #494949;
+    vertical-align: top;
+    font-size: 14px;
+    margin-top: 2px;
+    margin-right: 5px
+}
+.icoweb{
+	width: 33%;
+	float: left;
+
+
+}
+#cv-content .cvo-block{
+	width: 47.7%;
+	float: left;
+}
+#cv-right .box-contact{
+	background: #f6f6f6;
+	width: 100%;
+	display: block;
+	padding:15px 0;	
+		border-bottom: solid 15px #a5c5ea;
+}
+.icoweb *{
+	margin-left: 20px;
+
+}

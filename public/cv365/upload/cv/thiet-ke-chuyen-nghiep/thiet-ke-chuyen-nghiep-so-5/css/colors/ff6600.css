@@ -1,0 +1,9 @@
+#cv-right h3 .wfa, #cv-content .head .wfa, .bar-exp div{
+	background: #ff6600
+}
+#cv-right h3, #cv-content .head{
+	border-bottom: solid 2px #ff6600;
+}
+#cvo-profile-avatar-wraper .wimg{
+	border-top: solid 2px #ff6600;
+}

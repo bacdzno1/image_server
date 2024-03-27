@@ -1,0 +1,16 @@
+#cvo-profile-avatar-wraper .wimg{
+	border:3px solid #5900b3;
+}
+#cv-top h1, #cv-right h3, #cv-content .head, #cv-content h3{
+	color:#5900b3;
+}
+#form-cv .icf{
+	background: #5900b3;
+}
+#form-cv .wfa{
+	color:#5900b3;
+	border:2px solid #5900b3;
+}
+#cv-main, #cv-content{
+	background: url(5900b3.png) 190px top repeat-y
+}

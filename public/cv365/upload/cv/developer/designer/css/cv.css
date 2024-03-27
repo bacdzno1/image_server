@@ -1,0 +1,256 @@
+#form-cv{
+	width: 100%;	
+	float: left;
+	position: relative;
+	font-size: 14px;
+	line-height: 22.7px;
+	color:#494949;	
+}
+#form-cv p{
+	margin-top: 0;
+	margin-bottom: 6px
+}
+#sortable .cvo-block{
+	margin-bottom: 20px;
+	margin-top: 8px;
+	padding:0;	
+}
+
+#cv-top{		    
+    float: left;
+    width: 100%;
+}
+
+#cv-content{
+	width: 60%;
+	float: right;
+	position: relative;		
+	min-height: 800px;
+	background: #fff
+}
+
+#cv-right .box-content, #cv-right .skill{	
+}
+#cv-right{
+	width: 39.99%;	
+	float: left;
+	background: #2e73b6;
+	position: relative;		
+	color:#fff;
+}
+#cv-right .ir{	
+	padding-right: 10px;
+	padding-left: 10px
+}
+p.skill-name input{
+	color: #fff!important;
+}
+
+#cv-right .cvo-block span{
+	color: #fff;
+}
+#cv-right .cvo-block h3 span{
+	color:#fff;
+}
+
+#cv-top h1{
+	color:#494949;
+	font-size: 34px;	
+    line-height: normal;
+    text-transform: capitalize;    
+    margin-bottom: 0px;    
+    padding-left: 20px;
+    padding-top: 20px;
+    margin-top: 0px;
+    font-weight: bold;	
+}
+
+#cv-top h2{
+	font-size: 18px;
+	text-transform: uppercase;    
+    color: #2e73b6;
+    font-weight: normal;
+    margin:0;
+    padding-top: 15px;
+    padding-left: 20px;    
+}
+
+
+#cv-content p{
+	margin-bottom: 5px
+}
+
+#cv-content .ir a{
+	color: #2ebb2f
+}
+#cv-right h3, #cv-content .head{
+	font-size: 18px;    
+    color: #fff;   
+    text-transform: uppercase;
+    font-weight: bold;    
+    padding: 5px 10px;
+    background: #2e73b6;
+    margin: 0 auto 10px;        
+}
+
+#cv-content .head{
+	
+}
+#cv-content h3{	
+    font-size: 15px;    
+    font-weight: normal;
+    color:#2e73b6;
+    margin-bottom: 0;
+    margin-top: 0;
+    text-transform: uppercase;
+}
+#cv-content p.h3{
+	text-transform: uppercase;
+	font-weight: bold
+}
+#cv-content .cvo-block {    
+}
+.ctbx{
+	padding-left: 0;
+	padding-right: 0
+}
+
+#cv-content span{
+	display: inline-block;	
+	z-index: 9999;
+}
+
+.ctbx{
+	margin-bottom: 20px;
+	position: relative;
+}
+.ctbx:hover {
+	box-shadow: 0 0 1px #999;
+}
+.ctbx:hover .fieldgroup_controls{
+	display: block;
+}
+[cvo-form-field] {
+    cursor: text;
+}
+#prof{
+	margin-left: 15px;
+	padding-bottom: 20px;
+}
+#cvo-profile-avatar-wraper{	        
+    width:100%;         
+    float: left;    
+    padding:30px 0 15px;
+}
+#box-hvt{
+    margin: auto;    
+    padding-bottom: 100px;
+    height: auto;
+}
+#cvo-profile-avatar-wraper .wimg{	
+  	width: 170px;
+  	margin:auto;
+  	float: none  	   
+}
+#cvo-profile-avatar-wraper img{
+	width: 170px;
+	height: 170px;
+	float: none;
+	display: table;
+}
+#line-seperate {
+    height: 25px;    
+}
+.bar-exp div {
+    float: left;
+    height: 10px;
+    background: #2fae77;
+    
+}
+.bar-exp {
+  	width: 99%;
+  	background: #e1e1e1;
+  	height: 10px;
+  	padding:1px;
+  	float: right;
+  	margin-bottom: 12px;
+}      
+.icoweb label{
+	display: block;
+	color:#fff;
+}
+#sortable .icoweb{
+	float: left;
+	padding-left: 10px;
+	margin-bottom: 0
+}
+.ic{
+	float: left;width: 100%
+}
+#form-cv .icf{
+	float: left;		
+	line-height: 23px;
+	font-size: 12px;
+	margin-bottom: 0;
+	width: 22px;	
+	border-radius: 20px;
+	border:1px solid #fff;
+	text-align: center;	
+}
+.ic .icoweb{
+	float: left	
+}
+.icf .fa{
+	font-size: 12px;	
+	color:#fff;	
+	font-weight: normal;
+	margin-top: 0;	
+	float: none
+}
+#sortable .icoweb{
+	width: 210px;
+	
+
+}
+div#box01 span {
+    width: 230px;
+}
+.box-content {
+    width: 290px;
+}
+.exp-content,.exp-subtitle,span.exp-title {
+    width: 100%;
+}
+.ic {
+    margin-bottom: 0px !important;
+    padding-bottom: 8px;
+}
+#cv-profile-birthday::before{
+    color: #fff;
+}
+#cv-profile-sex::before{
+    color: #fff;
+}
+#cv-profile-phone::before{
+    color: #fff;
+}
+#cv-profile-email::before{
+    color: #fff;
+}
+#cv-profile-address::before{
+    color: #fff;
+}
+#cv-profile-face::before{
+    color: #fff;
+}
+
+.watermark {
+    float: left;
+    width: 100%;
+    height: 22px;
+    color: #999;
+    text-align: right;
+    padding-right: 22px;
+    font-size: 15px;
+    font-family: Courier;
+}

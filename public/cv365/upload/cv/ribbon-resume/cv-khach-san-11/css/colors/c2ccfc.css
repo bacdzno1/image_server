@@ -1,0 +1,21 @@
+#cv-top {
+    background-image: url(hd2.png);
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+}
+
+#form-cv {
+    color: #536ff9;
+    line-height: 16px;
+}
+
+.all {
+    background-image: url(bd2.png);
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+}
+
+.footer {
+    background: url(ft2.png)no-repeat;
+    background-size: 100% 100%;
+}

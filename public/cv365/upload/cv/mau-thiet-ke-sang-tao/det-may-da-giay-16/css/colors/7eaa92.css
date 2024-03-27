@@ -1,0 +1,11 @@
+/* 3 */
+
+:root {
+  --page: url(main3.png) no-repeat;
+  --ngang: url(ngang3.png) no-repeat;
+  --name: url(name3.png) no-repeat;
+  --icon: url(icon3.png) no-repeat;
+  --skill: url(skill-3.png) no-repeat;
+  --vuong: url(vuong3.png) no-repeat;
+  --color: #7eaa92;
+}

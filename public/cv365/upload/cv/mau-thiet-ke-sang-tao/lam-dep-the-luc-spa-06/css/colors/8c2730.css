@@ -1,0 +1,202 @@
+#cv-top {
+    width: 100%;
+    height: 285px;
+    background-image: url(bg-2.png);
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    position: relative;
+}
+
+#cv-content .head {
+    height: 35px;
+    width: 100%;
+    line-height: 35px;
+    background: url(bg-12.png);
+    background-position: center;
+}
+
+.cumicc1 {
+    background: url(ic-21.png);
+    width: 45px;
+    height: 45px;
+    float: left;
+    background-position: center left;
+    background-repeat: no-repeat;
+    margin-left: 10px;
+}
+
+.cumic2 {
+    background: url(ic-22.png);
+    width: 45px;
+    height: 45px;
+    float: left;
+    background-position: center left;
+    background-repeat: no-repeat;
+}
+
+.cumicc3 {
+    background: url(ic-23.png);
+    width: 45px;
+    height: 45px;
+    float: left;
+    background-position: center left;
+    background-repeat: no-repeat;
+}
+
+.cumic4 {
+    background: url(ic-24.png);
+    width: 45px;
+    height: 45px;
+    float: left;
+    background-position: center left;
+    background-repeat: no-repeat;
+}
+
+.cumic5 {
+    background: url(ic-25.png);
+    width: 45px;
+    height: 45px;
+    float: left;
+    background-position: center left;
+    background-repeat: no-repeat;
+}
+
+.cumic6 {
+    background: url(ic-26.png);
+    width: 45px;
+    height: 45px;
+    float: left;
+    background-position: center left;
+    background-repeat: no-repeat;
+}
+
+.cumic7 {
+    background: url(ic-27.png);
+    width: 45px;
+    height: 45px;
+    float: left;
+    background-position: center left;
+    background-repeat: no-repeat;
+}
+
+.icright1 {
+    background: url(ic-28.png);
+    width: 55px;
+    height: 30px;
+    float: left;
+    background-position: center left;
+    background-repeat: no-repeat;
+    background-color: #8c2730;
+}
+
+.icright2 {
+    background: url(ic-29.png);
+    width: 55px;
+    height: 30px;
+    float: left;
+    background-position: center left;
+    background-repeat: no-repeat;
+    background-color: #8c2730;
+}
+
+.icright3 {
+    background: url(ic-210.png);
+    width: 55px;
+    height: 30px;
+    float: left;
+    background-position: center left;
+    background-repeat: no-repeat;
+    background-color: #8c2730;
+}
+
+.icright4 {
+    background: url(ic-211.png);
+    width: 55px;
+    height: 30px;
+    float: left;
+    background-position: center left;
+    background-repeat: no-repeat;
+    background-color: #8c2730;
+}
+
+.icright5 {
+    background: url(ic-212.png);
+    width: 55px;
+    height: 30px;
+    float: left;
+    background-position: center left;
+    background-repeat: no-repeat;
+    background-color: #8c2730;
+}
+
+.footer {
+    float: left;
+    width: 100%;
+    height: 40px;
+    /* margin-top: 10px; */
+    background-color: #8c2730;
+}
+
+#cv-content {
+    width: 57.57%;
+    text-align: justify;
+    float: right;
+    position: relative;
+    padding: 0;
+    margin: 0;
+    border-bottom: none;
+    border-right: none;
+    background-color: #8c2730;
+    color: #fff;
+}
+
+#cvo-profile-avatar-wraper .wimg {
+    width: 175px;
+    height: 183px;
+    padding: 0px;
+    margin: 0px;
+    margin-top: 0px;
+    border: 5px solid #8c2730;
+}
+
+.bar-exp div {
+    float: left;
+    height: 10px;
+    background: #8c2730;
+    margin-top: 0px;
+}
+
+#cv-content .head #cvo-experience-blocktitle {
+    color: #fff;
+    background-color: #8c2730;
+    padding: 0px 15px;
+    width: 55%;
+}
+
+.tt-box1 {
+    height: 45px;
+    width: 100%;
+    line-height: 48px;
+    background-color: #8c2730;
+}
+
+.ski {
+    height: 48px;
+    width: 100%;
+    line-height: 45px;
+    background-color: #8c2730;
+}
+
+.cum {
+    height: 48px;
+    width: 100%;
+    line-height: 45px;
+    background-color: #8c2730;
+}
+
+.icf .fa {
+    font-size: 20px;
+    color: #8c2730;
+    margin-top: 0;
+    float: left;
+}

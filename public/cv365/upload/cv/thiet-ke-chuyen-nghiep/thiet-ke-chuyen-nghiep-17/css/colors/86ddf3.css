@@ -1,0 +1,34 @@
+#form-cv{
+	color:#000000;
+	border:solid 2px #86ddf3;
+
+}
+#cv-content{
+
+	background: #ffffff;
+		color:#000000;
+		margin-top: 30px;
+}
+#cv-right{
+	
+	background: #86ddf3;
+}
+
+.box-01{		
+	overflow: hidden;
+	border-top: solid 40px #86ddf3;
+
+}
+#cv-content .head{
+	border-bottom: solid 3px #86ddf3;
+}
+#cvo-profile-avatar-wraper #cvo-profile-avatar{
+
+	border:solid 2px #86ddf3;
+}
+.bar-exp span {
+    background: #02b5e1;
+}
+.bar-exp{
+	background: #e3ecec;
+}

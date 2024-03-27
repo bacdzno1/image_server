@@ -1,0 +1,35 @@
+.box-01{
+	background: #f585a4;
+}
+#cv-right{
+	background:#fffd9900;
+}
+#cv-right .h3{
+    border:2px solid #f585a4; 
+    color: #f585a4;   
+}
+#cv-content .head{
+	color: white;
+   	background:#f585a4;
+}
+
+.box-contact{
+   
+}
+
+#cv-content h3{	
+    color: #237a5f;
+}
+#form-cv{
+	background: #fffd9900;
+}
+.icoweb{
+	color: #f585a4;
+}
+
+.bar-exp span {
+	background: #ea4040;
+}
+#cvo-profile-avatar-wraper #cvo-profile-avatar{
+	border:5px solid #f585a4;
+}

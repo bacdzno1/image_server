@@ -1,0 +1,30 @@
+#cv-top {
+    width: 100%;
+    float: left;
+    height: 350px;
+    background-image: url(hd2.png);
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    position: relative;
+}
+.footer{
+  float: left;
+  width: 100%;
+  background: url(ft2.png)no-repeat;
+  background-size: 100% 100%;
+  height: 50px;
+}
+.all{
+  float: left;
+  clear: both;
+  width: 100%;
+  background:url(main1.png)no-repeat;
+  background-size: 100% 100%;
+}
+div#box01 {
+    float: right;
+    width: 48.3%;
+    margin-right: 30px;
+    background: #996600;
+    margin-top: 20px;
+}

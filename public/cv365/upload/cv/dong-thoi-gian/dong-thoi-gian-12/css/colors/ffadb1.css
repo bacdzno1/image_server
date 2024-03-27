@@ -1,0 +1,43 @@
+#cv-top h1{
+font-size: 35px;
+    color: #0f1010;
+}
+
+#cv-top h2{
+font-size: 23px;
+    color: #0f1010;
+}
+
+#cv-content .ir a{
+	color: #e4ad00
+}
+
+#cvo-profile-avatar-wraper{	
+    background: #ffadb1;
+    border: double 10px #ffffff;
+}
+#cvo-profile-avatar-wraper #cvo-profile-avatar{
+	border: solid 1px #e2f8f9;
+}
+#cv-content .head{
+	background: #e2f8f9;
+}
+
+#form-cv{
+	border: solid 1px #e1e1e1;
+	background: #fd8cef26;		
+}
+#cv-right .h3 span{
+	color: #02b5e1;
+}
+#sortable .icoweb i.fa{
+	color:#02b5e1;
+}
+.box-01{		
+
+	background:#ffeefd;
+}
+#cv-content{
+	background: #ffffff;
+	border: double 10px #ff9ba0d1;
+}

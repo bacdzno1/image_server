@@ -1,0 +1,50 @@
+#cv-top {
+    background: url(../top3.png) no-repeat;
+    background-position: 0px 15px;
+}
+
+.bar-exp {
+    background: url(../skill1.png) no-repeat;
+}
+
+.bar-exp div {
+    background: url(../kn1.png) no-repeat;
+}
+
+.chu {
+    border-left: solid 8px #4d9dc3;
+}
+
+#cv-content .head #cvo-experience-blocktitle {
+    color: #4d9dc3;
+    border-bottom: solid 2px #4d9dc3;
+}
+
+div#box05 {
+    background: #4d9dc3;
+}
+
+div#box04 {
+    background: #4d9dc3;
+}
+
+div#box06 {
+    background: #4d9dc3;
+}
+
+div#box07 {
+    background: #4d9dc3;
+}
+
+div#box03 {
+    background: #4d9dc3;
+}
+
+div#box02 {
+    background: #d2e6f0;
+}
+
+#box-hvt #box01 {
+    border-top: solid 2px #d2e6f0;
+    border-bottom: solid 2px #d2e6f0;
+}

@@ -1,0 +1,39 @@
+#cv-content .head span{
+    background-color: #f0f6e4;
+}
+
+.cv_tt{
+     background: #f0f6e4;
+}
+#cv-main{
+    background:#f0f6e4;
+}
+#cv-content .head{
+    background-image: url(../line2.png);
+    background-repeat: repeat-x;
+    background-position: center right;
+    height: 20px;
+    line-height: 25px;
+    font-size: 18px;
+}
+.ft{
+    background-image: url(../ft2.png);
+    background-repeat: no-repeat;
+    background-position: bottom right;
+    height: 50px;
+    float: left;
+    padding: 0px;
+    margin: 0px;
+    width: 100%; 
+}
+#cv-top{
+    float: left;
+    width: 100%;
+    padding: 0px;
+    margin: 0px;
+    background-image: url(../hd2.png);
+    background-position: top center;
+    background-repeat: no-repeat;
+    height: 125px;
+    padding-top: 10px;
+}

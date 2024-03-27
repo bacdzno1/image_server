@@ -1,0 +1,11 @@
+/* 2 */
+
+:root {
+    --tro: url(main2.png) no-repeat;
+    --box02: url(muctieu2.png) no-repeat;
+    --kn: url(kn2.png) no-repeat;
+    --skill: url(skill2.png) no-repeat;
+    --inf: url(top-inf2.png) no-repeat, url(bottom-inf2.png) no-repeat;
+    --h1: url(h1-2.png) no-repeat;
+    --form: url(form1-2.png) no-repeat, url(form2.png) no-repeat;
+}

@@ -1,0 +1,82 @@
+#cv-top {
+    background-image: url(bg-4.png);
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    position: relative;
+}
+.all {
+    background: url(bg4.png);
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    background-color: #fffdec;
+    margin-left: 1px;
+}
+.footer {
+    background: url(ft4.png);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    position: relative;
+    /* z-index: 999; */
+}
+.tt-box1 {
+    background: url(tt-left4.png);
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+div#cv-boxtitle {
+    color: #004056;
+}
+
+.ski {
+    background: url(tt-left4.png);
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+.cum {
+    background: url(tt-left4.png);
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+#cv-content .head {
+    background: url(tt-right4.png);
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+}
+#sortable .cvo-block .box-content {
+    color: #004056;
+}
+#cv-top h1 {
+    color: #004056;
+    font-weight: bold;
+    text-align: left;
+}
+#cv-top h2 {
+    color: #004056;
+    text-align: left;
+}
+#cv-content h3 {
+    color: #004056;
+}
+#cvo-profile-avatar-wraper .wimg {
+    border: 5px solid #004056;
+}
+.bar-exp div {
+    background: #004056;
+}
+.bar-exp {
+    background: #89d395;
+    border: 1px solid #004056;
+}
+.icf .fa {
+    color: #004056;
+}
+#cv-content .head #cvo-experience-blocktitle {
+    color: #004056;
+}
+.bar-exp {
+    background: #69cbe0;
+    border: 1px solid #004056;
+}

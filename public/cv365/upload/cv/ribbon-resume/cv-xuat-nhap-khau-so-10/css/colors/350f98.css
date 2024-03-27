@@ -1,0 +1,99 @@
+#cv-top {
+    background-image: url(hd_02.png);
+    background-size: 100% 100%;
+}
+
+
+
+.box-dm{
+    background: url(a_02.png)no-repeat;
+    background-size: 100% 100%;
+  }
+  
+  #box02 .cumicc2{
+    background: url(tl_02_03.png) no-repeat right center;
+    width: 40%;
+    height: 25px;
+    background-size: 100% 100%;
+    float: right;
+    z-index: 1;
+  }
+  #box03 .cumicc3{
+    background: url(tl_02_07.png) no-repeat right center;
+    width: 30%;
+    height: 25px;
+    background-size: 100% 100%;
+    float: right;
+  }
+  #box04 .cumicc4{
+    background: url(tl_02_10.png) no-repeat right center;
+    width: 57%;
+    height: 25px;
+    background-size: 100% 100%;
+    float: right;
+  }
+  #box05 .cumicc5{
+    background: url(tl_02_13.png) no-repeat right center;
+    width: 42%;
+    height: 25px;
+    background-size: 100% 100%;
+    float: right;
+  }
+  #box06 .cumicc6{
+    background: url(tl_02_16.png) no-repeat right center;
+    width: 60%;
+    height: 25px;
+    background-size: 100% 100%;
+    float: right;
+  }
+  #box07 .cumicc7{
+    background: url(tl_02_19.png) no-repeat right center;
+    width: 48%;
+    height: 25px;
+    background-size: 100% 100%;
+    float: right;
+  }
+  
+  
+  
+  #block01 .icright1{
+    background: url(tr_02_03.png) no-repeat center right;
+    height: 25px;
+    background-size: 100% 100%;
+    float: right;
+    width: 62%;z-index: 1;
+  }
+  #block02 .icright2{
+    background: url(tr_02_07.png) no-repeat center right;
+    height: 25px;
+    background-size: 100% 100%;
+    float: right;
+    width: 38%;
+  }
+  #block03 .icright3{
+    background: url(tr_02_10.png) no-repeat center right;
+    height: 25px;
+    background-size: 100% 100%;
+    float: right;
+    width: 65%;
+  }
+  #block04 .icright4{
+    background: url(tr_02_13.png) no-repeat center right;
+    height: 25px;
+    background-size: 100% 100%;
+    float: right;
+    width: 34%;
+  }
+  #block05 .icright5{
+    background: url(tr_02_16.png) no-repeat center right;
+    height: 25px;
+    background-size: 100% 100%;
+    float: right;
+    width: 36%;
+  }
+  div#cv-boxtitle{
+      color: #350f98;
+  }
+  #cvo-experience-blocktitle{
+    color: #350f98;
+  }

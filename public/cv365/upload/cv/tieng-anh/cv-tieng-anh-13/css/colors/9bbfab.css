@@ -1,0 +1,21 @@
+#cv-content{
+	background-color: #9bbfab;
+}
+.box-contact p{
+	margin-bottom: 12px;
+	padding: 5px 0px;
+	background-color: #9bbfab;
+	border-radius: 4px;
+}
+.bar-exp div {
+    float: left;
+    height: 8px;
+    background: #9bbfab;
+    
+}
+#cv-top{		
+    background-image: url('../hd1.png');
+    background-size: 100% auto;
+    background-position: top center;
+    background-repeat: no-repeat;
+}

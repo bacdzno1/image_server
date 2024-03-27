@@ -1,0 +1,90 @@
+#cv-top h1 {
+    font-size: 40px;
+    font-family: "Roboto";
+    line-height: normal;
+    text-transform: uppercase;
+    margin-bottom: 0;
+    color: #00aacf;
+    font-weight: bold;
+    text-align: center;
+    width: 100%;
+    background: #fff;
+}
+.icf .fa {
+    font-size: 20px;
+    color: #00aacf;
+    margin-top: 0;
+    float: left;
+}
+div#cv-boxtitle {
+    font-size: 19px;
+    font-weight: bold;
+    text-transform: uppercase;
+    color: #00aacf;
+}
+#cv-content .head #cvo-experience-blocktitle {
+    color: #00aacf;
+}
+.icright1 {
+  width: 15%;
+  height: 35px;
+  float: left;
+  background: url(ico_03.png) no-repeat;
+  background-position: center;
+  z-index: 1;
+}
+.icright2 {
+    width: 15%;
+  height: 35px;
+  float: left;
+  background: url(ico_06.png) no-repeat;
+  background-position: center;
+}
+.icright3 {
+     width: 15%;
+  height: 35px;
+  float: left;
+  background: url(ico_09.png) no-repeat;
+  background-position: center;
+}
+.icright4 {
+     width: 15%;
+  height: 35px;
+  float: left;
+  background: url(ico_12.png) no-repeat;
+  background-position: center;
+}
+.icright5 {
+     width: 15%;
+  height: 35px;
+  float: left;
+  background: url(ico_15.png) no-repeat;
+  background-position: center;
+}
+.footer{
+    width: 100%;
+    height: 25px;
+    background: #00aacf;
+}
+#cv-content h3 {
+    font-size: 16px;
+    line-height: 24px;
+    font-weight: bold;
+    margin: 0px;
+    padding: 0px;
+    color: #00aacf;
+}
+.bar-exp div {
+    float: left;
+    height: 10px;
+    background: #00aacf;
+    margin-top: 0px;
+}
+#cvo-profile-avatar-wraper .wimg {
+    width: 175px;
+    height: 175px;
+    padding: 0px;
+    margin: 0px;
+    margin-top: 0px;
+    border:5px solid #00aacf;
+}

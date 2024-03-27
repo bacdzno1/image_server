@@ -1,0 +1,441 @@
+#form-cv {
+    width: 100%;
+    float: left;
+    position: relative;
+    font-size: 14px;
+    line-height: 20px;
+    color: #070000;
+}
+
+#sortable .cvo-block {
+    margin: 0;
+}
+
+#box01 {
+    border-top: none !important;
+}
+
+#sortable .icoweb i.fa {
+    float: left;
+}
+
+#cv-main {
+    display: table;
+    width: 100%;
+    /* background: #3791AD; */
+    padding-top: 10px;
+}
+
+.bar-value-exp input[type="text"] {
+    width: 100%;
+    padding: 5px;
+    border-radius: 4px;
+    color: #000;
+}
+
+
+/* #cv-top {
+    text-align: center;
+    background: #faeea2;
+} */
+
+#cvo-profile {
+    padding: 10px;
+    display: block;
+}
+
+#cv-content {
+    width: 57%;
+    float: right;
+    position: relative;
+    /* background: #F0F5F9; */
+}
+
+#cv-right {
+    width: 40.99%;
+    float: left;
+    position: relative;
+    background: #70cbfa;
+    padding-bottom: 30px;
+    padding-top: 10px;
+    margin-left: 10px;
+    /* min-height: 1794px; */
+}
+
+#cv-right .ir {
+    clear: both;
+    padding: 20px 10px 0px 15px;
+}
+
+p.skill-name input {
+    color: #070000 !important;
+}
+
+#cv-right .ctbx {
+    padding: 0;
+    margin: 0;
+    border: 0;
+}
+
+.skill {
+    margin-top: 15px
+}
+
+#box-hvt {
+    width: 100%;
+    /* height: 145px; */
+    line-height: 145px;
+    padding-bottom: 35px;
+    margin-left: 5px;
+    float: left;
+    clear: both;
+    /* padding: 0 15px; */
+    text-align: center;
+    border: 2px dashed #70cbfa;
+    border-left: none;
+}
+
+.box-01 p h2 {
+    padding-top: 10px;
+}
+
+#cv-content .ir {
+    /* margin: 0 15px; */
+    float: right;
+    clear: both;
+    padding-top: 70px;
+}
+
+#cv-content p {
+    /* margin-bottom: 5px; */
+}
+
+#cv-content .ir a {
+    color: #2ebb2f
+}
+
+#cv-right .h3,
+#cv-right h3,
+#cv-content .head {
+    font-size: 18px;
+    margin-top: 0;
+    text-transform: uppercase;
+    font-weight: unset;
+    font-style: italic
+}
+
+#cv-right h3 {
+    margin-bottom: 10px;
+    width: 260px;
+    border-bottom: 2px solid #000000;
+    margin-top: 10px;
+    /* padding: 3px 10px; */
+}
+
+#cv-right h3 span {
+    color: #000;
+}
+
+#cv-content .head {
+    padding: 0px 0px 3px 5px;
+    clear: both;
+    margin: 0;
+}
+
+#cv-content .head span {
+    color: #000;
+}
+
+#cv-right .h3 {
+    height: 45px;
+    text-align: center;
+    width: 100%;
+}
+
+#cv-right .h3 span {
+    margin: 3px 0px;
+    color: #000000;
+    line-height: 43px;
+}
+
+#cv-content h3 {
+    font-size: 16px;
+    font-family: "Roboto";
+    color: rgb(0, 0, 0);
+    font-weight: bold;
+}
+
+#cv-content .cvo-block {
+    margin: 0;
+    padding: 0;
+}
+
+.ctbx {
+    padding-left: 10px;
+    padding-right: 10px
+}
+
+#cv-content span {
+    display: inline-block;
+    z-index: 9999;
+}
+
+#cv-right .h3:first-child {
+    margin-top: 0
+}
+
+#block02 #exp1,
+#block02 #exp2 {
+    margin-bottom: 20px;
+    position: relative;
+}
+
+.ctbx .r5 .h3 {
+    text-transform: uppercase;
+}
+
+.ctbx:hover {
+    box-shadow: 0 0 1px #999;
+}
+
+.ctbx:hover .fieldgroup_controls {
+    display: block;
+}
+
+[cvo-form-field] {
+    cursor: text;
+}
+
+#box-hvt {
+    float: left;
+}
+
+
+/* edit div avata */
+
+#avatar {
+    width: 100%;
+    float: left;
+    clear: both;
+}
+
+#cvo-profile-avatar-wraper {
+    float: left;
+    width: 200px;
+    padding: 5px;
+    margin: auto;
+    margin-left: 47px;
+    border-radius: 10px;
+}
+
+#cvo-profile-avatar-wraper img {
+    max-width: 100%
+}
+
+
+/* end avatar */
+
+#line-seperate {
+    height: 25px;
+    /*background-color: #e3ecec;*/
+}
+
+.bar-exp div {
+    float: left;
+    height: 8px;
+    background: #000000;
+}
+
+.bar-exp {
+    width: 100%;
+    background: #fff;
+    height: 8px;
+    float: right;
+    margin-bottom: 12px;
+}
+
+.icoweb label {
+    display: block;
+    color: #627e88;
+}
+
+.box-contact {
+    font-size: 15px;
+}
+
+#sortable .icoweb {
+    margin-bottom: 0;
+    border-radius: 5px;
+    /* color: #fff; */
+    display: block;
+    width: 90%;
+    float: left;
+    margin-bottom: 5px;
+}
+
+.exp-content {
+    width: 93%;
+    text-align: justify;
+    /* padding-bottom: 10px; */
+}
+
+.head i.fa,
+.h3 i.fa {
+    font-size: 12px;
+    border: solid 1px #7c7a79;
+    border-radius: 50%;
+    width: 12px;
+    color: #7c7a79;
+    /*background: white;*/
+    margin-bottom: 5px;
+    text-align: center;
+    padding: 4px;
+}
+
+#sortable .ic {
+    width: 100%;
+    height: auto;
+    /* margin-bottom: 8px;
+    clear: both; */
+}
+
+#sortable .ic .icf {
+    width: 10%;
+    float: left;
+}
+
+#sortable .ic .icf i {
+    color: #000;
+}
+
+#cv-content .head #ic-title {
+    text-align: center;
+    line-height: 40px;
+    width: unset;
+    width: 10%;
+    height: 43px;
+    float: left;
+    border: 2px solid #000;
+    border-radius: 50px;
+    background: #fff;
+}
+
+
+/* 
+#cvo-experience-blocktitle {
+    width: 90%;
+    float: right;
+} */
+
+#experience-table {
+    width: 97%;
+    clear: both;
+    margin-left: 30px;
+    padding-top: 10px;
+    border-left: 2px solid #000;
+}
+
+#page-cv #cv-content .exp-subtitle {
+    font-family: "Roboto";
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: normal;
+    text-transform: uppercase;
+    color: #000000;
+}
+
+#page-cv #cv-content #text-fl {
+    width: 85%;
+    float: left;
+    margin-left: 10px;
+    /* line-height: 45px; */
+    margin-top: 8px;
+    text-align: center;
+    background: #70cbfa;
+    padding: 3px 0 3px 0;
+}
+
+#box-hvt h1 {
+    font-style: normal;
+    font-weight: bold;
+    line-height: normal;
+    font-size: 34px;
+    font-family: "Roboto";
+    color: rgb(0, 0, 0);
+    height: 37px;
+    margin-top: 45px;
+}
+
+#box-hvt h2 {
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: normal;
+    font-style: italic;
+    padding-top: 8px;
+}
+
+#page-cv #cv-content #cv-profile-fullname {
+    border-bottom: 2px solid #000;
+}
+
+#experience-table .ctbx {
+    width: 90%;
+    padding-left: 30px;
+}
+
+
+/* fix width */
+
+#box-hvt h1,
+#box-hvt h2,
+#box-hvt h1 #cv-profile-fullname {
+    width: 415px;
+}
+
+#sortable .icoweb,
+#sortable .icoweb span {
+    width: 235px;
+}
+
+#cv-right h3 {
+    width: 260px;
+}
+
+.box-content {
+    text-align: justify;
+    width: 259px;
+    margin: auto;
+}
+
+#cv-profile-birthday::before {
+    color: #fff;
+}
+
+#cv-profile-sex::before {
+    color: #fff;
+}
+
+#cv-profile-phone::before {
+    color: #fff;
+}
+
+#cv-profile-email::before {
+    color: #fff;
+}
+
+#cv-profile-address::before {
+    color: #fff;
+}
+.watermark {
+    float: left;
+    width: 100%;
+    /* height: 22px; */
+    color: #999;
+    text-align: right;
+    padding-right: 22px;
+    font-size: 15px;
+    font-family: Courier;
+}

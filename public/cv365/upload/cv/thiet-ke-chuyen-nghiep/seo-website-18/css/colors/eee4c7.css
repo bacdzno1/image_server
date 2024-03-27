@@ -1,0 +1,59 @@
+#form-cv {
+    background: url(../page2.png) no-repeat;
+    background-size: 100% 100%;
+    background-color: #fff;
+}
+
+#cv-top {
+    background: url(../top2.png) no-repeat;
+    background-size: 100%;
+    background-position: top left;
+}
+
+.fake_img {
+    background: url(../fake2.png) no-repeat;
+    background-size: 100% 100%;
+    margin-left: -7px;
+}
+
+.all {
+    background: url(../right2-2.png) no-repeat;
+    background-size: 41.5% 135%;
+    background-position: 445px 0px;
+}
+
+#cv-main #cv-right {
+    /* background: url(../right2.png) no-repeat; */
+    /* background-size: 127% 140%; */
+}
+
+#cv-content .cvo-block .head {
+    background: url(../left2.png) no-repeat;
+    background-size: 100% 100%;
+    background-position: left center;
+}
+
+#cv-right .ir #sortable #box02 {
+    background: url(../muctieu2-3.png) no-repeat;
+    background-size: 100% 100%;
+    background-position: left top;
+    background-color: #fff;
+    margin-left: -5px;
+    position: relative;
+    left: 5px;
+}
+
+.cum, .ski {
+    background: url(../tt-right2.png) no-repeat;
+    background-size: 100% 100%;
+    background-position: left center;
+}
+
+.footer {
+    background: url(../foot2.png) no-repeat;
+    background-position: left bottom;
+}
+
+div#cv-boxtitle {
+    color: #000;
+}

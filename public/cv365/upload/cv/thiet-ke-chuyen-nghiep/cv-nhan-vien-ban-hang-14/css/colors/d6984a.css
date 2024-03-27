@@ -1,0 +1,76 @@
+.fake_img {
+    background: url(../fake2.png) no-repeat;
+    background-size: 100% 100%;
+}
+
+.chu {
+    background: url(../name2.png) no-repeat;
+    background-size: 100% 100%;
+}
+
+.ic1 {
+    background: url(../date2.png) no-repeat;
+    background-position: 1px 4px;
+}
+
+.ic2 {
+    background: url(../sex2.png) no-repeat;
+    background-position: 1px 6px;
+}
+
+.ic3 {
+    background: url(../phone2.png) no-repeat;
+    background-position: 1px 6px;
+}
+
+.ic4 {
+    background: url(../email2.png) no-repeat;
+    background-position: 1px 8px;
+}
+
+.ic5 {
+    background: url(../add2.png) no-repeat;
+    background-position: 1px 6px;
+}
+
+.cum,
+.ski {
+    background: url(../tt2.png) no-repeat;
+    background-position: left center;
+}
+
+#cv-content .cvo-block .head {
+    background: url(../tt2.png) no-repeat;
+    background-position: left center;
+}
+
+#cv-right #box03 .ctbx {
+    background: url(../dot2.png) no-repeat;
+    background-position: 1px 6px;
+}
+
+.exp-title {
+    background: url(../muiten2.png) no-repeat;
+    background-position: 1px 5px;
+}
+
+#experience-table .ctbx {
+    background: url(../soc2.png) repeat-y;
+    background-position: 12px 0px;
+}
+
+#cv-content .exp-date {
+    color: #69c6bb;
+}
+
+.bar-exp {
+    background: url(../skill2.png) no-repeat;
+}
+
+.bar-exp div {
+    background: url(../kn2.png) no-repeat;
+}
+
+.footer {
+    background: url(../foot2.png) no-repeat;
+}

@@ -1,0 +1,18 @@
+#cv-top {
+    background-image: url(top3.png);
+    background-size: 100% 100%;
+}
+.all {
+    background: url(main3.png);
+    background-size: 100% 100%;
+}
+.bar-exp div,div#cv-boxtitle,#cv-content .head #cvo-experience-blocktitle {
+    background: #5ed8b9;
+  
+}
+#cv-top h1,#cv-top h2 {
+    color: #5ed8b9;
+}
+.bar-exp {
+    border: 1px solid #5ed8b9;
+}

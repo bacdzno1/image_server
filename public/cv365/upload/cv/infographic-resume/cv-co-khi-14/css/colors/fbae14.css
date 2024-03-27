@@ -1,0 +1,171 @@
+#cv-top {
+    width: 100%;
+    height: 351px;
+    background-image: url(hd2.png);
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    position: relative;
+}
+#cv-top h1 {
+    padding: 0;
+    margin: 0 auto;
+    font-size: 35px;
+    font-family: "Roboto";
+    line-height: normal;
+    text-transform: uppercase;
+    margin-bottom: 0;
+    color: #fbae14;
+    font-weight: bold;
+    text-align: left;
+    width: 100%;
+    float: left;
+}
+#cv-top h2 {
+    text-transform: uppercase;
+    width: 100%;
+    font-size: 20px;
+    font-family: "Roboto";
+    color: #fbae14;
+    text-align: left;
+    margin: 0 auto;
+    padding: 0;
+    margin-bottom: 0;
+    padding-bottom: 10px;
+    float: left;
+}
+
+.bar-exp div {
+    float: left;
+    height: 8px;
+    background: #fbae14;
+}
+
+.ctbx .skill-name {
+    margin: 0px;
+    padding: 0px;
+    color: #fbae14;
+}
+
+.bar-exp {
+    background: #fcda97;
+    height: 8px;
+    float: none;
+    margin-top: 0;
+    margin-bottom: 0px;
+    padding: 0px;
+}
+#prof .icoweb,
+#prof .icoweb span {
+    height: auto;
+    color: #fbae14;
+}
+.icf .fa {
+    font-size: 20px;
+    color: #fcda97;
+    margin-top: 0;
+    float: none;
+}
+.ski {
+    padding: 0;
+    margin: 0;
+    height: 40px;
+    width: 100%;
+    line-height: 40px;
+    color: #fbae14;
+}
+#box02 .cum {
+    color: #fbae14;
+    border-bottom: 3px dashed #fbae14;
+}
+
+#box02, #box04 .box-content {
+    color: #fcda97;
+}
+
+#box03 {
+    border-top: 3px dashed #fbae14;
+    border-right: 3px dashed #fbae14;
+    border-bottom: 3px dashed #fbae14;
+    border-radius: 20px;
+    margin-bottom: 20px;
+}
+
+#box04 {
+    border: 3px dashed #fbae14;
+    border-radius: 20px;
+    margin-bottom: 20px;
+
+}
+#box04 .cum{
+    color: #fbae14;
+}
+#box05 .box-content {
+    color: #fbae14;
+}
+#box05 .cum {
+    color: #000;
+}
+#box05 {
+    background: #fcda97;
+    border-radius: 20px;
+}
+#box06 {
+    background: #fcda97;
+    border-radius: 20px;
+}
+#box06 .box-content {
+    color: #fbae14;
+}
+#box07 {
+    background: #fcda97;
+    border-radius: 20px;
+}
+#box07 .box-content {
+    color: #fbae14;
+}
+#block01 {
+    background: #fcda97;
+    border-radius: 20px;
+}
+#block01 #experience-table{
+    color: #fbae14;
+}
+#block02 {
+    background: #fcda97;
+    border-radius: 20px;
+}
+#block02 #experience-table{
+    color: #fbae14;
+    border-left: 3px dashed #000;
+    margin-left: 10px;
+    padding-left: 5px;
+}
+#block03 {
+    border-radius: 20px;
+    border: 3px solid #fcda97;
+}
+#block03 .head{
+    color: #fbae14;
+}
+#block03 #experience-table{
+    color: #fcda97;
+}
+#block04 {
+    border-radius: 20px;
+    border: 3px solid #fcda97;
+}
+#block04 .head{
+    color: #fbae14;
+}
+#block04 #experience-table{
+    color: #fcda97;
+}
+#block05 {
+    border-radius: 20px;
+}
+#block05 .head{
+    color: #fbae14;
+}
+#block05 #experience-table{
+    color: #fcda97;
+}

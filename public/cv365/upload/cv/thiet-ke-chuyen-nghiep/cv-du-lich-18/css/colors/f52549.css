@@ -1,0 +1,57 @@
+#cv-top {
+
+    background: url(hd2.png)no-repeat;
+    background-position: left;
+    background-size: 100% 100%;
+}
+.all {
+    background: url(main2.png)no-repeat;
+    background-size: 100% 100%;
+}
+.footer {
+    background: url(ft2.png)no-repeat;
+    background-size: 100% 100%;
+}
+
+#cv-top h1 span {
+    padding-top: 24px;
+    letter-spacing: 3px;
+}
+
+#cvo-profile-avatar-wraper {
+    width: 300px;
+    padding: 0;
+    margin: 0;
+    float: left;
+    display: table;
+    padding-top: 59px;
+    padding-left: 87px;
+    position: relative;
+    top: 3px;
+}
+
+#cvo-profile .box-dm {
+    float: left;
+    width: 273px;
+    height: 266px;
+    padding: 0;
+    margin: 0;
+    display: table;
+    background: url(fake2.png)no-repeat;
+    background-size: 100% 100%;
+    clear: both;
+    z-index: 1;
+    margin-top: -254px;
+    margin-left: -22px;
+    position: absolute;
+    top: -999px;
+}
+.icf .fa {
+    color: #f52549;
+}
+div#cv-boxtitle {
+    color: #f52549;
+}
+#cvo-experience-blocktitle {
+    color: #f52549;
+}

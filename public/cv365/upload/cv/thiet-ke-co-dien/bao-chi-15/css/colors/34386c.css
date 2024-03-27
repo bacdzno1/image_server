@@ -1,0 +1,139 @@
+#cv-top {
+    background-image: url(hd2.png);
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+}
+.all {
+    background: url(../bg-main2.png)no-repeat;
+    background-size: 100% 100%;
+}
+.watermark {
+    background: #34386c;
+}
+#cvo-profile .box-dm {
+    background: url(fake2.png)no-repeat;
+    background-size: 100% 100%;
+    margin-left: 4px;
+}
+.tt-box1 {
+    background: url(bg2.4.png)no-repeat;
+    background-position: left;
+    background-size: 100% 100%;
+}
+#box02 .cum {
+    background: url(bg2.2.png)no-repeat;
+    background-position: left;
+    background-size: 100% 100%;
+}
+/* Box03 */
+.ski {
+    background: url(bg2.3.png)no-repeat;
+    background-position: left;
+    background-size: 100% 100%;
+}
+#box04 .cum {
+    background: url(bg2.1.png)no-repeat;
+    background-position: left;
+    background-size: 100% 100%;
+}
+#box05 .cum {
+    background: url(bg2.4.png)no-repeat;
+    background-position: left;
+    background-size: 100% 100%;
+}
+#box06 .cum {
+    background: url(bg2.2.png)no-repeat;
+    background-position: left;
+    background-size: 100% 100%;
+}
+/* #block01 .head {
+    background: url(ic2.1.png)no-repeat;
+    background-position: right;
+    background-size: 13% 100%;
+}
+#block02 .head {
+    background: url(ic2.2.png)no-repeat;
+    background-position: right;
+    background-size: 13% 100%;
+}
+#block03 .head {
+    background: url(ic2.3.png)no-repeat;
+    background-position: right;
+    background-size: 13% 100%;
+}
+#block04 .head {
+    background: url(ic2.4.png)no-repeat;
+    background-position: right;
+    background-size: 13% 100%;
+}
+#block05 .head {
+    background: url(ic2.5.png)no-repeat;
+    background-position: right;
+    background-size: 13% 100%;
+} */
+div#block01 {
+    border-right: 25px solid #fea340;
+}
+div#block02 {
+    border-right: 25px solid #4ed124;
+}
+div#block03 {
+    border-right: 25px solid #7a84e6;
+}
+div#block04 {
+    border-right: 25px solid #dcfb16;
+}
+div#block05 {
+    border-right: 25px solid #fea340;
+}
+#block01 .head{
+    background: url(../triangle_orange2.png)no-repeat;
+    background-position: right;
+    /* background-size: 13% 100%; */
+}
+  #block02 .head{
+    background: url(../triangle_green2.png)no-repeat;
+    background-position: right;
+}
+  #block03 .head{
+    background: url(../triangle_blue2.png)no-repeat;
+    background-position: right;
+}
+  #block04 .head{
+    background: url(../triangle_yellow.png)no-repeat;
+    background-position: right;
+}
+  #block05 .head{
+    background: url(../triangle_orange2.png)no-repeat;
+    background-position: right;
+}
+#block01 .block-title {
+    background: url(ic2.1.png) no-repeat;
+    background-position: right;
+    background-size: auto 100%;
+    width: 90%;
+}
+  #block02 .block-title {
+    background: url(ic2.2.png) no-repeat;
+    background-position: right;
+    background-size: auto 100%;
+    width: 90%;
+}
+  #block03 .block-title {
+    background: url(ic2.3.png) no-repeat;
+    background-position: right;
+    background-size: auto 100%;
+    width: 90%;
+}
+  #block04 .block-title {
+    background: url(ic2.4.png) no-repeat;
+    background-position: right;
+    background-size: auto 100%;
+    width: 90%;
+}
+  #block05 .block-title {
+    background: url(ic2.5.png) no-repeat;
+    background-position: right;
+    background-size: auto 100%;
+    width: 90%;
+}

@@ -1,0 +1,33 @@
+
+.box-dm {
+    background: url(fake3.png)no-repeat;
+    background-size: 100% 100%;
+}
+#cv-top {
+    background-image: url(hd3.png);
+    background-size: 100% 100%;
+}
+
+.all {
+    background: url(main3.png)no-repeat;
+    background-size: 100% 100%;
+}
+.footer {
+    background: url(ft3.png);
+    background-size: 100% 100%;
+}
+#cv-top h2 {
+    background: #703858;
+}
+#cv-top h1 {
+    color: #703858;
+}
+.icf .fa {
+    color: #703858;
+}
+.cumicc5 {
+    float: left;
+    width: 29%;
+    height: 32px;
+    background: url(head-cc3.png)no-repeat;
+}

@@ -1,0 +1,34 @@
+#cv-top {
+    width: 100%;
+    height: 250px;
+    background-image: url(hd3.png);
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    position: relative;
+}
+.ski {
+    padding: 0;
+    margin: 0 auto;
+    height: 35px;
+    width: 74%;
+    line-height: 35px;
+    text-align: left;
+    background: #97a999;
+    border-radius: 20px;
+}
+.cum {
+    padding: 0;
+    margin: 0 auto;
+    height: 35px;
+    width: 74%;
+    line-height: 35px;
+    background: #97a999;
+    border-radius: 20px;
+}
+.footer {
+  background:url(ft3.png)no-repeat;
+  background-size: 100% 100%;
+  height:120px; 
+    float: left;
+    width: 100%;
+}

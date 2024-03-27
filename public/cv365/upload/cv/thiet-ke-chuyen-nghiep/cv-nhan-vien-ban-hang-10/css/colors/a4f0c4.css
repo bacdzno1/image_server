@@ -1,0 +1,31 @@
+/* .fake_img1 {
+    background: url(../bg_top2.png)no-repeat;
+    width: 242px;
+    height: 212px;
+    margin-top: -200px;
+    margin-left: 10px;
+    position: absolute;
+    top: 215px;
+} */
+#cv-top {
+    width: 100%;
+    overflow: hidden;
+    position: relative;
+    background: url(../bg_top2.png) no-repeat;
+}
+div#prof {
+    float: left;
+    width: 100%;
+    padding-top: 15px;
+    padding-left: 10px;
+    border-left: 6px solid #a4f0c4;
+    margin-left: 10px;
+}
+.bar-exp div {
+    background: url(../skill2-2.png) no-repeat;
+    /* background-position: left; */
+}
+
+#cv-content .exp-date {
+    color: #a4f0c4;
+}

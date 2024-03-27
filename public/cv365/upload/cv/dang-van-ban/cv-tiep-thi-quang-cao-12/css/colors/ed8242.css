@@ -1,0 +1,102 @@
+.fake_img {
+    background: url(../fake4.png) no-repeat;
+    background-size: 100% 100%;
+}
+
+#box-hvt {
+    background: url(../info4.png) no-repeat;
+    background-size: 100%;
+    background-position: left bottom;
+}
+
+.ic1 {
+    background: url(../date4.png) no-repeat;
+    background-position: 1px center;
+}
+
+.ic2 {
+    background: url(../sex4.png) no-repeat;
+    background-position: 1px center;
+}
+
+.ic3 {
+    background: url(../phone4.png) no-repeat;
+    background-position: 1px center;
+}
+
+.ic4 {
+    background: url(../email4.png) no-repeat;
+    background-position: 1px center;
+}
+
+.ic5 {
+    background: url(../add4.png) no-repeat;
+    background-position: 1px center;
+}
+
+#box02 div#cv-boxtitle {
+    background: url(../muctieu4.png) no-repeat;
+    background-position: left center;
+}
+
+#box03 div#cv-boxtitle {
+    background: url(../kynang4.png) no-repeat;
+    background-position: left center;
+}
+
+#box04 div#cv-boxtitle {
+    background: url(../giaithuong4.png) no-repeat;
+    background-position: left center;
+}
+
+#box05 div#cv-boxtitle {
+    background: url(../chungchi4.png) no-repeat;
+    background-position: left center;
+}
+
+#box06 div#cv-boxtitle {
+    background: url(../sothich4.png) no-repeat;
+    background-position: left center;
+}
+
+#box07 div#cv-boxtitle {
+    background: url(../thamchieu4.png) no-repeat;
+    background-position: left center;
+}
+
+.bar-exp div {
+    background: #ed8242;
+  }
+
+#cv-content #block01 .head #cvo-experience-blocktitle {
+    background: url(../hocvan4.png) no-repeat;
+    background-position: left center;
+}
+
+#cv-content #block02 .head #cvo-experience-blocktitle {
+    background: url(../kinhnghiem4.png) no-repeat;
+    background-position: left center;
+}
+
+#cv-content #block03 .head #cvo-experience-blocktitle {
+    background: url(../hoatdong4.png) no-repeat;
+    background-position: left center;
+}
+
+#cv-content #block04 .head #cvo-experience-blocktitle {
+    background: url(../duan4.png) no-repeat;
+    background-position: left center;
+}
+
+#cv-content #block05 .head #cvo-experience-blocktitle {
+    background: url(../duan4.png) no-repeat;
+    background-position: left center;
+}
+
+.exp-title {
+    color: #ed8242;
+}
+
+.footer {
+    background: url(../foot4.png) no-repeat;
+}

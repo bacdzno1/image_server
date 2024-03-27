@@ -1,0 +1,27 @@
+#cv-top {
+    background-image: url(hd3.png);
+    background-size: 100% 100%;
+}
+.all {
+    background: url(main3.png)no-repeat;
+    background-size: 100% 100%;
+}
+.footer {
+    background: #7ac333;
+    height: 90px;
+}
+div#cv-boxtitle {
+    color: #7ac333;
+}
+#cv-content .head #cvo-experience-blocktitle {
+    color: #7ac333;
+}
+.bar-exp div {
+    background: #7ac333;
+}
+#cv-main {
+    border-right: 2px solid #7ac333;
+}
+#cv-content {
+    border-bottom: 2px solid #7ac333;
+}

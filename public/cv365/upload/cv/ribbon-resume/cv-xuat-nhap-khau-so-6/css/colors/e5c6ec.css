@@ -1,0 +1,28 @@
+.ctbx{
+	border-left: solid 3px #e1c9bd;
+}
+
+#cvo-profile-avatar-wraper .wimg{ 
+    border: solid 4px #e1c9bd;
+}
+#cv-content .head{
+    background-image: url('e1c9bd.png');
+}
+#form-cv{
+	background:#e1c9bd;
+}
+
+#cv-right{
+	background:#e1c9bd;
+}
+
+#cv-top{    
+    background: #85adad;
+}
+#cv-top h1{
+    color: #ffffff;
+}
+
+#cv-top h2{
+    color: #ffffff;
+}

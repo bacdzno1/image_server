@@ -1,0 +1,241 @@
+#cv-top h1 {
+    padding: 0;
+    margin: 0;
+    font-size: 30px;
+    font-family: "Roboto";
+    line-height: normal;
+    text-transform: uppercase;
+    margin-bottom: 0;
+    color: #8c2730;
+    float: left;
+    width: 39%;
+    font-weight: bold;
+    text-align: center;
+    padding-left: 15px;
+}
+
+#cv-content h3 {
+    font-size: 16px;
+    line-height: 24px;
+    font-weight: bold;
+    margin: 0px;
+    padding: 0px;
+    color: #8c2730;
+    clear: both;
+    padding-top: 15px;
+}
+
+#cvo-profile-avatar-wraper .wimg {
+    width: 175px;
+    height: 175px;
+    padding: 0px;
+    margin: 0px;
+    margin-top: 0px;
+    border: 6px solid #8c2730;
+    border-radius: 5px;
+}
+
+.bar-exp div {
+    float: left;
+    height: 10px;
+    background: #8c2730;
+    margin-top: 0px;
+}
+
+.bar-exp {
+    background: #f3f3f3;
+    height: 10px;
+    float: none;
+    margin-top: 0;
+    margin-bottom: 0px;
+    padding: 0px;
+    border: 1px solid #8c2730;
+    border-radius: 5px;
+}
+
+.icf .fa {
+    font-size: 20px;
+    color: #8c2730;
+    margin-top: 0;
+    float: none;
+}
+
+#cv-content .head {
+    float: left;
+    height: 40px;
+    width: 97.5%;
+    line-height: 40px;
+    padding: 0;
+    margin: 0;
+    border-bottom: 2px solid #8c2730;
+}
+
+#cv-content .head #cvo-experience-blocktitle {
+    color: #8c2730;
+    float: left;
+    font-size: 20px;
+    text-transform: uppercase;
+    font-weight: bold;
+}
+
+#box01 h4 {
+    padding: 0;
+    margin: 0;
+    height: 40px;
+    float: left;
+    width: 100%;
+    line-height: 45px;
+    background: #8c2730;
+    border-top-left-radius: 15px;
+    border-bottom-left-radius: 15px;
+}
+
+.icr2 {
+    float: left;
+    width: 30px;
+    height: 30px;
+    background: url(icr3.png)no-repeat;
+    background-position: center;
+}
+
+#cv-top {
+    background-image: url(hd3.png);
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+}
+
+.all {
+    background: url(main3.png)no-repeat;
+    background-size: 100% 100%;
+    padding-bottom: 30px;
+}
+
+.ski {
+    padding: 0;
+    margin: 0;
+    height: 40px;
+    width: 97%;
+    line-height: 45px;
+    text-align: center;
+    background: url(ttl3.png)no-repeat;
+    background-size: 100% 100%;
+}
+
+.cum {
+    padding: 0;
+    margin: 0;
+    height: 40px;
+    width: 97%;
+    text-align: center;
+    line-height: 45px;
+    background: url(ttl3.png)no-repeat;
+    background-size: 100% 100%;
+}
+
+.icright1 {
+    width: 50px;
+    height: 40px;
+    float: left;
+    background: url(icon1.png);
+    background-position: bottom left;
+    background-repeat: no-repeat;
+}
+
+.icright2 {
+    width: 50px;
+    height: 40px;
+    float: left;
+    background: url(icon2.png);
+    background-position: bottom left;
+    background-repeat: no-repeat;
+}
+
+.icright3 {
+    width: 50px;
+    height: 40px;
+    float: left;
+    background: url(icon3.png);
+    background-position: bottom left;
+    background-repeat: no-repeat;
+}
+
+.icright4 {
+    width: 50px;
+    height: 40px;
+    float: left;
+    background: url(icon4.png);
+    background-position: bottom left;
+    background-repeat: no-repeat;
+}
+
+.icright5 {
+    width: 50px;
+    height: 40px;
+    float: left;
+    background: url(icon5.png);
+    background-position: bottom left;
+    background-repeat: no-repeat;
+}
+
+.icon1 {
+    width: 50px;
+    height: 40px;
+    float: left;
+    background: url(icon_03.png);
+    background-position: center left;
+    background-repeat: no-repeat;
+}
+
+.icon2 {
+    width: 42px;
+    height: 40px;
+    float: left;
+    background: url(icon_11.png);
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.icon3 {
+    width: 42px;
+    height: 40px;
+    float: left;
+    background: url(icon_18.png);
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.icon4 {
+    width: 42px;
+    height: 40px;
+    float: left;
+    background: url(icon_20.png);
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.icon5 {
+    width: 42px;
+    height: 40px;
+    float: left;
+    background: url(icon_23.png);
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.icon6 {
+    width: 42px;
+    height: 40px;
+    float: left;
+    background: url(icon_29.png);
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.icon7 {
+    width: 42px;
+    height: 40px;
+    float: left;
+    background: url(icon_37.png);
+    background-position: center;
+    background-repeat: no-repeat;
+}

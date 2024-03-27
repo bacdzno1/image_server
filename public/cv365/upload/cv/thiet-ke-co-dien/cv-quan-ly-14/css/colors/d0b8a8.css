@@ -1,0 +1,19 @@
+/* 3 */
+
+:root {
+  --muctieu: url(muctieu3.png) no-repeat, url(mt3.png) no-repeat;
+  --ngang: url(ngang3.png) no-repeat;
+  --page: url(page3.png) no-repeat;
+  --top: url(top3.png) no-repeat;
+  --tt: url(tt-t3.png) no-repeat, url(tt-b3.png) no-repeat, url(tt-f3.png) no-repeat;
+  --bg: url(bg3.png) no-repeat;
+  --cum1: url(cum1-3.png) no-repeat;
+  --cum2: url(cum2-3.png) no-repeat;
+  --head1: url(head1-3.png) no-repeat;
+  --head2: url(head2-3.png) no-repeat;
+  --skill: url(skill3.png) no-repeat;
+  --kn: url(kn3.png) no-repeat;
+  --color: #f7f5eb;
+  --color-n: #565354;
+  --color-j: #85586e;
+}

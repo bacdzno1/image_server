@@ -1,0 +1,35 @@
+#cv-top {
+    background: url(../bg_top3.png) no-repeat;
+}
+#box02 {
+    background-color: #e4eaee;
+}
+.bar-exp {
+    background: url(../bar_exp3.png) no-repeat;
+}
+.bar-exp div {
+    background: url(../skill3.png) no-repeat;
+}
+.all {
+    background: url(../main3.png) repeat-y;
+    background-position: 370px 20px;
+}
+.ic1 .icf {
+  background: url(../date3.png) no-repeat;
+}
+
+.ic2 .icf {
+  background: url(../sex3.png) no-repeat;
+}
+
+.ic3 .icf {
+  background: url(../phone3.png) no-repeat;
+}
+
+.ic4 .icf {
+  background: url(../mail3.png) no-repeat;
+}
+
+.ic5 .icf {
+  background: url(../add3.png) no-repeat;
+}

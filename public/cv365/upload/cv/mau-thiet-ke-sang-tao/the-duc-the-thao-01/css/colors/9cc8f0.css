@@ -1,0 +1,42 @@
+#box-hvt {
+    float: left;
+    width: 100%;
+    padding: 0;
+    text-align: center;
+    margin: 0;
+    height: 191px;
+    padding-top: 60px;
+    background: url(bg2.png);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    background-position: center;
+}
+#cv-main {
+    text-align: justify;
+    margin: 0;
+    padding: 0;
+    position: relative;
+    float: left;
+    width: 48.3%;
+    background: #9cc8f0;
+}
+#cv-content .head {
+    height: 35px;
+    width: 100%;
+    line-height: 35px;
+    margin-bottom: 0;
+    background: #9cc8f0;
+}
+.all {
+  border-bottom: 30px solid #9cc8f0;
+}
+.bar-exp {
+    background: #9cc8f0;
+    height: 10px;
+    float: none;
+    margin-top: 0;
+    margin-bottom: 0px;
+    padding: 0px;
+    border:1px solid #000;
+    border-radius: 5px;
+}

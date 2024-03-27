@@ -1,0 +1,634 @@
+#form-cv {
+    font-family: "Roboto", sans-serif;
+    width: 100%;
+    float: left;
+    position: relative;
+    font-size: 14px;
+    line-height: 23px;
+    color: #484848;
+    background-color: #fff;
+}
+
+.watermark {
+    float: left;
+    width: 100%;
+    height: 22px;
+    color: #999;
+    text-align: right;
+    padding-right: 22px;
+    font-size: 15px;
+    font-family: Courier;
+    background: #fff;
+}
+
+
+/* #form-cv p{
+margin-top: 0;
+margin-bottom: 6px
+} */
+
+#sortable .cvo-block {
+    padding: 0 10px;
+    padding-bottom: 20px;
+}
+
+#sortable .cvo-block .box-content {
+    padding: 0;
+    margin: 0;
+    padding-top: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+#cvo-profile {
+    display: block;
+    height: 400px;
+}
+
+.box-01 {
+    height: 400px;
+}
+
+
+/* .exp .ctbx{
+padding-left: 30px;
+} */
+
+#cv-content {
+    width: 55%;
+    text-align: justify;
+    float: left;
+    position: relative;
+    padding: 0;
+    margin: 0;
+    padding-top: 20px;
+    background: #2c231e;
+    color: #fff;
+}
+
+#cv-content .ir {
+    padding: 0 20px 0 20px;
+}
+
+#cv-main {
+    text-align: justify;
+    margin: 0;
+    padding: 0;
+    padding-top: 30px;
+    position: relative;
+    float: right;
+    width: 43%;
+    background: #fff;
+}
+
+#cv-right .ir {
+    /* padding: 0 10px 0 10px;*/
+}
+
+p.skill-name input {
+    color: #fff !important;
+}
+
+#cv-right #box03 .ctbx {
+    width: 91%;
+    padding: 0;
+    margin: 0;
+    border: 0;
+    padding-top: 10px;
+    padding-left: 10px;
+}
+
+#cv-top {
+    width: 100%;
+    height: 400px;
+    background: #c8c8c8;
+    position: relative;
+}
+
+#cv-top h1 {
+    font-size: 50px;
+    font-family: "Roboto";
+    line-height: normal;
+    text-transform: uppercase;
+    margin-bottom: 0;
+    color: #000;
+    margin-top: 0;
+    font-weight: bold;
+    text-align: left;
+}
+
+#box-hvt {
+    float: right;
+    width: 42%;
+    padding: 0;
+    margin: 0;
+    padding-top: 100px;
+}
+
+#sortable #box01 {
+    margin-top: -20px;
+    padding-top: 0px;
+    /* display: none; */
+    /*  padding-bottom: 10px*/
+}
+
+#sortable #box01 #prof {
+    padding: 0;
+    margin: 0;
+    padding-left: 30px;
+}
+
+#box01 ul {
+    list-style: none;
+    padding-left: 20px
+}
+
+#cv-right .cvo-block .head div {
+    color: #fff;
+}
+
+.innertext {
+    margin: 0px;
+    padding: 0px;
+    width: 29%;
+    float: left;
+    color: white;
+}
+
+#cv-top h2 {
+    width: 100%;
+    font-size: 23px;
+    font-family: "Roboto";
+    color: #000;
+    text-transform: uppercase;
+    text-align: left;
+    font-weight: bold;
+    margin: 0;
+    padding: 0;
+    margin-top: 10px;
+    margin-bottom: 0
+}
+
+.box-01 p {
+    overflow: hidden;
+}
+
+#cv-content p {
+    margin-bottom: 5px
+}
+
+#cv-content .ir a {
+    color: #2ebb2f
+}
+
+#cv-right h3,
+#cv-content .head {
+    font-size: 20px;
+    text-transform: unset;
+    font-weight: bold;
+    text-align: left;
+    margin: 0px auto 10px;
+    line-height: 20px;
+    padding-top: 0px;
+}
+
+#cv-content h3 {
+    font-size: 16px;
+    line-height: 24px;
+    font-weight: unset;
+    margin: 0px;
+    padding: 0px;
+}
+
+#cv-content .exp-date {
+    float: none;
+}
+
+#cv-content #block01 .exp-date {
+    display: none;
+    padding: 0!important;
+}
+
+#cv-content #block03 .exp-date {
+    display: none;
+}
+
+#cv-content #block04 .exp-date {
+    display: none;
+}
+
+#cv-content #block05 .exp-date {
+    display: none;
+}
+
+#cv-content p.h3 {
+    margin: 0px;
+    padding: 0px;
+}
+
+#cv-content .cvo-block {
+    padding: 0!important;
+    margin: 0;
+}
+
+.ctbx {
+    padding-left: 10px;
+    padding-right: 10px
+}
+
+#cv-content span {
+    display: inline-block;
+    z-index: 9999;
+}
+
+#cv-content #block02 h3 {
+    font-weight: bold;
+}
+
+.ctbx {
+    margin-bottom: 10px;
+    padding-left: 0;
+    padding-right: 0;
+    position: relative;
+}
+
+.ctbx:hover {
+    box-shadow: 0 0 1px #999;
+}
+
+.ctbx:hover .fieldgroup_controls {
+    display: block;
+}
+
+[cvo-form-field] {
+    cursor: text;
+}
+
+#cvo-profile-avatar-wraper {
+    float: left;
+    height: 400px;
+    width: 55%;
+    padding: 0;
+    margin: 0;
+}
+
+#cvo-profile-avatar-wraper .wimg {
+    width: 100%;
+    height: 400px;
+    padding: 0px;
+    margin: 0px;
+    float: left;
+}
+
+#cvo-profile-avatar-wraper img {
+    width: 100%;
+    height: 400px;
+    float: left;
+    display: inline-block;
+}
+
+#line-seperate {
+    height: 25px;
+}
+
+.bar-exp div {
+    float: left;
+    height: 8px;
+    background: #2f2521;
+    margin-top: 0px;
+}
+
+.ctbx .skill-name {
+    margin: 0px;
+    padding: 0px;
+}
+
+.bar-exp {
+    background: #fff;
+    height: 8px;
+    float: none;
+    margin-top: 0;
+    margin-bottom: 0px;
+    padding: 0px;
+    border: 1px solid #2f2521;
+}
+
+.bar-value-exp {
+    width: 100%
+}
+
+.bar-value-exp input[type="text"] {
+    color: #fff;
+    width: 95%
+}
+
+.icoweb label {
+    display: block;
+}
+
+
+/*#sortable .icoweb {
+width: 87%;
+height: 30px;
+line-height: 30px;
+float: right;
+padding-left: 5px;
+margin-bottom: 0
+}*/
+
+#sortable .ic {
+    margin-bottom: 0px;
+    padding: 3px 0px;
+}
+
+#form-cv .icf {
+    float: left;
+    border-radius: 5px;
+    line-height: 30px;
+    margin-bottom: 0;
+    width: 28px;
+    text-align: center;
+}
+
+#cv-right .block {
+    position: relative !important;
+    margin: 0 !important;
+}
+
+.ic .icoweb {
+    width: 85%;
+    text-align: left;
+    padding-left: 5px;
+    float: left;
+}
+
+.ic {
+    width: 100%;
+    float: left;
+}
+
+#prof span {
+    width: 370px;
+}
+
+#prof [contentEditable=true] {
+    width: 370px;
+    float: left;
+}
+
+#prof .icoweb,
+#prof .icoweb span {
+    height: auto;
+}
+
+.icf .fa {
+    font-size: 20px;
+    color: #fff;
+    margin-top: 0;
+    float: none
+}
+
+.footer {
+    display: inline-block;
+    width: 100%;
+    /* height: 174px; */
+    background: url("footer.png");
+    background-repeat: no-repeat;
+    background-size: 100% auto;
+    float: left;
+    z-index: 998;
+    margin-top: -119px;
+}
+
+.container {
+    width: 100%;
+}
+
+.sum {
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    height: 40px;
+}
+
+#cv-content .head {
+    width: 87%;
+    height: 35px;
+    float: right;
+    margin: 0;
+    padding: 0;
+    text-transform: uppercase;
+    line-height: 33px;
+    color: #000;
+    text-align: center;
+    background: #fff;
+}
+
+.sumic1 {
+    width: 27px;
+    height: 27px;
+    margin: 0;
+    padding: 0;
+    float: left;
+    background-size: 100% auto;
+    background-repeat: no-repeat;
+}
+
+.sumic2 {
+    width: 27px;
+    height: 27px;
+    margin: 0;
+    padding: 0;
+    float: left;
+    background-size: 100% auto;
+    background-repeat: no-repeat;
+}
+
+.sumic3 {
+    width: 27px;
+    height: 27px;
+    margin: 0;
+    padding: 0;
+    float: left;
+    background-image: url(icon.png);
+    background-size: 100% auto;
+    background-repeat: no-repeat;
+}
+
+.sumic4 {
+    width: 27px;
+    height: 27px;
+    margin: 0;
+    padding: 0;
+    float: left;
+    background-image: url(icon.png);
+    background-size: 100% auto;
+    background-repeat: no-repeat;
+}
+
+.sumic5 {
+    width: 27px;
+    height: 27px;
+    margin: 0;
+    padding: 0;
+    float: left;
+    background-image: url(icon.png);
+    background-size: 100% auto;
+    background-repeat: no-repeat;
+}
+
+#experience-table .ctbx {
+    /* padding-top: 40px; */
+}
+
+.ifo {
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    height: 30px;
+    /*border-bottom: 2px solid black;*/
+}
+
+.ifoic {
+    width: 27px;
+    height: 27px;
+    margin: 0;
+    padding: 0;
+    float: left;
+    /*  background-image: url(icon.png);*/
+    background-size: 100% auto;
+    background-repeat: no-repeat;
+}
+
+.ski {
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    height: 30px;
+}
+
+.skic {
+    width: 27px;
+    height: 27px;
+    margin: 0;
+    padding: 0;
+    float: left;
+    background-image: url(icon.png);
+    background-size: 100% auto;
+    background-repeat: no-repeat;
+}
+
+.cum {
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    height: 35px;
+}
+
+#cv-right h3 {
+    text-align: left;
+    height: 27px;
+    margin: 0;
+    padding: 0;
+    line-height: 27px;
+    text-transform: uppercase;
+    border-bottom: 3px solid #2f2521;
+}
+
+.cumic2 {
+    width: 27px;
+    height: 27px;
+    margin: 0;
+    padding: 0;
+    float: left;
+    background-image: url(icon.png);
+    background-size: 100% auto;
+    background-repeat: no-repeat;
+}
+
+.cumic4 {
+    width: 27px;
+    height: 27px;
+    margin: 0;
+    padding: 0;
+    float: left;
+    background-image: url(icon.png);
+    background-size: 100% auto;
+    background-repeat: no-repeat;
+}
+
+.cumic5 {
+    width: 27px;
+    height: 27px;
+    margin: 0;
+    padding: 0;
+    float: left;
+    background-image: url(icon.png);
+    background-size: 100% auto;
+    background-repeat: no-repeat;
+}
+
+.cumic6 {
+    width: 27px;
+    height: 27px;
+    margin: 0;
+    padding: 0;
+    float: left;
+    background-image: url(icon.png);
+    background-size: 100% auto;
+    background-repeat: no-repeat;
+}
+
+.cumic7 {
+    width: 27px;
+    height: 27px;
+    margin: 0;
+    padding: 0;
+    float: left;
+    background-image: url(icon.png);
+    background-size: 100% auto;
+    background-repeat: no-repeat;
+}
+
+#sortable {
+    margin-top: -30px
+}
+
+.block-title {
+    margin-left: 30px
+}
+
+#cvo-profile-avatar {
+    width: 437px;
+    height: 400px;
+}
+
+#block01 .sum {
+    background: url(icon_03.gif)no-repeat;
+    background-size: 11% 79%;
+    float: left;
+}
+
+#block02 .sum {
+    background: url(icon_06.gif)no-repeat;
+    background-size: 11% 79%;
+    float: left;
+}
+
+#block03 .sum {
+    background: url(icon_08.gif)no-repeat;
+    background-size: 11% 79%;
+    float: left;
+}
+
+#block04 .sum {
+    background: url(icon_10.gif)no-repeat;
+    background-size: 11% 79%;
+    float: left;
+}
+
+#block05 .sum {
+    background: url(icon_12.gif)no-repeat;
+    background-size: 11% 79%;
+    float: left;
+}

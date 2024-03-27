@@ -1,0 +1,271 @@
+#page-cv{
+	width: 1072px;
+	float: left;
+}
+#form-cv{
+	width: 900px;
+	min-height: 1273px;
+	float: left;
+	position: relative;
+	font-size: 14px;
+	line-height: 24px;
+	color:#1a1a1a;
+	border: solid 1px #e1e1e1;
+	background:#ff9999;
+}
+#form-cv p{
+	margin-top: 0;
+
+}
+#sortable .cvo-block{
+	margin-bottom: 5px
+}
+
+#cv-content .cvo-block {
+	
+}
+
+#cv-main{
+	display: table;
+}
+#cv-top{	
+	width: 40.6%;
+	float: left;
+
+}
+#cv-content{
+	width: 54%;
+	min-height: 1273px;
+	float: right;
+	position: relative;
+	padding-right: 5px;
+	background: #ff9999;
+	font-weight: 500;
+	margin-left: 10px;
+}
+#cv-right{
+	width: 40.6%;
+	min-height: 863px;
+	float: left;	
+	position: relative;
+	padding: 0px 15px;
+
+}
+
+p.skill-name input{
+	color: #ffffff!important;
+}
+
+#cv-right .cvo-block span{
+	color: #ffffff;
+
+}
+#cv-right .cvo-block{
+	margin-top: 20px;
+	background:#4da1b5;
+	border-radius: 30px 30px 30px 30px; 
+	padding: 20px 20px;
+	
+}
+#cv-right .ctbx {
+	padding-bottom: 0;
+	margin:0;
+}
+.skill{
+
+}
+
+
+#cv-top h1{
+	font-size: 30px;	
+	margin:0;
+	padding:5px 30px 15px 30px;
+	line-height: normal;
+	text-transform: uppercase;
+	text-align: center;
+
+    font-weight: 700;
+}
+
+#cv-top h1 span{
+	padding: 0px 15px;
+	color: #4da1b5;
+}
+
+#cv-top h2{
+	font-size: 16px;
+	font-weight: normal;
+	margin-bottom: 12px;
+	color: #4da1b5;
+	text-align: center;
+    font-style: italic;
+    font-weight: bold;
+}
+.box-01 p{		
+    overflow: hidden;
+}
+.box-01{		
+	overflow: hidden
+
+}
+#cv-content .ir{
+	
+}
+#cv-content p{
+	margin-bottom: 5px
+}
+#cv-content .ir a{
+	color: #2ebb2f
+}
+#cv-right .h3, #cv-content .head{
+
+	font-size: 18px;
+    color: #000000;
+    font-weight: bold;
+    margin-top: 0;
+    text-transform: uppercase;
+
+    text-align: center;
+
+}
+
+#cv-content .head span{
+	margin-top: 5px;
+	color: #ffffff;
+	background:  #4da1b5;
+	padding: 3px 15px;
+	margin: 5px 0px;
+	    border-radius: 20px 20px 20px 20px;
+}
+
+#cv-right .h3 span{
+	color: #4da1b5;
+	background: #ffffff;
+	padding: 3px 15px;
+	margin: 3px 0px;
+	border-radius: 20px 20px 20px 20px;
+
+}
+#cv-content h3{	
+	font-weight: 600;
+    font-size: 15px;
+    color: #008182;
+}
+
+#cv-content .head{	
+	margin-top: 30px;
+	 background: url(../line4f84a6.png) left center repeat-x;
+}
+
+#cv-content .cvo-block {
+    padding: unset;
+
+}
+
+
+
+
+#cv-right .h3{	
+    background: #ffffff;
+}
+
+#cv-content span{
+	display: inline-block;
+	padding-right: 10px;
+	padding-left: 10px;
+	z-index: 9999;
+}
+
+#cv-right .h3:first-child{
+	margin-top: 0
+}
+.ctbx{
+	margin-bottom: 25px;
+	position: relative;
+}
+.ctbx .r5 .h3{
+	text-transform: uppercase;
+}
+.ctbx:hover {
+	box-shadow: 0 0 1px #999;
+}
+.ctbx:hover .fieldgroup_controls{
+	display: block;
+}
+[cvo-form-field] {
+    cursor: text;
+}
+#cvo-profile-avatar-wraper{	
+	padding:0px 0px 0px;
+	/*margin-bottom: 10px*/
+}
+#cvo-profile-avatar-wraper #cvo-profile-avatar{
+	padding: 0;
+	border:0;
+	width: 200px;
+	height: 200px;
+	border:solid 3px #4da1b5;
+	border-radius: 30px 30px 30px 30px; 
+}
+#line-seperate {
+    height: 25px;
+    /*background-color: #e3ecec;*/
+}
+.bar-exp span {
+    float: left;
+    height: 8px;
+    background: #008182;
+}
+.bar-exp{
+	background: #e1e1e1;
+	border: solid 1px #ffffff;
+}
+.icoweb label{
+	display: block;
+	color:#ffffff;
+}
+#cv-right .icoweb span{
+	display: block;
+	color: #ffffff;
+}
+
+.box-contact{
+	padding:15px!important;
+	font-size: 15px;
+}
+
+#sortable .icoweb i.fa{
+	width: 20px;
+    height: 20px;
+    border-radius: 50%;
+    -webkit-border-radius: 50%;
+    -moz-border-radius: 50%;
+    display: inline-block;
+    text-align: center;
+    font-size: 13px;
+    line-height: 20px;
+    margin-right: 10px;
+    margin-top: 2px;
+    color:#ffffff!important;
+}
+.exp-content{
+	padding-left: 15px;
+}
+
+.head i.fa, .h3 i.fa{
+	font-size: 12px;
+	border: solid 1px #7c7a79;
+	border-radius: 50%;
+	width: 12px;
+	color: #7c7a79;
+	/*background: white;*/
+	margin-bottom: 5px;
+	text-align: center;
+	padding: 4px;
+}
+
+
+
+
+
+

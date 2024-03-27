@@ -1,0 +1,26 @@
+/* 2 */
+
+:root {
+  --sex: url(sex2.png) no-repeat;
+  --phone: url(phone2.png) no-repeat;
+  --date: url(date2.png) no-repeat;
+  --email: url(mail2.png) no-repeat;
+  --add: url(add2.png) no-repeat;
+  --page: url(page2.png) no-repeat;
+  --fake: url(fake2.png) no-repeat;
+  --top: url(top2.png) no-repeat;
+  --main: url(main2.png) no-repeat;
+  --skill: url(skill2.png) no-repeat;
+  --kn: url(kn2.png) no-repeat;
+  --content: url(content2.png) no-repeat;
+  --kinang: url(kinang2.png) no-repeat;
+  --giaithuong: url(giaithuong2.png) no-repeat;
+  --chungchi: url(chungchi2.png) no-repeat;
+  --sothich: url(sothich-2.png) no-repeat;
+  --nguoiTC: url(nguoiTC2.png) no-repeat;
+  --color: #7eaa92;
+  --color-n: #d8ede5;
+  --color-t: #3f5448;
+  --color-j: #3f5448;
+  --color-c: #3f5448;
+}

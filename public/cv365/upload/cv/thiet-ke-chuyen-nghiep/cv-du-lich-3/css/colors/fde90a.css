@@ -1,0 +1,77 @@
+    #cvo-profile-avatar-wraper .wimg {
+        width: 180px;
+        border-radius: 3px;
+        padding: 0px;
+        margin: 0px;
+		border: 5px solid #fde90a;
+    }
+
+    .bar-exp div {
+        float: left;
+        height: 10px;
+        background: #fde90a;
+        margin-top: 0px;
+    }
+    .icf .fa {
+        font-size: 14px;
+        color: #fde90a;
+        margin-top: 0;
+        float: none
+    }
+        #experience-table {
+	    border-left: 5px solid #fde90a;
+    clear: both;
+		margin-left: 12px;
+    }
+#form-cv {
+        font-family: "Roboto", sans-serif;
+        width: 100%;
+        float: left;
+        position: relative;
+        font-size: 14px;
+        line-height: 24px;
+        color: #484848;
+        background:url(bg3.png)no-repeat;
+		height: 100%;
+	background-size: cover;
+    }
+
+
+#box-hvt{
+	background: url(hd4.png)no-repeat
+}
+#block01 .icon{
+	background: url(icon1c.png)no-repeat left;
+	float: left;
+	width: 30px;
+	height: 30px;
+	padding-right: 10px;
+}
+#block02 .icon{
+	background: url(icon2c.png)no-repeat left;
+	float: left;
+	width: 30px;
+	height: 30px;
+	padding-right: 10px;
+}
+#block03 .icon{
+	background: url(icon3c.png)no-repeat left;
+	float: left;
+	width: 30px;
+	height: 30px;
+	padding-right: 10px;
+}
+#block04 .icon{
+	background: url(icon4c.png)no-repeat left;
+	float: left;
+	width: 30px;
+	height: 30px;
+	padding-right: 10px;
+}
+#block05 .icon{
+	background: url(icon5c.png)no-repeat left;
+	float: left;
+	width: 30px;
+	height: 30px;
+	padding-right: 10px;
+}

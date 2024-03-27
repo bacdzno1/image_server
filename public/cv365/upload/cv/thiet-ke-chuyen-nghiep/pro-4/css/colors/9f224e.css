@@ -1,0 +1,16 @@
+#cv-content .head, .bar-exp div{
+	background: #9f224e
+}
+#cvo-profile-avatar-wraper{
+	border:5px solid #9f224e;
+}
+#cv-top h1, #cv-top h2, .icf .fa{
+	color:#9f224e;
+}
+#cv-right h3{
+	color: #9f224e;
+    border: 2px solid #9f224e;
+}
+.bar-exp{
+	border: 2px solid #9f224e;	
+}

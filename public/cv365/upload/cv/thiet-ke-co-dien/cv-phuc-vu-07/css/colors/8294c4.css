@@ -1,0 +1,33 @@
+/* 3 */
+
+:root {
+  --sex: url(sex3.png) no-repeat;
+  --phone: url(phone3.png) no-repeat;
+  --date: url(date3.png) no-repeat;
+  --email: url(mail3.png) no-repeat;
+  --add: url(add3.png) no-repeat;
+  --page: url(page3.png) no-repeat;
+  --fake: url(fake3.png) no-repeat;
+  --chu: url(chu3.png) no-repeat;
+  --main: url(main3.png) no-repeat;
+  --content: url(content3.png) no-repeat;
+  --all: url(all3.png) repeat-y;
+  --tt2: url(tt2-3.png) no-repeat;
+  --tt1: url(tt1-3.png) no-repeat;
+  --ngang: url(ngang3.png) no-repeat;
+  --dot: url(dot3.png) no-repeat;
+  --dn: url(dot3.png) no-repeat, url(ngang3.png) no-repeat;
+  --hocvan: url(hocvan3.png) no-repeat;
+  --kinhnghiem: url(kinhnghiem3.png) no-repeat;
+  --hoatdong: url(hoatdong3.png) no-repeat;
+  --duan: url(duan3.png) no-repeat;
+  --TTthem: url(TTthem3.png) no-repeat;
+  --muctieu: url(muctieu3.png) no-repeat;
+  --kinang: url(kinang3.png) no-repeat;
+  --giaithuong: url(giaithuong3.png) no-repeat;
+  --chungchi: url(chungchi3.png) no-repeat;
+  --sothich: url(sothich3.png) no-repeat;
+  --nguoiTC: url(nguoiTC3.png) no-repeat;
+  --color: #8294c4;
+  --color-n: #cdd4e7;
+}

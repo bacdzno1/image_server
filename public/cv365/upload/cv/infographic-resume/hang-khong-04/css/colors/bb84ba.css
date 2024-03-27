@@ -1,0 +1,200 @@
+#cv-top {
+    width: 100%;
+    /* height: 225px; */
+    background-image: url(hd4.png);
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    position: relative;
+}
+.cum, .ski{
+    height: 40px;
+    line-height: 31px;
+   background: url(name4.png)no-repeat;
+   background-size: 100%;
+}
+#cv-content .head {
+    color: #f38bb8;
+    text-align: left;
+    height: 35px;
+    line-height: 35px;
+    background: url(name4.png)no-repeat;
+    background-size: 100% 100%;
+    padding-left: 7px;
+}
+#icright1{
+      background: url(icon8_d.png)no-repeat;
+    float: left;
+    height: 40px;
+    width:80px;
+}
+#icright2{
+      background: url(icon9_d.png)no-repeat;
+    float: left;
+    height: 40px;
+    width:80px;
+
+}
+#icright3{
+    background: url(icon10_d.png)no-repeat;
+    float: left;
+    height: 45px;
+    width: 80px;
+}
+#icright4{
+      background: url(icon11_d.png)no-repeat;
+    float: left;
+    height: 40px;
+    width:80px;
+
+}
+
+#icright5{
+      background: url(icon12_d.png)no-repeat;
+    float: left;
+    height: 40px;
+    width:80px;
+}
+.cumicc1{
+      background: url(icon1_d.png)no-repeat;
+    float: left;
+    height: 40px;
+    width:65px;
+}
+.cumicc2{
+        background: url(icon2_d.png)no-repeat;
+    float: left;
+    height: 45px;
+    width:65px;
+}
+.cumicc3{
+        background: url(icon3_d.png)no-repeat;
+    float: left;
+    height: 45px;
+    width:65px;
+}
+.cumicc4{
+        background: url(icon4_d.png)no-repeat;
+    float: left;
+    height: 45px;
+    width:65px;
+}
+.cumicc5{
+        background: url(icon5_d.png)no-repeat;
+    float: left;
+    height: 45px;
+    width:65px;
+}
+.cumicc6{
+        background: url(icon6_d.png)no-repeat;
+    float: left;
+    height: 45px;
+    width:65px;
+}
+.cumicc7{
+        background: url(icon7_d.png)no-repeat;
+    float: left;
+    height: 45px;
+    width:65px;
+}
+#cv-main {
+    text-align: justify;
+    margin: 0;
+    padding: 0;
+    position: relative;
+    float: left;
+    width: 43.7%;
+    border-right: 4px solid #f38bb8;
+}
+#cv-top h1 {
+    font-size: 36px;
+    font-family: "Roboto";
+    line-height: normal;
+    text-transform: uppercase;
+    margin-bottom: 0;
+    color: #f38bb8;
+    font-weight: bold;
+    text-align: center;
+    padding-top: 65px;
+  }
+  #cv-top h2 {
+    text-transform: uppercase;
+    width: 100%;
+    font-size: 16px;
+    font-family: "Roboto";
+    color: #f38bb8;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+    position: relative;
+    margin-bottom: 0;
+}
+#cv-content h3 {
+    font-size: 16px;
+    line-height: 24px;
+    font-weight: bold;
+    margin: 0px;
+    padding: 0px;
+    color: #f38bb8;
+    padding-top: 5px;
+}
+
+#cvo-profile-avatar-wraper .wimg {
+    width: 175px;
+    height: 175px;
+    padding: 0px;
+    margin: 0px;
+    margin-top: 0px;
+    border: 2px solid #f38bb8;
+    border-radius: 10px;
+
+}
+.bar-exp {
+    background: #fff;
+    height: 7px;
+    float: none;
+    margin-top: 0;
+    margin-bottom: 0px;
+    padding: 0px;
+    border: 1px solid #f38bb8;
+    border-radius: 5px;
+}
+.icf .fa {
+    font-size: 20px;
+    margin-top: 0;
+    float: none;
+    color: #f38bb8;
+}
+#cv-right h3 {
+    width: 100%;
+    height: 30px;
+    margin: 0;
+    color: #ffffff;
+    padding: 0;
+    float: left;
+    line-height: 30px;
+    text-align: center;
+    background: #f38bb8;
+}
+
+#bg{
+	background: #f38bb8;
+	text-align: left;
+}
+div#cv-boxtitle {
+    font-size: 18px;
+    font-weight: bold;
+    text-transform: uppercase;
+    color: #f38bb8;
+}
+.footer{
+  width: 100%;
+  height: 35px;
+  background: #f38bb8;
+  float: left;
+}
+.bar-exp div {
+  float: left;
+  height: 7px;
+  background: #f38bb8;
+  margin-top: 0px;
+}

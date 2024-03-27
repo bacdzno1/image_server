@@ -1,0 +1,31 @@
+:root {
+  --sex: url(gender.png) no-repeat;
+  --phone: url(phone.png) no-repeat;
+  --date: url(birthday.png) no-repeat;
+  --email: url(mail.png) no-repeat;
+  --add: url(address.png) no-repeat;
+  --color: #e1aa2a;
+  --color2: #f2dba5;
+  --foot: url(foot3.png) no-repeat;
+  --kn: url(kn1.png) no-repeat;
+  --time: url(time3.png) no-repeat;
+
+  --fake: url(fake3_01.png) no-repeat;
+  --thongtin: url(thongtin3-1.png) no-repeat;
+  --h3: url(h3-3.png) no-repeat;
+  --skil: url(skill3.png) no-repeat;
+  --hocvan: url(hocvan3.png) no-repeat;
+  --kinhnghiem: url(kinhnghiem3.png) no-repeat;
+  --duan: url(duan3.png) no-repeat;
+  --hoatdong: url(hoatdong3.png) no-repeat;
+  --muctieu: url(muctieu3.png) no-repeat;
+  --kinang: url(kinang3.png) no-repeat;
+  --giaithuong: url(giaithuong3.png) no-repeat;
+  --chungchi: url(chungchi3.png) no-repeat;
+  --sothich: url(sothich3.png) no-repeat;
+  --nguoithamchieu: url(nguoithamchieu3.png) no-repeat;
+  --dgKe: url(dg-ke3.png) no-repeat;
+  --muiten: url(muiten3.png) no-repeat;
+  --chu: url(chu3.png) no-repeat;
+  --exp1: url(exp1-1.png) no-repeat;
+}

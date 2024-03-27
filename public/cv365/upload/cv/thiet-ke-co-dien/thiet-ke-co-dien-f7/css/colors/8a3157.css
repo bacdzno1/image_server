@@ -1,0 +1,11 @@
+/* right */
+#cv-right .h3 span,#cv-center{background-color: #8a3157!important;}
+#cv-content .head span:before {color: #8a3157!important;}
+
+/* left */
+#cv-right .h3:before, #cv-content, .bar-exp span,.bar-exp span:after,#cvo-profile-avatar-wraper,#cv-top {background-color: #e6d1da!important;}
+#cv-right .icoweb span.cv-hi i,#cv-right, #cv-right .h3 {color: #e6d1da!important;}
+
+/* bongMo */
+.background-cv {background-color: rgba(138, 49, 87, 0.59)!important}
+.box-01:before {border-left-color: rgba(138, 49, 87, 0.59)!important}

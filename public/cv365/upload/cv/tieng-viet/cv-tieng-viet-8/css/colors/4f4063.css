@@ -1,0 +1,80 @@
+#cv-top {
+    width: 100%;
+    height: 280px;
+    background-image: url(bg-3.png);
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    position: relative;
+}
+.all {
+    border: 20px solid #4f4063;
+    border-top: 0;
+}
+.thanhngang {
+    height: 15px;
+    width: 100%;
+    background: url(tt3.png);
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+}
+div#cv-boxtitle {
+    font-size: 18px;
+    font-weight: bold;
+    text-transform: uppercase;
+    color: #4f4063;
+}
+#cv-content .head #cvo-experience-blocktitle {
+    color: #4f4063;
+}
+.footer {
+    width: 100%;
+    height: 60px;
+    background: url(ft3.png);
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    background-position: center;
+    float: left;
+    position: relative;
+    z-index: 999999;
+    margin-top: -20px;
+}
+.bar-exp div {
+    float: left;
+    height: 10px;
+    background: #4f4063;
+    margin-top: 0px;
+}
+.bar-exp {
+    background: #fff;
+    height: 10px;
+    float: none;
+    margin-top: 0;
+    margin-bottom: 0px;
+    padding: 0px;
+    border: 1px solid #4f4063;
+    border-radius: 5px;
+}
+.icf .fa {
+    font-size: 20px;
+    color: #4f4063;
+    margin-top: 0;
+    float: none;
+}
+#cvo-profile-avatar-wraper img {
+    width: 195px;
+    height: 195px;
+    border: 2px solid #4f4063;
+    float: none;
+    display: inline-block;
+}
+#cv-main {
+    text-align: justify;
+    margin: 0;
+    padding: 0;
+    position: relative;
+    float: left;
+    width: 45.8%;
+    margin-left: 5px;
+    border-right: 5px solid #4f4063;
+    padding-right: 5px;
+}

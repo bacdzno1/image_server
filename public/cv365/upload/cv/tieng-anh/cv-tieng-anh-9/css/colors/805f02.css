@@ -1,0 +1,9 @@
+#cv-content .head div, #cv-main{
+    background: #805f02;
+}
+#cv-right h3, #cv-content .head, #cv-right .cvo-block h3 div{
+	color:#805f02;
+}
+#cv-content .head{	
+	background: url('line805f02.png') center center repeat-x;	
+}

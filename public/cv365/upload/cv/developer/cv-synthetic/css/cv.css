@@ -1,0 +1,402 @@
+#form-cv{
+	width: 100%;
+	/* min-height: 1271px; */
+	float: left;
+	position: relative;
+	font-size: 14px;
+	line-height: 20px;
+	color:#070000;
+}
+
+.cv-div{
+	float: left;
+	width: 100%;
+	margin: 0px;
+	padding: 0px;
+	background-color: #f2f9f1;
+}
+
+#sortable .cvo-block{
+	float: right;
+	width: 80%;
+	padding: 0px
+}
+#cv-right #box01 h3{
+	padding-top: 20px;
+}
+#cv-main{
+	float: left;
+	width: 100%;
+	margin-top: 0px;
+	border-top: 0px;
+	background-image: url(bg2.png);
+	background-repeat: repeat-y;
+	background-position: left;
+	background-color: #ffffff;
+}
+#cv-top{
+    /* text-align: center; */
+    height: 344px;
+    float: left;
+    width: 100%;
+    padding: 0px;
+    margin: 0px;
+    background-image: url(bg.png);
+    background-size: 100% 100%;
+    /* height: auto; */
+}
+
+#cvo-profile{
+	float: left;
+	width: 100%;
+	padding: 0px;
+	margin: 0px;
+}
+.box-info {
+    width: 64%;
+    float: right;
+    position: relative;
+    z-index: 2;
+    margin-top: -150px;
+    padding-bottom: 70px;
+}
+#box01 p [contentEditable=true] {
+    width: 350px;
+    display: inline-block;
+}
+.box-01 {
+    float: left;
+    width: 100%;
+    padding: 0px;
+    margin: 0px;
+    line-height: 0px;
+    padding-top: 40px;
+    padding-bottom: 60px;
+}
+.box_bg{
+	height: 365px;
+	width: 100%;
+	float: left;
+}
+#cv-content{
+    width: 100%;
+    float: right;
+    color: #374d59;
+    padding-left: 3%;
+    padding-bottom: 20px;
+}
+#cv-right{
+	width: 100%;
+	float: left;	
+	position: relative;	
+	background-size: 100% auto;
+    color: #303030;
+    padding-top: 0px;
+}
+
+
+#cv-content .cvo-block{
+	padding: 0px; 
+	padding-top: 8px;
+	width: 80%;
+	float: right;
+}
+
+#cv-content .box-contact{
+	border: none;
+}
+
+p.skill-name input{
+	color: #070000!important;
+}
+
+#cv-right .ctbx {
+	padding: 0;
+	margin:0;
+	border:0;
+	padding-left: 1%;
+	margin-left: 1%;
+}
+.skill{
+	float: left;
+	width: 100%;
+}
+#cvo-profile-avatar-wraper img{
+    width: 181px;
+    height: 181px;
+    border: solid 3px #d8ad8b;
+}
+
+#cv-top h1{
+    float: left;
+    width: 100%;
+    margin: 0px;
+    font-size: 35px;
+    padding: 45px 0px 10px 0px;
+    letter-spacing: 3px;
+    margin-left: 0px;
+    color: #424242;
+    font-weight: bold;
+    line-height: 40px;
+    text-transform: uppercase;
+    text-align: center;
+}
+
+#box-hvt{
+	float: right;
+    width: 60%;
+    padding-left: 2%;
+    margin-top: 0px;
+}
+
+#box-hvt p{
+	display: none;
+}
+
+#cv-top h2{
+	float: left;
+	width: 100%;
+	padding: 0px;
+	margin: 0px;
+	font-size: 18px;
+    text-align: left;
+    color: #424242;
+    line-height: 24px;
+    text-transform: uppercase;
+    font-weight: bold;
+    letter-spacing: 4px;
+    text-align: center;
+
+}
+
+.ir{
+	float: left;
+	width: 100%;
+}
+
+.box-01 p h2{	
+    padding-top: 10px;
+}
+#cv-content p{
+	margin-bottom: 5px
+}
+#cv-content .ir a{
+	color: #2ebb2f
+}
+#cv-right .h3, #cv-right h3, #cv-content .head{
+	font-size: 18px;    
+    margin-top: 0;
+    text-transform: uppercase;
+    font-weight: bold;
+}
+#cv-right h3{
+    float: left;
+	margin: 0px;
+	padding: 0px;
+    padding-top: 5px;
+    padding-left: 10px;
+}
+
+#box01 .icoweb{
+	float: left;
+	width: 100%;
+    margin-bottom: 0px;
+    margin-top: 0px;
+    padding: 0px!important;
+    line-height: 25px;
+}
+
+#sortable .cvo-block p{
+	float: left;
+	width: 96%;
+	padding:0 2%;
+}
+#cv-right #sortable .box-contact{
+	display: none;
+}
+
+#cv-right h3 span{
+	color: #144d53;
+}
+
+#cv-right #box01 h3 span{
+	color: #fff;
+}
+
+#cv-right .ir{
+	float: left;
+	width: 100%;
+}
+
+#box01 h3{
+	text-align: center;
+}
+
+#cv-content .head {
+float: left;
+width: 100%;
+padding: 0px;
+margin: 0px;
+color: #1f5e63;
+padding-left: 10px;
+
+}
+#cv-content .head span{
+	padding-right: 10px;
+}
+
+.exp .ctbx{
+	width: 94%;
+	margin-left: 1%;
+}
+#cv-right .h3{
+	height: 45px;
+	text-align: center;
+	width: 100%;
+}
+
+#cv-right .h3 span{
+	margin: 3px 0px;
+	color: #000000;
+	line-height: 43px;
+}
+#cv-content h3{	
+    font-size: 15px;
+    font-weight: bold;
+    padding: 0px;
+    margin-bottom: 0px;
+    float: left;
+    width: 100%;
+}
+#cv-content .block h3 span,
+#cv-content .head span{
+	font-size: 18px;
+}
+
+.ctbx{
+	padding-left: 10px;
+	padding-right: 10px
+}
+
+#cv-content span{
+	display: inline-block;	
+	z-index: 9999;
+	color: #374d59;
+}
+
+
+#cv-right .h3:first-child{
+	margin-top: 0
+}
+.ctbx{
+	margin-bottom: 10px;
+	position: relative;
+}
+.ctbx .r5 .h3{
+	text-transform: uppercase;
+}
+.ctbx:hover {
+	box-shadow: 0 0 1px #999;
+}
+.ctbx:hover .fieldgroup_controls{
+	display: block;
+}
+[cvo-form-field] {
+    cursor: text;
+}
+#box-hvt{
+	float: left;
+}
+#cvo-profile-avatar-wraper{	    
+    float: left;
+    width: 23%;
+    margin: 0px;
+    margin-left: 12%;
+    padding-top: 42px;
+}
+#line-seperate {
+    height: 25px;
+    /*background-color: #e3ecec;*/
+}
+.bar-exp div {
+    float: left;
+    height: 8px;
+    background: #fad0a1;
+    
+}
+.bar-exp {
+  	width: 100%;
+  	background: #e6e5ea;
+  	height: 8px;
+  	float: right;
+  	margin-bottom: 8px;
+}      
+.icoweb label{
+	display: block;
+	color:#627e88;
+}
+.box-info .box-contact{
+	font-size: 15px;
+	color: #303030;
+	float: right;
+	width: 90%;
+	padding-left: 10%
+}
+.box-info .icoweb{
+	line-height: 25px;
+	display: block;
+	width: 100%;
+	margin-bottom: 5px;
+	text-align: left;
+}
+
+#sortable{
+	float: left;
+	width: 100%;
+	margin-top: 0px;
+}
+.box-info div{
+	float: left;
+	width: 100%;
+}
+.box-info .icoweb.cvi-info {
+	border: none;
+}
+
+
+.head i.fa, .h3 i.fa{
+	font-size: 12px;
+	border: solid 1px #7c7a79;
+	border-radius: 50%;
+	width: 12px;
+	color: #7c7a79;
+	/*background: white;*/
+	margin-bottom: 5px;
+	text-align: center;
+	padding: 4px;
+}
+.box-info #box01 .fa{
+    font-size: 18px;
+    color: #40536b;
+    width: 20px;
+    margin-top: 0px;
+    border-right: solid 20px #fad0a1;
+
+}
+
+#sortable .last_bg{
+	height: 110px;
+    float: left;
+    width: 100%;
+}
+
+.watermark {
+    float: left;
+    width: 100%;
+    /* height: 22px; */
+    color: #999;
+    text-align: right;
+    padding-right: 22px;
+    font-size: 15px;
+    font-family: Courier;
+}

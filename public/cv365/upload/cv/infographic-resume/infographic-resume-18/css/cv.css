@@ -1,0 +1,373 @@
+/* MÃƒÂ u top */
+.color {
+    color: #4c7f8b!important;
+}
+.bg {
+    background-color: #4c7f8b!important;
+}
+.bd {
+    border-color:#4c7f8b!important;
+}
+.bg-light {
+    background-color: #e4f0f3!important;
+}
+.bar-exp span {
+    background-color: #233a40!important;
+}
+#page-cv{
+    width: 1072px;
+    float: left;
+}
+#form-cv {
+    width: 900px;
+    min-height: 1273px;
+    float: left;
+    position: relative;
+    font-size: 15px;
+    overflow: hidden;
+    color: #111;
+}
+#form-cv, #cv-content h3 {
+    line-height: 25px;
+}
+/* Dan trang */
+#cv-main {
+    padding: 0; 
+    display: flex;
+    flex-wrap: wrap;
+}
+
+#cv-center {
+    width: 300px;
+    display: flex;
+    margin: 0;
+    flex-direction: column;
+    position: relative;
+    z-index: 999;
+    color: #fff;
+}
+#cv-content {
+    width: calc(100% - 300px);
+    padding: 0;
+    margin: 0;
+    z-index: 987;
+}
+
+#cv-content .ir {
+    margin: 128px 0 0;
+    padding: 0 20px 20px;
+}
+/* Code top */
+#cv-top{
+    position: relative;
+}
+
+.box-01 p{}
+.box-01 {
+    padding: 0;
+    flex-direction: column;
+    margin: 0;
+    position: relative;
+}
+
+
+#cvo-profile-avatar-wraper {
+    padding: 0;
+    height: 220px;
+    width: 220px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 20px auto;
+}
+#cvo-profile-avatar-wraper #cvo-profile-avatar {
+    padding: 0;
+    width: 200px;
+    height: 200px;
+    border: none;
+}
+#cvo-profile-info {
+    position: absolute;
+    z-index: 998;
+    width: 100%;
+    height: auto;
+    margin: 0;
+}
+
+.hewifew {
+    margin: 0;
+    padding: 20px 0 20px 20px;
+    text-align: left;
+    width: calc(100% - 340px);
+}
+
+#cvo-profile-info h1 {
+    font-size: 38px;
+    font-weight: 700;
+    margin: 0px 0 5px;
+    line-height: 44px;
+    text-transform: uppercase;
+}
+
+#cvo-profile-info h2 {
+    font-size: 19px;
+    line-height: 24px;
+    font-weight: 400;
+    color: #555;
+    text-transform: uppercase;
+}
+
+/* CV Right */
+#cv-right {
+    padding: 0 17px;
+    margin: 0;
+}
+
+#cv-right .block {
+    margin: 0;
+    padding: 0;
+}
+#sortable .cvo-block {
+    margin: 0px;
+}
+
+#cv-right .hasclass, .box-content, .skill {
+    padding: 0;
+    margin: 0 0 20px;
+}
+
+/* Code chung h3 cv-center + cv-content */
+#cv-center .h3, #cv-content .head {
+    font-size: 18px;
+    text-transform: uppercase;
+    font-weight: 500;
+    line-height: 18px;
+    margin: 0;
+    padding: 0;
+    width: 100%;
+}
+#cv-content .head {
+    box-sizing: border-box;
+    padding: 5px 0 4px;
+    line-height: 30px;
+    border: 2px solid;
+    background-color: #fff;
+    text-align: center;
+}
+
+#cv-center .h3 span {
+    padding: 10px 0 2px;
+    width: 100%;
+}
+
+#cv-center .h3 {
+    margin: 0 0 8px;
+}
+
+#cv-center .h3 span {}
+/* Ico web */
+
+#cv-right .hasclass {
+    display: flex;
+    flex-direction: column;
+}
+#cv-right .icoweb {
+    display: flex;
+    margin: 0 0 3px;
+    flex-wrap: wrap;
+    align-items: center;
+}
+
+#cv-right .icoweb span{
+    /*display: inline-block;*/
+}
+
+#cv-right .icoweb span.cv-ico-center {
+    margin-right: 30px;
+    display: none!important;
+}
+#cv-right .icoweb span.cv-hi i {
+    width: 25px;
+    height: 25px;
+    margin: 0;
+    text-align: center;
+    line-height: 25px;
+    font-size: 17px;
+    color: #FFF;
+}
+
+#cv-right .icoweb span.cv-hi {
+    margin: 0 5px 0 0;
+}
+
+
+
+/* Content */
+#cv-content .cvo-block {
+    padding: 0;
+    margin: 0;
+}
+#cv-content .ctbx {
+    margin: 0;
+    padding: 10px 0;
+}
+#cv-content p{
+    /*margin-bottom: 5px*/
+}
+#cv-content .ir a{
+    color: #2ebb2f
+}
+
+#cv-content .h3{
+    margin-bottom: 0;
+    font-weight: 500;
+}
+
+
+#experience-table {
+    padding: 0 0 18px;
+    display: inline-block;
+    width: 100%;
+}
+
+/* content 2*/
+
+#cv-content h3 {
+    font-weight: 500;
+    margin: 5px 10px 0 0;
+    width: 250px;
+    height: auto;
+    padding: 5px;
+    float: left;
+    z-index: 2;
+    position: relative;
+    border: 1px solid;
+    text-align: left;
+}
+
+#cv-content span.exp-date {
+    display: block;
+    float: none;
+    font-size: 14px;
+    font-weight: normal;
+    color: #777;
+    font-style: oblique;
+    text-align: center;
+}
+
+#cv-content .exp-title {
+    text-align: center;
+    margin: 0;
+    font-size: 17px;
+    font-weight: 500;
+    display: block;
+    text-transform: uppercase;
+    padding: 0;
+    border-bottom: 1px solid;
+}
+
+
+#cv-content .exp-subtitle {
+    margin: 0;
+    display: block;
+    font-size: 16px;
+    font-weight: 400;
+    padding: 5px 0 0;
+    text-align: center;
+}
+
+#cv-content .exp-content {
+    text-align: left;
+    font-weight: 400;
+    font-size: 15px;
+    padding: 0;
+    color: #333;
+    display: block;
+    width: 100%;
+}
+
+/* code Chung */
+.bar-exp span {
+    float: left;
+    height: 15px;
+}
+.bar-exp {
+    margin: 0px 0px 10px;
+    height: 15px!important;
+}
+.bar-value-exp{
+    width: 50%
+}
+.skill-name{
+    display: block;
+}
+.skill-name input{
+    font-weight: 500;
+    color: #fff
+}
+p.skill-name input {
+    font-size: 15px;
+}
+#line-seperate {
+    height: 25px;
+    background-color: #e3ecec;
+}
+
+.cv-head{
+    width: 100%;
+    padding: 0px;
+    margin: 0px;
+    height: 45px;
+}
+.box-content{
+}
+
+/*css cvh */
+[cvo-form-field] {
+    cursor: text;
+}
+.ctbx:hover {
+    box-shadow: 0 0 1px #999;
+}
+.ctbx:hover .fieldgroup_controls{
+    display: block;
+}
+.ctbx .r5 .h3{
+    text-transform: uppercase;
+}
+/* fix vi tri trinh dieu khien css cvh */
+#cv-right .fieldgroup_controls {
+    top: 34px!important;
+    right: 1px;
+}
+
+#cv-content .fieldgroup_controls {
+    top: -34px!important;
+    right: 65px;
+}
+
+.ctbx:hover {
+    box-shadow: 0 0 1px #999;
+}
+.ctbx:hover .fieldgroup_controls{
+    display: block;
+}
+.ctbx .r5 .h3{
+    text-transform: uppercase;
+}
+/* fix vi tri trinh dieu khien css cvh */
+#cv-content .ctbx,
+#cv-right .ctbx {
+    position: relative;
+
+}
+
+#cv-right .fieldgroup_controls {
+    top: -34px!important;
+    right: 0px;
+}
+
+#cv-content .fieldgroup_controls {
+    top: -34px!important;
+    right: 0;
+}

@@ -1,0 +1,18 @@
+/* 2 */
+
+:root {
+  --top: url(cv-top2.png) no-repeat;
+  --page: url(page1-2.png) no-repeat;
+  --chu: url(chu2.png) no-repeat;
+  --tg: url(tg2.png) no-repeat;
+  --ngang: url(ngang2.png) no-repeat;
+  --doc: url(doc2.png) no-repeat;
+  --kn: url(kn2.png) no-repeat;
+  --vaitro1: url(vaitro1-2.png) no-repeat;
+  --vaitro2: url(vaitro2-2.png) no-repeat;
+  --block1: url(block1-2.png) no-repeat;
+  --block2: url(block2-2.png) no-repeat;
+  --color: #f1a836;
+  --color-c: #3d3d3f;
+  --color-t: #fceed7;
+}

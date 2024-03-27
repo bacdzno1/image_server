@@ -1,0 +1,69 @@
+#cv-top {
+    background-image: url(hd_02.png);
+    background-size: 100% 100%;
+}
+
+.all{
+  background: url(main_02.png)no-repeat;
+  background-size: 100% 100%;
+}
+.footer {
+    background:url(ft_02.png)no-repeat;
+    background-size: 100% 100%;
+}
+.cumicc1{
+    background: url(cham_02.png) no-repeat left center;
+    background-size: 80% 100%;
+    width: 10%;
+    height: 20px;
+    float: left;
+}
+.cumicc2{
+    background: url(cham_02.png) no-repeat left center;
+    background-size: 80% 100%;
+    width: 10%;
+    height: 20px;
+    float: left;
+}
+.cumicc3{
+    background: url(cham_02.png) no-repeat left center;
+    background-size: 80% 100%;
+    width: 10%;
+    height: 20px;
+    float: left;
+}
+.cumicc4{
+    background: url(cham_02.png) no-repeat left center;
+    background-size: 80% 100%;
+    width: 10%;
+    height: 20px;
+    float: left;
+}
+.cumicc5{
+    background: url(cham_02.png) no-repeat left center;
+    background-size: 80% 100%;
+    width: 10%;
+    height: 20px;
+    float: left;
+}
+.cumicc6{
+    background: url(cham_02.png) no-repeat left center;
+    background-size: 80% 100%;
+    width: 10%;
+    height: 20px;
+    float: left;
+}
+.cumicc7{
+    background: url(cham_02.png) no-repeat left center;
+    background-size: 80% 100%;
+    width: 10%;
+    height: 20px;
+    float: left;
+}
+#cvo-profile .box-dm{
+    background: url(a_02.png)no-repeat;
+    background-size: 100% 100%;
+}
+.bar-exp div{
+    background: #f64b22;
+}

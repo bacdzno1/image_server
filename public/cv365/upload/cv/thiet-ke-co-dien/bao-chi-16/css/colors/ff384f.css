@@ -1,0 +1,33 @@
+#cv-top {
+    background-image: url(hd2.png);
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    height: 323px;
+}
+div#cv-main {
+    float: left;
+    width: 100%;
+    background: url(main2.png)no-repeat;
+    background-size: 100% 100%;
+}
+.footer {
+    background: url(ft2.png) no-repeat;
+    background-size: 100% 100%;
+}
+
+.ic .fa {
+    color: #ff384f;
+}
+
+.bar-exp div {
+    background: #3b6082;
+}
+#cv-content .head {
+    background: url(bg2.png)no-repeat;
+    background-position: left;
+    background-size: 100% 100%;
+}
+.box-dm {
+    background: url(fake2.png)no-repeat;
+    background-size: 100% 100%;
+}

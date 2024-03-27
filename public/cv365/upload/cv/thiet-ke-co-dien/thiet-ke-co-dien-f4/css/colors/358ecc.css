@@ -1,0 +1,20 @@
+/* l */
+#cvo-profile-info {background-color: #358ecc!important;}
+#cv-content .head {color: #358ecc!important;}
+#cvo-profile-info {border-color:#358ecc!important;}
+#cv-top {border-bottom-color:#358ecc!important;}
+#cv-content .head:before {border-right-color: #358ecc!important;}
+#cv-content .head:after {border-left-color: #358ecc!important;}
+#cvo-profile:before {border-top-color: #358ecc!important}
+
+/* r */
+.bar-exp span,.bar-exp span:after,#cv-top {background-color: #1a4d70!important;}
+#cv-top:after {border-right-color: #1a4d70!important}
+#cv-top:before {border-top-color: #1a4d70!important}
+#cv-right .icoweb span.cv-hi i {color: #1a4d70!important;}
+
+/* b */
+#cv-top {border-left-color:#abc2d2!important;}
+#cv-center {background-color: #abc2d2!important;}
+#cvo-profile:after {border-right-color: #abc2d2!important;}
+#cv-content .ir{border-color: #abc2d2!important;}

@@ -1,0 +1,24 @@
+#cv-top h1,#cv-content .xyz,.color {color: #fc1b1b!important;}
+#cv-right .h3:after,.bar-exp span {background-color: #fc1b1b!important;}
+#cvo-profile-avatar-wraper,#cv-content .head { border-color:#fc1b1b!important;}
+
+
+.bar-exp span:after{background-color: #740000!important;}
+#cv-right .icoweb:nth-child(1) {
+    background-color: #ff6f6f;
+}
+#cv-right .icoweb:nth-child(2) {
+    background-color: #ff3c3c;
+}
+#cv-right .icoweb:nth-child(3) {
+    background-color: #fc1b1b;
+}
+#cv-right .icoweb:nth-child(4) {
+    background-color: #d70505;
+}
+#cv-right .icoweb:nth-child(5) {
+    background-color: #9d0202;
+}
+#cv-right .icoweb:nth-child(6) {
+    background-color: #740000;
+}

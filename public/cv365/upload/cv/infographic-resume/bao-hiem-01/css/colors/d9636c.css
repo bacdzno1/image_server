@@ -1,0 +1,119 @@
+#cv-top {
+
+    background-image: url(bg-2.png);
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    position: relative;
+}
+#cvo-profile-avatar-wraper .wimg {
+
+    border: 9px solid #d9636c;
+
+}
+#cv-top h1 {
+
+    color: #d9636c;
+
+}
+#cv-top h2 {
+
+    color: #d9636c;
+
+}
+div#cv-right {
+    background: #d9636c;
+}
+.tt-box1 {
+
+    background: url(tt-21.png);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    background-position: center;
+
+}
+.ski {
+
+    background: url(tt-23.png);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    background-position: center;
+
+}
+.cum2 {
+
+    background: url(tt-22.png);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    background-position: center;
+
+}
+.cum3{
+
+    background: url(tt-24.png);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    background-position: center;
+
+}
+.cum4 {
+
+    background: url(tt-25.png);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    background-position: center;
+
+}
+.cum5 {
+
+    background: url(tt-24.png);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    background-position: center;
+
+}
+.cum6 {
+
+    background: url(tt-26.png);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    background-position: center;
+
+}
+.cum7 {
+
+    background: url(tt-27.png);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    background-position: center;
+
+}
+#cv-content .head {
+
+    background: url(tt2.png);
+    background-repeat: no-repeat;
+
+    background-size: 100% 100%;
+}
+#cv-content .head #cvo-experience-blocktitle {
+    color: #d9636c;
+}
+#cv-content h3 {
+
+    color: #d9636c;
+}
+.bar-exp {
+    background: #d9636c;
+
+    border: 1px solid #ffffff;
+
+}
+#cv-main{
+    background: #d9636c;
+}
+
+.footer {
+    background: url(ft2.png);
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    position: relative;
+}

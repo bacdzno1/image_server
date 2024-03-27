@@ -1,0 +1,16 @@
+/* 3 */
+
+:root {
+    --sex: url(sex.png) no-repeat;
+    --phone: url(phone.png) no-repeat;
+    --date: url(date.png) no-repeat;
+    --email: url(email.png) no-repeat;
+    --add: url(add.png) no-repeat;
+    --fake: url(fake.png) no-repeat;
+    --avt: url(avt3.png) no-repeat;
+    --name: url(name1.png) no-repeat;
+    --job: url(job3.png) no-repeat;
+    --page: url(page3.png) no-repeat;
+    --tt: url(tt3.png) no-repeat;
+    --color-j: #f1a5a4;
+  }

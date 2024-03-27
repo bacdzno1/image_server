@@ -1,0 +1,31 @@
+#box-hvt {
+    background: #ffba83;
+
+}
+.bar-exp {
+    width: 99%;
+    background: #ffba83;
+    height: 10px;
+    padding:1px;
+    float: right;
+    margin-bottom: 12px;
+}
+div#block01 {
+	background: #ffba83;
+}
+div#block02 {
+	background: #ffba83;
+}
+div#block03 {
+	background: #ffba83;
+}
+div#block04 {
+	background: #ffba83;
+}
+div#block05 {
+	background: #ffba83;
+}
+div#sort_block {
+    background: #ffba83 !important;
+  
+}

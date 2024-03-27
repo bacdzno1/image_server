@@ -1,0 +1,9 @@
+#cv-right h3, #cv-content .head{
+	color:#3ba469;
+}
+#cvo-profile, .bar-exp div, #cv-right #prof{
+	background: #3ba469
+}
+#sortable #box01{
+	background: url('3ba469.png') left bottom no-repeat
+}

@@ -1,0 +1,9 @@
+#cv-right, .bar-exp div{
+	background: #17274f
+}
+#cv-top h1, #cv-top h2{
+    color: #17274f;
+}
+#cv-content .head{
+	background: url("arr2.png") center left no-repeat
+}

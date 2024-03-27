@@ -1,0 +1,13 @@
+#cv-top {
+    background-image: url(hd3-1.png);
+    background-size: 100% 100%;
+}
+#cv-top h2 {
+    color: #feb775;
+}
+div#cv-boxtitle {
+    color: #feb775;
+}
+#cv-content .head #cvo-experience-blocktitle {
+    color: #feb775;
+}

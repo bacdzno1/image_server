@@ -1,0 +1,18 @@
+/* dam */
+#cv-content .head, .bar-exp span, #cv-right .h3 {background-color: #139f50!important;}
+#cv-right .h3:after {border-left-color: #139f50!important;}
+#cv-right .icoweb span.cv-hi i {color: #139f50!important;}
+
+/* damhon */
+.bar-exp span:after {background-color: #0e5d30!important;}
+#cv-right .h3:before {border-left-color: #0e5d30!important;}
+
+/* nhat */
+#cv-center {background-color: #a0cab2!important;}
+
+/* titleContent */
+#cv-content .head span {background-image: -webkit-linear-gradient(-90deg, #f9f9f9 10%, #a0cab2 90%);}
+
+/* nen */
+#form-cv {background-color: #51a074!important;}
+#form-cv {border-color: #51a074!important;}

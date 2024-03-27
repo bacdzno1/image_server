@@ -1,0 +1,32 @@
+#cv-content {
+    width: 55%;
+    text-align: justify;
+    float: left;
+    position: relative;
+    padding: 0;
+    margin: 0;
+    padding-top: 20px;
+    background: #7b6c76;
+    color: #fff;
+}
+#cv-top {
+    width: 100%;
+    height: 400px;
+    background: #7b6c76;
+    position: relative;
+}
+.bar-exp div {
+  float: left;
+  height: 8px;
+  background: #000;
+  margin-top: 0px;
+}
+.bar-exp {
+  background: #fff;
+  height: 8px;
+  float: none;
+  margin-top: 0;
+  margin-bottom: 0px;
+  padding: 0px;
+  border: 1px solid #000;
+}

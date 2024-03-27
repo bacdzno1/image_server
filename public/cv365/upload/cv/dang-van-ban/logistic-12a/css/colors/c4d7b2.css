@@ -1,0 +1,73 @@
+#cv-top {
+    background: url(../top2.png) no-repeat;
+    background-position: top right;
+}
+
+#cv-top h1 {
+    color: #5c8984;
+}
+
+.fake_img {
+    background: url(../fake2.png) no-repeat;
+    background-size: 100% 100%;
+}
+
+.chu {
+    background: url(../name2.png) no-repeat;
+    background-size: 100% 100%;
+}
+
+.all {
+    background: url(../page2.png) no-repeat;
+    background-position: left top;
+}
+
+div#cv-boxtitle {
+    color: #5c8984;
+}
+
+#cv-content .head #cvo-experience-blocktitle {
+    color: #5c8984;
+}
+
+.ic1 {
+    width: 50%;
+    background: url(../date2.png) no-repeat;
+    background-position: 1px 8px;
+}
+
+.ic2 {
+    width: 22%;
+    background: url(../sex2.png) no-repeat;
+    background-position: 1px 6px;
+}
+
+.ic3 {
+    width: 100%;
+    background: url(../phone2.png) no-repeat;
+    background-position: 1px 6px;
+}
+
+.ic4 {
+    width: 100%;
+    background: url(../email2.png) no-repeat;
+    background-position: 1px 10px;
+}
+
+.ic5 {
+    width: 100%;
+    background: url(../add2.png) no-repeat;
+    background-position: 1px 8px;
+}
+
+.bar-exp {
+    background: url(../skill2.png) no-repeat;
+}
+
+.bar-exp div {
+    background: url(../kn2.png) no-repeat;
+}
+
+.footer {
+    background: url(../foot2.png) no-repeat;
+}

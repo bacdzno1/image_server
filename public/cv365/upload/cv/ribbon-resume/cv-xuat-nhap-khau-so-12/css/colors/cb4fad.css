@@ -1,0 +1,39 @@
+#cv-top {
+    background-image: url(hd3.png);
+    background-size: 100.3% 100%;
+}
+.all {
+    background: url(main3.png)no-repeat;
+    background-size: 100% 100%;
+}
+.bar-exp div {
+    background: url(ski3.png)no-repeat;
+    background-position: right;
+}
+#cv-content .head {
+    background-image: linear-gradient(to right, #f2eae7, #d26cb8);
+}
+.ski {
+    background: url(head3.png);
+    background-size: 100% 100%;
+}
+.cum {
+    background: url(head3.png)no-repeat;
+    background-size: 100% 100%;
+}
+.bar-exp {
+    background-image: linear-gradient(to right, #d26cb8, #e2b6d1);
+}
+.box-dm {
+    background: url(fake3.png)no-repeat;
+    background-size: 100% 100%;
+}
+.icf .fa {
+    color: #d26cb8;
+}
+#cv-top h1 {
+    color: #d26cb8;
+}
+#cv-top h2 {
+    color: #d26cb8;
+}

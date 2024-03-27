@@ -1,0 +1,57 @@
+#cv-top h1 {
+    width: 70%;
+    font-size: 30px;
+    line-height: normal;
+    text-transform: uppercase;
+    color: #cc6600;
+    margin-bottom: 10px;
+    margin-top: 0;
+    font-weight: bold;
+}
+#cv-top h2 {
+    font-size: 16px;
+    color: #cc6600;
+    text-transform: capitalize;
+    font-style: italic;
+    font-weight: normal;
+    margin-top: 0;
+    background: url(anh2.png)no-repeat;
+    background-position: 256px;
+    background-size: 104px 20px;
+    margin-bottom: 20px;
+}
+#cv-right h3, #cv-content .head {
+    font-size: 16px;
+    text-transform: uppercase;
+    color: #cc6600;
+    font-weight: bold;
+    margin: 0px auto 10px;
+    line-height: 24px;
+    padding-bottom: 5px;
+}
+#cv-right #cv-boxtitle {
+    border-bottom: solid 1px #cc6600;
+    width: 89%;
+}
+.box-content {
+    width: 312px;
+    color: #cc6600;
+}
+.ctbx .skill-name {
+    color: #cc6600;
+}
+.bar-exp { 
+border-radius: 10px;
+    background: #999999;
+    height: 8px;
+    margin-top: 0;
+    margin-bottom: 12px;
+    width: 89%;
+    margin-right: 38px;
+}      
+.bar-exp div {
+    border-radius: 10px;
+    float: left;
+    height: 8px;
+    background: #cc6600;    
+}

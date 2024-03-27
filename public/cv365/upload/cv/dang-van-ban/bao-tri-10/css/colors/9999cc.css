@@ -1,0 +1,27 @@
+#form-cv{
+	width: 100%;	
+	float: left;
+	position: relative;
+	font-size: 14px;
+	line-height: 24px;
+	color:#070000;	
+	background: url(main2.png)no-repeat;
+	background-size: 100% 100%;
+}
+#cv-right {
+    background: #9999cc;
+}
+.bar-exp div {
+    float: left;
+    height: 14px;
+    margin-top: -1px;
+    background: #003333;
+}
+.bar-exp {
+    width: 100%;
+    background: #fff;
+    height: 10px;
+    float: right;
+    margin-bottom: 12px;
+    border: solid 3px #003333;
+}

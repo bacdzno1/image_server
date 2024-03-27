@@ -1,0 +1,76 @@
+  
+#cv-top h1 {
+  color: #b83535;
+}
+#cv-top h2 {
+  color: #b83535;
+}
+#cv-content h3 {
+  color: #b83535;
+}
+.all {
+  border-bottom: 55px solid #b83535;
+} 
+.bar-exp {
+  border: 1px solid #b83535;
+
+}
+.icf .fa {
+  color: #b83535;
+}
+#cv-content .head {
+  color: #b83535;
+}
+div#cv-boxtitle {
+  color: #b83535;
+}
+.bar-exp div {
+  background: #b83535;
+}
+#cv-top {
+  background-image: url(hd-4.png);
+}
+
+.cumicc1{
+ background: url(ic1-4.png)no-repeat;
+ background-position: 2px 5px;
+}
+.cumicc2{
+ background: url(ic2-4.png)no-repeat;
+ background-position: 2px 3px;
+}
+.cumicc3{
+ background: url(ic3-4.png)no-repeat;
+ background-position: 5px 6px;
+}
+.cumicc4{
+ background: url(ic5-4.png)no-repeat;
+ background-position: 5px 4px;
+}
+.cumicc5{
+ background: url(ic7-4.png)no-repeat;
+ background-position: 5px 4px;
+}
+.cumicc6{
+ background: url(ic6-4.png)no-repeat;
+ background-position: 5px 4px;
+}
+.cumicc7{
+ background: url(ic7-4.png)no-repeat;
+ background-position: 5px 4px;
+}
+.icright1 {
+  background: url(ict1-4.png)no-repeat;
+}
+.icright2 {
+  background: url(ict2-4.png)no-repeat;
+}
+.icright3 {
+  background: url(ict3-4.png)no-repeat;
+}
+.icright4 {
+  background: url(ict4-4.png)no-repeat;
+}
+.icright5 {
+  background: url(ict5-4.png)no-repeat;
+}

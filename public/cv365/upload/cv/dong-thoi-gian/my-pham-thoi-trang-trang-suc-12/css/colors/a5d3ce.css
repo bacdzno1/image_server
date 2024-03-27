@@ -1,0 +1,88 @@
+#cv-top {
+    background-image: url(hd3.png);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+
+.all {
+    background: url(main3.png)no-repeat;
+    background-size: 100% 100%;
+}
+
+#cv-right h3 div {
+    background: #cc9966;
+    border: solid 2px #3e503c;
+}
+
+.bar-exp div {
+    background: #cc9966;
+}
+
+.bar-exp {
+    background: #edf9f9;
+    border: solid 2px #3e503c;
+}
+
+#cv-content .head div {
+   background: #009999;
+    color: #fff;
+    border: solid 2px #663300;
+}
+
+#box02 h3{
+	background: url(gach3.png)no-repeat;
+	background-position: -10px 2px;
+}
+
+#box03 h3{
+	background: url(gach3.png)no-repeat;
+	background-position: -10px 2px;
+}
+
+#box04 h3{
+	background: url(gach3.png)no-repeat;
+	background-position: -10px 2px;
+}
+
+#box05 h3{
+	background: url(gach3.png)no-repeat;
+	background-position: -10px 2px;
+}
+
+#box06 h3{
+	background: url(gach3.png)no-repeat;
+	background-position: -10px 2px;
+}
+
+#box07 h3{
+	background: url(gach3.png)no-repeat;
+	background-position: -10px 2px;
+}
+
+#cv-content .head {
+    color: #fff;
+    background: url(gach3.png)no-repeat;
+    background-position: -200px 5px;
+    margin-left: -10px;
+}
+
+#cv-top h1 {
+    color: #663300;
+}
+
+#cv-top h2 {
+    color: #663300;
+}
+
+.box-dm {
+    background: url(avata3.png)no-repeat;
+    background-size: 100% 100%;
+}
+
+.foter_cv{
+    background: #edf9f9;
+}
+
+#block01 .exp-date {
+    background: #a5d3ce;
+}

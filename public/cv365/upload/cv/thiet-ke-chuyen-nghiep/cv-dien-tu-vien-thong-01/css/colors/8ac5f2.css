@@ -1,0 +1,13 @@
+/* 3 */
+:root {
+  --time: url(small_round3.png) no-repeat;
+  --border-info: url(border_info3.png) no-repeat;
+  --avatar-shadow: url(avatar_shadow3.png) no-repeat;
+  --short-line: url(short_line3.png) no-repeat;
+  --long-line: url(long_line3.png) no-repeat;
+  --big-round: url(big_round3.png) no-repeat 0px 4px;
+  --rating: url(rate3.png) no-repeat;
+  --border-title: url(border_title3.png) no-repeat -1px 17px;
+  --plus-round: url(round_plus3.png) no-repeat;
+  --date: url(date3.png) no-repeat;
+}

@@ -1,0 +1,147 @@
+#cv-top {
+    width: 100%;
+    height: 435px;
+    background: url(hd_cca4a6.png);
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    position: relative;
+}
+.all{
+  float: left;
+  clear: both;
+  background-color: #f1f7f7;
+  background-size: 100% 100%;
+  width: 100%;
+}
+.box-dm{
+  width: 254px;
+    height: 254px;
+    clear: both;
+    z-index: 1;
+    padding: 0;
+    margin: 0;
+    display: table;
+    position: absolute;
+    float: left;
+    background: url(11.png)no-repeat;
+    background-size: 100% 100%;
+    margin-top: -250px;
+    margin-left: -18px;
+    top: -900px;
+}
+div#box02 .box-content  {
+    border-left: 3px solid #314247;
+}
+div#box03 {
+    border-left: 3px solid #314247;
+}
+div#box04 {
+    border-left: 3px solid #314247;
+}
+div#box05 {
+    border-left: 3px solid #314247;
+}
+div#box06 {
+    border-left: 3px solid #314247;
+}
+div#box07 {
+    border-left: 3px solid #314247;
+}
+#cv-top h1 {
+    padding: 0;
+    margin: 0;
+    font-size: 38px;
+    font-family: "Roboto";
+    line-height: 35px;
+    text-transform: uppercase;
+    margin-bottom: 0;
+    font-weight: bold;
+    text-align: right;
+    width: 100%;
+    float: right;
+    color: #314247;
+}
+#cv-top h2 {
+    margin: 0;
+    padding: 0;
+    text-transform: unset;
+    width: 100%;
+    font-size: 20px;
+    float: left;
+    text-align: right;
+    padding-top: 8px;
+    color: #cca4a6;
+}
+.icf .fa {
+    font-size: 20px;
+    color: #cca4a6;
+    margin-top: 0;
+    float: left;
+}
+#prof .icoweb, #prof .icoweb span {
+    float: left;
+    color: #cca4a6;
+}
+div#cv-boxtitle {
+    font-size: 19px;
+    font-weight: bold;
+    text-transform: uppercase;
+    float: left;
+    line-height: 44px;
+    color: #314247;
+}
+#sortable .cvo-block .box-content {
+    margin: 0;
+    width: 93%;
+    margin-left: 0px;
+    padding-bottom: 15px;
+    float: left;
+    padding-left: 20px;
+    color: #cca4a6;
+}
+#cv-right #box03 .ctbx {
+    width: 100%;
+    padding: 0;
+    margin: 0;
+    border: 0;
+    padding-bottom: 10px;
+    float: left;
+    color: #cca4a6;
+}
+div#experience-table {
+    margin: 0px;
+    width: 90%;
+    padding-bottom: 10px;
+    float: left;
+    margin-left: 45px;
+    color: #cca4a6;
+}
+#cv-content .head {
+    padding: 0;
+    margin: 0;
+    height: 44px;
+    text-align: left;
+    line-height: 44px;
+    width: 100%;
+    margin-left: 20px;
+    color: #314247;
+}
+.bar-exp div {
+    float: left;
+    height: 13px;
+    background: #cca4a6;
+    margin-top: -2px;
+    border-radius: 4px;
+    margin-left: -2px;
+}
+.bar-exp {
+    background: #f1f7f7;
+    height: 9px;
+    margin-top: 5px;
+    margin-bottom: 0px;
+    padding: 0px;
+    float: right;
+    width: 100%;
+    border-radius: 4px;
+    border: 2px solid #cca4a6;
+}

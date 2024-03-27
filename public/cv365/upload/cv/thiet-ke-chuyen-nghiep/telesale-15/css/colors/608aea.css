@@ -1,0 +1,35 @@
+#cv-top {
+    background: url(../top3_new.png) no-repeat;
+    background-position: 0px 0px;
+    background-size: 100%;
+}
+.fake_img {
+    background: url(../fake_avt3.png) no-repeat;
+}
+.bar-exp div {  
+    background: url(../skill3.png) no-repeat;
+    background-position: right;
+}
+div#cv-boxtitle {
+    font-size: 19px;
+    font-weight: bold;
+    text-transform: uppercase;
+    float: left;
+    width: 83%;
+    text-align: left;
+    background-color: #608aea;
+    color: #fff;
+    padding: 0 15px;
+}
+#cv-content .head #cvo-experience-blocktitle {
+    color: #fff;
+    float: left;
+    width: 100%;
+    text-align: left;
+    background: #608aea;
+    padding: 0 15px;
+}
+.footer {
+    background: url(../footer3.png) no-repeat;
+    background-size: 100%;
+}

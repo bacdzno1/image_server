@@ -1,0 +1,245 @@
+#page-cv{
+	width: 1070px;
+	float: left;
+}
+#form-cv{
+	width: 900px;
+	min-height: 1273px;	
+	float: left;
+	background: #fff;
+	position: relative;	
+	font-size: 14px;
+	line-height: 24px;
+	color:#060606;
+	border-right: dotted 10px #95fff6;
+}
+#form-cv p{
+	margin-top: 0;
+	margin-bottom: 12px
+}
+/*#sortable .cvo-block{
+	margin-bottom: 15px;
+}*/
+
+#cv-right .block {
+     margin-bottom: 0px!important; 
+}
+h1{
+	color:#fff;
+}
+#cv-main{
+	width: 100%;
+	display: table;
+	margin:10px auto;
+	margin-top: 0px
+}
+#cv-top{	
+	min-height: 200px;
+	width: 100%;
+	color: #fff;		
+	position: relative;	
+}
+#cv-content{
+	width: 62%;
+	min-height: 1055px;
+	display: block;
+	position: relative;
+	float: left;
+}
+#cv-right{
+	width: 37.8%;
+	height: 1080px;
+	display: block;
+	background: #95fff6;
+	/*border-right:2px solid #ddd;*/
+	position: relative;
+	float: left;
+}
+#cv-right .ctbx {
+	padding-bottom: 0;
+	margin:0;
+}
+.skill{
+	margin-top: 15px
+}
+
+#cv-top h1{
+	text-align: center;
+	font-size: 42px;    
+    font-weight: 500;
+    text-transform: capitalize;       
+    color:#2e73b6;
+    margin-bottom: 5px;
+    margin-top: 40px;
+    text-shadow: 0 0 0.3em #7feae1a6;
+}
+#cv-top h2{
+	font-size: 30px;
+	text-align: center;
+	font-weight: normal;
+	margin-top: 10px;
+	text-transform: uppercase;
+	/*float: right;*/
+	color: #2e73b6;
+	font-weight: 500;
+	 text-shadow: 0 0 0.2em #7feae1a6;
+}
+.box-01 p{		
+}
+.box-01{
+	margin:auto;	
+	overflow: hidden;	
+	padding-top: 50px;
+	margin-bottom: 15px;
+	padding: 30px 15px 20px;
+	border-top: dotted 10px #95fff6;
+}
+#cv-content .ir{
+}
+#cv-content p{
+	margin-bottom: 5px
+}
+#cv-content .ir a{
+	color: #2ebb2f
+}
+#cv-right .h3, #cv-content .head{
+	font-size: 18px;
+	text-transform: uppercase;
+    background: #2e73b6;  
+    color: #ffffff;    
+    font-weight: 500;
+    margin-top: 0;
+    background:#7feae1;
+    border-radius: 15px 15px 15px 15px;
+     text-align: right;
+}
+
+#cv-content .head span{
+	background: #00c1f1;
+	padding: 5px 5px;
+	border-radius: 15px 15px 15px ;
+}
+
+
+
+
+#cv-content h3{	
+	font-weight: normal;
+    font-size: 14px;
+    color: #151414;
+    text-transform: uppercase;
+    margin-bottom: 0;
+}
+
+#cv-content .h3{
+	color:#333;
+	text-transform: uppercase;
+	font-weight: 500;
+	margin-bottom: 0
+}
+#cv-content span{
+	display: inline-block;
+	padding-right: 8px;
+	z-index: 9999	
+}
+
+#cv-right .h3:first-child{
+	margin-top: 0
+}
+.ctbx{
+	margin-bottom: 15px;
+	position: relative;
+}
+.ctbx .r5 .h3{
+	text-transform: uppercase;
+}
+.ctbx:hover {
+	box-shadow: 0 0 1px #999;
+}
+.ctbx:hover .fieldgroup_controls{
+	display: block;
+}
+[cvo-form-field] {
+    cursor: text;
+}
+#cvo-profile-avatar-wraper{
+	float: left;
+	padding:15px;
+	width: 34.5%;
+	background: #95fff6;
+
+}
+#cvo-profile-avatar-wraper #cvo-profile-avatar{
+	padding: 0;
+	border:0;
+	display: table;
+	width: 220px;
+	height: 220px;
+	margin-left: 30px;
+	margin-top: 10px;
+	border-left: solid  10px  #fff ;
+	border-bottom: solid  10px  #fff;
+
+}
+#line-seperate {
+    height: 25px;
+    background-color: #e3ecec;
+}
+.bar-exp span {
+    float: left;
+    height: 8px;
+    background: #237a5f;
+}
+.bar-exp{
+	background: #cecece;
+	width: 50%;
+	margin-top: 8px
+}
+.bar-value-exp{
+	width: 50%
+}
+.skill-name{
+	float: left;
+}
+.icoweb label{
+	width: 35%;
+	margin-right: 0;
+	float: left;
+}
+#cv-right .icoweb span{
+	width: 90%;
+	display: inline-block;
+}
+#cv-right .icoweb i.fa{
+	width: 20px;
+    height: 20px;
+    text-align: center;
+    line-height: 17px;
+    color: #ffffff;
+    vertical-align: top;
+    font-size: 14px;
+    margin-top: 2px;
+    margin-right: 5px;
+    background: #2e73b6;
+    border: solid 1px #ffffff;
+    border-radius: 50%;
+}
+.icoweb{
+	/*margin-bottom: 12px !important;*/
+	color: #05396b;
+	border: double 5px #fff;
+	background:#9fe8c4;
+	font-weight: bold;
+}
+#cv-content .cvo-block{
+
+}
+#cv-right .box-contact{
+    padding-left: 25px;
+    position: absolute;
+    bottom: 10%;
+    width: 88%;
+}
+.box-contact{
+	background: #95fff6;
+}

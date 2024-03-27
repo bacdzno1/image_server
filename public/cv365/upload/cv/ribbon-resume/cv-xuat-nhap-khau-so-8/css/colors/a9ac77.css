@@ -1,0 +1,6 @@
+#cv-top, #cv-right{
+	background: #a9ac77
+}
+#cv-top h1, #cv-right h3, #cv-content .head, #cv-content h3{
+	color:#a9ac77;
+}

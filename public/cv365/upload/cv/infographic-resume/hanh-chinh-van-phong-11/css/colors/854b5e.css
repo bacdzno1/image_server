@@ -1,0 +1,25 @@
+.icf1, .icf2, .icf3, .icf4, .icf5 {
+    color: #854b5e;
+}
+div#cv-boxtitle {
+    background: #854b5e;
+    color: #fff;
+}
+#cv-content .head {
+    background: #854b5e;
+}
+.bar-exp div {
+    background: #854b5e;
+}
+div#box01 {
+    background: url(box13.png)no-repeat;
+    background-position: left;
+}
+#cv-top {
+    background-image: url(hd3.png);
+    background-size: 100% 100%;
+}
+#cvo-profile .box-dm {
+    background: url(fake3.png)no-repeat;
+    background-size: 100% 100%;
+}

@@ -1,0 +1,90 @@
+#cv-top h2 {
+    margin: 0;
+    padding: 0;
+    text-transform: unset;
+    width: 100%;
+    font-size: 20px;
+    float: left;
+    text-align: center;
+    padding-top: 8px;
+    color: #abc180;
+}
+.icf .fa {
+    font-size: 20px;
+    color: #abc180;
+    margin-top: 0;
+    float: left;
+}
+#cv-right .ir #sortable .block {
+    padding: 0;
+    margin: 0;
+    float: left;
+    width: 87%;
+    background-color: #abc180;
+    margin-left: 20px;
+}
+div#cv-boxtitle {
+    font-size: 19px;
+    font-weight: bold;
+    text-transform: uppercase;
+    float: left;
+    line-height: 44px;
+    color: #777d71;
+}
+.bar-exp div {
+    float: left;
+    height: 13px;
+    background: #777d71;
+    margin-top: -2px;
+    border-radius: 4px;
+    margin-left: -2px;
+}
+.bar-exp {
+    background: #abc180;
+    height: 9px;
+    margin-top: 5px;
+    margin-bottom: 0px;
+    padding: 0px;
+    float: right;
+    width: 100%;
+    border-radius: 4px;
+    border: 2px solid #777d71;
+}
+#cv-content .head {
+    padding: 0;
+    margin: 0;
+    height: 44px;
+    text-align: left;
+    line-height: 44px;
+    width: 100%;
+    /* margin-left: 20px; */
+    color: #777d71;
+}
+#cv-content #block01 h3{
+    background: url(tr_green_03.gif)no-repeat;
+    background-position: left;
+    background-size: 10% 100%;
+    width: 95%;
+    float: right;
+}
+#cv-content #block02 h3{
+    background: url(tr_green_06.gif)no-repeat;
+    background-position: left;
+    background-size: 10% 100%;
+    width: 95%;
+    float: right;
+}
+#cv-content #block03 h3{
+    background: url(tr_green_09.gif)no-repeat;
+    background-position: left;
+    background-size: 10% 100%;
+    width: 95%;
+    float: right;
+}
+#cv-content #block04 h3{
+    background: url(tr_green_15.gif)no-repeat;
+    background-position: left;
+    background-size: 10% 100%;
+    width: 95%;
+    float: right;
+}

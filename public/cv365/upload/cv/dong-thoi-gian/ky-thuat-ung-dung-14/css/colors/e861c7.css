@@ -1,0 +1,18 @@
+/* 3 */
+:root {
+  --sex: url(sex3.png) no-repeat;
+  --phone: url(phone-3.png) no-repeat;
+  --date: url(date3.png) no-repeat;
+  --email: url(mail3.png) no-repeat;
+  --add: url(add-3.png) no-repeat;
+  --hocvan: url(hocvan3.png) no-repeat;
+  --kinhnghiem: url(kinhnghiem3.png) no-repeat;
+  --hoatdong: url(hoatdong3.png) no-repeat;
+  --duan: url(duan3.png) no-repeat;
+  --TTthem: url(TTthem3.png) no-repeat;
+  --muctieu: url(muctieu-t3.png) no-repeat, url(muctieu-b3.png) no-repeat, url(muctieu-f3.png) no-repeat;
+  --job: url(job-l3.png) no-repeat, url(job-r3.png) no-repeat;
+  --ic: url(ic3.png) no-repeat;
+  --content: url(ct-t3.png) no-repeat, url(ct-b3.png) no-repeat, url(ct-f3.png) no-repeat;
+  --color: #e861c7;
+}

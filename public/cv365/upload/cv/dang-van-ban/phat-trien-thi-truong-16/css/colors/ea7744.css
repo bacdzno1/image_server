@@ -1,0 +1,117 @@
+.fake_img {
+    background: url(../fake3.png) no-repeat;
+}
+
+#cv-top h1 {
+    color: #d48d6e;
+}
+
+#cv-top h2 {
+    color: #d48d6e;
+}
+
+#prof .ic1 .icf {
+    background: url(../date3.png) no-repeat;
+    background-position: left center;
+}
+
+#prof .ic2 .icf {
+    background: url(../sex3.png) no-repeat;
+    background-position: left center;
+}
+
+#prof .ic3 .icf {
+    background: url(../phone3.png) no-repeat;
+    background-position: left center;
+}
+
+#prof .ic4 .icf {
+    background: url(../gmail3.png) no-repeat;
+    background-position: left center;
+}
+
+#prof .ic5 .icf {
+    background: url(../add3.png) no-repeat;
+    background-position: left center;
+}
+
+.cum {
+    background: url(../left3-1.png) no-repeat;
+    background-size: 100% 100%;
+    background-position: left center;
+}
+
+.ski {
+    background: url(../left3-1.png) no-repeat;
+    background-size: 100% 100%;
+    background-position: left center;
+}
+
+#cv-boxtitle {
+    background: url(../left3.png) no-repeat;
+    background-size: 100% 100%;
+}
+
+#cv-right #box03 .ctbx {
+    background: url(../dot3.png) no-repeat;
+    background-position: 2px 6px;
+}
+
+.bar-exp div {
+    background: url(../kn3.png) no-repeat;
+    background-position: right;
+}
+
+#cv-content .head {
+    background: url(../right3-1.png) no-repeat;
+    background-size: 100% 100%;
+    background-position: left center;
+}
+
+#cv-content .head #cvo-experience-blocktitle {
+    background: url(../right3.png) no-repeat;
+    background-size: 100% 100%;
+}
+
+.exp-title {
+    color: #d48d6e;
+}
+
+#cv-content #block01 h3 {
+    background: url(../cham3.png) no-repeat;
+    background-position: 7px 6px;
+    color: #d48d6e;
+}
+
+#cv-content #block01 .exp-date {
+    background: url(../time3.png) no-repeat;
+    background-size: 7% 80%;
+    background-position: 0px center;
+}
+
+#cv-content .exp-date {
+    background: url(../time3-1.png) no-repeat, #fff;
+    background-size: 100% 100%;
+    background-color: #fff;
+}
+
+#block01 .ctbx {
+    background: url(../soc3-1.png) repeat-y;
+    background-position: 15px 0px;
+}
+
+#cv-content .h3 {
+    background: url(../cham3.png) no-repeat;
+    background-position: 39px 6px;
+}
+
+#block02 .ctbx,
+#block04 .ctbx {
+    background: url(../soc3-1.png) repeat-y;
+    background-position: 47px 10px;
+}
+
+.footer {
+    background: url(../foot3.png) no-repeat;
+    background-position: center bottom;
+}

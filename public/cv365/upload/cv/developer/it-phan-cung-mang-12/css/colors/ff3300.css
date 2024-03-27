@@ -1,0 +1,33 @@
+#cv-top {
+    background: url(hd2.png);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+#cv-top h1 {
+    color: #ff3300;
+}
+#cv-top h2 {
+    color: #fff;
+    background: #ff3300;
+}
+.sum {
+    background: #ff3300;
+}
+#sortable .cvo-block {
+    background: #ff3300;
+}
+.bar-exp div {
+    background-color: #fff;
+}
+.bar-exp {
+    background: #999999;
+    border: 1px solid #999999;
+}
+#cvo-profile .box-dm {
+    /* background: url(avata2.png)no-repeat; */
+    /* background-size: 100% 100%; */
+}
+.mau_nen {
+    background: url(main2.png)no-repeat;
+    background-size: 100% 100%;
+}

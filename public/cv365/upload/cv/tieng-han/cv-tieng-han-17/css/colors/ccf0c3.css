@@ -1,0 +1,36 @@
+
+
+#cv-top{		 
+    background: #ccf0c3;
+}
+#cv-content .head {
+    background: #ccf0c3;
+}
+#cv-content .cvo-block {   
+	border-top: dashed 2px #ccf0c3; 
+}
+.bar-exp {
+  	background: #ccf0c3;
+} 
+
+#cv-main{
+	background: #bca3ca;
+	border-bottom: solid 1px #bca3ca;
+	border-right: solid 1px #bca3ca;
+}
+
+#cv-right{
+	background:#bca3ca;
+}
+
+#cv-right h3{
+	background: #577b8e;
+}
+
+.bar-exp div {
+    background: #577b8e;  
+}
+
+#sortable .icoweb{
+	background: #577b8e;
+}

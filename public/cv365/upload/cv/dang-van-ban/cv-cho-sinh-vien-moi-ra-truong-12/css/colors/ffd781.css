@@ -1,0 +1,120 @@
+#cv-top {
+    background: url(header3.png)no-repeat;
+    background-position: left top;
+}
+
+#form-cv .icf .fa {
+    color: #ffd781;
+}
+
+.icright1 {
+    background: url(tdhv3.png) no-repeat;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.icright2 {
+    background: url(kn3.png) no-repeat;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.icright3 {
+    background: url(hd3.png) no-repeat;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.icright4 {
+    background: url(da3.png) no-repeat;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.icright5 {
+    background: url(tt3.png) no-repeat;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.cumicc2 {
+    background: url(mtnn3.png) no-repeat;
+    background-position: top left;
+}
+
+.cumicc3 {
+    background: url(skill3.png) no-repeat;
+    background-position: top left;
+}
+
+.exp-fake {
+    background: url(skill1.png)no-repeat;
+    background-size: 100% 100%;
+}
+
+.bar-exp div {
+    background: #ffd781;
+}
+
+.cumicc4 {
+    background: url(gt3.png) no-repeat;
+    background-position: top left;
+}
+
+.cumicc5 {
+    background: url(cc3.png) no-repeat;
+    background-position: top left;
+}
+
+.cumicc6 {
+    background: url(st3.png) no-repeat;
+    background-position: top left;
+}
+
+.cumicc7 {
+    background: url(ntc3.png) no-repeat;
+    background-position: top left;
+}
+
+.footer {
+    background: url(ft3.png) no-repeat;
+    background-size: 100% 100%;
+}
+
+.box-dm {
+    float: left;
+    width: 281px;
+    height: 281px;
+    padding: 0;
+    margin: 0;
+    display: table;
+    background: url(ava3.png)no-repeat;
+    background-size: 100% 100%;
+    clear: both;
+    z-index: 1;
+    margin-top: -270px;
+    margin-left: 102px;
+    top: -999px;
+    position: absolute;
+}
+
+#prof .ic1 .icoweb {
+    background: url(../date3.png) no-repeat;
+    background-position: 2px 3px;
+}
+#prof .ic2 .icoweb {
+    background: url(../sex3.png) no-repeat;
+    background-position: 2px 3px;
+}
+#prof .ic3 .icoweb {
+    background: url(../phone3.png) no-repeat;
+    background-position: 6px 3px;
+}
+#prof .ic4 .icoweb {
+    background: url(../email3.png) no-repeat;
+    background-position: 4px 3px;
+}
+#prof .ic5 .icoweb {
+    background: url(../add3.png) no-repeat;
+    background-position: 6px 3px;
+}

@@ -1,0 +1,47 @@
+#cv-top {
+    background: url(../top2.png) no-repeat;
+    background-position: right 0px;
+} 
+
+div#box01 {
+    background: url(../thongtin2.png) no-repeat;
+    background-size: 29px 100%;
+}
+
+.bar-exp div {
+    background: url(../kn2.png) no-repeat;
+}
+
+.bar-exp {
+    background: url(../skill2.png) no-repeat;
+}
+
+.fake_img {
+    background: url(../fake2.png) no-repeat;
+}
+
+#cv-content .exp-date {
+    border-bottom: solid 2px #acb1d6;
+}
+
+div#cv-boxtitle {
+    border-bottom: solid 2px #acb1d6;
+}
+
+.ifo {
+    background: url(../chu2-2.png) no-repeat;
+    background-position: 60px bottom;
+    background-size: 250px 75px;
+}
+
+.chu {
+    background: url(../chu1-2.png) no-repeat;
+    background-position: 0px 0px;
+    background-size: 100% 100%;
+}
+
+
+.watermark {
+    background: url(../foot2.png) no-repeat;
+    background-position: left center;   
+}

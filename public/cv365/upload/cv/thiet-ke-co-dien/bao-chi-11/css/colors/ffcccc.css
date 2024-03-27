@@ -1,0 +1,18 @@
+#cv-top {
+
+    background: url(hd2.png)no-repeat;
+    background-position: left;
+    background-size: 100% 100%;
+}
+.all {
+    background: url(main2.png)no-repeat;
+    /* background-position: left; */
+    background-size: 100% 100%;
+}
+#cv-top h1 {
+    color: #ff6666;
+}
+ .box-dm {
+    background: url(avata2.png)no-repeat;
+    background-size: 100% 100%;
+} 

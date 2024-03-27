@@ -1,0 +1,61 @@
+.bar-exp div {
+    background: url(kn2.png) no-repeat;
+}
+
+.bar-exp {
+    background: url(skill.png) no-repeat;
+}
+
+#cv-content .head {
+    background: url(title2.png)no-repeat;
+    background-position: left bottom;
+}
+
+.tt-box1 {
+    border: 3px solid #0d598c;
+}
+
+div#cv-boxtitle {
+    background: url(title2.png)no-repeat;
+    background-position: left bottom;
+}
+
+#prof .ic1 .icf {
+    width: 30px;
+    height: 30px;
+    background: url(date2.png)no-repeat;
+    background-position: left center;
+    float: left;
+}
+#prof .ic2 .icf {
+    width: 30px;
+    height: 30px;
+    background: url(sex2.png)no-repeat;
+    background-position: left center;
+    float: left;
+}
+#prof .ic3 .icf {
+    width: 30px;
+    height: 30px;
+    background: url(phone2.png)no-repeat;
+    background-position: left center;
+    float: left;
+}
+#prof .ic4 .icf {
+    width: 30px;
+    height: 30px;
+    background: url(email2.png)no-repeat;
+    background-position: left center;
+    float: left;
+}
+#prof .ic5 .icf {
+    width: 30px;
+    height: 30px;
+    background: url(add2.png)no-repeat;
+    background-position: left center;
+    float: left;
+}
+
+#cv-right .ir {
+    background: url(center2.png)no-repeat;
+}

@@ -1,0 +1,159 @@
+#cv-content .ir #experience-table {
+    padding: 0;
+    margin: 0;
+    /*padding-left: 30px;*/
+    border-bottom: 1px solid #ea4a44;
+    margin-bottom: 20px;
+}
+
+#cv-content {
+    border-top: 2px solid #ea4a44;
+}
+
+#cv-top h1 {
+    margin: 0;
+    padding: 0;
+    font-size: 32px;
+    line-height: 32px;
+    text-transform: uppercase;
+    letter-spacing: 5px;
+    color: #ea4a44;
+    font-weight: bold;
+}
+
+#cv-content .exp-title {
+    width: 100%;
+    float: right;
+    color: #ea4a44;
+}
+
+#cvo-profile-avatar-wraper {
+    float: left;
+    width: 100%;
+    padding: 0px;
+    margin: 0px;
+    height: 190px;
+    border: 3px solid #ea4a44;
+    border-radius: 5px;
+}
+
+.bar-exp div {
+    float: left;
+    height: 8px;
+    /* background-image: url(exp.png);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;*/
+    background-color: #ea4a44;
+}
+
+.bar-exp {
+    width: 100%;
+    background: #f8f8fa;
+    height: 8px;
+    float: right;
+    margin-top: 3px;
+    border: 1px solid #ea4a44;
+    margin-bottom: 0px;
+    border-radius: 5px;
+}
+
+.icf .fa {
+    color: #ea4a44;
+    margin-top: 0;
+    float: none
+}
+
+#cv-content .head {
+    width: 75%;
+    height: 30px;
+    color: #ea4a44;
+    line-height: 30px;
+    border-bottom: 1px solid #ea4a44;
+    float: left;
+}
+
+.cum {
+    width: 100%;
+    height: 30px;
+    text-align: left;
+    background: #ea4a44;
+    border-radius: 20px;
+}
+
+.funk {
+    width: 100%;
+    height: 30px;
+    background: #ea4a44;
+    text-align: left;
+    border-radius: 20px;
+}
+
+#page-cv #cv-content span {}
+
+#footer {
+    width: 100%;
+    height: 48px;
+    border: none;
+    clear: both;
+    margin: 0;
+    padding: 0;
+    background: #ea4a44;
+}
+
+.sum .icon-1 {
+    width: 40px;
+    height: 30px;
+    float: left;
+    background: url(icon7b.png)no-repeat;
+    background-position: left center;
+    background-size: contain;
+}
+
+.sum .icon-2 {
+    width: 40px;
+    height: 30px;
+    float: left;
+    background: url(icon8b.png)no-repeat;
+    background-position: left center;
+    background-size: contain;
+}
+
+.sum .icon-3 {
+    width: 40px;
+    height: 30px;
+    float: left;
+    background: url(icon9b.png)no-repeat;
+    background-position: left center;
+    background-size: contain;
+}
+
+.sum .icon-4 {
+    width: 40px;
+    height: 30px;
+    float: left;
+    background: url(icon10b.png)no-repeat;
+    background-position: left center;
+    background-size: contain;
+}
+
+.sum .icon-5 {
+    width: 40px;
+    height: 30px;
+    float: left;
+    background: url(icon11b.png)no-repeat;
+    background-position: left center;
+    background-size: contain;
+}
+
+#cv-top {
+    width: 100%;
+    height: 260px;
+    background-image: url(hd1.png);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    /*padding-bottom: 20px;*/
+}
+
+span#cvo-experience-blocktitle {
+    border-bottom: 1px solid #ea4a44;
+}

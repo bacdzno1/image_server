@@ -1,0 +1,58 @@
+#cv-top {
+    /* background: url(hd1.png)no-repeat; */
+    /* background-size: 790px 325px; */
+}
+.all {
+    /* background: url(main1.png)no-repeat; */
+    background-position: -1px;
+}
+.bar-exp div {
+    background: #264258;
+}
+.bar-exp {
+    background: #fff;
+    border: 1px solid #264258;
+}
+.icf .fa {
+    color: #264258;
+}
+#cv-content .head {
+    /* background: url(bg1.png)no-repeat; */
+    /* background-size: 30px 15px; */
+    /* background-position: left; */
+    /* padding-left: 40px; */
+    /* margin-left: 50px; */
+}
+#cv-content .head #cvo-experience-blocktitle {
+    color: #264258;
+}
+div#experience-table {
+    /* color: #fff; */
+    /* background: #264258; */
+    /* border-top-right-radius: 40px; */
+    /* border-bottom-right-radius: 40px; */
+    /* border-bottom-left-radius: 40px; */
+}
+.tt-box1 {
+    background: #264258;
+    margin-top: -45px;
+    width: 70%;
+    margin: -45px auto 0;
+    border-radius: 10px;
+}
+#box01 #cv-boxtitle {
+    color: #fff;
+    text-align: center;
+    width: 100%;
+    margin: 0;
+}
+/* .ski {
+    background: url(bg1.png)no-repeat;
+} */
+.cum, .ski {
+    /* background: url(bg1.png)no-repeat; */
+    /* background-size: 50px 15px; */
+    /* background-position: left; */
+    /* padding-left: 40px; */
+    /* margin-left: -10px; */
+}

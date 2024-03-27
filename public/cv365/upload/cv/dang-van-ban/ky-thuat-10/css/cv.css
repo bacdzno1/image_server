@@ -1,0 +1,576 @@
+#form-cv {
+  font-family: "Roboto", sans-serif;
+  width: 100%;
+  float: left;
+  position: relative;
+  font-size: 14px;
+  line-height: 24px;
+}
+.watermark {
+float: left;
+width: 100%;
+/* height: 22px; */
+color: #999;
+text-align: right;
+padding-right: 22px;
+font-size: 15px;
+font-family: Courier;
+padding-top: 35px;
+/* background: #fff; */
+}
+
+#sortable .cvo-block .box-content {
+  padding: 10px;
+  margin: 0;
+  width: 88%;
+  padding-left: 20px;
+}
+.exp.content-edit.skill {
+  margin-top: 10px;
+  border-radius: 10px;
+  padding-left: 20px; 
+}
+
+
+#cvo-profile {
+display: block;
+}
+#cv-content {
+ width: 55%;
+  text-align: justify;
+  float: right;
+  position: relative;
+  padding: 0;
+  margin: 0;
+  border-bottom: none;
+  border-right: none;
+  margin-top: -180px;
+}
+
+
+#cv-main {
+  text-align: justify;
+  margin-top: 50px;
+  position: relative;
+  float: left;
+  width: 40%;
+     margin-left: 25px;
+      background: #a4eef4;
+}
+
+#cv-right .ir {
+  margin-right: -12px;
+}
+
+p.skill-name input {
+color: #fff !important;
+}
+
+#cv-right #box03 .ctbx {
+  width: 85%;
+  padding: 0;
+  margin: 0;
+  border: 0;
+  padding-left: 10px;
+  padding-bottom: 10px;
+}
+
+#cv-top {
+  width: 100%;
+   height: 420px;
+  background-image: url(hd1.png);
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  position: relative;
+}
+
+#cv-top h1 {
+  font-size: 32px;
+  font-family: "Roboto";
+  line-height: normal;
+  text-transform: uppercase;
+  margin-bottom: 0;
+  color: #006369;
+  font-weight: bold;
+  text-align: center;
+ margin-left: 50px;
+  margin-right: 10px;
+}
+#cv-top h1 span {
+  letter-spacing: 3px;
+}
+#box-hvt {
+  float: right;
+  width: 60%;
+  padding: 0;
+  margin: 0;
+  padding-top: 130px;
+  padding-right: 20px;
+}
+
+#sortable #box01 {
+  margin-top: 0;
+  margin-bottom: 0px;
+  padding: 0;
+  display: none;
+}
+
+#sortable #box01 #prof {
+  padding: 0;
+  margin: 0;
+  padding-bottom: 35px;
+  background-color: #fadeec;
+  padding-right: 25px;
+  padding-left: 10px;
+  padding-top: 10px;
+}
+
+#box01 ul {
+list-style: none;
+padding-left: 20px
+}
+
+#cv-right .cvo-block .head div {
+color: #fff;
+}
+
+.innertext {
+margin: 0px;
+padding: 0px;
+width: 29%;
+float: left;
+color: white;
+}
+
+#cv-top h2 {
+   text-transform: uppercase;
+  width: 75%;
+  font-size: 24px;
+  font-family: "Roboto";
+  color: #000000;
+  text-align: center;
+  margin: 0;
+  padding: 0;
+  margin-top: 5px;
+  margin-bottom: 0;
+  margin-left: 75px;
+}
+
+.box-01 p {
+overflow: hidden;
+}
+
+#cv-content p {
+margin-bottom: 5px
+}
+
+#cv-content .ir a {
+color: #2ebb2f
+}
+
+#cv-right h3, #cv-content .head {
+font-size: 20px;
+text-transform: uppercase;
+color: #000;
+font-weight: bold;
+text-align: left;
+margin: 0px auto 10px;
+line-height: 20px;
+padding-top: 0px;
+}
+#cv-content h3 {
+  font-size: 16px;
+  line-height: 24px;
+  font-weight: bold;
+  margin: 0px;
+  padding: 0px;
+}
+.all {
+  border-top: none;
+  border-bottom: none;
+  padding-left: 16px;
+  background: #f2f7f7;
+  /* background: url(maintest.png)no-repeat; */
+   background-size: 100% 100%;
+}
+
+#cv-content #block02 .exp-content{
+margin: 0;
+padding: 0;
+padding-right: 10px;
+}
+#cv-content #block03 h3{
+font-weight: bold;
+}
+#cv-content #block04 h3 {
+font-weight: bold;
+}
+
+#cv-content .exp-date {
+float: none;
+}
+
+#cv-content #block01 .exp-date {
+display: none;
+}
+
+#cv-content #block03 .exp-date {
+display: none;
+}
+
+#cv-content #block04 .exp-date {
+display: none;
+}
+
+#cv-content #block05 .exp-date {
+display: none;
+}
+
+#cv-content p.h3 {
+margin: 0px;
+padding: 0px;
+}
+
+.ctbx {
+padding-left: 10px;
+padding-right: 10px
+}
+
+#cv-content span {
+display: inline-block;
+z-index: 9999;
+}
+
+#cv-content #block02 h3 {
+font-weight: bold;
+}
+
+.ctbx {
+margin-bottom: 10px;
+padding-left: 0;
+padding-right: 0;
+position: relative;
+}
+
+
+.ctbx:hover {
+box-shadow: 0 0 1px #999;
+}
+
+.ctbx:hover .fieldgroup_controls {
+display: block;
+}
+
+[cvo-form-field] {
+cursor: text;
+}
+
+#cvo-profile-avatar-wraper {
+  width: 100%;
+}
+
+#cvo-profile-avatar-wraper .wimg {
+  width: 290px;
+  height: 290px;
+  padding: 0px;
+  margin: 0px;
+  margin-top: -328px;
+ /*  margin-top: -280px; */
+  border-radius: 5px;
+  margin-left: 16px;
+}
+#cvo-profile-avatar-wraper img {
+ width: 290px;
+  height: 330px;
+     clip-path: polygon(50% 0%, 100% 50%, 50% 91%, 0% 50%);
+}
+
+#line-seperate {
+height: 25px;
+}
+
+.bar-exp div {
+  float: left;
+  height: 10px;
+   background: url(kynang1.png) no-repeat;
+       background-position: right;
+  margin-top: -2px;
+}
+.ctbx .skill-name {
+margin: 0px;
+padding: 0px;
+}
+
+.bar-exp {
+  height: 10px;
+  float: none;
+  margin-top: 0;
+  margin-bottom: 0px;
+  padding: 0px;
+  background: url(gach1.png) no-repeat;
+}
+
+.bar-value-exp {
+width: 100%
+}
+
+.bar-value-exp input[type="text"] {
+color: #000;
+width: 95%
+}
+
+.icoweb label {
+display: block;
+}
+#page-cv #cv-content span {
+  width: 100%;
+}
+#prof [contentEditable=true] {
+  width: 100%;
+  float: left;
+}
+#prof .icoweb, #prof .icoweb span {
+  height: auto;
+}
+#sortable .ic {
+  margin-bottom: 0px;
+  padding-left: 5px;
+}
+
+.ic {
+width: 100%;
+float: left;
+}
+
+#form-cv .icf {
+float: left;
+border-radius: 5px;
+line-height: 30px;
+margin-bottom: 0;
+width: 28px;
+text-align: center;
+}
+
+.ic .icoweb {
+  width: 85%;
+  text-align: left;
+  padding-left: 5px;
+  float: left;
+}
+
+.icf .fa {
+  font-size: 20px;
+  margin-top: 0;
+  float: none;
+}
+.icoweb {
+  padding-left: 10px;
+}
+div#prof {
+  padding-left: 50px;
+  padding-top: 20px;
+}
+
+.container {
+width: 100%;
+}
+
+.sum {
+margin: 0;
+padding: 0;
+width: 100%;
+height: 30px;
+}
+#cv-right .block {
+  margin-bottom: 10px;
+  position: relative;
+  padding: 0;
+}
+#cv-content .head {
+height: 70px;
+  width: 100%;
+  line-height: 50px;
+  text-align: left;
+  background: url(anh1.png)no-repeat;
+  background-size: 100% 100%;
+  margin-left: 0;
+  margin-bottom: 10px;
+}
+
+#experience-table .ctbx {
+}
+
+.ifo {
+margin: 0;
+padding: 0;
+width: 100%;
+height: 30px;
+}
+
+
+#cv-right h3 {
+  width: 100%;
+  height: 30px;
+  margin: 0;
+  color: #ffffff;
+  padding: 0;
+  float: left;
+  line-height: 30px;
+  text-align: center;
+  background: #b82731;
+}
+
+#cv-content .head #cvo-experience-blocktitle {
+  color: #006369;    
+  margin-top: 20px;
+  margin-left: 10px;
+}
+#experience-table #exp2{
+margin-top: 10px;
+}
+#block02 #experience-table .ctbx {
+  padding-top: 0;
+}
+#block01 #experience-table .ctbx {
+  padding-top: 0;
+}
+#block03 #experience-table .ctbx{
+  padding-top: 0;
+}
+#block04 #experience-table .ctbx{
+  padding-top: 0;
+}
+#block05 #experience-table .ctbx{
+  padding-top: 0;
+}
+#exp1 .exp-content {
+  padding-right: 10px;
+}
+#page-cv #cv-content span {
+  z-index: 998;
+  padding-right: 10px;
+}
+
+div#experience-table {
+  margin-left: 25px;
+  border-radius: 10px;
+}
+
+
+.tt-box1 {
+  height: 42px;
+  width: 80%;
+  line-height: 45px;
+  border-bottom: 2px solid #f37736;
+  margin-left: 10%; 
+}
+div#cv-boxtitle {
+  font-size: 25px;
+  font-weight: bold;
+  text-transform: uppercase;
+  color: #000000;
+  /* margin-top: 20px; */
+}
+
+.ski {
+      height: 42px;
+  width: 85%;
+  line-height: 45px;
+  margin-left: 5%;
+  border-bottom: solid;
+}
+.cum {
+ width: 85%;
+  line-height: 45px;
+  margin-left: 5%;
+  border-bottom: solid;
+  color: #000000
+}
+#sortable{
+margin-top: 50px;
+}
+
+.footer {
+  float: left;
+  width: 100%;
+  height: 57px;
+  background: url(footer1.png);
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+  position: relative;
+  /* z-index: 9999; */
+}
+div#sort_block {
+  margin-left: 20px;
+      padding-right: 10px;
+      margin-top: 75px;
+}
+#cv-right #box02 {
+width: 307px;
+  margin-bottom: 0px;
+  position: relative;
+  padding: 0;
+  margin-top: 10px;
+}
+#cv-right #box03 {
+width: 307px;
+  margin-bottom: 0px;
+  position: relative;
+  padding: 0;
+}
+#cv-right #box04 {
+width: 307px;
+  margin-bottom: 0px;
+  position: relative;
+  padding: 0;
+}
+#cv-right #box05 {
+width: 307px;
+  margin-bottom: 0px;
+  position: relative;
+  padding: 0;
+}
+#cv-right #box06 {
+width: 307px;
+  margin-bottom: 0px;
+  position: relative;
+  padding: 0;
+}
+#cv-right #box07 {
+width: 307px;
+  margin-bottom: 0px;
+  position: relative;
+  padding: 0;
+  padding-bottom: 50px;
+}
+#cv-content #block05 {
+  padding-left: 10px;
+  padding-top: 10px;
+}
+#sortable{
+margin-top: 55px;
+}
+
+#cv-content .cvo-block {
+  display: block;
+  position: relative;
+  /* padding: 5px 10px; */
+  padding-left: 10px;
+  padding-top: 10px;
+}
+.box-dm {
+  width: 300px;
+  height: 297px;
+  padding: 0;
+  margin: 0;
+  float: left;
+  display: table;
+  background: url(avata1.png)no-repeat;
+  background-size: 100% 100%;
+  clear: both;
+  z-index: 1;
+  margin-top: -302px;
+  position: absolute;
+  margin-left: 6.5px;
+  top: -1300px;
+}

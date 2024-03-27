@@ -1,0 +1,123 @@
+.bar-exp {
+  background: url(../skill3.png) no-repeat;
+}
+
+.bar-exp div {
+  background: url(../kn3-1.png) no-repeat;
+  background-position: right;
+}
+
+#page-cv #cv-content #cvo-experience-blocktitle,
+#cv-boxtitle {
+  color: #fd8100;
+}
+
+#page-cv #cv-main #box03 #cv-boxtitle {
+    background: url(../kinang3.png) no-repeat, #ffff;
+    background-position: 0px center;
+}
+
+#page-cv #cv-main #box04 #cv-boxtitle {
+    background: url(../giaithuong3.png) no-repeat, #ffff;
+    background-position: 0px center;
+}
+
+#page-cv #cv-main #box07 #cv-boxtitle {
+    background: url(../nguoithamchieu3.png) no-repeat, #ffff;
+    background-position: 0px center;
+}
+
+#page-cv #cv-main #box06 #cv-boxtitle {
+    background: url(../sothich3.png) no-repeat, #ffff;
+    background-position: 0px center;
+}
+
+#page-cv #cv-main #box05 #cv-boxtitle {
+    background: url(../chungchi3.png) no-repeat, #ffff;
+    background-position: 0px center;
+}
+
+.chu {
+  background: url(../top3.png) no-repeat;
+  background-size: 100% 100%;
+}
+
+.cum,
+.ski {
+  background: url(../dot-main3.png) no-repeat, url(../ngang1-3.png) no-repeat;
+  background-position: right center, 0px center;
+}
+
+.chu h1 {
+  background: url(../chu1-3.png) no-repeat, url(../chu2-3.png) no-repeat;
+  background-position: 17px center, 561px center;
+  background-size: 100px 4px;
+}
+
+.ic2 .icoweb {
+  background: url(../sex3.png) no-repeat;
+  background-position: 2px center;
+}
+
+.ic1 {
+  background: url(../date3.png) no-repeat;
+  background-position: 2px center;
+}
+
+.i_ri .ic2 {
+  background: linear-gradient(90deg, #fd8300, #f83a00);
+}
+
+.ic3 {
+  background: url(../phone3.png) no-repeat;
+  background-position: 2px center;
+}
+
+.ic4 {
+  background: url(../mail3.png) no-repeat;
+  background-position: 2px center;
+}
+
+.ic5 {
+  background: url(../add3.png) no-repeat;
+  background-position: 2px center;
+}
+
+#page-cv #cv-content #block01 #cvo-experience-blocktitle {background: url(../hocvan3.png) no-repeat, #ffff;background-position: 0px center;}
+
+#cv-content #block01 .head {background: url(../dot-content3.png) no-repeat, url(../ngang2-3.png) no-repeat;background-position: right center, 0px center;background-size: 8px 8px, 100% 3px;}
+
+#cv-content #block04 .head {background: url(../dot-content3.png) no-repeat, url(../ngang2-3.png) no-repeat;background-position: right center, 0px center;background-size: 8px 8px, 100% 3px;}
+
+#page-cv #cv-content #block04 #cvo-experience-blocktitle {background: url(../duan3.png) no-repeat, #ffff;background-position: 0px center;}
+
+#cv-content #block05 .head {background: url(../dot-content3.png) no-repeat, url(../ngang2-3.png) no-repeat;background-position: right center, 0px center;background-size: 8px 8px, 100% 3px;}
+
+#page-cv #cv-content #block05 #cvo-experience-blocktitle {background: url(../thongtinthem3.png) no-repeat, #ffff;background-position: 0px center;}
+
+#cv-content #block02 .head {background: url(../dot-content3.png) no-repeat, url(../ngang2-3.png) no-repeat;background-position: right center, 0px center;background-size: 8px 8px, 100% 3px;}
+
+#page-cv #cv-content #block02 #cvo-experience-blocktitle  {background: url(../kinhnghiem3.png) no-repeat, #ffff;background-position: 0px center;}
+
+#cv-content #block03 .head {background: url(../dot-content3.png) no-repeat, url(../ngang2-3.png) no-repeat;background-position: right center, 0px center;background-size: 8px 8px, 100% 3px;}
+
+#page-cv #cv-content #block03 #cvo-experience-blocktitle  {background: url(../hoatdong3.png) no-repeat, #ffff;background-position: 0px center;}
+
+
+.footer {
+  background: url(../foot3-1.png) no-repeat, url(../form3-3.png) no-repeat, url(../form3-3.png) no-repeat;
+  background-position: left, right;
+  background-size: 100% 68px, 15px 100%, 15px 100%;
+}
+
+#cv-top {
+    background: url(../form3-3.png) no-repeat, url(../form3-3.png) no-repeat;
+    background-position: left, right;
+    background-size: 15px 100%;
+  }
+
+.all {
+    background: url(../form3-3.png) no-repeat, url(../form3-3.png) no-repeat;
+    background-position: left, right;
+    background-size: 15px 100%;
+  }

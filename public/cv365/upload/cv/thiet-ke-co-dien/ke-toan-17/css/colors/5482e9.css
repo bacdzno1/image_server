@@ -1,0 +1,14 @@
+/* 3 */
+
+:root {
+    --sex: url(sex3.png) no-repeat;
+    --phone: url(phone3.png) no-repeat;
+    --date: url(date3.png) no-repeat;
+    --email: url(email3.png) no-repeat;
+    --add: url(add3.png) no-repeat;
+    --color: #5482e9;
+    --kn: url(kn3.png) no-repeat;
+    --border: solid 2px #5482e9;
+    --left: url(left3-1.png) no-repeat, url(left3-2.png) no-repeat, url(left3-3.png) no-repeat;
+    --right: url(right3-1.png) no-repeat, url(right3-2.png) no-repeat, url(right3-3.png) no-repeat;
+}

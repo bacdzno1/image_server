@@ -1,0 +1,17 @@
+/* 3 */
+:root {
+  --page: url(page3.png) no-repeat;
+  --fake: url(fake3.png) no-repeat;
+  --tt: url(tt-t3.png) no-repeat, url(tt-b3.png) no-repeat;
+  --cum: url(cum3.png) no-repeat;
+  --head: url(border-h3.png) no-repeat, url(head-f3.png) no-repeat;
+  --block: url(head_l3.png) no-repeat, url(head-r3.png) no-repeat;
+  --muctieu: url(muctieu_t3.png) no-repeat, url(muctieu_b3.png) no-repeat, url(muctieu_f3.png) no-repeat;
+  --kn: url(kn3.png) no-repeat;
+  --box-c: url(box-ct3.png) no-repeat, url(box-cb3.png) no-repeat, url(box-cf3.png) repeat-y;
+  --time-c: url(time-c3.png) no-repeat;
+  --color: #eee3cb;
+  --color-c: #d7c0ae;
+  --color-b: #eee3cb;
+  --color-t: #493833;
+}

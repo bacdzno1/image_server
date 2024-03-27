@@ -1,0 +1,40 @@
+div#prof {
+    float: left;
+    width: 100%;
+    background: #66cccc;
+    border-radius: 0 20px 0 20px;
+}
+.icf .fa {
+    font-size: 20px;
+    color: #66cccc;
+    margin-top: 0;
+    float: left;
+}
+#cv-content .head #cvo-experience-blocktitle {
+    color: #66cccc;
+    float: left;
+    font-size: 25px;
+}
+div#cv-boxtitle {
+    font-size: 25px;
+    font-weight: bold;
+    text-transform: uppercase;
+    color: #66cccc;
+    float: left;
+}
+.bar-exp {
+    background: #999999;
+    height: 7px;
+    float: none;
+    margin-top: 5px;
+    margin-bottom: 0px;
+    padding: 0px;
+    float: right;
+    width: 100%;
+}
+.bar-exp div {
+    float: left;
+    height: 7px;
+    background: #66cccc;
+    margin-top: 0px;
+}

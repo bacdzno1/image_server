@@ -1,0 +1,15 @@
+#cv-top h1, #cv-content h3, #cv-content p.h3{
+	color:#ff6600;
+}
+#cv-right h3 div, #cv-content .head div, .bar-exp div{
+	background: #ff6600		
+}
+#cv-right h3, #cv-content .head{
+	background: url(lineff6600.png) left center repeat-x;
+}
+#form-cv .icf{
+	border:1px solid #ff6600;
+}
+.icf .fa{
+	color:#ff6600;
+}

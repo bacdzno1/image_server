@@ -1,0 +1,9 @@
+#cv-content .head, #cv-main,#cvo-profile-avatar-wraper{
+    background: #cde6be;
+}
+#cv-right h3, #cv-content .head{
+	color:#cde6be;
+}
+#cv-right{
+	background: url('cde6be.png') right top repeat-y
+}

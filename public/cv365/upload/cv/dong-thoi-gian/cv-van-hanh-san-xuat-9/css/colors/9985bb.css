@@ -1,0 +1,84 @@
+#cv-top {
+    width: 100%;
+    height: 255px;
+    background-image: url(hd3.png);
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    position: relative;
+}
+.bar-exp div {
+    float: left;
+    height: 8px;
+    background: #9985bb;
+    margin-top: 0px;
+    border-radius: 10px;
+}
+.bar-exp {
+    background: #fff;
+    height: 8px;
+    float: none;
+    margin-top: 5px;
+    margin-bottom: 0px;
+    padding: 0px;
+    border: 1px solid #9985bb;
+    border-radius: 10px;
+    float: right;
+    width: 100%
+}
+.icf .fa {
+    font-size: 20px;
+    color: #9985bb;
+    margin-top: 0;
+    float: left;
+}
+
+#cv-content .head {
+    padding: 0;
+    margin: 0;
+    height: 40px;
+    line-height: 40px;
+    text-align: center;
+    font-size: 20px;
+    font-weight: 500;
+    text-transform: uppercase;
+    float: left;
+    width: 100%;
+    border: 2px solid #9985bb;
+}
+.tt-box1 {
+    padding: 0;
+    margin: 0;
+    height: 44px;
+    width: 100%;
+    line-height: 44px;
+    text-align: center;
+    background: #9985bb;
+    border-radius: 5px;
+}
+.ski {
+    padding: 0;
+    margin: 0;
+    height: 44px;
+    width: 100%;
+    line-height: 44px;
+    text-align: center;
+    background: #9985bb;
+        border-radius: 5px;
+}
+.cum {
+    padding: 0;
+    margin: 0;
+    height: 44px;
+    width: 100%;
+    line-height: 44px;
+    text-align: center;
+    background: #9985bb;
+        border-radius: 5px;
+}
+.footer {
+  background:url(ft3.png)no-repeat;
+  background-size: 100% 100%;
+  height:130px; 
+    float: left;
+    width: 100%;
+}

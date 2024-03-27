@@ -1,0 +1,10 @@
+#cv-content .head, #form-cv, .bar-exp div{
+	background: #dbb71c
+}
+#cv-content {
+    background: #424242;
+    color:#dbb71c;
+}
+#cvo-profile-avatar-wraper{
+	border:2px solid #424242;
+}

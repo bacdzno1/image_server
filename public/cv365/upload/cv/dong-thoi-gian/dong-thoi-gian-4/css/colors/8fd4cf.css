@@ -1,0 +1,16 @@
+#form-cv{
+	background: #8fd4cf
+}
+.bar-exp div{
+	background: #59b300
+}
+#cv-right h3, #cv-content .head{
+	background: #59b300;
+	border-left: 20px solid #ffcc00
+}
+#cv-top h1{
+	color:#59b300;
+}
+.bar-exp{
+	border:1px solid #59b300;
+}

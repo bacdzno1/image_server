@@ -1,0 +1,12 @@
+/* 2 */
+
+:root {
+  --sex: url(sex2.png) no-repeat;
+  --phone: url(phone-2.png) no-repeat;
+  --date: url(date2.png) no-repeat;
+  --email: url(mail-2.png) no-repeat;
+  --add: url(add-2.png) no-repeat;
+  --top: url(top2.png) no-repeat;
+  --main: url(main_t2.png) no-repeat, url(main_b2.png) no-repeat, url(main_f2.png) no-repeat;
+  --head: url(head-t2.png) no-repeat, url(head_b2.png) no-repeat, url(head-f2.png) no-repeat;
+}

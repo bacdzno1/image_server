@@ -1,0 +1,17 @@
+#form-cv{
+	border:solid 1px #219186;
+	border-left: solid 35px #219186;
+}
+#cv-top h1, .icf .fa, #cv-right h3, #cv-content .head, #cv-content h3{
+	color:#219186;
+}
+#cvo-profile .box-contact{
+	color:#219186;
+	border-left: 4px solid #219186;
+}
+#sortable .cvo-block, #cv-content .cvo-block{
+	border-left: solid 4px #219186;
+}
+.bar-exp div{
+	background: #219186
+}

@@ -1,0 +1,27 @@
+.bar-exp div {
+    background: #f57665;
+}
+#cv-right .h3, #cv-content .head{
+    color: #f57665;
+}
+#cv-content h3{
+    color: #f57665;
+    border-bottom: solid 1px #f57665;
+}
+#cv-right .box-contact .icoweb .fa{
+    color: #f57665;
+}
+#form-cv .cvo-block .icf,
+ #form-cv .cvo-block .icfs{
+    background-color: #f57665;
+}
+ #form-cv .cvo-block .icfs{
+    background-color: #f57665;
+ }
+#cv-top{
+    background-image: url(../bg1.png);
+    background-position: top center;
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    background-color: #353535;
+}

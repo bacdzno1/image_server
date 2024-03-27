@@ -1,0 +1,22 @@
+div#prof {
+    background-color: #e1b24c;
+}
+.chu {
+    background-color: #e1b24c;
+}
+.bar-exp {
+    background: url(bar-exp3.png) no-repeat;
+}
+.bar-exp div {
+    background: url(skill3.png) no-repeat;
+    background-position: right;
+}
+.cum, .ski {
+    background-color: #ded2b9;
+}
+#cv-content .head {
+    background-color: #ded2b9;
+}
+.footer {
+    background: url(ft3.png) no-repeat;
+}

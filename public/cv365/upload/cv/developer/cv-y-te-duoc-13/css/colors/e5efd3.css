@@ -1,0 +1,178 @@
+#cv-top {
+    background: url(hd2.png)no-repeat;
+    background-position: left;
+    background-size: 100% 100%;
+}
+
+.all {
+    background: url(main2.png)no-repeat;
+    background-position: left;
+    background-size: 100% 100%;
+}
+
+#cv-top h1 {
+    /* background: url(bg1.png)no-repeat; */
+    background-position: bottom;
+    background-size: 100% 25%;
+}
+.footer{
+    background: url(bg-ft2.png)no-repeat;
+    background-position: left;
+    background-size: 100% 100%;
+}
+.bar-exp {
+    background: #e5efd3;
+    height: 12px;
+    float: left;
+    margin-bottom: 0px;
+    padding: 0px;
+    float: left;
+    width: 99%;
+    border-radius: 10px;
+    border: 1px solid #525252;
+}
+/* #cv-top h2 {
+    color: #fff;
+    background: #e5efd3;
+} */
+
+/* #cv-content #block01 h3 {
+    background: url(ic1_03.png)no-repeat;
+    background-position: left;
+}
+
+#cv-content #block02 h3 {
+    background: url(ic1_03.png)no-repeat;
+    background-position: left;
+} */
+
+/* .bar-exp div {
+    background: #e5efd3;
+} */
+
+/* .exp-fake {
+    background: url(bar.png)no-repeat;
+    background-size: 100% 100%;
+} */
+/* 
+.sex {
+    background: #e5efd3;
+}
+
+.birthday {
+    background: #e5efd3;
+}
+
+.phone {
+    background: #e5efd3;
+}
+
+.email {
+    background: #e5efd3;
+}
+
+.ic-birthday .icoweb {
+    color: #59393f;
+}
+
+.ic-email .icoweb {
+    color: #59393f;
+}
+
+.ic-birthday .icf .fa {
+    color: #59393f;
+}
+
+.ic-email .icf .fa {
+    color: #59393f;
+}
+
+#block01 .head {
+    background: url(tt1_03.png)no-repeat;
+    background-position: left;
+}
+
+#block02 .head {
+    background: url(tt1_06.png)no-repeat;
+    background-position: left;
+}
+
+#block03 .head {
+    background: url(tt1_09.png)no-repeat;
+    background-position: left;
+}
+
+#block04 .head {
+    background: url(tt1_11.png)no-repeat;
+    background-position: left;
+}
+
+#block05 .head {
+    background: url(tt1_14.png)no-repeat;
+    background-position: left;
+}
+
+.ski {
+    background: url(ic1_07.png)no-repeat;
+    background-position: right;
+}
+
+#box02 .cum {
+    background: url(ic1_07.png)no-repeat;
+    background-position: right;
+}
+
+#box04 .cum {
+    background: url(ic1_07.png)no-repeat;
+    background-position: right;
+}
+
+#box05 .cum {
+    background: url(ic1_07.png)no-repeat;
+    background-position: right;
+}
+
+#box06 .cum {
+    background: url(ic1_07.png)no-repeat;
+    background-position: right;
+}
+
+#box07 .cum {
+    background: url(ic1_07.png)no-repeat;
+    background-position: right;
+}
+
+.cumic2 {
+    background: url(ic1_10.png)no-repeat;
+    background-position: left;
+}
+
+.cumicc3 {
+    background: url(ic1_10.png)no-repeat;
+    background-position: left;
+}
+
+.cumic4 {
+    background: url(ic1_10.png)no-repeat;
+    background-position: left;
+}
+
+.cumic5 {
+    background: url(ic1_10.png)no-repeat;
+    background-position: left;
+}
+
+.cumic6 {
+    background: url(ic1_10.png)no-repeat;
+    background-position: left;
+}
+
+.cumic7 {
+    background: url(ic1_10.png)no-repeat;
+    background-position: left;
+}
+
+#cvo-profile .box-dm {
+    background: url(anh1.png)no-repeat;
+    background-size: 100% 100%;
+} */

@@ -1,0 +1,92 @@
+#cv-top h1 {
+    color: #bf5933;
+}
+
+#cv-top h2 {
+    color: #bf5933;
+}
+
+#cv-content h3 {
+    color: #bf5933;
+}
+
+/* #form-cv {
+    line-height: 20px;
+} */
+
+.icf .fa {
+    color: #bf5933;
+}
+
+#cv-content .head {
+    color: #bf5933;
+}
+
+div#cv-boxtitle {
+    color: #bf5933;
+    border-bottom: 4px solid #bf5933;
+}
+
+.bar-exp div {
+    background: #bf5933;
+}
+
+.bar-exp {
+    border: 1px solid #bf5933;
+}
+
+.all {
+    border-bottom: 25px solid #bf5933;
+}
+
+#cv-top {
+    background-image: url(hd1-4.png);
+}
+
+.cumicc1 {
+    background: url(ic1-4.png)no-repeat;
+}
+
+.cumicc2 {
+    background: url(ic2-4.png)no-repeat;
+}
+
+.cumicc3 {
+    background: url(ic3-4.png)no-repeat;
+}
+
+.cumicc4 {
+    background: url(ic5-4.png)no-repeat;
+}
+
+.cumicc5 {
+    background: url(ic4-4.png)no-repeat;
+}
+
+.cumicc6 {
+    background: url(ic6-4.png)no-repeat;
+}
+
+.cumicc7 {
+    background: url(ic7-4.png)no-repeat;
+}
+
+.icright1 {
+    background: url(ict1-4.png)no-repeat;
+}
+
+.icright2 {
+    background: url(ict2-4.png)no-repeat;
+}
+
+.icright3 {
+    background: url(ict3-4.png)no-repeat;
+}
+
+.icright4 {
+    background: url(ict4-4.png)no-repeat;
+}
+
+.icright5 {
+    background: url(ict5-4.png)no-repeat;
+}

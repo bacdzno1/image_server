@@ -1,0 +1,58 @@
+#cvo-profile-avatar-wraper .wimg {
+    border: 5px solid #b3c890;
+}
+div#cv-boxtitle {
+    background: #b3c890;
+}
+.bar-exp {
+    background: #dbdfaa;
+}
+.bar-exp div {
+    background: #b3c890;
+}
+#cv-content .ir .cvo-block {
+    border: 2px solid #b3c890;
+}
+#cv-content .head {
+    background: #b3c890;
+}
+#cv-top {
+    background: url(../bg_top3.png) no-repeat;
+    background-size: 100%;
+}
+#form-cv {
+    background-image: url(../main3.png);
+    background-size: 100% 100%;
+}
+.footer {
+    background: url(../ft3.png) no-repeat;
+    height: 78px;
+    float: left;
+    width: 100%;
+    background-size: 100% 100%;
+}
+.ic1 .icf {
+    background: url(../sex3.png) no-repeat;
+    width: 25px;
+    height: 25px;
+}
+.ic2 .icf {
+    background: url(../date3.png) no-repeat;
+    width: 25px;
+    height: 25px;
+}
+.ic3 .icf {
+    background: url(../phone3.png) no-repeat;
+    width: 25px;
+    height: 25px;
+}
+.ic4 .icf {
+    background: url(../mail3.png) no-repeat;
+    width: 25px;
+    height: 25px;
+}
+.ic5 .icf {
+    background: url(../add3.png) no-repeat;
+    width: 25px;
+    height: 25px;
+}

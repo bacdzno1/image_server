@@ -1,0 +1,170 @@
+.cumicc2{
+    background: url(tl_01_03.png) no-repeat left center;
+    background-size: 100% 100%;
+    width: 45px;
+    height: 30px;
+    float: left;
+  }
+  .cumicc3{
+    background: url(tl_01_06.png) no-repeat left center;
+    background-size: 100% 100%;
+    width: 45px;
+    height: 30px;
+    float: left;
+  }
+  .cumicc4{
+    background: url(tl_01_08.png) no-repeat left center;
+    background-size: 100% 100%;
+    width: 45px;
+    height: 30px;
+    float: left;
+  }
+  .cumicc5{
+    background: url(tl_01_10.png) no-repeat left center;
+    background-size: 100% 100%;
+    width: 45px;
+    height: 30px;
+    float: left;
+  }
+  .cumicc6{
+    background: url(tl_01_12.png) no-repeat left center;
+    background-size: 100% 100%;
+    width: 45px;
+    height: 30px;
+    float: left;
+  }
+  .cumicc7{
+    background: url(tl_01_14.png) no-repeat left center;
+    background-size: 100% 100%;
+    width: 45px;
+    height: 30px;
+    float: left;
+  }
+  .icright1{
+    background: url(tr_01_03.png) no-repeat left center;
+    background-size: 100% 100%;
+    width: 45px;
+    height: 30px;
+    float: left;
+  }
+  .icright2{
+    background: url(tr_01_06.png) no-repeat left center;
+    background-size: 100% 100%;
+    width: 45px;
+    height: 30px;
+    float: left;
+  }
+  .icright3{
+    background: url(tr_01_08.png) no-repeat left center;
+    background-size: 100% 100%;
+    width: 45px;
+    height: 30px;
+    float: left;
+  }
+  .icright4{
+    background: url(tr_01_10.png) no-repeat left center;
+    background-size: 100% 100%;
+    width: 45px;
+    height: 30px;
+    float: left;
+  }
+  .icright5{
+    background: url(tr_01_12.png) no-repeat left center;
+    background-size: 100% 100%;
+    width: 45px;
+    height: 30px;
+    float: left;
+  }
+  
+  #cv-top {
+    background-image: url(hd_01.png);
+    background-size: 100% 100%;
+  }
+  .all{
+    background: url(main_01.png)no-repeat;
+    background-size: 100% 100%;
+  }
+  .footer{
+    background: url(ft_01.png)no-repeat;
+    background-size: 100% 100%;
+  }
+  .bar-exp div {
+    float: left;
+    height: 7px;
+    background: #1c1e82;
+  }
+  .bar-exp {
+    border: 2px solid #1c1e82;
+  }
+  #cvo-profile-avatar-wraper .wimg {
+    border: 2px solid #1c1e82;
+  }
+  div#cv-boxtitle{
+    color: #1c1e82;
+  }
+  .ic .icf1 {
+    float: left;
+    margin-bottom: 0;
+    width: 25px;
+    line-height: 25px;
+    height: 25px;
+    text-align: left;
+    background: url(icon_01_03.png)no-repeat;
+    background-position: left;
+    background-size: 100% 100%;
+  }
+  
+  #form-cv .icf2 {
+    float: left;
+      margin-bottom: 0;
+      width: 25px;
+      line-height: 25px;
+      height: 25px;
+      text-align: left;
+      background: url(icon_01_06.png)no-repeat;
+      background-position: left;
+      background-size: 100% 100%;
+  }
+  #form-cv .icf3 {
+    float: left;
+      margin-bottom: 0;
+      width: 25px;
+      line-height: 25px;
+      height: 25px;
+      text-align: left;
+      background: url(icon_01_08.png)no-repeat;
+      background-position: left;
+      background-size: 100% 100%;
+  }
+  #form-cv .icf4 {
+    margin-bottom: 0;
+      width: 25px;
+      line-height: 16px;
+      height: 25px;
+      text-align: left;
+      background: url(icon_01_10.png)no-repeat;
+      background-position: left;
+      background-size: 100% 100%;
+      float: left;
+  }
+  #form-cv .icf5 {
+    float: left;
+      margin-bottom: 0;
+      width: 25px;
+      line-height: 25px;
+      height: 25px;
+      text-align: left;
+      background: url(icon_01_13.png)no-repeat;
+      background-position: left;
+      background-size: 100% 100%;
+  }
+  #cv-content .head #cvo-experience-blocktitle {
+    color: #1c1e82;
+}
+
+    #cv-top h1{
+        color: #1c1e82;
+    }
+    #cv-content .head #cvo-experience-blocktitle{
+        color: #1c1e82;
+    }

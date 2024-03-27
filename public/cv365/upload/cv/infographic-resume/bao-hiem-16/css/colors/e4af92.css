@@ -1,0 +1,39 @@
+#cvo-profile {
+    background: url(../fake2.png) no-repeat;
+    background-position: top;
+}
+
+.fake_img {
+    background: url(../fake2.png)no-repeat;
+    background-size: 100% 100%;
+}
+
+#cv-top h2 {
+    color: #d0794a;
+}
+
+.bar-exp {
+    background: url(../skill.png) no-repeat;
+}
+
+.bar-exp div {
+    background: url(../kn2.png) no-repeat;
+}
+
+#cv-content .head {
+    background: url(../tt2.png) no-repeat;
+    background-size: 100% 100%;
+}
+
+#cv-content .exp-date {
+    color: #e4af92;
+}
+
+/* #box04 .box-content, #box05 .box-content, #box06 .box-content {
+    background: url(../gach2.png) no-repeat;
+    background-position: 2px 17px;
+} */
+
+.footer {
+    background: url(../foot2.png) no-repeat;
+}

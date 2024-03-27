@@ -1,0 +1,23 @@
+#cv-top {
+  background-image: url(hd3.png);
+  background-size: 100% 100%;
+}
+.footer{background: url(ft3.png) no-repeat;background-size: 100% 100%;}
+.ic1, .ic2, .ic3 {
+  background: url(ic3.png)no-repeat;
+  background-size: 100% 100%;
+}
+.ic {
+  background: url(ic3.png)no-repeat;
+  background-size: 100% 100%;
+}
+#cv-top h1 {
+  color: #ff8465;
+}
+#cv-content .head #cvo-experience-blocktitle {
+  border-bottom: 2px solid #ff8465;
+}
+.bar-exp {
+  background: url(bar3.png)no-repeat;
+  background-size: 100% 100%;
+}

@@ -1,0 +1,19 @@
+#form-cv{
+    outline: 1px solid #662200;
+}
+#cv-top{
+    background: #662200
+}
+#cv-right .box-title, #cv-content .head{
+    color:#662200;
+}
+#form-cv .wfa{
+    color:#662200;
+    border:2px solid #662200;
+}
+#cv-content h3{
+    color:#662200;
+}
+#cv-main, #cv-content{
+    background: url(662200.png) 190px top repeat-y;
+}

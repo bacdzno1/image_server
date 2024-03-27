@@ -1,0 +1,201 @@
+
+#cv-right .ir #sortable .block{
+  padding: 0;
+  margin: 0;
+  float:left;
+  width: 100%;
+  background: #82dcd5;
+  margin-bottom: 20px;
+}
+
+#cv-top {
+    width: 100%;
+    height: 265px;
+    background-image: url(hd2.png);
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    position: relative;
+}
+.all{
+  float: left;
+  clear: both;
+  width: 100%;
+  background:url(main2.png)no-repeat;
+  background-size: 100% 100%;
+}
+
+#cv-top h1 {
+    padding: 0;
+    margin: 0;
+    font-size: 34px;
+    font-family: "Roboto";
+    line-height:34px;
+    text-transform: uppercase;
+    margin-bottom: 0;
+    color: #00746b;
+    font-weight: bold;
+    text-align: center;
+    width: 100%;
+    padding-bottom: 5px;
+    float: left;
+}
+#cv-top h2 {
+    text-transform: uppercase;
+    width: 100%;
+    font-size: 16px;
+    font-family: "Roboto";
+    color: #00746b;
+    text-transform: uppercase;
+    font-weight: normal;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+    float: left;
+    line-height: 20px;
+    margin-bottom: 0;
+}
+
+#cv-content #block02 h3 {
+  font-weight: bold;
+  color: #00746b;
+  float: left;
+  padding-bottom: 15px;
+  width: 100%;
+}
+
+.bar-exp div {
+    float: left;
+    height: 8px;
+    background: #00746b;
+    margin-top: 0px;
+}
+.bar-exp {
+    background: #82dcd5;
+    height: 8px;
+    float: none;
+    margin-top: 5px;
+    margin-bottom: 0px;
+    padding: 0px;
+    border: 1px solid #00746b;
+    float: right;
+    width: 100%
+}
+
+.icf .fa {
+    font-size: 20px;
+    color: #00746b;
+    margin-top: 0;
+    float: left;
+}
+
+#cv-content .head {
+    padding: 0;
+    margin: 0;
+    height: 35px;
+    line-height: 35px;
+    text-align: left;
+    font-size: 20px;
+    font-weight: 500;
+    text-transform: uppercase;
+    float: left;
+    width: 100%;
+    border: 3px solid #00746b;
+    border-top-left-radius: 35px;
+}
+#cv-content .head #cvo-experience-blocktitle {
+    color: #00746b;
+    float: left;
+    padding-left: 25px;
+}
+.tt-box1 {
+    padding: 0;
+    margin: 0 auto;
+    height: 43px;
+    width: 100%;
+    line-height: 43px;
+    text-align: left;
+    background: url(ic2_03.png)no-repeat;
+    background-size: 100% 100%;
+}
+#box02 .cum{
+  background: url(ic2_14.png)no-repeat;
+  background-size: 100% 100%;
+}
+#box03 .ski{
+  background: url(ic2_16.png)no-repeat;
+  background-size: 100% 100%;
+}
+#box04 .cum{
+  background: url(ic2_18.png)no-repeat;
+  background-size: 100% 100%;
+}
+#box05 .cum{
+  background: url(ic2_23.png)no-repeat;
+  background-size: 100% 100%;
+}
+#box06 .cum{
+  background: url(ic2_27.png)no-repeat;
+  background-size: 100% 100%;
+}
+#box07 .cum{
+  background: url(ic2_29.png)no-repeat;
+  background-size: 100% 100%;
+}
+
+div#cv-boxtitle {
+    margin: 0;
+    padding:0;
+    font-size: 19px;
+    font-weight: bold;
+    text-transform: uppercase;
+    color: #00746b;
+    padding-left: 50px;
+}
+.icright1 {
+    width: 50px;
+    height: 35px;
+    float: left;
+    background: url(ic2_06.png);
+    background-position: center;
+    background-repeat: no-repeat;
+  }
+.icright2 {
+    width: 50px;
+    height: 35px;
+    float: left;
+    background: url(ic2_11.png);
+    background-position: center;
+    background-repeat: no-repeat;
+}
+.icright3 {
+    width: 50px;
+    height: 35px;
+    float: left;
+    background: url(ic2_19.png);
+    background-position: center;
+    background-repeat: no-repeat;
+}
+.icright4 {
+    width: 50px;
+    height: 35px;
+    float: left;
+    background: url(ic2_25.png);
+    background-position: center;
+    background-repeat: no-repeat;
+}
+.icright5 {
+    width: 50px;
+    height: 35px;
+    float: left;
+    background: url(ic2_30.png);
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.footer {
+  background:url(ft2.png)no-repeat;
+  background-size: 100% 100%;
+  height:100px; 
+    float: left;
+    width: 100%;
+}

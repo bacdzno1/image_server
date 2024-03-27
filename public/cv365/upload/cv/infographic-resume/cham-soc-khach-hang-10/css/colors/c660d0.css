@@ -1,0 +1,161 @@
+#cv-top {
+	width: 100%;
+	height:441px;
+	background: url(hd3.png)no-repeat;
+	background-size: 100% 100%;
+}
+.all {
+	float: left;
+	background: url(main3.png)no-repeat;
+	background-size: 100% 100%;
+}
+#cv-content #block01 h3{
+	background: url(ic3_03.png)no-repeat;
+	background-position: left top;
+	padding-left: 30px;
+}
+#cv-content #block02 h3 .exp-title {
+	font-weight: bold;
+	text-transform: uppercase;
+	background: url(ic3_06.png)no-repeat;
+	background-position: left;
+	/*background-size: 7% 60%;*/
+	padding-left: 30px;
+}
+.bar-exp div {
+	float: left;
+	height: 13px;
+	background: #c660d0;
+	margin-top: 0px;
+}
+.exp-fake {
+	float: left;
+	width: 100%;
+	height: 14px;
+	background: url(anh3.png)no-repeat;
+	background-size: 100% 100%;
+	margin-top: -13.5px;
+	z-index: 1;
+}
+.bar-exp {
+	width: 99.8%;
+	background: #faf1fa;
+	height: 13px;
+	float: none;
+	margin-top: 0;
+	margin-bottom: 0px;
+	padding: 0px;
+}
+#form-cv .icf {
+	float: left;
+	line-height: 25px;
+	margin-bottom: 0;
+	width: 25px;
+	height: 25px;
+	text-align: center;
+	background: #c660d0;
+	border-radius: 45px;
+}
+#cv-content .head {
+	height: 35px;
+	width: 100%;
+	float:left;
+	line-height: 35px;
+	margin-bottom: 0;
+	background: url(tt3.png)no-repeat;
+	background-position: left;
+	background-size: 100% 100%;
+}
+#block01 #experience-table #exp2 {
+	padding-top: 0;
+	background: url(bgr3_03.png)no-repeat;
+	background-position: left;
+	background-size: 100% 100%;
+	z-index: 1;
+}
+.form{
+	width: 100%;
+	height:10px;
+	background: url(t3.png)no-repeat;
+	background-position: bottom;
+}
+.ski {
+	height: 38px;
+	width: 100%;
+	line-height: 38px;
+	background: url(tn3.png)no-repeat;
+	background-position: right;
+	background-size: 97% 100%;
+}
+#box02 .cum {
+	height: 45px;
+	line-height: 45px;
+	width: 100%;
+	background: url(t3_03.png)no-repeat;
+	background-position: right;
+	background-size: 100% 100%;
+}
+#box04 .cum {
+	height: 38px;
+	line-height: 38px;
+	width: 100%;
+	background: url(tn3.png)no-repeat;
+	background-position: right;
+	background-size: 97% 100%;
+}
+#box05 .cum {
+	height: 38px;
+	line-height: 38px;
+	width: 100%;
+	background: url(tn3.png)no-repeat;
+	background-position: right;
+	background-size: 97% 100%;
+}
+#box06 .cum {
+	height: 38px;
+	line-height: 38px;
+	width: 100%;
+	background: url(tn3.png)no-repeat;
+	background-position: right;
+	background-size: 97% 100%;
+}
+#box07 .cum {
+	height: 38px;
+	line-height: 38px;
+	width: 100%;
+	background: url(tn3.png)no-repeat;
+	background-position: right;
+	background-size: 97% 100%;
+}
+.footer {
+	width: 100%;
+	float: left;
+	height: 75px;
+	background: url(ft3.png)no-repeat;
+	background-size: 100% 100%;
+}
+#block04{
+	background: url(bgr3_06.png)no-repeat;
+	background-position: left;
+	background-size: 100% 100%;
+}
+#block05{
+	background: url(bgr3_07.png)no-repeat;
+	background-position: left;
+	background-size: 100% 100%;
+}
+#box05{
+	background: url(bgl3_03.png)no-repeat;
+	background-position: left;
+	background-size: 99% 100%;
+}
+#box06{
+	background: url(bgl3_05.png)no-repeat;
+	background-position: left;
+	background-size: 99% 100%;
+}
+#box07{
+	background: url(bgl3_06.png)no-repeat;
+	background-position: left;
+	background-size: 99% 100%;
+}

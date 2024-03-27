@@ -1,0 +1,123 @@
+#cv-top {
+    width: 100%;
+    background-image: url(hd2.png);
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    position: relative;
+    /* height: 302px; */
+}
+
+div#cv-main {
+    float: left;
+    width: 100%;
+    background-color: #fff;
+    background: url(main2.png) no-repeat;
+    background-size: 100% 100%;
+}
+
+.footer {
+    height: 100px;
+    background: url(ft2.png) no-repeat;
+    background-size: 100% 100%;
+}
+.box-dm {
+    width: 373px;
+    height: 332px;
+    padding: 0;
+    margin: 0;
+    float: right;
+    display: table;
+    background: url(fake2.png)no-repeat;
+    background-size: 100% 100%;
+    clear: both;
+    z-index: 1;
+    margin-top: -320px;
+    top: -700px;
+}
+.bar-exp div {
+    float: left;
+    height: 15px;
+    background: #ffac9e;
+}
+.exp-fake{
+    background: url(ski2.png)no-repeat;
+    background-size: 100% 100%;
+}
+#block01 div#cvo-experience-blocktitle {
+    color: #ffac9e;
+    border-bottom: 1px solid #ffac9e;
+}
+#block02 div#cvo-experience-blocktitle {
+    width: 100%;
+    background: url(head2.png)no-repeat;
+    background-position: center;
+    background-size: 100% 100%;
+    color: #fff;
+    /* padding: 8px; */
+}
+#block03 div#cvo-experience-blocktitle {
+    color: #ffac9e;
+    border-bottom: 1px solid #ffac9e;
+}
+#block04 div#cvo-experience-blocktitle {
+    width: 100%;
+    background: url(head2.png)no-repeat;
+    background-position: center;
+    background-size: 100% 100%;
+    color: #fff;
+    /* padding: 8px; */
+}
+#block05 div#cvo-experience-blocktitle {
+    color: #ffac9e;
+    border-bottom: 1px solid #ffac9e;
+}
+#box02 h3 {
+    color: #ffac9e;
+    border-bottom: 1px solid #ffac9e;
+}
+#box03 h3 {
+    width: 90%;
+    background: url(head2.png)no-repeat;
+    background-size: 100% 100%;
+    color: #fff;
+}
+#box04 h3 {
+    color: #ffac9e;
+    border-bottom: 1px solid #ffac9e;
+}
+#box05 h3 {
+    width: 90%;
+    background: url(head2.png)no-repeat;
+    background-size: 100% 100%;
+    color: #fff;
+}
+#box06 h3 {
+    color: #ffac9e;
+    border-bottom: 1px solid #ffac9e;
+}#box07 h3 {
+    width: 90%;
+    background: url(head2.png)no-repeat;
+    background-size: 100% 100%;
+    color: #fff;
+}
+
+#cv-top h1 {
+    text-shadow: 1px -1px 5px #ffac9e;
+}
+
+/* .fake-img {
+    width: 373px;
+    height: 332px;
+    padding: 0;
+    margin: 0;
+    float: right;
+    display: table;
+    background: url(fake2.png)no-repeat;
+    background-size: 100% 100%;
+    clear: both;
+    position: absolute;
+    z-index: 3;
+    margin-left: 417px;
+    margin-top: -332px;
+    top: 332px;
+} */

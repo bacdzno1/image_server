@@ -1,0 +1,10 @@
+#cv-top{	
+    background-image: url(../bg1.png);
+    background-color: #d9f2e6
+}
+#cv-right{
+	background: url('d9f2e6.png') right top repeat-y
+}
+#cv-content .head {
+    background: #d9f2e6;
+}

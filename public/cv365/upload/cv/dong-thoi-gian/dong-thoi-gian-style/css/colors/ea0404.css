@@ -1,0 +1,15 @@
+/* Màu đỏ */
+.cr {
+	color: #ea0404!important;
+}
+.bg {
+	background-color: #ea0404!important;
+}
+
+.bd {
+	border-color: #ea0404!important;
+}
+
+#cv-content span.exp-date:before {
+	border: 9px solid #ea0404;
+}

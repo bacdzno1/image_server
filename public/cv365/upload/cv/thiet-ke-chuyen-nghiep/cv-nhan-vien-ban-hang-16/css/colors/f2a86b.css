@@ -1,0 +1,96 @@
+div#box02 {
+    background: url(../muctieu1-2-1.png) no-repeat, url(../muctieu2-2-1.png) no-repeat;
+    background-position: left top, -1px bottom;
+    background-size: 411px 83px, 409px 60px;
+}
+
+#cv-top {
+    background: url(../top2-2.png) no-repeat;
+}
+
+
+.fake_img {
+    background: url(../fake2.png) no-repeat;
+    background-size: 100% 100%;
+}
+
+#cv-top h1 {
+    color: #1e554a;
+}
+
+#cv-top h2 {
+    background: url(../job2.png) no-repeat;
+    background-size: 100% 100%;
+}
+
+
+#cv-content h3 {
+    background: url(../icon_add1.png) no-repeat;
+    background-position: 0px 2px;
+}
+
+#cv-content .head #cvo-experience-blocktitle {
+    background: url(../bg_boxtitle2.png) no-repeat;
+    background-position: 0px 13px;
+    background-size: 78% 45%;
+    color: #1e554a;
+}
+
+#cv-content .ir .cvo-block {
+    border-left: 2px dashed #f2a86b;
+    border-right: 2px dashed #f2a86b;
+    border-bottom: 2px dashed #f2a86b;
+}
+
+.ic1 {
+    background: url(../date2.png) no-repeat;
+    background-position: 1px 1px;
+  }
+  
+  .ic2 {
+    background: url(../sex2.png) no-repeat;
+    background-position: 1px 3px;
+  }
+  
+  .ic3 {
+    background: url(../phone2.png) no-repeat;
+    background-position: 1px 3px;
+  }
+  
+  .ic4 {
+    background: url(../email2.png) no-repeat;
+    background-position: 1px 8px;
+  }
+  
+  .ic5 {
+    background: url(../add2.png) no-repeat;
+    background-position: 1px 2px;
+  }
+
+#cv-content .exp-date {
+    color: #f2a86b;
+}
+
+.bar-exp {
+    background: url(../skill1.png) no-repeat;
+}
+
+.bar-exp div {
+    background: url(../kn2.png) no-repeat;
+}
+
+.footer {
+    background: url(../foot2.png) no-repeat;
+    background-position: left bottom;
+}
+
+div#cv-boxtitle {
+    background: url(../bg_boxtitle2.png) no-repeat;
+    background-position: 0px 13px;
+    background-size: 62% 45%;
+    color: #1e554a;
+}
+
+#sortable #box02 .box-content {
+    background-color: #f2a86b;
+}

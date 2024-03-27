@@ -1,0 +1,22 @@
+/* 2 */
+
+:root {
+    --sex: url(sex2.png) no-repeat;
+    --phone: url(phone2.png) no-repeat;
+    --date: url(date2.png) no-repeat;
+    --email: url(email2.png) no-repeat;
+    --add: url(add2.png) no-repeat;
+    --avt: url(avt2.png) no-repeat;
+    --name: url(name2.png) no-repeat;
+    --page: url(page2.png) no-repeat;
+    --doc: url(doc.png) no-repeat;
+    --muctieu: url(muctieu2.png) no-repeat;
+    --hocvan: url(hocvan2.png) no-repeat;
+    --kinhnghiem: url(kinhnghiem2.png) no-repeat;
+    --hoatdong: url(hoatdong2.png) no-repeat;
+    --duan: url(duan2.png) no-repeat;
+    --them: url(them2.png) no-repeat;
+    --color: #2bc388;
+    --color-tt: #fcf394;
+    --color-sk: #62c29d;
+}

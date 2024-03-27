@@ -1,0 +1,15 @@
+#cv-top {
+    background: url(../bg_top3.png) no-repeat;
+}
+.bar-exp div {
+    background: url(../skill3.png) no-repeat;
+    background-position: right;
+}
+.exp-date {
+    border-bottom: solid 2px #e6cc91;
+}
+
+#cv-profile-job {
+    background: url(../job3.png) no-repeat;
+    background-position: left bottom;
+}

@@ -1,0 +1,344 @@
+/* MÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â u top */
+.color {
+    color: #2aeb41!important;
+}
+.bar-exp span {
+    background-color: #2aeb41!important;
+}
+
+#form-cv {
+    background-image: url(images/1.png);
+}
+
+/* Dan trang */
+#cv-main {
+    background-image: url(images/111.png);
+}
+
+#cv-content .head, #cv-right .h3 {
+    background-image: url(images/11.png);
+}
+#cv-right .icoweb {
+    background-image: url(images/11.png);
+    background-repeat: no-repeat;
+    background-position: center center;
+}
+
+/* XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXx */
+#page-cv{
+    width: 1072px;
+    float: left;
+}
+#form-cv {
+    width: 900px;
+    min-height: 1273px;
+    float: left;
+    position: relative;
+    font-size: 15px;
+    line-height: 28px;
+    overflow: hidden;
+    background-repeat: no-repeat;
+    background-position: center top;
+}
+
+/* Dan trang */
+#cv-main {
+    padding: 0 0 48px;
+    margin: 0;
+    background-repeat: no-repeat;
+    background-position: center bottom;
+}
+
+#cv-center {
+    display: flex;
+    flex-wrap: wrap;
+    margin: 0;
+    padding: 70px 0 0;
+    position: relative;
+}
+
+#cv-content {
+    width: calc(100% - 350px);
+    padding: 0;
+    margin: 0 20px 0 0;
+}
+
+/* Code top */
+#cv-top{
+    position: relative;
+}
+
+.box-01 p{}
+.box-01 {
+    padding: 0;
+    margin: 0;
+    position: relative;
+    height: 300px;
+}   
+
+#cvo-profile-avatar-wraper {
+    padding: 0;
+    width: 200px;
+    height: 200px;
+    position: absolute;
+    top: 129px;
+    left: 33px;
+}
+
+#cvo-profile-avatar-wraper #cvo-profile-avatar {
+    margin: 0;
+    width: 200px;
+    height: 200px;
+    border: none;
+    border-radius: 120px;
+    padding: 0;
+}
+
+#cvo-profile-info {
+    padding: 79px 0 0;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+#cv-top h1 {
+    font-size: 56px!important;
+    font-weight: 600;
+    margin: 0;
+    line-height: 60px;
+    text-transform: uppercase;
+    text-align: left;
+    font-family: 'Montserrat', sans-serif!important;
+}
+
+
+#cv-top h1 span {
+}
+
+#cv-top h2 {
+    margin: 10px 0 0;
+    font-size: 20px;
+    line-height: 30px;
+    font-weight: 400;
+    text-transform: uppercase;
+    text-align: left;
+    font-family: 'Montserrat', sans-serif!important;
+    color: #ccc;
+}
+
+/* Code chung h3 cv-center + cv-content */
+#cv-content .head, #cv-right .h3 {
+    padding: 5px 0;
+    text-transform: uppercase;
+    font-size: 1.4rem;
+    line-height: 1.5;
+    text-align: center;
+    border-radius: 8px;
+    font-weight: 400;
+    border: 3px solid #ccc;
+    margin: 0;
+    border-bottom-left-radius: 0px;
+    border-bottom-right-radius: 0px;
+    background-position: 86px -96px;
+}
+
+#cv-right .h3 {
+    border-bottom-left-radius: 0px;
+    border-bottom-right-radius: 0px;
+}
+#cv-right .h3 span {
+    padding: 0;
+    margin: 0;
+}
+
+#cv-content .head span {
+    margin: 0;
+    padding: 0;
+}
+
+/* CV Right */
+#cv-right{
+    padding: 0;
+    margin: 0;
+    width: 330px;
+}
+#sortable .cvo-block {
+    margin: 0 0 20px;
+    padding: 0;
+}
+
+
+#sortable #box01.cvo-block {
+    position: absolute;
+    top: -50px;
+    right: 0;
+    left: unset;
+    width: 70%;
+    padding: 0;
+    margin: 0;
+    max-height: 132px!important;
+    overflow: hidden;
+}
+
+#cv-right .box-content,
+#cv-right .skill{
+    padding: 10px;
+    border: 3px solid #ccc;
+    border-top: none;
+    display: block;
+    border-bottom-right-radius: 7px;
+    border-bottom-left-radius: 7px;
+}
+
+
+/* Ico web */
+#cv-right .hasclass {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: flex-end;
+}
+#cv-right .icoweb {
+    display: flex;
+    margin: 2px 5px;
+    flex-wrap: wrap;
+    align-items: center;
+    height: 40px;
+    padding: 0 12px;
+    border-radius: 8px;
+    color: #fff;
+}
+
+#cv-right .icoweb span{}
+
+#cv-right .icoweb span.cv-ico-center {
+    width: 0;
+    text-indent: 9999px;
+    margin: 0 5px 0 11px;
+    width: 1px;
+    height: 40px;
+    background-color: #fff;
+}
+#cv-right .icoweb span.cv-hi i {
+    width: 20px;
+    height: 33px;
+    margin: 0;
+    text-align: center;
+    line-height: 32.3px;
+    font-size: 17px;
+    border-radius: 4px;
+    color: #fff;
+}
+#cv-right .icoweb span.cv-hi {
+    margin: 0;
+}
+
+
+/* Content */
+#cv-content .cvo-block {
+    padding: 0;
+    margin: 0 0 20px;
+}
+#cv-content .ctbx{margin: 0;padding: 10px 0 25px;}
+#cv-content p{}
+#cv-content .ir a{
+    color: #2ebb2f
+}
+
+#cv-content .h3{
+    margin-bottom: 0;
+    font-weight: 500;
+}
+#experience-table{padding: 0 10px;border: 3px solid #ccc;border-top: none;border-bottom-left-radius: 7px;border-bottom-right-radius: 7px;}
+
+/* content 2*/
+
+#cv-content h3 {
+    font-weight: 500;
+    font-size: 18px;
+    margin-bottom: 0px;
+}
+
+#cv-content span.exp-date {
+    float: none;
+    font-size: 14px;
+    font-weight: normal;
+    position: absolute;
+    top: 10px;
+    right: 0;
+    padding: 2px 10px;
+    color: #777;
+}
+#cv-content .ctbx .exp-title {
+    margin: 0;
+    font-size: 18px;
+    font-weight: 400;
+    text-transform: uppercase;
+    padding: 3px 0;
+    border-radius: 5px;
+}
+#cv-content .exp-subtitle {
+    margin: 5px 0;
+    display: block;
+    font-size: 16px;
+    font-weight: 400;
+    padding: 0;
+    text-align: left;
+    text-transform: uppercase;
+    list-style: cadetblue;
+}
+#cv-content .exp-content {text-align: left;font-weight: 400;font-size: 15px;padding: 0 0 0 5px;}
+/* code Chung */
+.bar-exp span {
+    float: left;
+    height: 12px;
+    background-color: #CCC;
+}
+.bar-exp {
+    margin: 0px 0px 20px;
+    height: 12px;
+}
+.bar-value-exp{
+    width: 50%
+}
+.skill-name{
+    display: block;
+    line-height: 23px;
+}
+p.skill-name input{
+    font-weight: 500;
+    font-size: 16px;
+}
+#line-seperate {
+    height: 25px;
+    background-color: #e3ecec;
+}
+.cv-head{
+    width: 100%;
+    padding: 0px;
+    margin: 0px;
+    height: 45px;
+}
+/*css cvh */
+[cvo-form-field] {
+    cursor: text;
+}
+.ctbx:hover {
+    box-shadow: 0 0 1px #999;
+}
+.ctbx:hover .fieldgroup_controls{
+    display: block;
+}
+.ctbx .r5 .h3{
+    text-transform: uppercase;
+}
+.ctbx {
+    position: relative!important;
+}
+.fieldgroup_controls {
+    top: -33px!important;
+    right: 0px!important;
+}
+#cv-center .cvo-block .blockControls {
+    top: -36px;
+}

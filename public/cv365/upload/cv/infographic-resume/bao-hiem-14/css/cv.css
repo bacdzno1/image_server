@@ -1,0 +1,838 @@
+#form-cv {
+    font-family: "Roboto", sans-serif;
+    width: 100%;
+    float: left;
+    position: relative;
+    font-size: 14px;
+    line-height: 24px;
+    color: #000;
+    /* background: url(top1.png) no-repeat, #fff; */
+}
+
+.watermark {
+    float: left;
+    width: 100%;
+    /* height: 22px; */
+    color: #999;
+    text-align: right;
+    padding-right: 22px;
+    font-size: 15px;
+    font-family: Courier;
+    /* background: #fff; */
+}
+
+
+/*#sortable .cvo-block {
+margin-bottom: 15px;
+margin-top: 8px;
+border: 1px solid #24400e;
+padding: 0;
+padding-bottom: 15px;
+}*/
+
+#sortable .cvo-block .box-content {
+    margin: 0;
+    width: 100%;
+    border-radius: 10px;
+    color: #000;
+    padding-top: 10px;
+    padding-bottom: 15px;
+    text-align: justify;
+}
+
+.exp.content-edit.skill {
+    border-radius: 10px;
+}
+
+#cvo-profile {
+    display: block;
+}
+
+#cv-content {
+    width: 50%;
+    text-align: justify;
+    float: left;
+    position: relative;
+    padding: 0;
+    margin: 0;
+    padding-left: 35px;
+    margin-left: 45px;
+    margin-top: 20px;
+    padding-right: 35px;
+    background: url(border_main.png) no-repeat;
+    background-size: 3px 100%;
+    /* background-position-x: 34px; */
+}
+
+#cv-main {
+    text-align: justify;
+    margin: 0;
+    padding: 0;
+    position: relative;
+    float: left;
+    width: 35%;
+    margin-left: 40px;
+    padding-top: 20px;
+}
+
+#cv-right .ir {
+    padding: 0;
+    margin: 0;
+}
+
+#cv-main #cv-right {
+    padding: 0;
+    margin: 0;
+}
+
+#cv-main #cv-right .ir #sortable {
+    padding: 0;
+    margin: 0;
+}
+
+#cv-right .ir #sortable .block {
+    padding: 0;
+    margin: 0;
+    margin-bottom: 0px;
+}
+
+p.skill-name input {
+    color: #fff !important;
+}
+
+#cv-right #box03 .ctbx {
+    width: 100%;
+    padding: 0;
+    margin: 0;
+    border: 0;
+    padding-bottom: 10px;
+    float: left;
+    z-index: 2;
+}
+
+#cv-top {
+    width: 100%;
+    /* height: 462px; */
+    background: url(top1.png) no-repeat;
+    position: relative;
+    float: left;
+}
+
+.all {
+    float: left;
+    clear: both;
+    width: 100%;
+    background-image: url(main1.png);
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    position: relative;
+}
+
+#cv-top h1 {
+    padding: 0;
+    margin: 0;
+    font-size: 40px;
+    font-family: "Roboto";
+    line-height: normal;
+    text-transform: uppercase;
+    margin-bottom: 0;
+    color: #000;
+    font-weight: bold;
+    text-align: left;
+    width: 98%;
+    float: left;
+}
+
+#cv-top h1 span {
+    letter-spacing: 1px;
+}
+
+#box-hvt {
+    float: right;
+    width: 55%;
+    padding: 0;
+    margin: 0;
+    padding-top: 30px;
+    /* margin-right: 18px; */
+}
+
+#sortable #box01 {
+    margin-top: 0;
+    margin-bottom: 0px;
+    padding: 0;
+    padding-bottom: 20px;
+}
+
+#sortable #box01 #prof {
+    padding: 0;
+    margin: 0;
+    margin-top: 10px;
+    border-radius: 10px;
+}
+
+#box01 ul {
+    list-style: none;
+    padding-left: 20px
+}
+
+#cv-right .cvo-block .head div {
+    color: #fff;
+}
+
+.innertext {
+    margin: 0px;
+    padding: 0px;
+    width: 29%;
+    float: left;
+    color: white;
+}
+
+#cv-top h2 {
+    text-transform: uppercase;
+    width: 100%;
+    font-size: 20px;
+    font-family: "Roboto";
+    text-align: left;
+    margin: 0;
+    padding: 0;
+    float: left;
+    margin-bottom: 0;
+    /* color: #fff; */
+    /* height: 35px; */
+    line-height: 35px;
+    font-weight: bold;
+}
+
+.box-01 p {
+    overflow: hidden;
+}
+
+#cv-content p {
+    margin-bottom: 5px
+}
+
+#cv-content .ir a {
+    color: #2ebb2f
+}
+
+#cv-right h3,
+#cv-content .head {
+    font-size: 16px;
+    text-transform: uppercase;
+    color: #000;
+    font-weight: bold;
+    text-align: left;
+    line-height: 20px;
+    padding-top: 0px;
+    margin-left: -52px;
+    margin-top: -2px;
+    position: relative;
+    left: 2px;
+    top: 2px;
+}
+
+#cv-content h3 {
+    font-size: 14px;
+    line-height: 24px;
+    margin: 0px;
+    padding: 0px;
+}
+
+
+/* #cv-content .exp-date {
+    float: none;
+}
+
+#cv-content #block01 .exp-date {
+    display: none;
+}
+
+#cv-content #block03 .exp-date {
+    display: none;
+}
+
+#cv-content #block04 .exp-date {
+    display: none;
+}
+
+#cv-content #block05 .exp-date {
+    display: none;
+} */
+
+span.exp-date {
+    float: left !important;
+    /* margin-left: -75px;
+    margin-top: 14px;
+    max-width: 18%; */
+    color: #eecd17;
+    width: 100%;
+}
+
+.exp-title {
+    font-weight: bold;
+}
+
+#cv-content p.h3 {
+    margin: 0px;
+    padding: 0px;
+}
+
+#cv-content .cvo-block {
+    padding: 0 !important;
+    float: left;
+    width: 100%;
+}
+
+#cv-content .ir .cvo-block {
+    padding: 0;
+    margin-bottom: 0;
+}
+
+.ctbx {
+    padding-left: 10px;
+    padding-right: 10px
+}
+
+#cv-content span {
+    display: inline-block;
+    z-index: 9999;
+}
+
+.ctbx {
+    margin-bottom: 10px;
+    padding-left: 0;
+    padding-right: 0;
+    position: relative;
+}
+
+.ctbx:hover {
+    box-shadow: 0 0 1px #999;
+}
+
+.ctbx:hover .fieldgroup_controls {
+    display: block;
+}
+
+[cvo-form-field] {
+    cursor: text;
+}
+
+#cvo-profile-avatar-wraper {
+    /* width: 30%; */
+    /* height: 200px; */
+    /* padding: 0; */
+    /* margin: 0; */
+    float: left;
+    display: table;
+    /* padding-top: 130px; */
+    /* padding-left: 80px; */
+    position: relative;
+}
+
+#cvo-profile-avatar-wraper .wimg {
+    width: 240px;
+    height: 240px;
+    float: left;
+    padding: 5px;
+    margin-left: 10px;
+    position: relative;
+    border-radius: 99em;
+    border: 5px solid #eecd17;
+}
+
+#cvo-profile-avatar-wraper img {
+    /* width: 238px; */
+    /* height: 238px; */
+    /* border-radius: 400px; */
+    float: none;
+}
+
+.fake_img {
+    width: 275px;
+    height: 273px;
+    z-index: 1;
+    /* padding: 0;
+    margin: 0; */
+    position: absolute !important;
+    background: url(fake_img1.png)no-repeat;
+    background-size: 100% 100%;
+    margin-top: -270px;
+    top: -9999px;
+    left: 0px;
+}
+
+#cvo-profile-avatar-img {
+    width: 228px;
+    height: 230px;
+}
+
+.box-01 {
+    float: left;
+    width: 100%;
+    /* height: 280px; */
+}
+
+#cvo-profile {
+    display: block;
+    float: left;
+    /* width: 100%; */
+    /* height: 280px; */
+    padding-bottom: 30px;
+    /* border-bottom: 3px #ccc solid; */
+    margin: 0 30px;
+    background: url(border_top.png) no-repeat;
+    background-position: bottom;
+}
+
+#line-seperate {
+    height: 25px;
+}
+
+.bar-exp div {
+    float: left;
+    height: 10px;
+    background: #eecd17;
+    margin-top: 0px;
+    /*
+border-radius: 5px;*/
+    position: relative;
+}
+
+.ctbx .skill-name {
+    margin: 0px;
+    padding: 0px;
+    color: #000;
+}
+
+.bar-exp {
+    /* display: none; */
+    background: #000000;
+    height: 10px;
+    float: none;
+    margin-top: 8px;
+    margin-bottom: 0px;
+    padding: 0px;
+    /*
+border: 1px solid #208099;*/
+    /*
+border-radius: 5px;*/
+}
+
+.bar-value-exp {
+    width: 100%
+}
+
+.bar-value-exp input[type="text"] {
+    /* color: #fff; */
+    width: 95%
+}
+
+.icoweb label {
+    display: block;
+}
+
+#cv-right .block {
+    position: relative !important;
+    padding: 0;
+    margin: 0;
+}
+
+.ic .icoweb {
+    width: 85%;
+    text-align: left;
+    padding-left: 5px;
+    float: left;
+}
+
+.ic {
+    width: 100%;
+    float: left;
+    color: #000;
+}
+
+#prof span {
+    /* width: 270px; */
+}
+
+#prof [contentEditable=true] {
+    /* width: 68%; */
+    float: left;
+}
+
+#prof .icoweb,
+#prof .icoweb span {
+    height: auto;
+    /* margin: 0; */
+    /* padding: 0; */
+    /* padding-top: 1px; */
+    /* float: left; */
+    margin-left: 10px;
+}
+
+#sortable .ic {
+    margin-bottom: 5px;
+    padding-top: 5px;
+    padding-left: 5px;
+}
+
+#form-cv .icf {
+    float: left;
+    border-radius: 5px;
+    line-height: 20px;
+    /* width: 24px; */
+    /* height: 24px; */
+    text-align: left;
+}
+
+.icf .fa {
+    font-size: 20px;
+    color: #cc66ff;
+    margin-top: 0;
+    float: left;
+}
+
+.container {
+    width: 100%;
+}
+
+.sum {
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    height: 30px;
+}
+
+#cv-right .block {
+    margin-bottom: 10px;
+    position: relative;
+    padding: 0;
+    padding-bottom: 20px;
+}
+
+#cv-content .head {
+    padding: 0;
+    margin: 0;
+    /* height: 40px; */
+    /* line-height: 40px; */
+    text-align: left;
+    width: 100%;
+    margin-left: -50px;
+}
+
+#experience-table .ctbx {
+    margin-top: -13px;
+    background: url(line1.png) no-repeat;
+    padding-left: 80px;
+}
+
+.ifo {
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    height: 30px;
+}
+
+#cv-right h3 {
+    width: 100%;
+    height: 30px;
+    margin: 0;
+    color: #ffffff;
+    padding: 0;
+    float: left;
+    line-height: 30px;
+    text-align: center;
+    background: #b82731;
+}
+
+#cv-content .head #cvo-experience-blocktitle {
+    /* color: #cc66ff; */
+    float: right;
+    width: 100%;
+    text-align: left;
+}
+
+#experience-table #exp2 {
+    margin-top: 10px;
+}
+
+#exp1 .exp-content {}
+
+div#experience-table {
+    margin: 0px;
+    padding-top: 5px;
+    width: 108%;
+    padding-bottom: 10px;
+    float: left;
+    text-align: justify;
+    /* background: url(line.png) no-repeat; */
+    /* padding-left: 80px; */
+    margin-left: -35px;
+    margin-top: 10px;
+}
+
+.tt-box1 {
+    height: 40px;
+    width: 100%;
+    line-height: 40px;
+    /* 
+background: url(ic_32.gif)no-repeat;
+background-size: 100% 100%;
+background-position: center; */
+}
+
+div#cv-boxtitle {
+    font-size: 16px;
+    font-weight: bold;
+    text-transform: uppercase;
+    /* color: #cc66ff; */
+    float: left;
+    width: 100%;
+    text-align: left;
+}
+
+.ski {
+    padding: 0;
+    margin: 0;
+    height: 40px;
+    width: 100%;
+    line-height: 40px;
+}
+
+.cum {
+    padding: 0;
+    margin: 0;
+    /* height: 45px; */
+    width: 100%;
+    /* line-height: 40px; */
+}
+
+.icright1 {
+    width: 40px;
+    height: 40px;
+    float: left;
+    background: url(ic_03.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    display: none;
+}
+
+.icright2 {
+    width: 40px;
+    height: 40px;
+    float: left;
+    background: url(ic_11.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    display: none;
+}
+
+.icright3 {
+    width: 40px;
+    height: 40px;
+    float: left;
+    background: url(ic_21.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    display: none;
+}
+
+.icright4 {
+    width: 40px;
+    height: 40px;
+    float: left;
+    background: url(ic_27.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    display: none;
+}
+
+.icright5 {
+    width: 40px;
+    height: 40px;
+    float: left;
+    background: url(ic_35.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    display: none;
+}
+
+
+/* .footer {
+background: url(ft1.png)no-repeat;
+background-size: 100% 100%;
+float: left;
+height: 66px;
+width: 100%;
+} */
+
+div#sort_block {
+    padding: 0;
+    margin: 0;
+}
+
+.cvo-block .blockControls {
+    margin: 0px;
+    padding: 0px;
+}
+
+
+/* div#page-cv {box-shadow: 0 0 0.5cm rgb(0 0 0 / 50%);} */
+
+.chu {
+    float: right;
+    width: 55%;
+    padding-top: 30px;
+}
+
+.anh {
+    float: left;
+    width: 40%;
+    position: relative;
+    top: 20px;
+}
+
+img#cvo-profile-avatar {
+    border-radius: 99em;
+    width: 100%;
+    height: 100%;
+    /* border-radius: 1000px; */
+    /* padding: 5px; */
+    /* border: 5px #eecd17 solid; */
+    margin-bottom: 10px;
+    /* z-index: 1; */
+    position: static;
+}
+
+.ic1 .icf {
+    background: url(date1.png) no-repeat;
+    background-position: left center;
+    width: 24px;
+    height: 24px;
+}
+
+.ic2 .icf {
+    background: url(sex1.png) no-repeat;
+    background-position: left center;
+    width: 24px;
+    height: 24px;
+}
+
+.ic3 .icf {
+    background: url(phone1.png) no-repeat;
+    background-position: left center;
+    width: 24px;
+    height: 24px;
+}
+
+.ic4 .icf {
+    background: url(mail1.png) no-repeat;
+    background-position: left center;
+    width: 24px;
+    height: 24px;
+}
+
+.ic5 .icf {
+    background: url(add1.png) no-repeat;
+    background-position: left center;
+    width: 24px;
+    height: 24px;
+}
+
+.ic1 {
+    float: left;
+    width: 30%;
+    margin: 0;
+    padding: 0;
+    padding-bottom: 10px;
+}
+
+.ic2 {
+    float: left;
+    width: 20%;
+    margin: 0;
+    padding: 0;
+    padding-bottom: 10px;
+}
+
+.ic3 {
+    float: left;
+    width: 30%;
+    margin: 0;
+    padding: 0;
+    padding-bottom: 10px;
+}
+
+.ic4,
+.ic5 {
+    float: left;
+    width: 100%;
+    margin: 0;
+    padding: 0;
+    padding-bottom: 10px;
+}
+
+#block01 .head {
+    background: url(edu1.png) no-repeat;
+    background-position: -2px -2px;
+    width: 100%;
+    height: 33px;
+    padding-left: 45px;
+    padding-top: 5px;
+}
+
+#block02 .head {
+    background: url(exp1.png) no-repeat;
+    background-position: -2px -2px;
+    width: 100%;
+    height: 33px;
+    padding-left: 45px;
+    padding-top: 5px;
+}
+
+#block03 .head {
+    background: url(activity1.png) no-repeat;
+    background-position: -2px -2px;
+    width: 100%;
+    height: 33px;
+    padding-left: 45px;
+    padding-top: 5px;
+}
+
+#block04 .head {
+    background: url(project1.png) no-repeat;
+    background-position: -2px -2px;
+    width: 100%;
+    height: 33px;
+    padding-left: 45px;
+    padding-top: 5px;
+}
+
+div#block05 .head {
+    padding-left: 45px;
+}
+
+.exp_fake {
+    background: url(skill.png) no-repeat !important;
+    width: 10px;
+    height: 10px;
+    position: absolute !important;
+    right: -5px;
+    top: -9px;
+}
+
+#cvo-profile-avatar {
+    position: absolute;
+    width: 230px;
+    height: 230px;
+    top: 20px;
+    /* left: 20px; */
+    /* z-index: 999; */
+    /* opacity: 0; */
+}
+.ic5 .icoweb {
+    width: 90%;
+}
+
+#box01 .icoweb {
+    /* padding-left: 5px; */
+}

@@ -1,0 +1,14 @@
+.watermark {
+    background: url(../foot3-1.png) no-repeat;
+    background-position: 0px 100%;
+}
+
+#cv-top {
+    background: url(../top3-1.png) no-repeat;
+    border-bottom: solid 10px #fde74c;
+}
+
+
+.bar-exp div {
+    background: url(../kn3-1.png) no-repeat;
+}

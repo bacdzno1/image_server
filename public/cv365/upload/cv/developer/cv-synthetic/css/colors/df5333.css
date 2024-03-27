@@ -1,0 +1,40 @@
+#cv-top{		
+	background-image: url('../bg3.png');
+	background-position: top center;
+	background-repeat: no-repeat;
+	background-size: 100% auto;
+}
+
+.box_bg{
+	background-image: url('../img3.png');
+	background-size: 100% auto;
+	background-position: top center;
+	background-repeat: no-repeat;
+	background-color: #f2f9f1;
+}
+
+#cv-main{
+	float: left;
+	width: 100%;
+	margin-top: 0px;
+	border-top: 0px;
+	background-color: #f4ede2;
+}
+
+#cv-right .ir{
+	float: left;width: 100%;
+	background-color: #f4ede2;
+}
+
+
+#cv-content .block h3 span,
+#cv-content .head span{
+	color: #df5333;
+	font-size: 18px;
+}
+
+.bar-exp div {
+    float: left;
+    height: 8px;
+    background: #df5333;
+}

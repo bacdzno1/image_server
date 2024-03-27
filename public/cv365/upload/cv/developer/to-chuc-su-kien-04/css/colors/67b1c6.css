@@ -1,0 +1,124 @@
+#cv-top {
+    width: 100%;
+    height: 265px;
+    background-image: url(hd1.png);
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    position: relative;
+}
+#cv-content #block02 h3 {
+  font-weight: bold;
+  color: #67b1c6;
+  float: left;
+  width: 100%;
+}
+#cvo-profile-avatar-wraper .wimg {
+    width: 170px;
+    height: 170px;
+    float: left;
+    display: unset !important;
+    border: 2px solid #67b1c6;
+    border-radius: 10px;
+}
+.icf .fa {
+    font-size: 20px;
+    color: #67b1c6;
+    margin-top: 0;
+    float: left;
+    padding-top: 7px;
+    padding-left: 9px;
+}
+#cv-content .head {
+    padding: 0;
+    margin: 0;
+    height: 40px;
+    line-height: 40px;
+    text-align: left;
+    float: left;
+    width: 90%;
+    background: url(tt1_02.png)no-repeat;
+    background-size: 100% 100%;
+}
+.tt-box1 {
+    padding: 0;
+    margin: 0 ;
+    height: 55px;
+    width: 85%;
+    float: left;
+    line-height: 42px;
+    text-align: left;
+    background: url(tt1.png)no-repeat;
+    background-size: 100% 100%;
+}
+.ski {
+    padding: 0;
+    margin: 0;
+    height: 55px;
+    width: 85%;
+    float: left;
+    line-height: 42px;
+    text-align: left;
+    background: url(tt1.png)no-repeat;
+    background-size: 100% 100%;
+}
+.cum {
+    padding: 0;
+    margin: 0;
+    height: 55px;
+    width: 85%;
+    float: left;
+    line-height: 42px;
+    text-align: left;
+    background: url(tt1.png)no-repeat;
+    background-size: 100% 100%;
+}
+.icright1 {
+    width: 42px;
+    height: 40px;
+    float:left;
+    background: url(icc_03.png);
+    background-position:center;
+    background-repeat: no-repeat;
+  }
+.icright2 {
+    width: 42px;
+    height: 40px;
+    float:left;
+    background: url(icc_07.png);
+    background-position:center;
+    background-repeat: no-repeat;
+}
+.icright3 {
+    width: 42px;
+    height: 40px;
+    float:left;
+    background: url(icc_11.png);
+    background-position:center;
+    background-repeat: no-repeat;
+}
+.icright4 {
+    width: 42px;
+    height: 40px;
+    float:left;
+    background: url(icc_14.png);
+    background-position:center;
+    background-repeat: no-repeat;
+}
+.icright5 {
+    width: 42px;
+    height: 40px;
+    float:left;
+    background: url(icc_16.png);
+    background-position:center;
+    background-repeat: no-repeat;
+}
+
+
+
+.footer {
+  background:url(ft1.png)no-repeat;
+  background-size: 100% 100%;
+  height:85px; 
+    float: left;
+    width: 100%;
+}

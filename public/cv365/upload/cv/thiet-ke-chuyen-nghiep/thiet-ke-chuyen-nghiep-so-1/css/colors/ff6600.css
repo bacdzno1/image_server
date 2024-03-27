@@ -1,0 +1,10 @@
+#cv-top h1, #cv-right .cvo-block h3 span{
+    color: #ff6600;
+}
+#cv-content .head span{
+    color: #ff6600;
+}
+
+.bar-exp div, #form-cv .icf{
+    background: #ff6600;  
+}

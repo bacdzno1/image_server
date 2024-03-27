@@ -1,0 +1,191 @@
+#form-cv {
+
+    background: url(bg4.png)repeat-y;
+}
+
+#cv-top {
+
+    background-image: url(hd4.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+
+}
+
+#sortable .cvo-block .box-content {
+
+    color: #274032;
+}
+
+#cv-content h3 {
+
+    color: #274032;
+}
+
+#cvo-profile-avatar-wraper .wimg {
+
+    border: 2px solid #274032;
+}
+
+.ctbx .skill-name {
+
+    color: #274032;
+}
+
+.bar-exp {
+    background: #fff;
+    border: 1px solid #274032;
+
+}
+
+#sortable .icoweb {
+
+    color: #274032;
+}
+
+.icf .fa {
+
+    color: #274032;
+
+}
+
+#cv-content .head {
+
+    border-bottom: 2px solid #274032;
+
+}
+
+#cv-content .head #cvo-experience-blocktitle {
+    color: #274032;
+}
+
+.tt-box1 {
+
+    border-bottom: 2px solid #274032;
+}
+
+div#cv-boxtitle {
+
+    color: #274032;
+}
+
+.ski {
+
+    border-bottom: 2px solid #274032;
+  
+}
+
+.cum {
+
+    border-bottom: 2px solid #274032;
+
+}
+
+.bar-exp div {
+
+    background: #274032;
+
+}
+
+.cumicc1 {
+
+    background: url(icon6c.png);
+    background-position: center right;
+    background-repeat: no-repeat;
+
+}
+
+.cumic2 {
+
+    background: url(icon7c.png);
+    background-position: center right;
+    background-repeat: no-repeat;
+
+}
+
+.cumicc3 {
+
+    background: url(icon8c.png);
+    background-position: center right;
+    background-repeat: no-repeat;
+}
+
+.cumic4 {
+
+    background: url(icon9c.png);
+    background-position: center right;
+    background-repeat: no-repeat;
+
+}
+
+.cumic5 {
+
+    background: url(icon10c.png);
+    background-position: center right;
+    background-repeat: no-repeat;
+
+}
+
+.cumic6 {
+
+    background: url(icon11c.png);
+    background-position: center right;
+    background-repeat: no-repeat;
+
+}
+
+.cumic7 {
+
+    background: url(icon12c.png);
+    background-position: center right;
+    background-repeat: no-repeat;
+
+}
+
+.icright1 {
+
+    background: url(icon1c.png);
+    background-position: center right;
+    background-repeat: no-repeat;
+
+}
+
+.icright2 {
+
+    background: url(icon2c.png);
+    background-position: center right;
+    background-repeat: no-repeat;
+}
+
+.icright3 {
+
+    background: url(icon3c.png);
+    background-position: center right;
+    background-repeat: no-repeat;
+ 
+}
+
+.icright4 {
+
+    background: url(icon4c.png);
+    background-position: center right;
+    background-repeat: no-repeat;
+
+}
+
+.icright5 {
+
+    background: url(icon5c.png);
+    background-position: center right;
+    background-repeat: no-repeat;
+
+}
+
+
+.footer {
+    float: left;
+    width: 100%;
+    /* height: 184px; */
+    background: url(ft4.png)no-repeat;
+    background-size: 100% 100%;
+    /* margin-top: -20px; */
+}

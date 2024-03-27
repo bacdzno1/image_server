@@ -1,0 +1,76 @@
+#cv-top {
+    width: 100%;
+    height: 300px;
+    background-image: url(hd2.png);
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    position: relative;
+}
+
+#all {
+    float: left;
+    width: 100%;
+    background: url(main2.png)no-repeat;
+    background-size: 100% 100%;
+    padding-top: 10px;
+}
+
+#cvo-profile-avatar-wraper .wimg {
+    width: 200px;
+    height: 200px;
+    float: left;
+    border: 3px solid #7db366;
+    margin-left: 77px;
+}
+
+.bar-exp div {
+    float: left;
+    height: 8px;
+    background: #7db366;
+    margin-top: 0px;
+}
+
+.bar-exp {
+    background: #ffffff;
+    height: 8px;
+    float: none;
+    margin-top: 0;
+    margin-bottom: 0px;
+    padding: 0px;
+    border: 1px solid #7db366;
+    border-radius: 5px;
+}
+
+.footer {
+    float: left;
+    height: 80px;
+    width: 100%;
+    background: url(ft2.png)no-repeat;
+    background-size: 100% 100%;
+}
+
+#cv-content .head {
+    width: 100%;
+    height: 40px;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    float: left;
+    line-height: 30px;
+    background: url(bg2.png)no-repeat;
+    background-size: 100% 100%;
+    font-weight: bold;
+}
+
+#cv-right h3 {
+    width: 100%;
+    height: 40px;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    font-weight: bold;
+    float: left;
+    line-height: 30px;
+    background: url(bg2.png)no-repeat;
+    background-size: 100% 100%;
+}

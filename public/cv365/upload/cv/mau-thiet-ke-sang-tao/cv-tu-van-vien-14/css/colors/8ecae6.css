@@ -1,0 +1,100 @@
+#sortable .cvo-block .box-content {
+  border: solid 2px #219ebc;
+}
+#form-cv .cv_page.height_page {
+  border: solid 10px #219ebc;
+}
+#box05 .box-content.err_cv_content {
+    border: solid 2px #219ebc;
+}
+
+#box06 .box-content.err_cv_content {
+    border: solid 2px #219ebc;
+}
+
+#box07 .box-content.err_cv_content {
+    border: solid 2px #219ebc;
+}
+
+#box04 .box-content.err_cv_content {
+    border: solid 2px #219ebc;
+}
+
+#sortable #box02 .box-content {
+    background: url(../muctieu2.png) no-repeat;
+    background-size: 100% 100%;
+}
+
+.chu {
+  background: url(../chu2.png) no-repeat;
+  background-size: 100% 100%;
+}
+
+#box03 .exp {
+  border: solid 2px #219ebc;
+}
+
+.cv_page height_page {
+    border: solid 8px #219ebc;
+}
+
+.bar-exp div {
+  background: url(../kn2.png) no-repeat;
+  background-size: 248.5px 11px;
+}
+
+div#cv-boxtitle {
+  background-color: #8ecae6;
+}
+
+#cv-content .cvo-block .head {
+  background: url(../bg-ct2.png) no-repeat;
+  background-size: 100% 100%;
+}
+
+.fake_img {
+  background: url(../fake2.png) no-repeat;
+}
+
+#box03 .ski {
+    background: url(../cv-boxtitle1-1.png) no-repeat, url(../main2-1.png) no-repeat;
+    background-size: 88% 1.5px, 100% 100%;
+    background-position: 20px center,0px 100%;
+}
+
+#box04 .cum {background: url(../cv-boxtitle1-1.png) no-repeat, url(../main2-1.png) no-repeat;background-size: 88% 1.5px, 100% 100%;background-position: 20px center,0px 100%;}
+
+#box05 .cum {background: url(../cv-boxtitle1-1.png) no-repeat, url(../main2-1.png) no-repeat;background-size: 88% 1.5px, 100% 100%;background-position: 20px center,0px 100%;}
+
+#box06 .cum {
+    background: url(../cv-boxtitle1-1.png) no-repeat, url(../main2-1.png) no-repeat;
+    background-size: 88% 1.5px, 100% 100%;
+    background-position: 20px center,0px 100%;
+}
+
+#box07 .cum {
+    background: url(../cv-boxtitle1-1.png) no-repeat, url(../main2-1.png) no-repeat;
+    background-size: 88% 1.5px, 100% 100%;
+    background-position: 20px center,0px 100%;
+}
+
+
+.ic1 .icf {
+  background: url(../date2.png) no-repeat;
+}
+
+.ic2 .icf {
+  background: url(../sex2.png) no-repeat;
+}
+
+.ic3 .icf {
+  background: url(../phone2.png) no-repeat;
+}
+
+.ic4 .icf {
+  background: url(../mail2.png) no-repeat;
+}
+
+.ic5 .icf {
+  background: url(../add2.png) no-repeat;
+}

@@ -1,0 +1,36 @@
+/* 3 */
+#cv-content #block05 .head {
+    background: var(--TTthem), var(--dot), var(--ngang2);
+    background-position: 0 top, right 14px, 0 18px;
+    background-size: 35px 36px, 11px 11px, 100% 2px;
+}
+:root {
+    --sex: url(sex3.png) no-repeat;
+    --phone: url(phone3.png) no-repeat;
+    --date: url(date3.png) no-repeat;
+    --email: url(mail3.png) no-repeat;
+    --add: url(add3.png) no-repeat;
+    --top: url(top-3.png) no-repeat;
+    --color: #d5d8de;
+    --color2: #33415c;
+    --fake: url(fake3.png) no-repeat;
+    --page: url(page-3.png) repeat-y;
+    --vuong: url(vuong3.png) no-repeat;
+    --dot: url(dot3.png) no-repeat;
+    --hocvan: url(hocvan3.png) no-repeat;
+    --kinhnghiem: url(kinhnghiem3.png) no-repeat;
+    --hoatdong: url(hoatdong3.png) no-repeat;
+    --duan: url(duan3.png) no-repeat;
+    --TTthem: url(TTthem3.png) no-repeat;
+    --muctieu: url(muctieu3.png) no-repeat;
+    --kinang: url(kinang3.png) no-repeat;
+    --giaithuong: url(giaithuong3.png) no-repeat;
+    --chungchi: url(chungchi3.png) no-repeat;
+    --sothich: url(sothich3.png) no-repeat;
+    --nguoiTC: url(nguoiTC3.png) no-repeat;
+    --ngang1: url(ngang1-3.png) repeat-x;
+    --ngang2: url(ngang2-3.png) repeat-x;
+    --muctieu-2: url(muctieu3-2.png) repeat-x;
+    --kinang-f: url(kinang-t3.png) no-repeat, url(  kinang-b3.png) no-repeat, url(kinang-p3.png) repeat-y, url(kinang-p3.png) repeat-y;
+    --box: url(box-t3.png) no-repeat, url(box-b3.png) no-repeat, url(box-f3.png) no-repeat;
+  }

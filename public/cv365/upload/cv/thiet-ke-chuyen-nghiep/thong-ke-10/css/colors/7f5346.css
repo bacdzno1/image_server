@@ -1,0 +1,125 @@
+.icright1 {
+    width: 376px;
+    height: 33px;
+      float: left;
+      background: url(tl_01_06.png);
+      background-position: center;
+      background-repeat: no-repeat;
+    }
+  .icright2 {
+    width: 376px;
+    height: 33px;
+      float: left;
+      background: url(tl_01_08.png);
+      background-position: center;
+      background-repeat: no-repeat;
+  }
+  .icright3 {
+    width: 376px;
+    height: 33px;
+      float: left;
+      background: url(tl_01_10.png);
+      background-position: center;
+      background-repeat: no-repeat;
+  }
+  .icright4 {
+    width: 376px;
+    height: 33px;
+      float: left;
+      background: url(tl_01_12.png);
+      background-position: center;
+      background-repeat: no-repeat;
+  }
+  .icright5 {
+    width: 376px;
+    height: 33px;
+      float: left;
+      background: url(tl_01_14.png);
+      background-position: center;
+      background-repeat: no-repeat;
+  }
+
+  .cumicc2 {
+    width: 326px;
+    height: 33px;
+    float: left;
+    background: url(tr_01_03.png);
+    background-position: center;
+    background-repeat: no-repeat;
+}
+.cumicc3 {
+  width: 326px;
+  height: 33px;
+    float: left;
+    background: url(tr_01_06.png);
+    background-position: center;
+    background-repeat: no-repeat;
+}
+.cumicc4 {
+  width: 326px;
+  height: 33px;
+    float: left;
+    background: url(tr_01_08.png);
+    background-position: center;
+    background-repeat: no-repeat;
+}
+.cumicc5 {
+  width: 326px;
+  height: 33px;
+    float: left;
+    background: url(tr_01_10.png);
+    background-position: center;
+    background-repeat: no-repeat;
+}
+.cumicc6 {
+  width: 326px;
+  height: 33px;
+    float: left;
+    background: url(tr_01_12.png);
+    background-position: center;
+    background-repeat: no-repeat;
+}
+.cumicc7 {
+  width: 326px;
+  height: 33px;
+    float: left;
+    background: url(tr_01_14.png);
+    background-position: center;
+    background-repeat: no-repeat;
+}
+.all{
+    float: left;
+    clear: both;
+    width: 100%;
+    background:url(main_01.png)no-repeat;
+    background-size: 100% 100%;}
+    #cv-top {
+        width: 100%;
+        height: 269px;
+        background-image: url(hd_01.png);
+    }
+
+    #cv-main h1 {
+        color: #7f5346;
+    }
+    div#cv-boxtitle{
+        color: #7f5346;
+    }
+    #cv-content .head #cvo-experience-blocktitle{
+        color: #7f5346;
+    }
+    .footer{
+        background: url(ft_01.png) no-repeat;
+         background-size: 100% 100%;
+    }
+    .bar-exp{
+        border: 2px solid #7f5346;
+    }
+    .bar-exp div{
+        background: #7f5346;
+    }
+
+    .box-dm {
+      background: url(a_01.png)no-repeat;
+      background-size: 100% 100%;
+  }

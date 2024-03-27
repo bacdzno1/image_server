@@ -1,0 +1,48 @@
+
+#cv-top{		
+
+    background-image: url(hd2.png);
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+}
+#cv-top h1{
+	color: #60bfbf;   
+}
+#cv-top h2{
+	color: #60bfbf;
+}
+div#block02 {
+    background: #f2cb05;
+}
+#block01 div#cvo-experience-blocktitle{
+    background: url(ic_21.png)no-repeat;
+    background-position: center;
+    background-size: 100% 100% ;
+}
+#block02 div#cvo-experience-blocktitle{
+    background: url(ic_22.png)no-repeat;
+    background-position: center;
+    background-size: 100% 100% ;
+}
+#block03 div#cvo-experience-blocktitle{
+    background: url(ic_23.png)no-repeat;
+    background-position: center;
+    background-size: 100% 100% ;
+}
+#block04 div#cvo-experience-blocktitle{
+    background: url(ic_23.png)no-repeat;
+    background-position: center;
+    background-size: 100% 100% ;
+}
+#block05 div#cvo-experience-blocktitle{
+    background: url(ic_22.png)no-repeat;
+    background-position: center;
+    background-size: 100% 100% ;
+}
+.bar-exp div {
+    background: #ffcc4f;   
+}
+
+#cv-content #block05 .head {
+    color: #000;
+}

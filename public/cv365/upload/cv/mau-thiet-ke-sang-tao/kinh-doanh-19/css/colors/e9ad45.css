@@ -1,0 +1,94 @@
+#cv-top {
+    background: url(../top2.png) no-repeat;
+    background-size: 100%;
+    background-position: top right;
+    background-color: #f8f3ec;
+}
+
+.chu {
+    background: url(../name2.png) no-repeat;
+    background-size: 1.5% 100%;
+    background-position: 15px 10px;
+}
+
+.ic1 {
+    width: 30%;
+    background: url(../date2.png) no-repeat;
+    background-position: 0px 0px;
+}
+
+.ic2 {
+    width: 22%;
+    background: url(../sex2.png) no-repeat;
+    background-position: 0px 0px;
+}
+
+.ic3 {
+    width: 46%;
+    background: url(../phone2.png) no-repeat;
+    background-position: 0px 0px;
+}
+
+.ic4 {
+    width: 100%;
+    background: url(../email2.png) no-repeat;
+    background-position: 0px 0px;
+}
+
+.ic5 {
+    width: 100%;
+    background: url(../add2.png) no-repeat;
+    background-position: 0px 0px;
+}
+
+.fake_img {
+    background: url(../fake2.png) no-repeat;
+    background-size: 100% 100%;
+}
+
+
+.bar-exp div {
+    background: url(../kn2-2.png) no-repeat;
+}
+
+#sortable #box04 .ct_bo, #sortable #box05 .ct_bo, #sortable #box06 .ct_bo {
+    background: url(../dot2-2.png) no-repeat;
+    background-position: 6px -1px;
+}
+
+#sortable #box04 .ct_box, #sortable #box05 .ct_box, #sortable #box06 .ct_box {
+    background: url(../soc2.png) no-repeat;
+    background-size: 2% 100%;
+    background-position: 7px 2px;
+}
+
+#sortable #box04 .box-content, #sortable #box05 .box-content, #sortable #box06 .box-content {
+    padding-left: 30px;
+    background: url(../dot2.png) no-repeat;
+    background-position: 10px 8px;
+}
+
+.exp-title {
+    background: url(../right2.png);
+    background-size: 100% 100%;
+}
+
+#experience-table .ctbx {
+    background: url(../soc2.png) no-repeat;
+    background-size: 1.5% 100%;
+    background-position: 10px 0px;
+}
+
+#cv-content h3 {
+    background: url(../but2.png) no-repeat;
+    background-position: 0px 15px;
+}
+
+#cv-content #block03 p.h3 {
+    background: url(../but2.png) no-repeat;
+    background-position: 0px 5px;
+}
+
+.footer {
+    background: url(../foot2.png) no-repeat;
+}

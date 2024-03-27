@@ -1,0 +1,115 @@
+#dm{
+  background: url(hd2.png);
+  background-position: left;
+  background-size: 100% 100%;
+}
+.all{
+  background:url(main2.png)no-repeat;
+  background-size: 100% 100%;
+}
+#cv-content #block01 h3{
+  background: url(ic2.png)no-repeat;
+  background-position: left;
+}
+#cv-content #block02 h3{
+  background: url(ic2.png)no-repeat;
+  background-position: left;
+}
+#cvo-profile-avatar-wraper .wimg {
+  border: 3px solid #008692;
+}
+.bar-exp div {
+  background: #008692;
+}
+.box01-fake{
+  background: url(anh2.png)no-repeat;
+  background-position: left;
+  background-size: 100% 100%;
+}
+.icf .fa {
+  color: #008692;
+}
+.footer {
+  background:url(ft2.png)no-repeat;
+  background-position: left;
+  background-size: 100% 100%;
+  height:75px;
+}
+
+/* .icright1{
+  float: left;
+  width: 12%;
+  height:36px;
+  background: url(icr2_03.png)no-repeat;
+  background-position: left;
+}
+.icright2{
+  float: left;
+  width: 12%;
+  height:36px;
+  background: url(icr2_06.png)no-repeat;
+  background-position: left;
+}
+.icright3{
+  float: left;
+  width: 12%;
+  height:36px;
+  background: url(icr2_08.png)no-repeat;
+  background-position: left;
+}
+.icright4{
+  float: left;
+  width: 12%;
+  height:36px;
+  background: url(icr2_10.png)no-repeat;
+  background-position: left;
+}
+.icright5{
+  float: left;
+  width: 12%;
+  height:36px;
+  background: url(icr2_12.png)no-repeat;
+  background-position: left;
+} */
+
+#block01 .head {
+  background: url(icr2_03.png)no-repeat;
+  background-position: left;
+}
+#block02 .head {
+  background: url(icr2_06.png)no-repeat;
+  background-position: left;
+}
+#block03 .head {
+  background: url(icr2_08.png)no-repeat;
+  background-position: left;
+}
+#block04 .head {
+  background: url(icr2_10.png)no-repeat;
+  background-position: left;
+}
+#block05 .head {
+  background: url(icr2_12.png)no-repeat;
+  background-position: left;
+}
+
+#block01 #cvo-experience-blocktitle{
+  background: url(tt2_10.png)no-repeat;
+  background-position: 325px center;
+}
+#block02 #cvo-experience-blocktitle{
+  background: url(tt2_07.png)no-repeat;
+  background-position: right;
+}
+#block03 #cvo-experience-blocktitle{
+  background: url(tt2_10.png)no-repeat;
+  background-position: right;
+}
+#block04 #cvo-experience-blocktitle{
+  background: url(tt2_14.png)no-repeat;
+  background-position: 265px;
+}
+#block05 #cvo-experience-blocktitle{
+  background: url(tt2_16.png)no-repeat;
+  background-position: 316px center;
+}

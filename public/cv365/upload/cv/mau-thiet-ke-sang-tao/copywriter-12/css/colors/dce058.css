@@ -1,0 +1,26 @@
+#cv-top {
+  background-image: url(hd3.png);
+  background-size: 100% 100%;
+}
+#cvo-profile-avatar-wraper {
+  padding-top: 17px;
+  padding-left: 69px;
+}
+.all{
+  background:url(main3.png)no-repeat;
+  background-size: 100% 100%;
+  }
+.footer{background: url(ft3.png) no-repeat;background-size: 100% 100%;}
+.box-dm {
+  background: url(fake3.png)no-repeat;
+  background-size: 100% 100%;
+}
+.bar-exp div {
+  background: #dce058;
+}
+#cv-top h1 {
+  color: #a57ab6;
+}
+#cv-top h2 {
+  color: #a57ab6;
+}

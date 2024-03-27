@@ -1,0 +1,718 @@
+#form-cv {
+    width: 100%;
+    float: left;
+    position: relative;
+    font-size: 14px;
+    line-height: 21px;
+    color: #000;
+    /*background: url(bg.png);*/
+    /*background-size: 100% 100%;*/
+    /*background-repeat: no-repeat;;*/
+}
+
+#form-cv p {
+    margin-top: 0;
+    margin-bottom: 0px;
+}
+
+#cv-top {
+    width: 100%;
+    height: auto;
+    /*background-image: url(hd1.png);*/
+    /*background-repeat: no-repeat;*/
+    /*background-size: 100% 100%;*/
+    padding-bottom: 20px;
+}
+
+#sortable .cvo-block {
+    margin: 0;
+    padding: 0;
+    padding: 0 15px 0px;
+    padding-bottom: 5px;
+}
+
+#cvo-profile {
+    display: block;
+    padding-top: 30px;
+}
+
+#cv-content {
+    width: 56.8%;
+    text-align: justify;
+    margin: 0;
+    padding: 0;
+    float: right;
+    padding-left: 20px;
+    border-left: 2px dashed #0868f8;
+    position: relative;
+}
+
+#cv-content .cvo-block {}
+
+#cv-content .ir {
+    padding: 0 0px;
+    margin: 0px;
+}
+
+#cv-content #block02 #exp1 {
+    padding: 0;
+    margin: 0;
+    padding-top: 10px;
+    /*padding-left: 25px;*/
+    /*margin-left: 50px;*/
+    /*padding-right: 25px;*/
+}
+
+#cv-content #block02 #exp2,
+#cv-content #block02 #exp3 {
+    padding: 0;
+    margin: 0;
+    /* padding-left: 25px;*/
+    /* padding-right: 25px;*/
+    /*margin: 20px 0 20px 50px;*/
+}
+
+#cv-content .ir #experience-table {
+    padding: 0;
+    margin: 0;
+    /*padding-left: 30px;*/
+}
+
+#cv-content .ir #block02 #experience-table {
+    padding: 0px;
+}
+
+#cv-main {
+    margin: 0;
+    padding: 0;
+    width: 36.99%;
+    text-align: justify;
+    float: left;
+    position: relative;
+    margin-left: 15px;
+}
+
+#cv-right {
+    float: left;
+    width: 100%;
+}
+
+#cv-right .ir {
+    padding: 0;
+}
+
+p.skill-name input {
+    color: #fff !important;
+}
+
+#box-hvt {
+    margin: 0;
+    padding: 0;
+    float: right;
+    width: 35%;
+    /*margin-left: -25px;*/
+    text-align: left;
+    padding-top: 20px;
+    /*margin-bottom: -10px;*/
+}
+
+#cv-top h1 {
+    margin: 0;
+    padding: 0;
+    font-size: 32px;
+    line-height: 32px;
+    text-transform: uppercase;
+    letter-spacing: 6px;
+    color: #000;
+    font-weight: bold;
+}
+
+#cvo-profile .box-01 {
+    float: left;
+    width: 38%;
+}
+
+#cvo-profile .box-contact {
+    /*padding-top: 45px;*/
+    width: 88%;
+    float: left;
+    color: #000;
+    padding-left: 20px;
+}
+
+#cv-right #prof {
+    width: 100%;
+    float: left;
+    color: #000;
+    padding-bottom: 5px;
+    border-bottom: 2px solid #1b1b1b;
+}
+
+#sortable #box01 {
+    padding: 0;
+    margin: 0;
+    border: 0;
+}
+
+.info {
+    width: 25%;
+    height: 170px;
+    float: left;
+    padding: 0;
+    margin: 0;
+    border-left: 1px dashed #0868f8;
+    border-right: 1px dashed #0868f8;
+    /*padding-left: 45px;*/
+    /*margin-top: -10px;*/
+}
+
+#cv-right .cvo-block .head div {
+    color: #1b1b1b;
+}
+
+#box01 ul li {
+    width: 50%;
+    float: left
+}
+
+#cv-top h2 {
+    padding: 0;
+    margin: 0;
+    font-size: 14px;
+    color: #0868f8;
+    line-height: 24px;
+    text-transform: uppercase;
+    margin-top: 5px;
+}
+
+#cv-content p {
+    margin-bottom: 5px
+}
+
+#cv-content .ir a {
+    color: #2ebb2f
+}
+
+#cv-right h3,
+#cv-content .head {
+    font-size: 18px;
+    color: #000;
+    text-transform: uppercase;
+    font-weight: bold;
+    margin: 0;
+    padding-top: 0;
+    line-height: 24px;
+}
+
+#sortable .box-content {
+    margin: 0;
+    padding: 0;
+    padding-top: 10px;
+    color: #000;
+    width: 100%;
+}
+
+#cv-content .exp-title {
+    width: 100%;
+    padding-top: 10px;
+    float: right;
+    color: #000;
+}
+
+#cv-content .exp-date {
+    float: left;
+    width: 20%;
+    padding-right: 10px;
+    border-left: 2px solid #28a745;
+    background: url(ar.png) right center no-repeat;
+    font-size: 14px;
+    text-align: center;
+}
+
+#cv-content .w-exp {
+    width: 96%;
+    float: left;
+    /*padding-bottom: 15px;*/
+    padding-left: 15px;
+    color: #000;
+}
+
+#cv-content h3 {
+    font-size: 14px;
+    text-transform: uppercase;
+    font-weight: bold;
+    color: #000;
+    line-height: 18px;
+    display: table;
+    width: 100%;
+    margin-bottom: 5px;
+    margin-top: 10px;
+}
+
+#cv-content p.h3 {
+    /*font-weight: bold;*/
+}
+
+#cv-content .cvo-block {
+    margin: 0px;
+    padding: 0;
+    margin-right: 25px;
+    /*margin-left: -14px;*/
+    /*margin-bottom: 20px;*/
+    /*border-bottom: 3px dashed #000;*/
+    /*border-bottom-style: dashed;*/
+}
+
+.ctbx {
+    padding-left: 0;
+    padding-right: 0;
+    /*margin-bottom: 15px;*/
+}
+
+#cv-content span {
+    display: inline-block;
+    z-index: 9999;
+}
+
+.ctbx {
+    position: relative;
+}
+
+.ctbx:hover {
+    box-shadow: 0 0 1px #999;
+}
+
+.ctbx:hover .fieldgroup_controls {
+    display: block;
+}
+
+[cvo-form-field] {
+    cursor: text;
+}
+
+#cvo-profile-avatar-wraper {
+    float: left;
+    /* width: 33.99%; */
+    padding: 0px;
+    margin: 0px;
+    border-radius: 10px;
+    /* padding-top: 20px; */
+    margin-left: 14px;
+    height: 170px;
+}
+
+#cvo-profile-avatar-wraper .wimg {
+    padding: 0;
+    margin: 0;
+    float: left;
+    border-radius: 10px;
+    width: 170px;
+}
+
+#cvo-profile-avatar-wraper img {
+    width: 170px;
+    height: 170px;
+    float: none;
+    display: inline-block;
+    border-radius: 10px;
+    /*border: 2px #fff solid;*/
+    /*box-shadow: 3px 25px 45px 2px;*/
+}
+
+#line-seperate {
+    height: 25px;
+}
+
+.bar-exp div {
+    float: left;
+    height: 10px;
+    background-color: #0868f8;
+}
+
+.ctbx .skill-name {
+    width: 100%;
+    float: left;
+}
+
+.bar-exp {
+    width: 100%;
+    background: #000;
+    height: 10px;
+    float: right;
+    margin-top: 3px;
+    /*border-radius: 1px solid #fc0202; */
+    margin-bottom: 0px;
+}
+
+.skill .ctbx {
+    margin: 0;
+    padding: 0;
+    margin-top: 5px;
+}
+
+.bar-value-exp {
+    width: 50%
+}
+
+.bar-value-exp input[type="text"] {
+    color: #000;
+    width: 95%
+}
+
+.icoweb label {
+    display: block;
+}
+
+.icoweb {
+    line-height: 22px;
+    float: left;
+    padding-left: 5px;
+}
+
+.ic {
+    float: left;
+    width: 100%;
+    margin-bottom: 8px
+}
+
+#form-cv .icf {
+    float: left;
+    line-height: 25px;
+    height: 25px;
+    margin-bottom: 0;
+    font-size: 14px;
+    width: 25px;
+    text-align: center;
+}
+
+#form-cv .ic .icoweb {
+    margin-bottom: 0;
+    color: #000;
+}
+
+.ic .icoweb {
+    float: left;
+    text-align: left;
+}
+
+.icf .fa {
+    color: #0868f8;
+    margin-top: 0;
+    float: none
+}
+
+#prof .ic {
+    padding: 0;
+    margin: 0;
+    margin-top: 3px;
+    float: none;
+    float: left;
+    padding: 3px;
+    height: auto;
+    width: 100%;
+    text-align: right
+}
+
+#form-cv .wfa {
+    float: right;
+    width: 25px;
+    font-size: 14px;
+    line-height: 25px;
+    background: #000;
+    border: 2px solid #446600;
+    border-radius: 20px;
+    text-align: center;
+    color: #446600
+}
+
+#cv-content .head {
+    width: 100%;
+    height: 30px;
+    color: #000;
+    text-align: left;
+    /*background: url(ke1.png)no-repeat;*/
+    /*background-position: center right;*/
+    line-height: 30px;
+    border-bottom: 2px dashed #0868f8;
+    background-size: 52% 50%;
+    float: right;
+}
+
+.sumic1 {
+    width: 25px;
+    height: 25px;
+    background-image: url(L1.png);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    float: left;
+}
+
+.sumic2 {
+    width: 25px;
+    height: 25px;
+    background-image: url(L2.png);
+    background-repeat: no-repeat;
+    float: left;
+}
+
+.sumic3 {
+    width: 25px;
+    height: 25px;
+    background-image: url(L3.png);
+    background-repeat: no-repeat;
+    float: left;
+}
+
+.sumic4 {
+    width: 25px;
+    height: 25px;
+    background-image: url(L4.png);
+    background-repeat: no-repeat;
+    float: left;
+}
+
+.sumic5 {
+    width: 25px;
+    height: 25px;
+    background-image: url(L5.png);
+    background-repeat: no-repeat;
+    float: left;
+}
+
+.cum {
+    width: 100%;
+    height: 30px;
+    text-align: center;
+    /*background: #00b05b;*/
+}
+
+#cv-right h3 {
+    width: 100%;
+    height: 30px;
+    line-height: 30px;
+    float: left;
+    text-align: left;
+    border-bottom: 2px dashed #0868f8;
+}
+
+.cumic2 {
+    width: 25px;
+    height: 25px;
+    background-image: url(R1.png);
+    background-repeat: no-repeat;
+    float: left;
+}
+
+.cumic4 {
+    width: 25px;
+    height: 25px;
+    background-image: url(R3.png);
+    background-repeat: no-repeat;
+    float: left;
+}
+
+.cumic5 {
+    width: 25px;
+    height: 25px;
+    background-image: url(R4.png);
+    background-repeat: no-repeat;
+    float: left;
+}
+
+.cumic6 {
+    width: 25px;
+    height: 25px;
+    background-image: url(R5.png);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    float: left;
+}
+
+.cumic7 {
+    width: 25px;
+    height: 25px;
+    background-image: url(R6.png);
+    background-repeat: no-repeat;
+    float: left;
+}
+
+.funk {
+    width: 100%;
+    height: 30px;
+    /*background: #00b05b;*/
+    text-align: center;
+}
+
+.funic {
+    width: 25px;
+    height: 25px;
+    background-image: url(R2.png);
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    float: left;
+}
+
+#cv-top h1,
+#cv-top h2 {
+    text-align: left;
+    /*padding-left: 10px;*/
+}
+
+#footer {
+    width: 100%;
+    height: 40px;
+    border: none;
+    clear: both;
+    margin: 0;
+    padding: 0;
+    background-image: url(footer1.png);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+
+#prof {
+    /*padding-right: 20px;*/
+}
+
+
+/* fix width */
+
+#prof .icoweb,
+#prof .icoweb span {
+    width: 88%;
+    height: auto;
+    float: left;
+    text-align: left;
+    /*padding-right: 10px;*/
+}
+
+#box03 .exp {
+    width: 100%;
+    padding: 5px 0px 5px 0px;
+    /*background: #e5e5e5;*/
+}
+
+#experience-table .ctbx {
+    /*border-bottom-style: 3px dashed #000;*/
+    /*margin-left: 20px;*/
+    /*padding-right: 25px;*/
+    /*margin-right: 25px;*/
+    /*border-bottom: #000 solid;*/
+    /*background: url(bt.png)no-repeat;*/
+    /*background-position: right bottom;*/
+    /*background-size: 100% auto;*/
+    /*padding-top: 15px;*/
+}
+
+#cv-profile-birthday::before {
+    color: white;
+}
+
+#cv-profile-sex::before {
+    color: white;
+}
+
+#cv-profile-phone::before {
+    color: white;
+}
+
+#cv-profile-email::before {
+    color: white;
+}
+
+#cv-profile-address::before {
+    color: white;
+}
+
+#box03 .skill-name {
+    color: #000;
+}
+
+#box04 .box-content,
+#box05 .box-content,
+#box05 .box-content,
+#box06 .box-content,
+#box07 .box-content {
+    color: #000;
+}
+
+#box02 h3 {
+    /*border-bottom: 2px solid grey;*/
+}
+
+.icon-ic-2 {
+    background: url(ic_03.png)no-repeat;
+    background-position: right;
+}
+
+.icon-ic-3 {
+    background: url(ic_13.png)no-repeat;
+    background-position: right;
+}
+
+.icon-ic-4 {
+    background: url(ic_21.png)no-repeat;
+    background-position: right;
+}
+
+.icon-ic-5 {
+    background: url(ic_16.png)no-repeat;
+    background-position: right;
+}
+
+.icon-ic-6 {
+    background: url(ic_26.png)no-repeat;
+    background-position: right;
+}
+
+.icon-ic-7 {
+    background: url(ic_29.png)no-repeat;
+    background-position: right;
+}
+
+#box04,
+#box05,
+#box06,
+#box07 {
+    padding-bottom: 15px;
+}
+
+#cv-right .ir #box03 {
+    margin-top: -20px;
+}
+
+#block01 .head {
+    margin: 0;
+    padding: 0;
+    background: url(ic_06.png)no-repeat;
+    background-position: right;
+    background-size: inherit
+}
+
+#block02 .head {
+    background: url(ic_10.png)no-repeat;
+    background-position: right;
+    background-size: inherit
+}
+
+#block03 .head {
+    background: url(ic_19.png)no-repeat;
+    background-position: right;
+    background-size: inherit
+}
+
+#block04 .head {
+    background: url(ic_23.png)no-repeat;
+    background-position: right;
+    background-size: inherit
+}
+
+#block05 .head {
+    background: url(ic_06.png)no-repeat;
+    background-position: right;
+    background-size: inherit
+}
+
+#box02 .box-content {
+    padding-bottom: 10px;
+}

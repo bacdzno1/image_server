@@ -1,0 +1,516 @@
+#page-cv{
+	width: 1072px;
+	float: left;
+}
+#form-cv{
+	width: 900px;
+	min-height: 1273px;	
+	float: left;
+	background: #fffd991f;
+	position: relative;
+	font-size: 14px;
+	line-height: 24px;
+	color:#494949;
+	border: solid 2px #e1e1e1;
+	border-radius: 20px 20px 20px 20px;
+	text-align: justify;
+}
+#form-cv p{
+	margin-top: 0;
+	margin-bottom: 12px
+}
+/*#sortable .cvo-block{
+	margin-bottom: 15px;
+}*/
+
+#cv-right .block {
+     margin-bottom: 20px!important; 
+}
+h1{
+	color:#fff;
+}
+#cv-main{
+	width: 100%;
+	display: table;
+	margin:10px auto;
+	margin-top: 0px;
+	
+}
+#cv-top{	
+	min-height: 200px;
+	width: 100%;
+	color: #fff;		
+	position: relative;	
+}
+#cv-content{
+	width: 72.39%;
+	min-height: 1043px;
+	display: block;
+	
+	float: left;
+	background: #f6f6f600;
+
+}
+#cv-right{
+	width: 26.5%;
+	height: 1110px;
+	display: block;
+	background:#fbffc369;
+	/*border-right:2px solid #ddd;*/
+	position: relative;
+	padding-right: 0px;
+	float: left;
+	padding-top: 15px;
+	border-radius: 20px 20px 20px 20px;
+	margin-left: 5px;
+}
+#cv-right .ctbx {
+	padding-bottom: 0;
+	margin:0;
+}
+.skill{
+	margin-top: 15px
+}
+
+#cv-top h1{
+	font-size: 34px;    
+    width: 530px;
+    font-weight: 500;
+    text-transform: capitalize;       
+    color:#ffffff;
+    margin-bottom: 5px
+    margin-left 20px;
+}
+#cv-top h2{
+	font-size: 18px;
+	font-weight: normal;
+	margin-top: 0;
+	text-transform: uppercase;
+	/*float: right;*/
+	color: #ffffff;
+	 margin-left 20px;
+}
+.box-01 p{	
+	
+}
+.box-01{
+	margin:auto;	
+	overflow: hidden;	
+	padding-top: 50px;
+	margin-bottom: 15px;
+	background: #21abd0;
+	padding: 30px 15px 20px;
+	border-radius: 20px 20px 20px 20px;
+	margin-right: 10px;
+	margin-top: 10px;
+}
+#cv-content .ir{
+	
+}
+#cv-content p{
+	margin-bottom: 5px
+}
+#cv-content .ir a{
+	color: #2ebb2f
+}
+#cv-right .h3{
+	font-size: 18px;
+	text-transform: uppercase;
+    color: #21abd0;    
+    font-weight: 500;
+    margin-top: 0;
+    border:2px solid #21abd0;
+    border-radius: 20px 20px 20px 20px;
+    padding: 5px 5px;
+    text-align: center;
+}
+
+#cv-content .head{
+	    margin-top: 30px;
+	    border-radius: 20px 20px 20px 20px;
+    	padding: 5px 5px;
+    	color: white;
+    	background:#21abd0;
+    	  text-align: right;
+}
+
+
+
+
+#cv-content h3{	
+	font-weight: normal;
+    font-size: 14px;
+    color: #237a5f;
+    text-transform: uppercase;
+    margin-bottom: 0;
+}
+
+#cv-content .h3{
+	color:#333;
+	text-transform: uppercase;
+	font-weight: 500;
+	margin-bottom: 0
+}
+#cv-content span{
+	display: inline-block;
+	padding-right: 8px;
+	z-index: 9999	
+}
+
+#cv-right .h3:first-child{
+	margin-top: 0
+}
+.ctbx{
+	margin-bottom: 15px;
+	position: relative;
+}
+.ctbx .r5 .h3{
+	text-transform: uppercase;
+}
+.ctbx:hover {
+	box-shadow: 0 0 1px #999;
+}
+.ctbx:hover .fieldgroup_controls{
+	display: block;
+}
+[cvo-form-field] {
+    cursor: text;
+}
+#cvo-profile-avatar-wraper{
+	float: left;
+	/*border:3px solid #237a5f;	*/
+	/*margin-top: 20px;*/
+	padding:0;
+	margin-right: 27px;
+	border-top-right-radius: 50%;
+    border-bottom-left-radius: 50%;
+}
+#cvo-profile-avatar-wraper #cvo-profile-avatar{
+	padding: 5px 5px;
+	border:0;
+	display: table;
+	margin-left: 30px;
+	margin-top: 30px;
+	border:5px solid #21abd0;
+
+}
+#line-seperate {
+    height: 25px;
+    background-color: #e3ecec;
+}
+.bar-exp span {
+    float: left;
+    height: 8px;
+    background: #237a5f;
+}
+.bar-exp{
+	background: #cecece;
+	margin-top: 8px
+}
+.bar-value-exp{
+	width: 50%
+}
+.skill-name{
+	float: left;
+}
+.icoweb label{
+	width: 35%;
+	margin-right: 0;
+	float: left;
+}
+#cv-right .icoweb span{
+	width: 65%;
+	display: inline-block;
+}
+#cv-right .icoweb i.fa{
+	width: 19px;
+    height: 29px;
+    text-align: center;
+    line-height: 37px;
+    color: #494949;
+    vertical-align: top;
+    font-size: 14px;
+    margin-top: 2px;
+    margin-right: 5px;
+}
+.icoweb{
+	width: 45%;
+	float: left;
+	margin-bottom: 12px !important;
+	color: #02b5e1;
+}
+#cv-content .cvo-block{
+
+}
+#cv-right .box-contact{
+    width: 625px;
+    position: absolute !important;
+    top: -107px;
+    left: 247px;
+    padding-left: 15px;
+}
+.box-contact{
+	margin-left: 10px;
+	margin-top: 10px;
+	margin-bottom: 10px;
+
+
+}
+#page-cv{
+	width: 1072px;
+	float: left;
+}
+#form-cv{
+	width: 900px;
+	min-height: 1273px;	
+	float: left;
+	background: #fffd991f;
+	position: relative;
+	font-size: 14px;
+	line-height: 24px;
+	color:#494949;
+	border: solid 2px #e1e1e1;
+	border-radius: 20px 20px 20px 20px;
+	text-align: justify;
+}
+#form-cv p{
+	margin-top: 0;
+	margin-bottom: 12px
+}
+/*#sortable .cvo-block{
+	margin-bottom: 15px;
+}*/
+
+#cv-right .block {
+     margin-bottom: 20px!important; 
+}
+h1{
+	color:#fff;
+}
+#cv-main{
+	width: 100%;
+	display: table;
+	margin:10px auto;
+	margin-top: 0px;
+	
+}
+#cv-top{	
+	min-height: 200px;
+	width: 100%;
+	color: #fff;		
+	position: relative;	
+}
+#cv-content{
+	width: 72.39%;
+	min-height: 1043px;
+	display: block;
+	
+	float: left;
+	background: #f6f6f600;
+
+}
+#cv-right{
+	width: 26.5%;
+	height: 1110px;
+	display: block;
+	background:#fbffc369;
+	/*border-right:2px solid #ddd;*/
+	position: relative;
+	padding-right: 0px;
+	float: left;
+	padding-top: 15px;
+	border-radius: 20px 20px 20px 20px;
+	margin-left: 5px;
+}
+#cv-right .ctbx {
+	padding-bottom: 0;
+	margin:0;
+}
+.skill{
+	margin-top: 15px
+}
+
+#cv-top h1{
+	font-size: 34px;    
+    width: 530px;
+    font-weight: 500;
+    text-transform: capitalize;       
+    color:#ffffff;
+    margin-bottom: 5px
+    margin-left 20px;
+}
+#cv-top h2{
+	font-size: 18px;
+	font-weight: normal;
+	margin-top: 0;
+	text-transform: uppercase;
+	/*float: right;*/
+	color: #ffffff;
+	 margin-left 20px;
+}
+.box-01 p{	
+	
+}
+.box-01{
+	margin:auto;	
+	overflow: hidden;	
+	padding-top: 50px;
+	margin-bottom: 15px;
+	background: #21abd0;
+	padding: 30px 15px 20px;
+	border-radius: 20px 20px 20px 20px;
+	margin-right: 10px;
+	margin-top: 10px;
+}
+#cv-content .ir{
+	
+}
+#cv-content p{
+	margin-bottom: 5px
+}
+#cv-content .ir a{
+	color: #2ebb2f
+}
+#cv-right .h3{
+	font-size: 18px;
+	text-transform: uppercase;
+    color: #21abd0;    
+    font-weight: 500;
+    margin-top: 0;
+    border:2px solid #21abd0;
+    border-radius: 20px 20px 20px 20px;
+    padding: 5px 5px;
+    text-align: center;
+}
+
+#cv-content .head{
+	    margin-top: 30px;
+	    border-radius: 20px 20px 20px 20px;
+    	padding: 5px 5px;
+    	color: white;
+    	background:#21abd0;
+    	  text-align: right;
+}
+
+
+
+
+#cv-content h3{	
+	font-weight: normal;
+    font-size: 14px;
+    color: #237a5f;
+    text-transform: uppercase;
+    margin-bottom: 0;
+}
+
+#cv-content .h3{
+	color:#333;
+	text-transform: uppercase;
+	font-weight: 500;
+	margin-bottom: 0
+}
+#cv-content span{
+	display: inline-block;
+	padding-right: 8px;
+	z-index: 9999	
+}
+
+#cv-right .h3:first-child{
+	margin-top: 0
+}
+.ctbx{
+	margin-bottom: 15px;
+	position: relative;
+}
+.ctbx .r5 .h3{
+	text-transform: uppercase;
+}
+.ctbx:hover {
+	box-shadow: 0 0 1px #999;
+}
+.ctbx:hover .fieldgroup_controls{
+	display: block;
+}
+[cvo-form-field] {
+    cursor: text;
+}
+#cvo-profile-avatar-wraper{
+	float: left;
+	/*border:3px solid #237a5f;	*/
+	/*margin-top: 20px;*/
+	padding:0;
+	margin-right: 27px;
+	border-top-right-radius: 50%;
+    border-bottom-left-radius: 50%;
+}
+#cvo-profile-avatar-wraper #cvo-profile-avatar{
+	padding: 5px 5px;
+	border:0;
+	display: table;
+	margin-left: 30px;
+	margin-top: 30px;
+	border:5px solid #21abd0;
+
+}
+#line-seperate {
+    height: 25px;
+    background-color: #e3ecec;
+}
+.bar-exp span {
+    float: left;
+    height: 8px;
+    background: #237a5f;
+}
+.bar-exp{
+	background: #cecece;
+	margin-top: 8px
+}
+.bar-value-exp{
+	width: 50%
+}
+.skill-name{
+	float: left;
+}
+.icoweb label{
+	width: 35%;
+	margin-right: 0;
+	float: left;
+}
+#cv-right .icoweb span{
+	width: 65%;
+	display: inline-block;
+}
+#cv-right .icoweb i.fa{
+	width: 19px;
+    height: 29px;
+    text-align: center;
+    line-height: 37px;
+    color: #494949;
+    vertical-align: top;
+    font-size: 14px;
+    margin-top: 2px;
+    margin-right: 5px;
+}
+.icoweb{
+	width: 45%;
+	float: left;
+	margin-bottom: 12px !important;
+	color: #02b5e1;
+}
+#cv-content .cvo-block{
+
+}
+#cv-right .box-contact{
+    width: 625px;
+    position: absolute !important;
+    top: -107px;
+    left: 247px;
+    padding-left: 15px;
+}
+.box-contact{
+	margin-left: 10px;
+	margin-top: 10px;
+	margin-bottom: 10px;
+
+
+}

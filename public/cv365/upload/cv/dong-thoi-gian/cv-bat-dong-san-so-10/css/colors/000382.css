@@ -1,0 +1,169 @@
+#cv-top {
+    background-image: url(hd3.png);
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+}
+
+.all {
+    background-image: url(bd3.png);
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+}
+
+.footer {
+    background: url(ft3.png)no-repeat;
+    background-size: 100% 100%;
+}
+
+#block01 .head {
+    background: url(bar3.png)no-repeat;
+    background-position: 290px;
+    /* background-size: 25% 12%; */
+}
+
+#block02 .head {
+    background: url(bar3.png)no-repeat;
+    background-position: 290px;
+    /* background-size: 13% 12%; */
+}
+
+#block03 .head {
+    background: url(bar3.png)no-repeat;
+    background-position: 290px;
+    /* background-size: 42% 12%; */
+}
+
+#block04 .head {
+    background: url(bar3.png)no-repeat;
+    background-position: 290px;
+    /* background-size: 15% 12%; */
+}
+
+#block05 .head {
+    background: url(bar3.png)no-repeat;
+    background-position: 290px;
+    /* background-size: 20% 12%; */
+}
+
+div#box02 .cum {
+    background: url(ic3_06.png)no-repeat;
+    background-position: center;
+    background-size: 115% 7%;
+}
+
+div#box04 .cum {
+    background: url(ic3_22.png)no-repeat;
+    background-position: center;
+    background-size: 165% 7%;
+}
+
+div#box05 .cum {
+    background: url(ic3_22.png)no-repeat;
+    background-position: center;
+    background-size: 165% 7%;
+}
+
+div#box06 .cum {
+    background: url(ic3_22.png)no-repeat;
+    background-position: center;
+    background-size: 165% 7%;
+}
+
+div#box07 .cum {
+    background: url(ic3_06.png)no-repeat;
+    background-position: center;
+    background-size: 115% 7%;
+}
+
+#form-cv {
+    line-height: 24.5px;
+}
+
+.icright1 {
+    background: url(ic3_03.png);
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.icright2 {
+    background: url(ic3_11.png);
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.icright3 {
+    background: url(ic3_19.png);
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.icright4 {
+    background: url(ic3_24.png);
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.icright5 {
+    background: url(ic3_26.png);
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.ski {
+    background: url(ic3_22.png)no-repeat;
+    background-position: center;
+    background-size: 165% 7%;
+}
+
+.tt-box1 {
+    background: url(ic3_06.png)no-repeat;
+    background-position: center;
+    background-size: 115% 7%;
+}
+
+.exp-content {
+    border-left: 3px solid #000382;
+}
+
+#cv-content p.h3 {
+    border-left: 3px solid #000382;
+}
+
+#block01 .exp-title {
+    border-left: 3px solid #000382;
+}
+
+#block03 .exp-title {
+    border-left: 3px solid #000382;
+}
+
+#block04 .exp-title {
+    border-left: 3px solid #000382;
+}
+
+#block05 .exp-title {
+    border-left: 3px solid #000382;
+}
+
+.bar-exp div {
+    background: #000382;
+}
+
+.bar-exp {
+    border: 1px solid #000382;
+}
+
+.box-dm {
+    background: url(ava3.png)no-repeat;
+    background-size: 100% 100%;
+}
+
+#cv-content #block02 h3 {
+    background: url(ic3_15.png)no-repeat;
+    background-size: 5% 60%;
+    background-position: left;
+}
+
+.icf .fa {
+    color: #000382;
+}

@@ -1,0 +1,36 @@
+#cv-top {
+    background-image: url(hd3.png);
+    background-size: 100% 100%;
+}
+
+.all {
+    background: url(main3.png);
+    background-size: 100% 100%;
+}
+.fake-img{
+    background: url(fake3.png)no-repeat;
+    background-size: 100% 100%;
+}
+#box03 .ski, #box04 .cum, #box05 .cum, #box06 .cum, #box07 .cum{
+    background: url(head3.png)no-repeat;
+    background-size: 100% 100%;
+    color: #fff;
+  }
+  #box02{
+    background: url(bg3.png)no-repeat;
+    background-size: 100% 100%;
+  }
+  .bar-exp div {
+    background: #37f8bb;
+}
+#cv-top h1 {
+    border-bottom: 2px solid #37f8bb;
+}
+#form-cv .icf {
+    background: url(ic3.png)no-repeat;
+    background-size: 100% 100%;
+}
+#cv-content .head #cvo-experience-blocktitle {
+    background: url(head3.png)no-repeat;
+    background-size: 100% 100%;
+}

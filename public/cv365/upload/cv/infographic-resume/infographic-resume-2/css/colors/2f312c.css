@@ -1,0 +1,9 @@
+#cv-top, #sortable #box01, .bar-exp div{
+	background: #2f312c;
+}
+#cv-content h3, #cv-content p.h3{
+	color: #2f312c
+}
+#cv-right h3, #cv-content .head{
+    background: #ffbf80;
+}

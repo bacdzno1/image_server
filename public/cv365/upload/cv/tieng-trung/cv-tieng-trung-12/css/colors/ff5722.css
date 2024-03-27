@@ -1,0 +1,16 @@
+#cv-top, #form-cv .icf, .bar-exp div{
+    background: #ff5722;
+}
+#cv-right h3, #cv-content .head, #cv-content h3{
+	color:#ff5722;
+}
+#cv-content .exp-date{
+	border-left: 2px solid #ff5722;
+    background: url(ff5722.png) right center no-repeat;
+}
+#prof .ic{
+	background: #ff8d64
+}
+#form-cv{
+	outline:1px solid #ff5722
+}

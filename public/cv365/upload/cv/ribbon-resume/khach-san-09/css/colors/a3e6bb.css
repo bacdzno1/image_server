@@ -1,0 +1,34 @@
+#cv-top {
+    width: 100%;
+    height: 280px;
+    background-image: url(hd3.png);
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    position: relative;
+}
+.all{
+  float: left;
+  clear: both;
+  width: 100%;
+  background: url(main3.png)no-repeat;
+  background-size: 100% 100%;
+}
+.bar-exp {
+    background: #a3e6bb;
+    height: 7px;
+    margin-top: 5px;
+    margin-bottom: 0px;
+    border: 1px solid #000;
+    border-radius: 10px;
+    padding: 0px;
+    float: right;
+    width: 100%;
+}
+.footer {
+  /*background: #45c983;*/
+  background:url(ft3.png)no-repeat;
+  background-size: 100% 100%;
+  height:70px; 
+  float: left;
+  width: 100%;
+}

@@ -1,0 +1,37 @@
+#cv-top {
+    background-image: url(hd2.png);
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    position: relative;
+}
+#cv-top h1{
+    border-bottom: 10px solid #ff5486;
+}
+.all {
+    background: url(main2.png)no-repeat;
+    background-size: 100% 100%;
+}
+#cv-content .head #cvo-experience-blocktitle {
+    border-bottom: 10px solid #ff5486;
+}
+div#cv-boxtitle {
+    border-bottom: 11px solid #ff5486;
+}
+.bar-exp div{
+    background: #ff5486;
+}
+#box06 #cv-boxtitle {
+    border-bottom: 11px solid #ff5486;
+}
+#box07 #cv-boxtitle {
+    border-bottom: 11px solid #ff5486;
+}
+div#box06 {
+    background: #5c5d5d;
+    border-right: 12px solid #ff5486;
+}
+div#box07 {
+    background: #5c5d5d;
+    border-right: 12px solid #ff5486;
+    border-bottom: 12px solid #ff5486;
+}

@@ -1,0 +1,126 @@
+#cv-top h1 {
+    padding: 0;
+    margin: 0;
+    font-size: 40px;
+    font-family: "Roboto";
+    line-height: 45px;
+    text-transform: uppercase;
+    margin-bottom: 0;
+    color: #000000;
+    font-weight: bold;
+    text-align: left;
+    float: left;
+}
+div#sort_block {
+    padding: 0;
+    margin: 0;
+    float: left;
+    padding-left: 20px;
+    border-left: 3px solid #000000;
+}
+#cv-content .head #cvo-experience-blocktitle, #cv-boxtitle {
+    color: #000000 !important;
+    text-align: left;
+    float: left;
+}
+.bar-exp {
+   
+}
+.bar-exp div {
+   
+}
+.ic1 .icf {
+  background: url(../date1.png) no-repeat;
+  width: 32px;
+  height: 27px;
+}
+.ic2 .icf {
+  background: url(../sex1.png) no-repeat;
+  width: 32px;
+  height: 33px;
+}
+.ic3 .icf {
+  background: url(../phone1.png) no-repeat;
+  width: 32px;
+  height: 28px;
+}
+.ic4 .icf {
+  background: url(../mail1.png) no-repeat;
+  width: 32px;
+  height: 28px;
+}
+.ic5 .icf {
+  background: url(../add1.png) no-repeat;
+  width: 32px;
+  height: 33px;
+}
+#cv-main {
+    text-align: justify;
+    margin: 0;
+    padding: 0;
+    float: right;
+    width: 38%;
+    padding: 20px;
+    border-left: 3px solid #000000;
+    padding-left: 25px;
+    padding-top: 0;
+}
+#block01 .head {
+    background: url(../edu1.png) no-repeat;
+    background-position: left;
+    margin: 5px 0;
+  }
+  #block02 .head {
+    background: url(../exp1.png) no-repeat;
+    background-position: left;
+    margin: 5px 0;
+  }
+  #block03 .head {
+    background: url(../act1.png) no-repeat;
+    background-position: left;
+    margin: 5px 0;
+  }
+  #block04 .head {
+    background: url(../project1.png) no-repeat;
+    background-position: left;
+    margin: 5px 0;
+  }
+  
+  #block05 .head {
+    background: url(../more_infor1.png) no-repeat;
+    background-position: left;
+    margin: 5px 0;
+  }
+  #box02 .cum {
+    background: url(../target1.png) no-repeat;
+    background-position: left;
+  }
+  #box03 .ski {
+    background: url(../exp1.png) no-repeat;
+    background-position: left;
+    padding-left: 40px;
+    margin-left: -40px;
+    position: relative;
+    z-index: 99;
+  }
+  #box04 .cum {
+    background: url(../prize1.png) no-repeat;
+    background-position: left;
+  }
+  #box05 .cum {
+    background: url(../cer1.png) no-repeat;
+    background-position: left;
+  }
+  #box06 .cum {
+    background: url(../hobbies1.png) no-repeat;
+    background-position: left;
+  }
+  #box07 .cum {
+    background: url(../rp1.png) no-repeat;
+    background-position: left;
+  }
+  .box-content, .ctbx {
+    background: url(../bg_content1.png) no-repeat;
+    padding-left: 30px ;
+    margin-left: -32px ;
+  }

@@ -1,0 +1,10 @@
+#cv-top h1{
+	color:#9f224e;
+}
+#cv-right h3, #cv-content .head{
+	color:#9f224e;
+	border: 2px solid #9f224e	
+}
+#form-cv .icf, .bar-exp div{
+	background: #9f224e
+}

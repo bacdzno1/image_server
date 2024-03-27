@@ -1,0 +1,18 @@
+/* 2 */
+
+:root {
+  --TTthem: url(TTthem2.png) no-repeat;
+  --nguoiTC: url(nguoiTC2.png) no-repeat;
+  --muctieu: url(muctieu-t2.png) no-repeat, url(muctieu-b2.png) no-repeat, url(muctieu-f2.png) no-repeat;
+  --wing: url(wing2.png) no-repeat;
+  --kinang: url(kinang2.png) no-repeat;
+  --tron3: url(tron3-2.png) no-repeat;
+  --tron4: url(tron4-2.png) no-repeat;
+  --doc: url(doc2.png) no-repeat;
+  --dot: url(dot2.png) no-repeat;
+  --ngang: url(ngang2.png) no-repeat;
+  --foot: url(foot2.png) no-repeat;
+  --color: #576f72;
+  --color-t: #576f72;
+  --color-s: #e4dccf;
+}

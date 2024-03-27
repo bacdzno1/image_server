@@ -1,0 +1,10 @@
+#cv-top, #sortable #box01, .bar-exp div{
+    background: #3d91cd;
+}
+#cv-right h3 .wfa, #cv-content .head .wfa{
+	border:1px solid #3d91cd;
+	color:#3d91cd;
+}
+#cv-right h3, #cv-content .head{
+	color:#3d91cd;
+}

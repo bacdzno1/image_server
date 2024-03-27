@@ -1,0 +1,329 @@
+#form-cv {
+    width: 100%;
+    float: left;
+    font-size: 14px;
+    line-height: 22px;
+    color: #565656;
+    padding: 0px;
+    margin: 0px;
+}
+
+.cv_tt {
+    float: left;
+    width: 94%;
+    background: url('bg.png') top center;
+    padding-left: 3%;
+    padding-right: 3%;
+    padding-top: 50px;
+}
+
+#cv-main {
+    float: left;
+    width: 100%;
+    margin: 0px;
+    padding: 0px;
+}
+
+#cv-content {
+    width: 55%;
+    float: left;
+    padding: 0px;
+    margin: 0px;
+}
+
+#cv-right {
+    width: 40.999%;
+    float: left;
+    padding: 0px;
+    margin: 0px;
+    padding-left: 4%;
+}
+
+#sort_block,
+.cv-right .ir,
+#sortable {
+    float: left;
+    padding: 0px;
+    margin: 0px;
+    width: 100%;
+}
+
+#cv-content .cvo-block,
+#cv-right .block {
+    float: left;
+    padding: 0px!important;
+    margin: 0px;
+    width: 100%;
+    margin-top: 15px;
+}
+
+#cv-content .head,
+#cv-right h3,
+#cv-right .cvo-block p {
+    float: left;
+    padding: 0px;
+    margin: 0px;
+    width: 100%;
+}
+
+#sortable .icoweb {
+    line-height: 30px;
+    float: left;
+    width: 250px;
+    margin-bottom: 5px;
+}
+
+#sortable #box01 p span {
+    margin: 0px;
+    padding: 0px;
+    width: 80%;
+}
+
+#cv-content #experience-table {
+    float: left;
+    padding: 0px;
+    margin: 0px;
+    width: 100%;
+}
+
+#cv-content #experience-table .ctbx {
+    float: left;
+    padding: 0px;
+    margin: 0px;
+    width: 100%;
+}
+
+#cv-content h3 {
+    float: left;
+    padding: 0px;
+    margin: 0px;
+    width: 100%;
+}
+
+#cv-content .h3 {
+    float: left;
+    padding: 0px;
+    margin: 0px;
+    width: 100%;
+}
+
+#cv-content .exp-content {
+    float: left;
+    padding: 0px;
+    margin: 0px;
+    width: 100%;
+}
+
+div {
+    margin: 0px;
+    padding: 0px;
+}
+
+.ctbx {
+    position: relative;
+}
+
+.ctbx:hover {
+    box-shadow: 0 0 1px #999;
+}
+
+.ctbx:hover .fieldgroup_controls {
+    display: block;
+}
+
+.bar-exp {
+    height: 8px;
+    margin-top: 8px;
+    margin-bottom: 0px;
+}
+
+.bar-exp {
+    height: 8px;
+    float: left;
+    margin: 8px 0px;
+}
+
+.bar-exp div {
+    float: left;
+    height: 8px;
+    background: #b1464d;
+}
+
+#cv-title {
+    padding: 5px 0;
+    margin: 0 auto;
+    text-align: center;
+    width: 100%;
+    margin-bottom: 8px;
+    font-size: 20px
+}
+
+.exp .ctbx {
+    display: table;
+    width: 100%;
+}
+
+.edit-content .bar-value-exp {
+    display: block;
+}
+
+.bar-value-exp {
+    display: none;
+}
+
+.bar-exp {
+    width: 100%;
+    background: #959595;
+    height: 8px;
+    float: left;
+    margin-bottom: 12px
+}
+
+.bar-value-exp {
+    width: 100%;
+    float: right;
+}
+
+p.skill-name input {
+    border-bottom: 0;
+    font-size: 14px;
+    border: 0
+}
+
+.bar-value-exp input[type="text"] {
+    width: 100%;
+    padding: 5px;
+    border-radius: 4px;
+    color: #000;
+}
+
+#cv-right .h3,
+#cv-content .head {
+    background: none;
+    text-align: left;
+    color: #565656;
+    border-radius: 5px;
+}
+
+#cv-content .head {
+    background: #baddd6;
+    border: 5px;
+    /* height: 29px; */
+    line-height: 26px;
+    font-size: 22px;
+    text-indent: 5px;
+    padding-bottom: 8px;
+    padding-top: 8px;
+}
+
+#cv-content h3 {
+    font-size: 16px;
+    color: #565656
+}
+
+#page-cv {
+    max-width: 790px
+}
+
+#cvo-profile-avatar-wraper {
+    display: none;
+}
+
+#cvo-profile-avatar-wraper img {}
+
+#box-hvt h1 {
+    color: #565656;
+    font-size: 36px;
+    line-height: 43px;
+    text-align: right;
+    text-transform: uppercase;
+    margin: 7px 0px;
+}
+
+#box-hvt h2 {
+    color: #6bc4ff;
+    font-size: 16px;
+    line-height: 24px;
+    text-align: right;
+    text-transform: uppercase;
+    font-weight: bold;
+}
+
+#cv-right .block h3 {
+    font-size: 22px;
+    line-height: 24px;
+    margin-bottom: 12px;
+}
+
+#cv-right {
+    color: #b1464d;
+}
+
+#cv-right #box02 {
+    color: #565656;
+}
+
+#cv-right #box02 h3 {
+    text-align: right;
+}
+
+#cv-right p {
+    text-align: justify;
+}
+
+#cv-right .icoweb i.fa {
+    margin-top: 6px;
+    font-size: 15px;
+    width: 25px;
+    color: #fff;
+}
+
+.box-contact {
+    color: #fff;
+    font-size: 14px;
+}
+
+.box-contact p {
+    line-height: 32px;
+    margin-bottom: 7px!important;
+    text-indent: 10px!important;
+}
+
+.box-contact p.cvi-date {
+    background: #919191;
+}
+
+.box-contact p.cvi-phone {
+    background: #6bc4ff;
+}
+
+.box-contact p.cvi-envelope-square {
+    background: #ffb5ba;
+}
+
+.box-contact p.cvi-map-marker {
+    background: #baddd6;
+}
+
+.box-contact p.cvi-user {
+    background: #c6c6c6;
+}
+
+#sortable .box-contact p.icoweb {
+    margin-bottom: 7px;
+}
+
+span.box-content {
+    width: 305px;
+}
+
+.watermark {
+    float: left;
+    width: 100%;
+    height: 22px;
+    color: #999;
+    text-align: right;
+    padding-right: 22px;
+    font-size: 15px;
+    font-family: Courier;
+}

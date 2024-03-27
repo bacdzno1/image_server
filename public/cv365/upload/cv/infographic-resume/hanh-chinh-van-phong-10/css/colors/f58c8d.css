@@ -1,0 +1,30 @@
+#cv-top {
+    background-image: url(hd2-2.png);
+    background-size: 100% 100%;
+}
+.footer {
+    background: url(ft2.png);
+    background-size: 100% 100%;
+}
+.all {
+    background: url(main2-1.png);
+    background-size: 100% 100%;
+}
+.exp-fake{
+    background: url(ski2.png);
+    }
+.fake-img{
+    background: url(fake2.png)no-repeat;
+    background-size: 100% 100%;
+}
+#cv-content .head #cvo-experience-blocktitle {
+    background: url(head2.png)no-repeat;
+    background-size: 100% 100%;
+}
+div#cv-boxtitle {
+    background: url(head2.png)no-repeat;
+    background-size: 100% 100%;
+}
+.bar-exp div {
+    background: url(kn2.png) no-repeat;
+}

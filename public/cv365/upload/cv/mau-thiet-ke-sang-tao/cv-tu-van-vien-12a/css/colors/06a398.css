@@ -1,0 +1,120 @@
+/* 2 */
+#form-cv {
+    background-color: #e4edec;
+}
+
+#cv-top {
+    background: url(../top2.png) no-repeat;
+}
+
+.fake_img {
+    background: url(../fake2.png) no-repeat;
+    background-size: 100% 100%;
+}
+
+#cv-top h1 {
+    color: #06a398;
+}
+
+.ic1 {
+    background: url(../date2.png) no-repeat;
+    background-position: 1px center;
+}
+
+.ic2 {
+    background: url(../sex2.png) no-repeat;
+    background-position: 1px center;
+}
+
+.ic3 {
+    background: url(../phone2.png) no-repeat;
+    background-position: 1px center;
+}
+
+.ic4 {
+    background: url(../email2.png) no-repeat;
+    background-position: 1px center;
+}
+
+.ic5 {
+    background: url(../add2.png) no-repeat;
+    background-position: 1px center;
+}
+
+#box02 div#cv-boxtitle {
+    background: url(../muctieu2.png) no-repeat;
+    background-position: left center;
+}
+
+#box03 div#cv-boxtitle {
+    background: url(../kynang2.png) no-repeat;
+    background-position: left center;
+}
+
+#box04 div#cv-boxtitle {
+    background: url(../giaithuong2.png) no-repeat;
+    background-position: left center;
+}
+
+#box05 div#cv-boxtitle {
+    background: url(../chungchi2.png) no-repeat;
+    background-position: left center;
+}
+
+#box06 div#cv-boxtitle {
+    background: url(../sothich2.png) no-repeat;
+    background-position: left center;
+}
+
+#box07 div#cv-boxtitle {
+    background: url(../thamchieu2.png) no-repeat;
+    background-position: left center;
+}
+
+.bar-exp div {
+    background: url(../kn2.png) no-repeat;
+}
+
+#cv-content {
+    background: url(../soc2.png) no-repeat;
+    background-size: 1.5% 100%;
+    background-position: 18px 10px;
+}
+
+#cv-content #block01 .head #cvo-experience-blocktitle {
+    background: url(../trinhdo2.png) no-repeat;
+    background-position: left center;
+}
+
+#cv-content #block02 .head #cvo-experience-blocktitle {
+    background: url(../kinhnghiem2.png) no-repeat;
+    background-position: left center;
+}
+
+#cv-content #block03 .head #cvo-experience-blocktitle {
+    background: url(../hoatdong2.png) no-repeat;
+    background-position: left center;
+}
+
+#cv-content #block04 .head #cvo-experience-blocktitle {
+    background: url(../duan2.png) no-repeat;
+    background-position: left center;
+}
+
+#cv-content #block05 .head #cvo-experience-blocktitle {
+    background: url(../them2.png) no-repeat;
+    background-position: left center;
+}
+
+#cv-content h3 {
+    background: url(../dot2.png) no-repeat;
+    background-position: 4px 5px;
+}
+
+#cv-content .exp-date {
+    color: #06a398;
+}
+
+.footer {
+    background: url(../foot2-2.png) no-repeat;
+}

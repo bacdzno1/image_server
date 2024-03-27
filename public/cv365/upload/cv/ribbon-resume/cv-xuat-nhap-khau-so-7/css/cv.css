@@ -1,0 +1,451 @@
+#form-cv {
+    width: 100%;
+    float: left;
+    position: relative;
+    font-size: 14px;
+    line-height: 22px;
+    color: #070000;
+}
+
+#sortable .cvo-block {
+    margin: 0;
+}
+
+#box01 {
+    border-top: none!important;
+}
+
+#sortable .icoweb i.fa {
+    float: left;
+}
+
+#cv-main {
+    display: table;
+    width: 100%;
+    background: url(bgmain.png);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+
+#cv-top {
+    width: 100%;
+    float: left;
+    text-align: center;
+    background: url(header.png);
+    background-repeat: no-repeat;
+    background-size: 100% auto;
+}
+
+#cvo-profile {
+    padding: 10px;
+    display: block;
+}
+
+#cv-content {
+    width: 58%;
+    float: right;
+    position: relative;
+    padding-top: 30px;
+    color: #000;
+}
+
+#cv-right {
+    width: 41.99%;
+    float: left;
+    position: relative;
+    padding-bottom: 30px;
+    color: #fff;
+}
+
+#cv-right .ir {
+    clear: both;
+    padding: 15px 3px 0px 10px;
+}
+
+p.skill-name input {
+    color: #070000!important;
+}
+
+#cv-right .ctbx {
+    padding: 0;
+    margin: 0;
+    border: 0;
+}
+
+.skill {
+    margin-top: 15px
+}
+
+#box-hvt {
+    width: 52%;
+    float: right;
+    padding: 0 15px;
+    text-align: center;
+    padding-top: 60px;
+}
+
+.box-01 p h2 {
+    padding-top: 10px;
+}
+
+#cv-content .ir {
+    /* margin: 0 15px; */
+    width: 100%;
+    float: left;
+    clear: both;
+    /* margin-bottom: 20px; */
+}
+
+#cv-content p {
+    margin-bottom: 5px
+}
+
+#cv-content .ir a {
+    color: #2ebb2f
+}
+
+#cv-right .h3,
+#cv-right h3,
+#cv-content .head {
+    font-size: 18px;
+    margin-top: 0;
+    text-transform: uppercase;
+    font-weight: bold;
+}
+
+#cv-right h3 {
+    margin-bottom: 10px;
+    width: 260px;
+    border-bottom: 2px solid #fff;
+    margin-top: 10px;
+    /* padding: 3px 10px; */
+}
+
+#cv-right h3 span {
+    color: #fff;
+}
+
+#cv-content .head {
+    padding: 0px 0px 3px 5px;
+    /* width: 95%; */
+    width: 448px;
+    float: left;
+    clear: both;
+    margin: 0;
+}
+
+#cv-content .head span {
+    color: #000;
+}
+
+#cv-right .h3 {
+    height: 45px;
+    text-align: center;
+    width: 100%;
+}
+
+#cv-right .h3 span {
+    margin: 3px 0px;
+    color: #000000;
+    line-height: 43px;
+}
+
+#cv-content h3 {
+    /* font-family: "Roboto"; */
+    /* font-style: normal; */
+    /* font-weight: normal; */
+    /* font-size: 18px; */
+    /* line-height: normal; */
+    /* text-transform: uppercase; */
+    color: #000;
+    width: 100%;
+}
+
+#cv-content .cvo-block {
+    margin: 0;
+    padding: 0;
+    /* padding-bottom: 32px; */
+}
+
+.ctbx {
+    padding-left: 10px;
+    padding-right: 10px
+}
+
+#cv-content span {
+    display: inline-block;
+    z-index: 9999;
+}
+
+#cv-right .h3:first-child {
+    margin-top: 0
+}
+
+#exp1,
+#exp2,
+#exp3 {
+    margin-bottom: 20px;
+    position: relative;
+    border-left: solid 3px #000;
+}
+
+.ctbx .r5 .h3 {
+    text-transform: uppercase;
+}
+
+.ctbx:hover {
+    box-shadow: 0 0 1px #999;
+}
+
+.ctbx:hover .fieldgroup_controls {
+    display: block;
+}
+
+[cvo-form-field] {
+    cursor: text;
+}
+
+
+/* edit div avata */
+
+#avatar {
+    width: 29.99%;
+    float: left;
+    clear: both;
+}
+
+#cvo-profile-avatar-wraper {
+    float: left;
+    width: 200px;
+    padding: 5px;
+    margin: auto;
+    margin-left: 47px;
+    border-radius: 10px;
+}
+
+#cvo-profile-avatar-wraper img {
+    max-width: 100%
+}
+
+
+/* end avatar */
+
+#line-seperate {
+    height: 25px;
+    /*background-color: #e3ecec;*/
+}
+
+.bar-exp div {
+    float: left;
+    height: 8px;
+    background: #fc9d2d;
+}
+
+.bar-exp {
+    width: 100%;
+    background: #C4C4C4;
+    height: 8px;
+    float: right;
+    margin-bottom: 12px;
+}
+
+.icoweb label {
+    display: block;
+    color: #627e88;
+}
+
+.box-contact {
+    font-size: 15px;
+}
+
+#sortable .icoweb {
+    margin-bottom: 0;
+    border-radius: 5px;
+    /* color: #fff; */
+    display: block;
+    width: 90%;
+    float: left;
+    margin-bottom: 5px;
+}
+
+.exp-content {
+    width: 93%;
+    text-align: justify;
+}
+
+.head i.fa,
+.h3 i.fa {
+    font-size: 12px;
+    border: solid 1px #7c7a79;
+    border-radius: 50%;
+    width: 12px;
+    color: #7c7a79;
+    /*background: white;*/
+    margin-bottom: 5px;
+    text-align: center;
+    padding: 4px;
+}
+
+#sortable .ic {
+    width: 100%;
+    height: auto;
+    float: left;
+    /* margin-bottom: 8px;
+    clear: both; */
+}
+
+#sortable .ic .icf {
+    width: 10%;
+    float: left;
+}
+
+#sortable .ic .icf i {
+    color: #fff;
+}
+
+#ic-title-1,
+#ic-title-2,
+#ic-title-3,
+#ic-title-4,
+#ic-title-5 {
+    width: 9%;
+    height: 29px;
+    float: left;
+    background-size: auto 65%;
+    background-repeat: no-repeat;
+    background-position: left;
+}
+
+#ic-title-1 {
+    background-image: url(hocvan.png);
+}
+
+#ic-title-2 {
+    background-image: url(kinhnghiem.png);
+}
+
+#ic-title-3 {
+    background-image: url(hoatdong.png);
+}
+
+#ic-title-4 {
+    background-image: url(duan.png);
+}
+
+#ic-title-5 {
+    background-image: url(thongtinthem.png);
+}
+
+
+/* 
+#cvo-experience-blocktitle {
+    width: 90%;
+    float: right;
+} */
+
+#experience-table {
+    width: 448px;
+    clear: both;
+    margin-left: auto;
+    padding-top: 5px;
+}
+
+#page-cv #cv-content .exp-subtitle {
+    font-family: "Roboto";
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: normal;
+    text-transform: uppercase;
+    color: #000000;
+}
+
+#page-cv #cv-content #text-fl {
+    width: 90%;
+    float: left;
+}
+
+#box-hvt h1 {
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 24px;
+    line-height: normal;
+    color: #fff;
+}
+
+#box-hvt h2 {
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: normal;
+    color: #fff;
+}
+
+#page-cv #cv-content .exp-title,
+#page-cv #cv-content .exp-date {
+    width: 100%;
+    float: left;
+    font-family: "Roboto";
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: normal;
+    text-transform: uppercase;
+    color: #000000;
+}
+
+#page-cv #cv-content .exp-date {
+    margin-top: 5px;
+}
+
+#page-cv #cv-content .exp-title {
+    font-weight: bold;
+}
+
+#footer {
+    width: 100%;
+    height: 70px;
+    border: none;
+    /* background: unset; */
+    margin: 0;
+    padding: 0;
+    background: url(footer.png) no-repeat;
+    background-size: 100% 100%;
+}
+
+
+/* fix width */
+
+#box-hvt h1,
+#box-hvt h2,
+#box-hvt h1 #cv-profile-fullname {
+    width: 410px;
+}
+
+#sortable .icoweb,
+#sortable .icoweb span {
+    width: 235px;
+}
+
+#cv-right h3 {
+    width: 295px;
+    text-align: center;
+}
+
+.box-content {
+    text-align: justify;
+    width: 295px;
+    margin: auto;
+}
+.watermark {
+    float: left;
+    width: 100%;
+    /* height: 22px; */
+    color: #999;
+    text-align: right;
+    padding-right: 22px;
+    font-size: 15px;
+    font-family: Courier;
+}

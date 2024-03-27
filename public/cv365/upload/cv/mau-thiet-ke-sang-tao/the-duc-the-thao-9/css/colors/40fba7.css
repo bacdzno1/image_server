@@ -1,0 +1,86 @@
+#cv-top {
+    width: 100%;
+    height: 330px;
+    background-image: url(hd2.png);
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    position: relative;
+}
+.all{
+  float: left;
+  clear: both;
+  width: 100%;
+  background: url(main2.png)no-repeat;
+  background-size: 100% 100%;
+}
+.bar-exp div {
+    float: left;
+    height: 7px;
+    background: #906417;
+    margin-top: 0px;
+    border-radius: 10px;
+}
+.bar-exp {
+    background: #40fba7;
+    height: 7px;
+    margin-top: 5px;
+    margin-bottom: 0px;
+    border: 2px solid #906417;
+    border-radius: 10px;
+    padding: 0px;
+    float: right;
+    width: 100%;
+}
+#cv-content .head {
+    padding: 0;
+    margin: 0;
+    height: 45px;
+    line-height:45px;
+    text-align: center;
+    width: 90%;
+    float: right;
+    background: #40fba7;
+    border-top-left-radius: 45px;
+}
+#cv-content .head #cvo-experience-blocktitle {
+    color: #000;
+    padding-left: 0px;
+    text-align: center;
+}
+div#cv-boxtitle {
+    font-size: 19px;
+    font-weight: bold;
+    text-transform: uppercase;
+    color: #000;
+    background: #fff;
+    padding-left: 0px;
+    float: left;
+    margin-left: 20px;
+    border-top-right-radius: 45px;
+}
+.ic .icoweb {
+    width: 85%;
+    text-align: left;
+    padding-left: 10px;
+    float: left;
+    color: #000;
+}
+.icf .fa {
+    font-size: 20px;
+    color: #000;
+    margin: 0;
+}
+#sortable .cvo-block .box-content {
+    margin: 0;
+    width: 82%;
+    color: #000;
+    margin-bottom: 15px;
+    padding: 30px 0px 10px 55px;
+}
+.ctbx .skill-name {
+    margin: 0px;
+    padding: 0px;
+    color: #000;
+    /*float: left;*/
+    width: 100%;
+}

@@ -1,0 +1,162 @@
+#cv-top {
+    width: 100%;
+    height: 275px;
+    background: url(hd1.png);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+.footer{
+    width: 100%;
+    height: 300px;
+    float: left;
+    background: url(ft1.png) no-repeat;
+    background-size: 100% 100%;
+    margin-top: -270px;
+}
+.bar-exp div {
+    float: left;
+    height: 10px;
+    background: #47aecf;
+    margin-top: 0px;
+}
+#cv-top h1 {
+    font-size: 40px;
+    font-family: "Roboto";
+    line-height: normal;
+    text-transform: uppercase;
+    margin-bottom: 0;
+    color: #47aecf;
+    font-weight: bold;
+    text-align: center;
+    width: 100%;
+}
+.cumicc1 {
+    width: 15%;
+    background: url(icn_07.png)no-repeat;
+    height: 45px;
+    float: left;
+    background-position: center;
+}
+.cumic2 {
+    width: 15%;
+    background: url(icn_14.png)no-repeat;
+    height: 45px;
+    float: left;
+    background-position: center;
+}
+.cumicc3 {
+    width: 15%;
+    background: url(icn_16.png)no-repeat;
+    height: 45px;
+    float: left;
+    background-position: center;
+}
+.cumic4 {
+    width: 15%;
+    background: url(icn_18.png)no-repeat;
+    height: 45px;
+    float: left;
+    background-position: center;
+}
+.cumic5 {
+    width: 15%;
+    background: url(icn_23.png)no-repeat;
+    height: 45px;
+    float: left;
+    background-position: center;
+}
+.cumic6 {
+    width: 15%;
+    background: url(icn_27.png)no-repeat;
+    height: 45px;
+    float: left;
+    background-position: center;
+}
+.cumic7 {
+    width: 15%;
+    background: url(icn_32.png)no-repeat;
+    height: 45px;
+    float: left;
+    background-position: center;
+}
+.icright1 {
+    width: 15%;
+    background: url(icn_03.png) no-repeat;
+    background-position: center;
+    float: left;
+    height: 45px;
+    z-index: 1;
+}
+.icright2 {
+      width: 15%;
+    background: url(icn_11.png) no-repeat;
+    background-position: center;
+    float: left;
+    height: 45px;
+    z-index: 1;
+}
+.icright3 {
+      width: 15%;
+    background: url(icn_21.png) no-repeat;
+    background-position: center;
+    float: left;
+    height: 45px;
+    z-index: 1;
+}
+.icright4 {
+      width: 15%;
+    background: url(icn_29.png) no-repeat;
+    background-position: center;
+    float: left;
+    height: 45px;
+    z-index: 1;
+}
+.icright5 {
+      width: 15%;
+    background: url(icn_34.png) no-repeat;
+    background-position: center;
+    float: left;
+    height: 45px;
+    z-index: 1;
+}
+#cv-content .head {
+    height: 45px;
+    width: 100%;
+    line-height: 45px;
+    margin-bottom: 0;
+    text-align: center;
+    background: url(tt1_03.png);
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    z-index: 1;
+}
+.tt-box1 {
+    height: 45px;
+    width: 95%;
+    line-height: 45px;
+    margin-left: 10px;
+    text-align: center;
+    background: url(tt1_03.png);
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+}
+.ski {
+    height: 45px;
+    width: 95%;
+    line-height: 45px;
+    margin-left: 10px;
+    text-align: center;
+  background: url(tt1_03.png);
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+}
+.cum {
+    height: 45px;
+    line-height: 45px;
+    width: 95%;
+    margin-left: 10px;
+    text-align: center;
+    background: url(tt1_03.png);
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+}

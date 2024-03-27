@@ -1,0 +1,30 @@
+#form-cv{
+	border: solid 1px #0b032d;
+}
+#cv-right{
+	background:#0b032d;
+}
+
+#cv-top{		
+    background: url('../CV_b1.png') top center no-repeat;
+        background-size: 100% auto; 
+    float: left;
+    width: 100%
+}
+
+#cv-content{
+		width: 506px;
+	float: right;
+	position: relative;	
+	padding-top: 17px;	
+	background-color: #ffffff;
+	min-height: 800px;
+	color: #374d59;
+	padding-bottom: 4px;
+	background: url('../ft1.png') bottom center no-repeat;
+}
+
+.bar-exp div {
+    background: #ffb997;
+    
+}

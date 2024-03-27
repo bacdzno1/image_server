@@ -1,0 +1,21 @@
+#box-hvt{
+    background-image: url('../bg3.png');
+    background-size: 100% 100%;
+}
+
+#box-hvt h1{
+    color: #3f4c4a;
+}
+
+#box-hvt h2{
+    color: #3f4c4a;
+}
+
+.box-contact p{
+    border: solid 1px #6a807d;
+    background-color: #f9e2da;
+}
+
+#cv-content h3{
+	border: solid 1px #f9e2da;
+}

@@ -1,0 +1,277 @@
+#page-cv{
+	width: 1072px;
+	float: left;
+}
+#form-cv{
+	width: 900px;
+	min-height: 1273px;	
+	float: left;
+	background: #fff;
+	position: relative;	
+	font-size: 14px;
+	line-height: 24px;
+	color:#000000;
+	border:solid 1px #11887e;
+	padding-left: 30px;
+	padding-top: 20px;
+}
+#form-cv p{
+	margin-top: 0;
+	margin-bottom: 12px
+}
+/*#sortable .cvo-block{
+	margin-bottom: 15px;
+}*/
+
+#cv-right .block {
+     margin-bottom: 10px!important; 
+}
+h1{
+	color:#fff;
+}
+#cv-main{
+	width: 100%;
+	display: table;
+	margin:10px auto;
+	margin-top: 0px
+}
+#cv-top{	
+	min-height: 200px;
+	width: 100%;
+	color: #fff;		
+	position: relative;	
+}
+#cv-content{
+	width: 100%;
+	height: auto;
+	display: block;
+	position: relative;
+	float: left;
+}
+#cv-right{
+	height: auto;
+	display: block;
+	background: #fff;
+	/*border-right:2px solid #ddd;*/
+	position: relative;
+	padding-right: 10px;
+	float: left;
+	padding-top: 15px
+}
+#cv-right .ctbx {
+	padding-bottom: 0;
+	margin:0;
+}
+.skill{
+	margin-top: 15px
+}
+
+#cv-top h1{
+	font-size: 34px;    
+    font-weight: 500;
+    	text-transform: uppercase; 
+    color:#ffffff;
+    margin-bottom: 5px;
+    padding-top: 10px;
+    
+
+}
+#cv-top h2{
+	font-size: 18px;
+	font-weight: 500;
+	margin-top: 0;
+	text-transform: uppercase;
+	/*float: right;*/
+	color: #ffffff;
+}
+.box-01 p{	
+	
+}
+.box-01{
+		
+	overflow: hidden;	
+	margin-right: 20px;
+	border-radius: 0px 15px 15px 0px;
+	margin-bottom: 5px;
+	padding: 5px 38px 20px;
+	background:#11887e;
+}
+#cv-content .ir{
+	
+}
+#cv-content p{
+	margin-bottom: 5px
+}
+#cv-content .ir a{
+	color: #2ebb2f
+}
+#cv-right .h3, #cv-content .head{
+	font-size: 18px;
+	text-transform: uppercase;
+    color: #2b495e;    
+    font-weight: 700;
+    margin-top: 0;
+    margin-right: 20px;
+    float: left;
+    width: 31%;
+    padding-top: 13px;
+    /*border-left: solid 5px #2b495e;*/
+}
+
+#cv-content .head{
+	    margin-top: 10px;
+}
+
+
+
+
+#cv-content h3{	
+	font-weight: normal;
+    font-size: 14px;
+    color: #237a5f;
+    text-transform: uppercase;
+    margin-bottom: 0;
+}
+
+#cv-content .h3{
+	color:#333;
+	text-transform: uppercase;
+	font-weight: 500;
+	margin-bottom: 0
+}
+#cv-content span{
+	display: inline-block;
+	padding-right: 8px;
+	z-index: 9999	
+}
+
+#cv-right .h3:first-child{
+	margin-top: 0
+}
+.ctbx{
+	margin-bottom: 15px;
+	position: relative;
+	width: 100%;
+	float: left;
+}
+.ctbx .r5 .h3{
+	text-transform: uppercase;
+}
+.ctbx:hover {
+	box-shadow: 0 0 1px #999;
+}
+.ctbx:hover .fieldgroup_controls{
+	display: block;
+}
+[cvo-form-field] {
+    cursor: text;
+}
+#cvo-profile-avatar-wraper{
+	float: left;
+	border:15px solid #11887e;
+		border-radius: 15px 0px 0px 15px;	
+	/*margin-top: 20px;*/
+	padding: 5px 5px;
+	
+
+}
+#cvo-profile-avatar-wraper #cvo-profile-avatar{
+	padding: 0;
+	border:0;
+	display: table;
+	width: 200px;
+	height: 200px;	
+
+
+}
+#line-seperate {
+    height: 25px;
+    background-color: #e3ecec;
+}
+.bar-exp span {
+    float: left;
+    height: 8px;
+    background: #11887e;
+}
+.bar-exp{
+	background: #cecece;
+	width: 50%;
+	margin-top: 8px
+}
+.bar-value-exp{
+	width: 50%
+}
+.skill-name{
+	float: left;
+}
+.icoweb label{
+	width: 35%;
+	margin-right: 0;
+	float: left;
+
+}
+#cv-right .icoweb span{
+	width: 85%;
+	padding: 2px;
+	display: inline-block;
+	background:#11887e;
+	border-radius: 5px 5px 5px 5px;
+}
+#cv-right .icoweb i.fa{
+	width: 19px;
+    height: 19px;
+    text-align: center;
+    line-height: 17px;
+    color: #2b495e;
+    vertical-align: top;
+    font-size: 14px;
+
+    margin-right: 5px;
+}
+.icoweb{
+	width: 50%;
+	float: left;
+	margin-bottom: 12px !important;
+	color: #ffffff;
+
+}
+#cv-content .cvo-block{
+
+}
+#cv-right .box-contact{
+    width: 614px;
+    position: absolute !important;
+    top: -107px;
+    left: 247px;
+    padding-left: 23px
+}
+
+.box-content, .exp-content{
+	float: right;
+	width: 66%;
+	padding-bottom: 10px;
+	margin-top: 5px;
+	margin-bottom: 5px;
+	font-weight: 400;
+}
+.box-content{
+	padding-top: 10px;
+}
+
+.cvo-block{
+	float: left;
+	width: 97.5%;
+}
+.ctbx-title{
+	width: 30%;
+	float: left;
+}
+#cv-content span.exp-date {
+    float: left!important;
+}
+
+.ui-sortable-handle{
+  
+    border-bottom: dashed 2px #cccccc;
+	margin-bottom: 10px!important;
+}

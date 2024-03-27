@@ -1,0 +1,75 @@
+#cv-top {
+    width: 100%;
+    height: 325px;
+    background-image: url(../bg_top2.png);
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    position: relative;
+}
+.all{
+  float: left;
+  clear: both;
+  width: 100%;
+  background: url(main1.png)no-repeat;
+  background-size: 100% 100%;
+}
+#block02 #experience-table #exp1 .exp-title{
+  float: left;
+  color: #edd405;
+}
+#block02 #experience-table #exp2 .exp-title{
+  float: left;
+  color: #edd405;
+}
+#block02 #experience-table #exp3 .exp-title{
+  float: left;
+  color: #edd405;
+}
+.bar-exp {
+    background: #edd405;
+    height:8px;
+    float: none;
+    margin-top: 5px;
+    margin-bottom: 0px;
+    border-radius: 10px;
+    /*border:1px solid #edd405;*/
+    padding: 0px;
+    float: right;
+    width: 100%;
+}
+.icf .fa {
+    font-size: 20px;
+    color: #edd405;
+    margin-top: 0;
+    float: left;
+}
+.icright {
+    width: 20px;
+    height: 30px;
+    float: left;
+    background:url(tr1.png)no-repeat;
+    background-position: left center;
+  }
+.footer {
+  background:url(ft1.png)no-repeat;
+  background-size: 100% 100%;
+  height:100px; 
+  float: left;
+  width: 100%;
+}
+.ic1 .icf {
+  background: url(../sex2.png) no-repeat;
+}
+.ic2 .icf {
+  background: url(../phone2.png) no-repeat;
+}
+.ic3 .icf {
+  background: url(../mail2.png) no-repeat;
+}
+.ic4 .icf {
+  background: url(../date2.png) no-repeat;
+}
+.ic5 .icf {
+  background: url(../add2.png) no-repeat;
+  background-position: 3px;
+}

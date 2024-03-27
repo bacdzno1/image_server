@@ -1,0 +1,83 @@
+#cv-top {
+ width: 100%;
+ height: 496px;
+ background: url(hd_00b9a5.png)no-repeat;
+ background-position: left;
+ background-size: 100% 100%;
+ overflow: hidden;
+ position: relative;
+}
+.all{
+ float: left;
+ clear: both;
+ width: 100%;
+ background: url(bd_00b9a5.png)no-repeat;
+ background-position: left;
+ background-size: 100% 100%;
+}
+.footer {
+  background:url(ft_00b9a5.png)no-repeat;
+  background-size: 100% 100%;
+  height: 112px; 
+    float: left;
+    width: 100%;
+}
+#cv-top h2 {
+    margin: 0;
+    text-transform: uppercase;
+    width: 90%;
+    font-weight: bold;
+    font-size: 18px;
+    color: #00b9a5;
+    text-align: left;
+    float: left;
+}
+.bar-exp div {
+ float: left;
+    height: 8px;
+    background: #00b9a5;
+    margin-top: 0px;
+    border-radius: 10px;
+}
+.bar-exp {
+background: #000;
+    height: 8px;
+    float: none;
+    margin-top: 5px;
+    margin-bottom: 0px;
+    padding: 0px;
+    border: 1px solid #00b9a5;
+    float: right;
+    width: 100%;
+    border-radius: 10px;
+ }
+ div#block01 {
+    background: url(ic_00b9a5_03.gif)no-repeat;
+    background-size: 22% 80%;
+    background-position: left;
+
+}
+div#block02 {
+    background: url(ic_00b9a5_06.gif)no-repeat;
+    background-size: 22% 50%;
+    background-position: left;
+
+}
+div#block03 {
+    background: url(ic_00b9a5_08.gif)no-repeat;
+    background-size: 22% 60%;
+    background-position: left;
+
+}
+div#block04 {
+    background: url(ic_00b9a5_11.gif)no-repeat;
+    background-size: 22% 60%;
+    background-position: left;
+
+}
+div#block05 {
+    background: url(ic_00b9a5_13.gif)no-repeat;
+    background-size: 22% 80%;
+    background-position: left;
+
+}

@@ -1,0 +1,47 @@
+#cvo-profile {
+    background: url(../top3.png) no-repeat;
+}
+div#prof {
+    background: url(../bg_ic3.png) no-repeat;
+    background-size: 17% 100%;
+}
+#prof .ic1 .icf {
+    background: url(../date3.png) no-repeat;
+    background-position: 50% 55%;
+}
+#prof .ic2 .icf {
+    background: url(../sex3.png) no-repeat;
+    background-position: 50% 55%;
+}
+#prof .ic3 .icf {
+    background: url(../phone3.png) no-repeat;
+    background-position: 50% 55%;
+}
+#prof .ic4 .icf {
+    background: url(../mail3.png) no-repeat;
+    background-position: 50% 55%;
+}
+#prof .ic5 .icf {
+    background: url(../add3.png) no-repeat;
+    background-position: 50% 55%;
+}
+.fake_img {
+    background: url(../fake_avt3.png) no-repeat;
+}
+#cv-content .head #cvo-experience-blocktitle {
+    color: #408ffb;
+}
+div#cv-boxtitle {
+    color: #408ffb;
+}
+.bar-exp div {
+    background: url(../skill3_new.png) no-repeat;
+}
+.footer {
+    background: url(../footer3.png) no-repeat;
+    background-position: 0 100%;
+}
+.ctbx .skill-name {
+    background: url(../dot3.png) no-repeat;
+    background-position: left;
+}

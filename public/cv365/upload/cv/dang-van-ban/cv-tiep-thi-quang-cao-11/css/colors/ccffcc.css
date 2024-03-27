@@ -1,0 +1,161 @@
+ #cv-top h1 {
+  	color: #009933;
+  }
+   #cv-top {
+    	width: 100%;
+    	height: 270px;
+    	background-image: url(hd3.png);
+    	background-size: 100% 100%;
+    	background-repeat: no-repeat;
+    	position: relative;
+    	overflow: hidden;
+    }
+    .all{
+    	float: left;
+    	clear: both;
+    	width: 100%;
+      background: url(main3.png)no-repeat;
+      background-size: 100% 100%;
+      
+  }
+#box-hvt h1 {
+color: #009933;
+}
+#page-cv #cv-content .block-title {
+color:#009933;
+}
+ .footer {
+    	
+    	background:url(f_t3.png)no-repeat;
+    	background-size: 100% 100%;
+    	height:42px; 
+    	float: left;
+    	width: 100%;
+  }
+   .bar-exp div {
+    float: left;
+    height: 20px;
+    background: #666666;
+}
+.bar-exp {
+    width: 100%;
+   background: #fff;
+    height: 25px;
+    float: right;
+     margin-bottom: 10px;
+    border-radius: 5px;
+    margin-bottom: 0px!important; 
+}
+.exp-fake {
+    float: left;
+    width: 100%;
+    height: 25px;
+    background: url(kynang3.png)no-repeat;
+    background-size: 100% 100%;
+    margin-top: -25px;
+    z-index: 2;
+    position: relative;
+}
+ #box02 .cum {
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    height: 30px;
+    background: url(gach7.png)no-repeat;
+    background-size: 40% 100%;
+    background-position: 160px;
+}
+#box03 .ski{
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    height: 30px;
+    background: url(gach7.1.png)no-repeat;
+   background-size: 35% 100%;
+    background-position: 175px;
+}
+#box04 .cum {
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    height: 30px;
+    background: url(gach7.2.png)no-repeat;
+   background-size: 65% 100%;
+    background-position: 88px;
+}
+#box05 .cum {
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    height: 30px;
+    background: url(gach7.3.png)no-repeat;
+   background-size: 47% 100%;
+    background-position: 141px;
+}
+#box06 .cum {
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    height: 30px;
+    background: url(gach7.4.png)no-repeat;
+   background-size: 65% 100%;
+    background-position: 93px;
+}
+#box07 .cum {
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    height: 30px;
+    background: url(gach7.5.png)no-repeat;
+   background-size: 50% 100%;
+    background-position: 130px;
+}
+#cv-right h3 span {
+	color: unset;
+}
+ #cvo-profile-avatar-wraper {
+    float: left;
+    width: 222px;
+    height: 219px;
+    padding: 5px;
+    margin: auto;
+    margin-left: 30px;
+    margin-top: 35px;
+    border-radius: 10px;
+}
+
+#cvo-profile-avatar-wraper img {
+    width: 222px;
+    height: 220px;
+    border-radius: 50%;
+    border: solid 4px #fff;
+    float: none;
+    margin-left: 11px;
+    margin-top: 0px;
+}
+#cvo-profile-avatar-wraper .wimg {
+    margin: auto;
+    width: 270px;
+}
+.box-dm {
+    width: 240px;
+   height: 247px;
+    clear: both;
+    z-index: 1;
+    padding: 0;
+    margin: 0;
+    display: table;
+    position: absolute;
+    float: left;
+    background: url(avata3.png)no-repeat;
+    background-size: 100% 100%;
+  margin-top: -243px;
+    margin-left: 38px;
+    top: -900px;
+}
+#cvo-profile-avatar{
+      width: 222px;
+    height: 300px;
+    margin-top: 40px;
+    margin-left: 10px;
+}

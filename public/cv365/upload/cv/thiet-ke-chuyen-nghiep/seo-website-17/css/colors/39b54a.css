@@ -1,0 +1,59 @@
+#cv-top {
+      width: 100%;
+      height: 288px;
+      background-image: url(hd_39b54a.png);
+      background-size: 100% 100%;
+      background-repeat: no-repeat;
+      position: relative;
+      overflow: hidden;
+    }
+    .all{
+      float: left;
+      clear: both;
+      width: 100%;
+      background: url(bd_39b54a.png)no-repeat;
+      background-size: 100% 100%;
+      padding-top: 10px
+    }
+    #cvo-profile .box-dm{
+    width: 288px;
+    height: 288px;
+    padding: 0;
+    margin: 0;
+    float: left;
+    display: table;
+    background: url(2.png)no-repeat;
+    background-size: 100% 100%;
+    clear: both;
+    z-index: 1;
+    margin-top: -235px;
+    margin-left: 37px;
+    position: absolute;
+    top: -900px;
+  }
+    #block01 .head{
+    background:url(tr_green_03.gif)no-repeat;
+    background-position: left;
+    background-size: 100% 100%;
+  }
+  #block02 .head{
+    background:url(tr_green_06.gif)no-repeat;
+    background-position: left;
+    background-size: 100% 100%;
+  }
+  #block03 .head{
+    background:url(tr_green_08.gif)no-repeat;
+    background-position: left;
+    background-size: 100% 100%;
+  }
+  #block04 .head{
+    background:url(tr_green_10.gif)no-repeat;
+    background-position: left;
+    background-size: 100% 100%;
+  }
+
+  #block05 .head{
+    background:url(tr_green_12.gif)no-repeat;
+    background-position: left;
+    background-size: 100% 100%;
+  }

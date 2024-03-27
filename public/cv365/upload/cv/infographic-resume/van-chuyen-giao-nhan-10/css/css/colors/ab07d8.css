@@ -1,0 +1,117 @@
+    #cv-top {
+      background-image: url(hd2_01.png);
+      background-size: 100% 100%;
+      background-repeat: no-repeat;
+    }
+    .all{
+      background: url(main2_02.png)no-repeat;
+      background-size: 100% 100%;
+      
+  }
+  #cv-top h1 {
+    color: #ab07d8;
+  }
+  #cv-content h3 {
+    color: #e5b3fc;
+  }
+#cv-content .head{
+  color: #ab07d8;
+}
+#cvo-experience-blocktitle{
+  color: #ab07d8;
+}
+  #cv-content #block01 h3{
+    color: #e5b3fc;
+  }
+  #cv-content #block02 h3{
+    color: #e5b3fc;
+  }
+    #cv-content #block04 h3{
+    color: #e5b3fc;
+  }
+  #cv-content #block05 h3{
+    color: #e5b3fc;
+  }
+
+    #cvo-profile .box-dm{
+    width: 274px;
+    height: 244px;
+    padding: 0;
+    margin: 0;
+    float: left;
+    display: table;
+    background: url(anh2.png)no-repeat;
+    background-size: 100% 100%;
+    clear: both;
+    z-index: 1;
+    margin-top: -239px;
+    position: absolute;
+    }
+    .bar-exp div {
+      background: #e5b3fc;
+    }
+    .bar-exp {
+
+      background: #6f048c;
+    }
+ #form-cv .icf1 {
+      background: url(ic2_03.png)no-repeat;
+      background-position: left;
+      background-size: 100% 100%;
+    }
+    #form-cv .icf2 {
+      background: url(ic2_06.png)no-repeat;
+      background-position: left;
+      background-size: 100% 100%;
+    }
+    #form-cv .icf3 {
+      background: url(ic2_08.png)no-repeat;
+      background-position: left;
+      background-size: 100% 100%;
+    }
+    #form-cv .icf4 {
+      background: url(ic2_10.png)no-repeat;
+      background-position: left;
+      background-size: 100% 100%;
+    }
+    #form-cv .icf5 {
+      background: url(ic2_12.png)no-repeat;
+      background-position: left;
+      background-size: 100% 100%;
+    }
+    .tt-box1 {
+      background: #ab07d8;
+    }
+ .ski {     
+      background: #ab07d8;
+    }
+    .cum {
+      background: #ab07d8;
+    }
+    .footer {
+      
+      background:url(ft2_02.png)no-repeat;
+      background-size: 100% 100%;
+  }
+#block01{
+    background: url(bg2_04.png)no-repeat;
+    background-position: right top;
+  }
+  #block02{
+    background: url(bg2_07.png)no-repeat;
+    background-position: right top;
+  }
+  #box01{
+    background: url(bg2_02.png)no-repeat left;
+    background-size: 100%;
+  }
+    #box02{
+    background: url(bg2_08.png)no-repeat left;
+  }
+    #box04{
+    background: url(bg2_10.png)no-repeat left;
+  }
+    #box07{
+    background: url(bg2_12.png)no-repeat left;
+    background-size: 100% 100%;
+  }

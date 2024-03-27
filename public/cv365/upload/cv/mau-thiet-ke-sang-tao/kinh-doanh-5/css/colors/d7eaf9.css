@@ -1,0 +1,21 @@
+#form-cv{
+	background:#d7eaf9;
+}
+#cv-main{
+	background: #d7eaf9;
+}
+
+#cv-top{		  
+    background: #d7eaf9;
+}
+#cv-content{
+	border-left: solid 1px #d7eaf9;
+	border-bottom: solid 3px #d7eaf9;
+}
+#cv-right{
+	background:#d7eaf9;
+}
+
+#cv-right .ir{
+	background: #fff8c2;
+}

@@ -1,0 +1,108 @@
+.fake_img {
+    background: url(../fake2.png) no-repeat;
+    background-size: 100% 100%;
+}
+
+.ic1 {
+    background: url(../date2.png) no-repeat;
+    background-position: 2px 3px;
+}
+
+.ic2 {
+    background: url(../sex2.png) no-repeat;
+    background-position: 2px 5px;
+}
+
+.ic3 {
+    background: url(../phone2.png) no-repeat;
+    background-position: 2px 5px;
+}
+
+.ic4 {
+    background: url(../email2.png) no-repeat;
+    background-position: 2px 6px;
+}
+
+.ic5 {
+    background: url(../add2.png) no-repeat;
+    background-position: 2px 5px;
+}
+
+#box01 {
+    background: url(../ifo2.png) no-repeat;
+    background-position: center bottom;
+}
+
+.cum, .ski {
+    background: url(../left2.png) no-repeat;
+    background-size: 100% 100%;
+}
+
+#cv-content .head {
+    background: url(../right2.png) no-repeat;
+    background-size: 100% 100%;
+}
+
+#box02 #cv-boxtitle {
+    background: url(../muctieu2.png) no-repeat;
+    background-position: 3px center;
+}
+
+#box03 #cv-boxtitle {
+    background: url(../kynang2.png) no-repeat;
+    background-position: 3px center;
+}
+
+#box05 #cv-boxtitle {
+    background: url(../chungchi2.png) no-repeat;
+    background-position: 3px center;
+}
+
+#box04 #cv-boxtitle {
+    background: url(../giaithuong2.png) no-repeat;
+    background-position: 3px center;
+}
+
+#box06 #cv-boxtitle {
+    background: url(../sothich2.png) no-repeat;
+    background-position: 3px center;
+}
+
+#box07 #cv-boxtitle {
+    background: url(../thamchieu2.png) no-repeat;
+    background-position: 3px center;
+}
+
+#block01 #cvo-experience-blocktitle {
+    background: url(../hocvan2.png) no-repeat;
+    background-position: 325px center;
+}
+
+#block02 #cvo-experience-blocktitle {
+    background: url(../kinhnghiem2.png) no-repeat;
+    background-position: 325px center;
+}
+
+#block04 #cvo-experience-blocktitle {
+    background: url(../duan2.png) no-repeat;
+    background-position: 325px center;
+}
+
+#block03 #cvo-experience-blocktitle {
+    background: url(../hoatdong2.png) no-repeat;
+    background-position: 325px center;
+}
+
+#block05 #cvo-experience-blocktitle {
+    background: url(../duan2.png) no-repeat;
+    background-position: 325px center;
+}
+
+.bar-exp div {
+    background: url(../kn2.png) no-repeat;
+    background-position: right;
+}
+
+.exp-date {
+    color: #f28074;
+}

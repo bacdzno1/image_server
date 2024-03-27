@@ -1,0 +1,50 @@
+#form-cv {
+    background: url(../page3-3.png) no-repeat;
+    background-size: 100% 100%;
+    background-color: #fff;
+}
+
+#cv-top {
+    background: url(../top3.png) no-repeat;
+    background-size: 100%;
+    background-position: top left;
+}
+
+.fake_img {
+    background: url(../fake3.png) no-repeat;
+    background-size: 100% 100%;
+    margin-left: -4px;
+}
+
+.all {
+    background: url(../right3-2.png) no-repeat;
+    background-size: 41.5% 135%;
+    background-position: 443px 0px;
+}
+
+#cv-content .cvo-block .head {
+    background: url(../left3.png) no-repeat;
+    background-size: 100% 100%;
+    background-position: left center;
+}
+
+#cv-right .ir #sortable #box02 {
+    background: url(../muctieu3-1.png) no-repeat;
+    background-size: 100% 100%;
+    background-position: left top;
+    background-color: #fff;
+    margin-left: -7px;
+    position: relative;
+    left: 5px;
+}
+
+.cum, .ski {
+    background: url(../tt-right3.png) no-repeat;
+    background-size: 100% 100%;
+    background-position: left center;
+}
+
+.footer {
+    background: url(../foot3-1.png) no-repeat;
+    background-position: left bottom;
+}

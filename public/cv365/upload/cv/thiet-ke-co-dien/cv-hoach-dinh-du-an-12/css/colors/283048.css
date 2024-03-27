@@ -1,0 +1,94 @@
+/* 3 */
+
+#cv-top {
+    background: url(../top3.png) no-repeat;
+    background-size: 100%;
+}
+
+#box-hvt {
+    background: url(../info3.png) no-repeat;
+    background-size: 1% 100%;
+    background-position: left center;
+}
+
+.ic1 {
+    width: 35%;
+    background: url(../date3.png) no-repeat;
+    background-position: 1px center;
+}
+
+.ic2 {
+    width: 22%;
+    background: url(../sex3.png) no-repeat;
+    background-position: 1px center;
+}
+
+.ic3 {
+    width: 40%;
+    background: url(../phone3.png) no-repeat;
+    background-position: 1px center;
+}
+
+.ic4 {
+    width: 92%;
+    background: url(../email3.png) no-repeat;
+    background-position: 1px center;
+}
+
+.ic5 {
+    width: 92%;
+    background: url(../add3.png) no-repeat;
+    background-position: 1px center;
+}
+
+.all {
+    background: url(../soc3.png) no-repeat;
+    background-size: 0.6% 100%;
+    background-position: 355px 0px;
+}
+
+div#cv-boxtitle {
+    background: url(../left3.png) no-repeat;
+    background-position: left center;
+}
+
+.bar-exp {
+    background: url(../skill3.png) no-repeat;
+}
+
+.bar-exp div {
+    background: url(../kn3.png) no-repeat;
+}
+
+#cv-content #block01 .head {
+    background: url(../hocvan3.png) no-repeat;
+    background-position: left center;
+}
+
+#cv-content #block02 .head {
+    background: url(../kinhnghiem3.png) no-repeat;
+    background-position: left center;
+}
+
+#cv-content #block03 .head {
+    background: url(../hoatdong3.png) no-repeat;
+    background-position: left center;
+}
+
+#cv-content #block04 .head {
+    background: url(../duan3.png) no-repeat;
+    background-position: left center;
+}
+
+#cv-content #block05 .head {
+    background: url(../them3.png) no-repeat;
+    background-position: left center;
+}
+
+#cv-content .head #cvo-experience-blocktitle {
+    color: #283048;
+}
+
+.footer {
+    background: url(../foot3.png) no-repeat;
+}

@@ -1,0 +1,26 @@
+.bar-exp div {
+    background: #878aa5;
+}
+#cv-right .block h3{
+    color: #878aa5;
+}
+#cv-content .head{
+    color: #878aa5;
+}
+#box-hvt h1{
+    color: #878aa5;
+}
+#cv-right #sortable .box-contact{
+    background-color: #878aa5;
+}
+#cv-content{
+    border-left: solid 8px #878aa5;
+}
+#box-hvt h2{
+    background-image: url(../line2.png);
+    background-position: top center;
+    background-repeat: no-repeat;
+}
+#cv-right #sortable .box-contact .icoweb .fa{
+    border-right: solid 10px #878aa5;
+}

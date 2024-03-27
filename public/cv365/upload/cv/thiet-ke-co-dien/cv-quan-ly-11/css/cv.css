@@ -1,0 +1,458 @@
+#form-cv{
+	width: 100%;	
+	float: left;
+	position: relative;
+	font-size: 14px;
+	line-height: 24px;
+	color:#494949;	
+	outline: 1px solid #e1e1e1
+}
+#form-cv p{
+	margin-top: 0;
+    margin-bottom: 6px;
+    font-size: 16px;
+    color: #000;
+    font-weight: bold;
+}
+.icoweb span {
+    display: block;
+}
+#sortable .cvo-block{
+	margin-bottom: 20px;
+	margin-top: 5px;	
+	padding: 0;
+}
+#cv-content h3 .exp-title{
+	float: left;
+	width: 72%
+}
+#cv-content h3 .exp-date{
+	float: right;
+	text-align: right;
+	width: 27.99%
+}
+div#cv-main {
+    float: left;
+    width: 100%;
+	background: url(bd_3cb878.png) no-repeat;
+	background-size: 100% 100%;
+}
+#cv-top{		
+	width: 100%;
+    background-image: url(hd_3cb878.png);
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    position: relative;
+    height: 234px!important;
+}
+#cvo-profile{
+	display: block;
+    float: left;
+    width: 100%;
+}
+.box-01{
+	float: left;
+    width: 100%;
+}
+#cv-content{
+	width: 46%;
+    float: left;
+    position: relative;
+    margin-left: 35px;
+}
+#sortable .box-contact{
+	margin:0;
+}
+#cv-right{   
+	width: 33%;
+    float: right;
+    position: relative;
+    margin-right: 50px;
+}
+
+p.skill-name input{
+	color: #070000!important;
+}
+
+
+#cv-top h1{
+	margin: 0;
+	padding: 0;
+	color: #fff;
+	font-size: 40px;	
+    line-height: normal;     
+    margin-top: 0;
+    font-weight: bold;
+}
+.wimg{
+	width: 183px;
+    height: 180px;
+    float: left;
+    display: unset !important;
+    border: 3px solid #fff;
+    border-radius: 50%;
+}
+
+#cv-top h2{
+    padding: 0;
+    margin: 0;
+	font-size: 25px;
+	color: #494949;
+    font-weight: 500;
+    margin-bottom: 10px;
+}
+
+#cv-content p{
+	margin-bottom: 5px
+}
+
+
+#cv-content .ir a{
+	color: #2ebb2f
+}
+#cv-right h3{
+	font-size: 20px;
+	color: #fff;
+	text-transform: uppercase;
+	font-weight: bold;
+	/* padding: 5px 0; */
+	margin: 0 auto 15px;
+	/* line-height: 31px; */
+	margin-top: 10px;
+	text-align: center;
+	border-bottom: 2px solid #fff;
+}
+ #cv-content .head{
+    font-size: 20px;
+    color: #3cb878;
+    text-transform: uppercase;
+    font-weight: bold;
+    /* padding: 5px 0; */
+    /* margin: 0 auto 15px; */
+    /* line-height: 35px; */
+    margin-top: 10px;
+    text-align: left;
+ }
+#cv-content h3{	
+	font-size: 16px;
+    margin-bottom: 5px;
+    margin-top: 0;
+    color: #000;
+    font-weight: bold;
+}
+.bar-value-exp input[type="text"]{
+	color:#292929;
+	height: 30px;
+}
+#cv-content .exp-date{
+	font-weight: normal;
+}
+
+#cv-content span{
+	display: inline-block;	
+	z-index: 9999;
+}
+
+.ctbx{
+	margin-bottom: 10px;
+	position: relative;
+    font-weight: bold!important  ;
+}
+.ctbx:hover {
+	box-shadow: 0 0 1px #999;
+}
+.ctbx:hover .fieldgroup_controls{
+	display: block;
+}
+[cvo-form-field] {
+    cursor: text;
+}
+
+#cvo-profile-avatar-wraper{
+    float: left;
+    width: 25%;
+    padding-top: 34px;
+    padding-left: 13px;
+}
+#box-hvt{    
+    float: left;
+    width: 33%;
+    padding-top: 50px;
+    position: relative;
+}
+#cvo-profile .box-contact{
+    float: right;
+    width: 36%;
+    margin-right: 20px;
+}
+#cvo-profile-avatar-wraper .wimg img{	
+  	width: 183px;
+  	height: 180px;
+  	display: inline-block;  	  
+  	margin:auto;
+  	float: none;
+	  border-radius: 50%;
+    
+}
+#line-seperate {
+    height: 25px;
+    /*background-color: #e3ecec;*/
+}
+.bar-exp div {
+	float: left;
+    height: 6px;
+    background: #fff;
+    
+}
+.bar-exp {
+	width: 98%;
+    background: #9edcbc;
+    height: 6px;
+    float: right;
+    margin-bottom: 12px;
+}      
+.icoweb label{
+	display: block;
+	color:#fff;
+}
+
+.icoweb{	
+	float: left;
+	padding-left: 2px;
+	margin-bottom: 0
+}
+.ic{
+	float: left;
+    width: 100%;
+	margin-bottom: 10px;
+    border-bottom: 2px solid #000;
+}
+#form-cv .icf{
+	float: left;		
+	line-height: 28px;
+	margin-bottom: 0;
+	font-size:12px;
+	
+	width: 22px;	
+	text-align: center;
+}
+.ic .icoweb{
+	width: 86%;
+    text-align: left;
+    padding-left: 5px;
+    float: left;
+    color: #000;
+}
+.ic .fa{
+	font-size: 16px;	
+	color:#000;	
+	margin-top: 0;	
+	float: none;
+}
+.box-content {
+	font-size: 16px;
+    font-weight: bold;
+    color: #000;
+}
+.exp-content,.exp-subtitle,span.exp-title {
+    width: 100%;
+	font-size: 16px;
+	font-weight: bold;
+	color: #000;
+}
+.ic .icf1 {
+    float: left;
+    margin-bottom: 0;
+    width: 23px;
+    line-height: 25px;
+    height: 20px;
+    text-align: left;
+}
+#form-cv .icf2 {
+    float: left;
+    margin-bottom: 0;
+    width: 23px;
+    line-height: 25px;
+    height: 20px;
+    text-align: left;
+}
+#form-cv .icf3 {
+    float: left;
+    margin-bottom: 0;
+    width: 23px;
+    line-height: 25px;
+    height: 20px;
+    text-align: left;
+}
+#form-cv .icf4 {
+    margin-bottom: 0;
+    width: 23px;
+    line-height: 16px;
+    height: 20px;
+    text-align: left;
+    float: left;
+}
+#form-cv .icf5 {
+    float: left;
+    margin-bottom: 0;
+    width: 23px;
+    line-height: 25px;
+    height: 20px;
+    text-align: left;
+}
+/*#box02 h3{
+    background: url(tr_03.png) no-repeat;
+    height: 38px;
+    padding-left: 50px;
+}
+
+#box03 h3{
+    background: url(tr_06.png) no-repeat;
+	height: 38px;
+    padding-left: 50px;
+}
+
+#box04 h3{
+    background: url(tr_08.png) no-repeat;
+	height: 38px;
+    padding-left: 50px;
+}
+
+#box05 h3{
+    background: url(tr_11.png) no-repeat;
+	height: 38px;
+    padding-left: 50px;
+}
+
+#box06 h3{
+    background: url(tr_13.png) no-repeat;
+	height: 38px;
+    padding-left: 50px;
+}
+
+#box07 h3{
+    background: url(tr_15.png) no-repeat;
+	height: 38px;
+    padding-left: 50px;
+}*/
+#cv-content .cvo-block{
+	padding: 0;
+}
+
+#experience-table{
+	color: #000;
+    font-weight: 600;
+    font-size: 16px;
+    border-left: 2px solid #3cb878;
+    /* margin-left: 20px; */
+    padding-left: 20px;
+    margin-left: 20px;
+}
+
+/*#block01 .head{
+	background: url(ic_01.png) no-repeat;
+	height: 38px;
+	padding-left: 55px;
+}
+#block02 .head{
+	background: url(ic_02.png) no-repeat;
+	height: 38px;
+	padding-left: 55px;
+}
+#block03 .head{
+	background: url(ic_03.png) no-repeat;
+	height: 38px;
+	padding-left: 55px;
+}
+#block04 .head{
+	background: url(ic_04.png) no-repeat;
+	height: 38px;
+	padding-left: 55px;
+}
+#block05 .head{
+	background: url(ic_05.png) no-repeat;
+	height: 38px;
+	padding-left: 55px;
+}*/
+.icright1 {
+    width: 45px;
+    height:44px;
+    float: left;
+    background: url(ic_green_03.gif);
+    background-position: center;
+    background-repeat: no-repeat;
+    margin-right: 10px;
+  }
+.icright2 {
+    width: 45px;
+    height:44px;
+    float: left;
+    background: url(ic_green_06.gif);
+    background-position: center;
+    background-repeat: no-repeat;
+    margin-right: 10px;
+}
+.icright3 {
+    width: 45px;
+    height:44px;
+    float: left;
+    background: url(ic_green_08.gif);
+    background-position: center;
+    background-repeat: no-repeat;
+    margin-right: 10px;
+}
+.icright4 {
+    width: 45px;
+    height:44px;
+    float: left;
+    background: url(ic_green_10.gif);
+    background-position: center;
+    background-repeat: no-repeat;
+    margin-right: 10px;
+}
+.icright5 {
+    width: 45px;
+    height:44px;
+    float: left;
+    background: url(ic_green_12.gif);
+    background-position: center;
+    background-repeat: no-repeat;
+    margin-right: 10px;
+}
+#prof{
+    width: 91%;
+    padding-top: 40px;
+}
+.footer{
+	background: url(ft_3cb878.png) no-repeat;
+	background-size: 100% 100%;
+	height: 93px;
+	float: left;
+	width: 100%;
+}
+.box-dm {
+    width: 205px;
+    height: 205px;
+    padding: 0;
+    margin: 0;
+    float: left;
+    display: table;
+    background: url(ava1.png)no-repeat;
+    background-size: 100% 100%;
+    clear: both;
+    z-index: 1;
+    margin-top: -195px;
+    position: absolute;
+    top: -1200px;
+}
+.watermark {
+    float: left;
+    width: 100%;
+    /* height: 22px; */
+    color: #999;
+    text-align: right;
+    padding-top: 74px;
+    padding-right: 22px;
+    font-size: 15px;
+    font-family: Courier;
+    }

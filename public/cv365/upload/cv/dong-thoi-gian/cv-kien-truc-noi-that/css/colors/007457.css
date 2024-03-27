@@ -1,0 +1,19 @@
+#cv-content .head span{
+	color: #007457;
+}
+#cv-right h3{
+	color: #007457;
+}
+#cvo-profile-avatar-wraper{
+    border: solid 4px #0f6f56;
+}
+
+#cv-content{
+	background:#e6fff9;
+}
+#form-cv{
+	background-image: url('007457.png');
+	background-position: left top;
+	background-repeat:repeat-x;
+	background-color:#fff;
+}

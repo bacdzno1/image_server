@@ -1,0 +1,24 @@
+
+#form-cv {
+    border: 30px solid #fa9394;
+    border-right: none;
+
+}
+#cv-top {
+    background-image: url(../header-fa9394.png);
+    background-position: top right; 
+}
+
+#cv-right h3 {
+    background-image: url(../bg-title-fa9394.png);
+}
+#form-cv .icf {
+    background: #fa9394;
+}
+
+.bar-exp div {
+    background: #fa9394;
+}
+#cv-footer {
+    background-image: url(../footer-fa9394.png);
+}

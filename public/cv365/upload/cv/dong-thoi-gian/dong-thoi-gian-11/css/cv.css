@@ -1,0 +1,290 @@
+    #form-cv {
+        width: 100%;
+        float: left;
+        position: relative;
+        font-size: 14px;
+        line-height: 24px;
+        color: #333;
+        border: 4px solid #758900
+    }
+    
+    #form-cv p {
+        margin-top: 0;
+        margin-bottom: 6px
+    }
+    
+    #sortable .cvo-block {
+        margin-bottom: 20px;
+        margin-top: 5px;
+    }
+    
+    #cv-top {
+        text-align: center;
+    }
+    
+    #cv-main {
+        display: table;
+        width: 100%;
+    }
+    
+    #cv-content {
+        width: 59.99%;
+        background: #fff;
+        float: right;
+        position: relative;
+        /* min-height: 800px;	 */
+    }
+    
+    #cv-content .ir {
+        padding: 0 10px;
+    }
+    
+    #cv-right {
+        width: 40%;
+        float: left;
+        position: relative;
+    }
+    
+    #cv-right .ir {
+        padding: 0 10px;
+    }
+    
+    p.skill-name input {
+        color: #070000!important;
+    }
+    
+    .ctbx {
+        border-left: 3px solid #ddd;
+    }
+    
+    .exp .ctbx {
+        border: 0;
+        display: block;
+        width: auto;
+        padding: 0;
+    }
+    
+    #cv-top h1 {
+        font-size: 25px;
+        padding-top: 40px;
+        line-height: normal;
+        text-transform: uppercase;
+        text-align: center;
+        margin-bottom: 10px;
+        margin-left: 0px;
+        color: #758900;
+        margin-top: 0;
+        font-weight: bold;
+    }
+    
+    #cv-top h1 span {
+        padding: 0px 10px;
+    }
+    
+    #experience-table {
+        font-size: 15px;
+    }
+    
+    .box-content {
+        font-size: 15px;
+    }
+    
+    #cv-top h2 {
+        font-size: 16px;
+        text-align: center;
+        color: #758900;
+        margin-top: 0;
+        font-weight: normal;
+        margin-bottom: 10px
+    }
+    
+    #box-hvt {
+        width: 70%;
+        margin: auto;
+        border-bottom: 5px solid #ccc;
+        margin-bottom: 30px;
+    }
+    
+    #cv-content p {
+        margin-bottom: 5px
+    }
+    
+    #cv-content .ir a {
+        color: #2ebb2f
+    }
+    
+    #cv-right h3,
+    #cv-content .head {
+        font-size: 16px;
+        color: #758900;
+        border-bottom: 4px solid #758900;
+        text-transform: uppercase;
+        font-weight: bold;
+        margin: 0 auto 10px;
+        padding-bottom: 5px;
+        line-height: 24px
+    }
+    
+    .ic {
+        float: left;
+        width: 100%;
+        padding-bottom: 5px;
+    }
+    
+    #form-cv .icf {
+        float: left;
+        line-height: 26px;
+        border-radius: 4px;
+        font-size: 14px;
+        background: #758900;
+        margin-bottom: 0;
+        width: 26px;
+        text-align: center;
+    }
+    
+    .ic .icoweb {
+        float: left;
+        padding-left: 10px;
+    }
+    
+    .icf .fa {
+        font-size: 14px;
+        color: #fff;
+        margin-top: 0;
+        float: none
+    }
+    
+    p.h3 {
+        font-weight: bold;
+    }
+    
+    #cv-content .exp-date {
+        float: none;
+        display: block;
+        font-style: italic;
+        color: #666;
+    }
+    
+    #cv-content h3 {
+        font-size: 18px;
+        margin-bottom: 5px;
+        margin-top: 0;
+        font-weight: bold
+    }
+    
+    #cv-content .cvo-block {}
+    
+    .ctbx {
+        padding-left: 10px;
+        padding-right: 10px
+    }
+    
+    #cv-content span {
+        display: inline-block;
+        z-index: 9999;
+    }
+    
+    .ctbx {
+        margin-bottom: 20px;
+        position: relative;
+    }
+    
+    .ctbx:hover {
+        box-shadow: 0 0 1px #999;
+    }
+    
+    .ctbx:hover .fieldgroup_controls {
+        display: block;
+    }
+    
+    [cvo-form-field] {
+        cursor: text;
+    }
+    
+    .bar-value-exp input[type="text"] {
+        color: #252525;
+        width: 95%
+    }
+    
+    #cvo-profile-avatar-wraper {}
+    
+    #cv-top {
+        float: left;
+        width: 100%;
+        background: url('bg_top.png') center top no-repeat;
+    }
+    
+    #cvo-profile-avatar-wraper .wimg {
+        width: 165px;
+        margin: auto;
+        padding-top: 37px;
+        float: none
+    }
+    
+    #cvo-profile-avatar-wraper .wimg img {
+        width: 165px;
+        height: 165px;
+        display: table;
+        float: none
+    }
+    
+    #line-seperate {
+        height: 25px;
+    }
+    
+    .bar-exp div {
+        float: left;
+        height: 8px;
+        background: #758900;
+    }
+    
+    .bar-exp {
+        width: 100%;
+        background: #ccc;
+        height: 8px;
+        float: left;
+        margin-bottom: 12px;
+    }
+    
+    .icoweb label {
+        display: block;
+        color: #fff;
+    }
+    
+    #cv-right .icoweb span {
+        color: #070000;
+    }
+    
+    .box-contact {
+        font-size: 15px;
+    }
+    
+    #sortable .icoweb {
+        line-height: 26px;
+        margin-bottom: 0
+    }
+    
+    div#box01 span {
+        width: 230px;
+    }
+    
+    .box-content {
+        width: 290px;
+    }
+    
+    .exp-content,
+    .exp-subtitle,
+    span.exp-title {
+        width: 100%;
+    }
+    
+    .watermark {
+        float: left;
+        width: 100%;
+        height: 22px;
+        color: #999;
+        text-align: right;
+        padding-right: 22px;
+        font-size: 15px;
+        font-family: Courier;
+    }

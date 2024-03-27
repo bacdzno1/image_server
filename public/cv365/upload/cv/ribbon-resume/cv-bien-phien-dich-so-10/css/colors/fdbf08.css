@@ -1,0 +1,142 @@
+#cv-top {
+  width: 100%;
+  height: 324px;
+  background-image: url(hd_fdbf08.png);
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  position: relative;
+  overflow: hidden;
+}
+.all{
+  float: left;
+  clear: both;
+  width: 100%;
+  background: url(bd_fdbf08.png)no-repeat;
+  background-size: 100% 100%;
+  padding-top: 10px
+}
+#cvo-profile .box-dm{
+  width: 270px;
+  height: 270px;
+  padding: 0;
+  margin: 0;
+  float: left;
+  display: table;
+  background: url(1.png)no-repeat;
+  background-size: 100% 100%;
+  clear: both;
+  z-index: 1;
+  margin-top: -247px;
+  margin-left: 52px;
+  position: absolute;
+  top: -900px;
+}
+.bar-exp div {
+  float: left;
+  height: 10px;
+  background: #fdbf08;
+  margin-top: 0px;
+  z-index: 2;
+  position: relative;
+}
+.bar-exp {
+
+  height: 10px;
+  margin-top: 2px;
+  margin-bottom: 7px;
+  padding: 0px;
+  float: right;
+  width: 100%;
+  background-color: #fedf83;
+}
+#block01 .head{
+  color: #fdbf08;
+}
+#block02 .head{color: #fdbf08;
+}
+#block01 {
+  border-left: 4px solid #fdbf08;
+}
+#block02 {
+  border-left: 4px solid #fdbf08;
+  margin-bottom: 30px;
+}
+.cumicc2 {
+  width: 160px;
+  height: 22px;
+  float: right;
+  border-bottom: 3px solid #fdbf08;
+}
+.cumicc3 {
+  width: 135px;
+  height: 22px;
+  float: right;
+  border-bottom: 3px solid #fdbf08;
+}
+.cumicc4 {
+  width: 220px;
+  height: 22px;
+  float: right;
+  border-bottom: 3px solid #fdbf08;
+}
+.cumicc5 {
+  width: 170px;
+  height: 22px;
+  float: right;
+  border-bottom: 3px solid #fdbf08;
+}
+.cumicc6 {
+  width: 220px;
+  height: 22px;
+  float: right;
+  border-bottom: 3px solid #fdbf08;
+}
+.cumicc7 {
+  width: 185px;
+  height: 22px;
+  float: right;
+  border-bottom: 3px solid #fdbf08;
+}
+.icright1 {
+  width: 270px;
+  height: 22px;
+  float: right;
+  border-bottom: 3px solid #fdbf08;
+}
+.icright2 {
+  width: 170px;
+  height: 22px;
+  float: right;
+  border-bottom: 3px solid #fdbf08;
+}
+div#block03{
+  background-color: #fdbf08;
+}
+div#block04{
+  background-color: #fdbf08;
+}
+div#block05{
+  background-color: #fdbf08;
+}
+div#cv-boxtitle {
+  font-size: 19px;
+  font-weight: bold;
+  text-transform: uppercase;
+  color: #fdbf08;
+  text-align: left;
+  float: left;
+}
+#cv-top h2 {
+  margin: 0;
+  padding: 0;
+  text-transform: uppercase;
+  width: 93%;
+  font-weight: bold;
+  font-size: 18px;
+  color: #000;
+  text-align: left;
+  padding-top: 5px;
+  float: left;
+  padding-bottom: 5px;
+  background-color: #fdbf08;
+}

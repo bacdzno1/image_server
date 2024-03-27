@@ -1,0 +1,45 @@
+#form-cv{
+	border-right: dotted 10px #ffef2f;
+}
+#cv-right{
+	background:#34b98e;
+}
+#cv-top h2{
+	text-shadow: 0 0 0.2em #ffffff;
+	color:#3ea080;
+}
+#cv-top h1{
+	text-shadow: 0 0 0.2em #ffffff;
+	color: #3ea080;
+}
+
+#cv-right .h3, #cv-content .head{
+     background:#ffff89;
+}
+#cv-content .head span{
+	background: #34b98e;
+}
+#cvo-profile-avatar-wraper{
+	background:#34b98e;
+}
+#cv-right .icoweb i.fa{
+     background: #186b17;
+    border: solid 1px #ffffff;
+}
+.box-contact{
+	background: #34b98e;
+}
+#cvo-profile-avatar-wraper #cvo-profile-avatar{
+	border-left: solid  10px  #ffef2f ;
+	border-bottom: solid  10px  #ffef2f;
+}
+.bar-exp span {
+    background: #237a5f;
+}
+.icoweb{
+	background:#f3f3b3;
+	font-weight: bold;
+}
+.box-01{
+	border-top: dotted 10px #ffef2f;
+}

@@ -1,0 +1,46 @@
+#cv-top h2 {
+    color: #ffbfb3;
+    background: url(../line4.png) no-repeat;
+    background-position: 50% 100%;
+}
+
+#cvo-profile {
+    background: url(../top4.png) no-repeat;
+    background-position: 30px 15px;
+}
+
+.box-dm {
+    background: url(../fake4.png) no-repeat;
+}
+
+.ic1 .icf {
+    background: url(../date4.png) no-repeat;
+}
+
+.ic2 .icf {
+    background: url(../sex4.png) no-repeat;
+}
+
+.ic3 .icf {
+    background: url(../phone4.png) no-repeat;
+}
+
+.ic4 .icf {
+    background: url(../mail4.png) no-repeat;
+}
+
+.ic5 .icf {
+    background: url(../add4.png) no-repeat;
+}
+#cv-content .head {
+    border: 2px solid #ffbfb3;
+}
+div#cv-boxtitle {
+    border: 2px solid #ffbfb3;
+}
+.bar-exp {
+    background: url(../bar-exp4.png) no-repeat;
+}
+.bar-exp div {
+    background: url(../skill_new4.png) no-repeat;
+}

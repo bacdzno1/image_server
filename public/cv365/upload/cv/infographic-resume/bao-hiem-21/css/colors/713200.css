@@ -1,0 +1,22 @@
+/* 2 */
+
+:root {
+  --kn: url(kn2.png) no-repeat;
+  --skill: url(skill2.png) no-repeat;
+  --color: #713200;
+  --muctieu: url(muctieu2.png) no-repeat;
+  --kinang: url(kinang2.png) no-repeat;
+  --chungchi: url(chungchi2.png) no-repeat;
+  --giaithuong: url(giaithuong2.png) no-repeat;
+  --sothich: url(sothich2.png) no-repeat;
+  --nguoiTC: url(nguoiTC2.png) no-repeat;
+  --hocvan: url(hocvan2.png) no-repeat;
+  --kinhnghiem: url(kinhnghiem2.png) no-repeat;
+  --TTthem: url(TTthem2.png) no-repeat;
+  --hoatdong: url(hoatdong2.png) no-repeat;
+  --duan: url(duan2.png) no-repeat;
+  --foot: url(foot2.png) no-repeat;
+  --wing: url(fake-2.png) no-repeat;
+  --page: url(form2.png) no-repeat;
+--top: url(top-2.png) no-repeat;
+}

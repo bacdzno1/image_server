@@ -1,0 +1,34 @@
+#form-cv{
+	border: solid 2px #b3abab;
+	border-top: solid 30px #6f6d6b;
+	border-bottom: solid 30px #6f6d6b;
+}
+#cv-right .h3, #cv-content .head{
+	border-top: dotted 2px #6f6d6b;
+    color: #000000;
+    border-bottom:dotted 2px #6f6d6b;
+}
+#cv-content .head span{
+	border:solid 2px #6f6d6b;
+	border-radius: 10px 10px 10px 10px;
+	color: #6f6d6b;
+}
+#cv-right .h3 span{
+	background:#6f6d6b;
+	color: #ffffff;
+}
+#cvo-profile-avatar-wraper #cvo-profile-avatar{
+	border-bottom:double 5px #6f6d6b;
+	border-left:double 5px #6f6d6b;
+
+}
+.box-contact{
+	border-top: solid 1px #959595;
+	background:#6f6d6b;
+	border:double 2px #f1e272;
+}
+.bar-exp span {
+
+    background: #caa785;
+    
+}

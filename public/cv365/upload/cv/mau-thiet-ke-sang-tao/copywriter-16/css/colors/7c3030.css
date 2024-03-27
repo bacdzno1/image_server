@@ -1,0 +1,20 @@
+/* 3 */
+
+:root {
+  --sex: url(sex3.png) no-repeat;
+  --phone: url(phone3.png) no-repeat;
+  --date: url(date3.png) no-repeat;
+  --email: url(mail3.png) no-repeat;
+  --add: url(add3.png) no-repeat;
+  --page: url(page3.png) no-repeat;
+  --kn: url(kn-3.png) no-repeat;
+  --dot: url(dot3.png) no-repeat;
+  --name: url(name3.png) no-repeat;
+  --head: url(head3.png) no-repeat;
+  --cum: url(cum3.png) no-repeat;
+  --color: #7c3030;
+  --color-b: #bf8b67;
+  --color-tc: #7b3030;
+  --color-m: #46404c;
+  --color-tm: #46404c;
+}

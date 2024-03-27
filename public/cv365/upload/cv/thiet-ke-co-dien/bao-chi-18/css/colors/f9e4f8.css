@@ -1,0 +1,82 @@
+#cv-top {
+    background-image: url(hd2.png);
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+}
+.box-dm {
+    background: url(fake2.png)no-repeat;
+    background-size: 100% 100%;
+}
+.icf .fa{
+    color: #f473ec;
+}
+.all {
+    background-image: url(main2.png);
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    position: relative;
+}
+.exp-fake {
+    background: url(ski2.png)no-repeat;
+    background-size: 100% 100%;
+}
+.bar-exp div{
+    background: #f473ec;
+}
+.footer {
+    background: #f9e3f8;
+}
+.watermark {
+  background: #fbe3f9;
+}
+
+div#box02{
+    background: url(career2.png)no-repeat;
+    background-size: 100% 100%;
+    background-position: left;
+  }
+  div#box03{
+    background: url(skill2.png)no-repeat;
+    background-size: 100% 100%;
+    background-position: left;
+  }
+  div#box04{
+    background: url(certificate2.png)no-repeat;
+    background-size: 100% 100%;
+    background-position: left;
+  }
+  div#box05{
+    background: url(prize2.png)no-repeat;
+    background-size: 100% 100%;
+    background-position: left;
+  }
+  div#box06{
+    background: url(reference2.png)no-repeat;
+    background-size: 100% 100%;
+    background-position: left;
+  }
+  div#block01{
+    background: url(education2.png)no-repeat;
+    background-size: 100% 100%;
+    background-position: left;
+  }
+  div#block02{
+    background: url(job2.png)no-repeat;
+    background-size: 100% 100%;
+    background-position: left;
+  }
+  div#block03{
+    background: url(work2.png)no-repeat;
+    background-size: 100% 100%;
+    background-position: left;
+  }
+  div#block04{
+    background: url(project2.png)no-repeat;
+    background-size: 100% 100%;
+    background-position: left;
+  }
+  div#block05{
+    background: url(more2.png)no-repeat;
+    background-size: 100% 100%;
+    background-position: left;
+  }

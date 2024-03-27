@@ -1,0 +1,72 @@
+#cv-top {
+    background-image: url(hd1.png);
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    position: relative;
+}
+.all{
+  background: url(main1.png)no-repeat;
+  background-size: 100% 100%;
+  width: 100%;
+}
+#cv-top h2 {
+    color: #343d8a;
+}
+#cv-right h3, #cv-content .head {
+  color: #343d8a;
+}
+#cv-content h3 {
+    color: #343d8a;
+}
+#cv-content #block02 h3 {
+  color: #343d8a;
+}
+.bar-exp div {
+    background: #343d8a;
+}
+.bar-exp {
+    background: #fff;
+    border: 1px solid #343d8a;
+}
+.icf .fa {
+    color: #343d8a;
+}
+#cv-content .head #cvo-experience-blocktitle {
+    color: #343d8a;
+}
+div#cv-boxtitle {
+    color: #343d8a;
+}
+
+.ski {
+    background: url(bg1_03.png)no-repeat;
+    background-size: 100% 100%;
+}
+.cum {
+    background: url(bg1_03.png)no-repeat;
+    background-size: 100% 100%;
+}
+.footer{
+  background: url(ft1.png)no-repeat;
+  background-size: 100% 100%;
+}
+#block01 .head{
+  background: url(bg1_05.png)no-repeat;
+  background-size: 100% 100%;
+}
+#block02 .head{
+  background: url(bg1_09.png)no-repeat;
+  background-size: 100% 100%;
+}
+#block03 .head{
+  background: url(bg1_11.png)no-repeat;
+  background-size: 100% 100%;
+}
+#block04 .head{
+  background: url(bg1_13.png)no-repeat;
+  background-size: 100% 100%;
+}
+#block05 .head{
+  background: url(bg1_15.png)no-repeat;
+  background-size: 100% 100%;
+}

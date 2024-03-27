@@ -1,0 +1,42 @@
+#cv-top {
+  background: url(hd3.png)no-repeat;
+  background-position: left;
+  background-size: 100.8% 100%;
+ }
+ .cum{
+  border: 1px solid #008c2c;
+ }
+ .ski{
+  border: 1px solid #008c2c;
+ }
+ #block01 .head {
+  background: #008c2c;
+  padding-left: 10px;
+}
+ #block02 .head {
+  background: #008c2c;
+  padding-left: 10px;
+}
+ #block03 .head {
+  background: #008c2c;
+  padding-left: 10px;
+}
+ #block04 .head {
+  background: #008c2c;
+  padding-left: 10px;
+}
+ #block05 .head {
+  background: #008c2c;
+  padding-left: 10px;
+}
+.bar-exp{
+  border: 1px solid #008c2c;
+}
+.bar-exp div{
+  background: #008c2c;
+}
+.ic-color{
+  background: url(ic3.png)no-repeat;
+  /* background-size: 100% 100%; */
+  background-position: left;
+}

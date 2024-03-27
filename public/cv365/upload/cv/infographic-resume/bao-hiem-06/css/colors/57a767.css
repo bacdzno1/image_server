@@ -1,0 +1,121 @@
+#cv-top {
+    width: 100%;
+    height: 240px;
+    background-image: url(bg-4.png);
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    position: relative;
+}
+#cvo-profile-avatar-wraper .wimg {
+    width: 185px;
+    height: 185px;
+    padding: 0px;
+    margin: 0px;
+    margin-top: 0px;
+    border: 9px solid #57a767;
+    border-radius: 10px;
+}
+#cv-top h1 {
+    font-size: 28px;
+    font-family: "Roboto";
+    line-height: normal;
+    text-transform: uppercase;
+    margin-bottom: 0;
+    color: #57a767;
+    font-weight: bold;
+    text-align: left;
+    margin-left: 10px;
+}
+#cv-top h2 {
+    text-transform: uppercase;
+    width: 100%;
+    font-size: 14px;
+    font-family: "Roboto";
+    color: #57a767;
+    text-align: left;
+    margin: 0;
+    padding: 0;
+    margin-top: 5px;
+    margin-bottom: 0;
+    margin-left: 10px;
+}
+div#cv-boxtitle {
+    font-size: 19px;
+    font-weight: bold;
+    text-transform: uppercase;
+    color: #57a767;
+    background-color: #fff;
+    padding: 0px 20px;
+    position: relative;
+    z-index: 1;
+}
+.icf .fa {
+    font-size: 20px;
+    color: #57a767;
+    margin-top: 0;
+    float: none;
+}
+#sortable #box01 #prof {
+    padding: 0;
+    margin: 0;
+    padding-left: 15px;
+    border: 2px solid #57a767;
+    padding-top: 20px;
+    margin-top: -25px;
+    padding-bottom: 15px;
+}
+#sortable .cvo-block .box-content {
+    padding: 10px;
+    margin: 0;
+    padding-left: 15px;
+    border: 2px solid #57a767;
+    padding-top: 15px;
+    margin-top: -25px;
+    padding-bottom: 15px;
+}
+.bar-exp div {
+    float: left;
+    height: 10px;
+    background: #57a767;
+    margin-top: 0px;
+}
+.bar-exp {
+    background: #ffffff;
+    height: 10px;
+    float: none;
+    margin-top: 0;
+    margin-bottom: 0px;
+    padding: 0px;
+    border: 1px solid #57a767;
+    border-radius: 5px;
+}
+#cv-content .head {
+    height: 60px;
+    width: 100%;
+    line-height: 46px;
+    background: url(tt4.png);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    margin-bottom: 0;
+}
+#cv-content h3 {
+    font-size: 16px;
+    line-height: 24px;
+    font-weight: bold;
+    margin: 0px;
+    padding: 0px;
+    color: #57a767;
+}
+div#sort_block {
+    margin-left: -5px;
+    padding: 0;
+    border-left: 2px solid #57a767;
+    border-right: 2px solid #57a767;
+    padding-bottom: 105px;
+}
+.footer {
+    float: left;
+    width: 100%;
+    height: 55px;
+    background-color: #57a767;
+}

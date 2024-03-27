@@ -1,0 +1,16 @@
+/* 2 */
+
+:root {
+  --sex: url(sex2.png) no-repeat;
+  --phone: url(phone2.png) no-repeat;
+  --date: url(date2.png) no-repeat;
+  --email: url(mail2.png) no-repeat;
+  --add: url(add2.png) no-repeat;
+  --top: url(top-2.png) no-repeat;
+  --job: url(job1-2.png) no-repeat, url(job2-2.png) no-repeat; 
+  --job-t: url(job-t2.png) no-repeat;
+  --title-m: url(title1-2.png) no-repeat, url(title2-2.png) no-repeat;
+  --title-t: url(title-t2.png) no-repeat;
+  --color-j: #8b3c40;
+  --color-t: #f9d5bc;
+}

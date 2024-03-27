@@ -1,0 +1,17 @@
+:root {
+    --sex: url(gender.png) no-repeat;
+    --phone: url(phone.png) no-repeat;
+    --date: url(birthday.png) no-repeat;
+    --email: url(mail.png) no-repeat;
+    --add: url(add.png) no-repeat;
+    --top: url(bg_top2.png) no-repeat;
+    --avt: url(border_avatar.png) no-repeat;
+    --title: 1px solid #0077b6;
+    --foot: url(footer2.png) no-repeat;
+    --kn: url(rating2.png) no-repeat;
+    --bg-icon: url(bg_icon2.png) no-repeat -1px 0px;
+    --border-bot: url(border_bot2.png) no-repeat 115px 50px;
+    --bg-ava: url(bg_avatar2.png) no-repeat 1px 4px;
+    --rating:  url(rating_empty2.png) no-repeat;
+    --body: url(body_main2.png) no-repeat;
+}

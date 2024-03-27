@@ -1,0 +1,14 @@
+#cv-top{
+	background-image: url(00cccc.png);
+    background-repeat: no-repeat;
+    background-position: top center
+}
+#bg-footer {
+    background: url(bg_bot1.png) center center no-repeat;
+}
+#cv-top h1{
+	color:#00cccc;
+}
+.bar-exp div{
+	background: #00cccc
+}

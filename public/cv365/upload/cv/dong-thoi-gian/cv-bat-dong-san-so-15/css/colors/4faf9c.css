@@ -1,0 +1,138 @@
+.fake_img {
+    background: url(../fake4.png) no-repeat;
+    background-size: 100% 100%;
+}
+
+.ic1 {
+    background: url(../date4.png) no-repeat;
+    background-position: 2px 3px;
+}
+
+.ic2 {
+    background: url(../sex4.png) no-repeat;
+    background-position: 2px 5px;
+}
+
+.ic3 {
+    background: url(../phone4.png) no-repeat;
+    background-position: 2px 5px;
+}
+
+.ic4 {
+    background: url(../email4.png) no-repeat;
+    background-position: 2px 6px;
+}
+
+.ic5 {
+    background: url(../add4.png) no-repeat;
+    background-position: 2px 5px;
+}
+
+#box01 {
+    background: url(../ifo4.png) no-repeat;
+    background-position: center bottom;
+}
+
+.cum, .ski {
+    background: url(../left4.png) no-repeat;
+    background-size: 100% 100%;
+}
+
+#cv-content .head {
+    background: url(../right4.png) no-repeat;
+    background-size: 100% 100%;
+}
+
+#box02 #cv-boxtitle {
+    background: url(../muctieu4.png) no-repeat;
+    background-position: 3px center;
+}
+
+#box03 #cv-boxtitle {
+    background: url(../kynang4.png) no-repeat;
+    background-position: 3px center;
+}
+
+#box05 #cv-boxtitle {
+    background: url(../chungchi4.png) no-repeat;
+    background-position: 3px center;
+}
+
+#box04 #cv-boxtitle {
+    background: url(../giaithuong4.png) no-repeat;
+    background-position: 3px center;
+}
+
+#box06 #cv-boxtitle {
+    background: url(../sothich4.png) no-repeat;
+    background-position: 3px center;
+}
+
+#box07 #cv-boxtitle {
+    background: url(../thamchieu4.png) no-repeat;
+    background-position: 3px center;
+}
+
+#box02 #cv-boxtitle {
+    background: url(../muctieu4.png) no-repeat;
+    background-position: 3px center;
+}
+
+#box03 #cv-boxtitle {
+    background: url(../kynang4.png) no-repeat;
+    background-position: 3px center;
+}
+
+#box05 #cv-boxtitle {
+    background: url(../chungchi4.png) no-repeat;
+    background-position: 3px center;
+}
+
+#box04 #cv-boxtitle {
+    background: url(../giaithuong4.png) no-repeat;
+    background-position: 3px center;
+}
+
+#box06 #cv-boxtitle {
+    background: url(../sothich4.png) no-repeat;
+    background-position: 3px center;
+}
+
+#box07 #cv-boxtitle {
+    background: url(../thamchieu4.png) no-repeat;
+    background-position: 3px center;
+}
+
+#block01 #cvo-experience-blocktitle {
+    background: url(../hocvan4.png) no-repeat;
+    background-position: 325px center;
+}
+
+#block02 #cvo-experience-blocktitle {
+    background: url(../kinhnghiem4.png) no-repeat;
+    background-position: 325px center;
+}
+
+#block04 #cvo-experience-blocktitle {
+    background: url(../duan4.png) no-repeat;
+    background-position: 325px center;
+}
+
+#block03 #cvo-experience-blocktitle {
+    background: url(../hoatdong4.png) no-repeat;
+    background-position: 325px center;
+}
+
+#block05 #cvo-experience-blocktitle {
+    background: url(../duan4.png) no-repeat;
+    background-position: 325px center;
+}
+
+.bar-exp div {
+    background: url(../kn4.png) no-repeat;
+    background-position: right;
+}
+
+.exp-date {
+    color: #4faf9c;
+}

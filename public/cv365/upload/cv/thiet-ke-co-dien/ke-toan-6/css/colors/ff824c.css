@@ -1,0 +1,30 @@
+#cv-content .cvo-block {   
+	border-top: dashed 1px #ff824c; 
+}
+.bar-exp {
+  	background: #ff824c;
+}  
+#form-cv{
+	border: solid 1px #ff824c;
+}
+#cv-top{		   
+    background: #ff824c;
+}
+
+.bar-exp div {
+    background: #3a93a5;
+}
+#cv-right h3{
+	background: #3a93a5;
+}
+#cv-content .head {
+    background: #3a93a5;
+}
+
+#sortable .icoweb{
+	background: #777576;
+}
+
+.ctbx {
+    border-left: solid 2px #777576;
+}

@@ -1,0 +1,31 @@
+
+.box-dm {
+    background: url(fake2.png)no-repeat;
+    background-size: 100% 100%;
+}
+#cv-top {
+    background-image: url(top2.png);
+    background-size: 100% 100%;
+}
+
+.all {
+    background: url(main2.png)no-repeat;
+    background-size: 100% 100%;
+}
+#cv-top h1 span {
+    color: #ed4b97;
+}
+#cv-top h2,div#prof,#cv-content .head #cvo-experience-blocktitle,div#cv-boxtitle {
+    color: #9d2f49;
+}
+.bar-exp {
+    background: #e5a7c4;
+}
+.bar-exp div {
+    background: #f2529d;
+}
+#cv-top h2,div#prof {
+    background: url(bl2.png) no-repeat;
+    background-position: bottom;
+
+}

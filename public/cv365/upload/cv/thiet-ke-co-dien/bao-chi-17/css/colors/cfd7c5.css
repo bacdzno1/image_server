@@ -1,0 +1,22 @@
+#cv-top {
+    background: url(hd3.png);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+.all{
+    background: url(main3.png)no-repeat;
+    background-size: 100% 100%;
+}
+#footer {
+    background-image: url(ft3.png);
+    background-repeat: no-repeat;
+}
+#form-cv i {
+    color: #cfd7c5;
+}
+.bar-exp {
+    background: #cfd7c5;
+}
+.bar-exp div {
+    background: #7d8f67;
+}

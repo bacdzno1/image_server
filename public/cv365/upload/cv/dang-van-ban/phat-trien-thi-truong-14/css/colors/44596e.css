@@ -1,0 +1,77 @@
+#cv-top {
+    background: url(bg_top3.png) no-repeat;
+}
+
+#prof .ic1 .icf {
+    background: url(date3.png) no-repeat;
+    background-position: left center;
+}
+
+#prof .ic2 .icf {
+    background: url(sex3.png) no-repeat;
+    background-position: left center;
+}
+
+#prof .ic3 .icf {
+    background: url(phone3.png) no-repeat;
+    background-position: left center;
+}
+
+#prof .ic4 .icf {
+    background: url(mail3.png) no-repeat;
+    background-position: left center;
+}
+
+#prof .ic5 .icf {
+    background: url(add3.png) no-repeat;
+    background-position: left center;
+}
+
+#cv-content #block02 h3 {
+    background: url(dot3.png) no-repeat;
+}
+
+.fake_img {
+    background: url(fake_avt3.png) no-repeat;
+}
+
+.head {
+    background: linear-gradient(to right, #2d3f51, #617b8a) !important;
+}
+
+#box03 .ski {
+    background: url(bg_skill3.png)no-repeat;
+}
+
+#box05 .cum {
+    background: url(cer3.png)no-repeat;
+}
+
+#box04 .cum {
+    background: url(prize3.png)no-repeat;
+}
+
+#box06 .cum {
+    background: url(hob3.png)no-repeat;
+}
+
+#box07 .cum {
+    background: url(rp3.png)no-repeat;
+}
+
+.bar-exp div {
+    background: url(skill3.png) no-repeat;
+}
+.footer {
+    background: url(footer3.png) no-repeat;
+}
+
+div#box02 .box-content {
+    background: url(../bg1.png) no-repeat;
+    background-size: 100% 100%;
+}
+
+div#prof {
+    background: url(../ifo1.png) no-repeat;
+    background-size: 100% 100%;
+}

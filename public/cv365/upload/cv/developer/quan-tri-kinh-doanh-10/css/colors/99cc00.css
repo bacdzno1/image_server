@@ -1,0 +1,91 @@
+#cv-top {
+    width: 100%;
+    height: 450px;
+    background-image: url(hd3.png);
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    position: relative;
+}
+.nen {
+    background:url(anh3.png)no-repeat;
+    background-size: 100% 100%;
+    height:288px; 
+    float: left;
+    width: 100%;
+}
+#block02 .head .block-title {
+    font-size: 20px;
+    color: #99cc00;
+}
+#block03 .head .block-title {
+    font-size: 20px;
+    color: #99cc00;
+}
+
+#block04 .head .block-title {
+    font-size: 20px;
+    color: #99cc00;
+}
+#block05 .head .block-title {
+    font-size: 20px;
+    color: #99cc00;
+}
+#box02 .cum #cv-boxtitle {
+    font-size: 20px;
+    color: #99cc00;
+}
+#box03 .ski #cv-boxtitle {
+    font-size: 20px;
+    color: #99cc00;
+}
+#box04 .cum #cv-boxtitle {
+    font-size: 20px;
+    color: #99cc00;
+}
+#box05 .cum #cv-boxtitle {
+    font-size: 20px;
+    color: #99cc00;
+}
+#box06 .cum #cv-boxtitle {
+    font-size: 20px;
+    color: #99cc00;
+}
+#box07 .cum #cv-boxtitle {
+    font-size: 20px;
+    color: #99cc00;
+}
+.bar-exp {
+    background: #e6e6e6;
+    height: 7px;
+    float: none;
+    margin-top: 5px;
+    margin-bottom: 0px;
+    padding: 0px;
+    border: 1px solid #99cc00;
+    float: right;
+    width: 100%;
+    border-radius: 10px;
+}
+.bar-exp div {
+    float: left;
+    height: 7px;
+    background: #99cc00;
+    margin-top: 0px;
+    border-radius: 10px;
+}
+.box-dm {
+   width: 300px;
+    height: 389px;
+    padding: 0;
+    margin: 0;
+    float: left;
+    display: table;
+    background: url(mau3.png)no-repeat;
+    background-size: 100% 100%;
+    clear: both;
+    z-index: 1;
+    margin-top: -426px;
+    margin-left: 6px;
+    position: absolute;
+    top: -800px;
+}

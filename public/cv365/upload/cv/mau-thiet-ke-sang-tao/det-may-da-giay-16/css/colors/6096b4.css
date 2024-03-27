@@ -1,0 +1,11 @@
+/* 2 */
+
+:root {
+  --page: url(main2.png) no-repeat;
+  --ngang: url(ngang2.png) no-repeat;
+  --name: url(name2.png) no-repeat;
+  --icon: url(icon2.png) no-repeat;
+  --skill: url(skill-2.png) no-repeat;
+  --vuong: url(vuong2.png) no-repeat;
+  --color: #6096b4;
+}

@@ -1,0 +1,157 @@
+#form-cv {
+  width: 100%;
+  float: left;
+  position: relative;
+  font-size: 14px;
+  line-height: 24px;
+  color: #484848;
+  background: url(bg3.png)no-repeat;
+  background-size: 100% 100%;
+
+}
+
+.cumic2 {
+  width: 30px;
+  height: 30px;
+  float: right;
+  background: url(icon6b.png)no-repeat;
+  background-position: right center;
+}
+
+.funic {
+  width: 30px;
+  height: 30px;
+  float: right;
+  background: url(icon7b.png)no-repeat;
+  background-position: right center;
+}
+
+.cumic4 {
+  width: 30px;
+  height: 30px;
+  float: right;
+  background: url(icon8b.png)no-repeat;
+  background-position: right center;
+}
+
+.cumic5 {
+  width: 30px;
+  height: 30px;
+  float: right;
+  background: url(icon9b.png)no-repeat;
+  background-position: right center;
+}
+
+.cumic6 {
+  width: 30px;
+  height: 30px;
+  float: right;
+  background: url(icon10b.png)no-repeat;
+  background-position: right center;
+}
+
+.cumic7 {
+  width: 30px;
+  height: 30px;
+  float: right;
+  background: url(icon11b.png)no-repeat;
+  background-position: right center;
+}
+
+#cv-content .ir {
+  padding-right: 0;
+  margin: 0px;
+  padding-left: 5px;
+  background: #207757;
+}
+
+#box-hvt h1 {
+  margin: 0;
+  padding: 0;
+  font-size: 32px;
+  /* line-height: 32px; */
+  text-transform: uppercase;
+  color: #207757;
+  font-weight: bold;
+  text-align: center;
+}
+
+#box-hvt h2 {
+  padding: 0;
+  margin: 0;
+  font-size: 16px;
+  color: #207757;
+  line-height: 24px;
+  text-transform: uppercase;
+  margin-top: 10px;
+  text-align: center;
+  font-style: italic;
+}
+
+#sortable .box-content {
+  margin: 0;
+  padding: 0;
+  color: #207757;
+  /* padding-top: 15px; */
+  /*padding-right: 10px;*/
+}
+
+#cvo-profile-avatar-wraper .wimg {
+  padding: 0;
+  margin: 0;
+  float: left;
+  border: 5px solid #207757;
+  /* width: 207px; */
+  /* height: 221px; */
+}
+
+.bar-exp div {
+  float: left;
+  /* height: 8px; */
+  background: #207757;
+}
+
+.skill .ctbx {
+  width: 100%;
+  /* margin: 0; */
+  /* padding: 0; */
+  /* margin-top: 5px; */
+  color: #207757;
+}
+
+.cum {
+  width: 92%;
+  height: 30px;
+  padding-left: 10px;
+  text-align: left;
+  border: 2px solid #207757;
+  padding-right: 10px;
+}
+
+#cv-right h3 {
+  width: 87%;
+  color: #207757;
+  height: 30px;
+  /* line-height: 30px; */
+  text-align: left;
+  float: left;
+}
+
+.funk {
+  width: 92%;
+  /* height: 30px; */
+  /* /* text-align: left; */
+  /* padding-left: 10px; */ 
+  /* padding-right: 10px; */
+  border: 2px solid #207757;
+}
+
+#cv-content #box01 {
+  width: 100%;
+  /* margin: 0; */
+  /* padding: 0; */
+  background-position: left top;
+  float: left;
+  /* margin-top: 50px; */
+  background: #207757;
+}

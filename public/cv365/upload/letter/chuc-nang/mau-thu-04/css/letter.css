@@ -1,0 +1,169 @@
+#page-letter{
+	width: 800px;
+	float: left;
+}
+#form-letter{
+	width: 790px;
+	height: 1117px;
+	float: left;	
+	color:#000000;
+	position: relative;
+	background: url('../bg.png') #fff top no-repeat;
+	background-size: 100%;
+	border: solid 1px #e1e1e1;
+}
+#form-letter .w{
+	position: relative;	
+	width: 172px;
+	height: 173px;
+	float: left;	
+	margin-right: 30px
+}
+.bar-tool{
+	z-index: 1;
+}
+#form-letter .bg_img{
+	position: absolute;	
+	content:"";
+	top: 0;
+	left: 0;
+	right:0;
+	bottom: 0;
+	background: url('../bg-img.png') center center;	
+}
+#lt-top{		
+	padding: 30px 44px 0px;
+	position: relative;
+	margin-top: 120px;
+	margin-left: 35px;
+}
+#lt-content{	
+	position: relative;
+}
+#lt-right{
+	position: relative;
+}
+#lt-right ul{		
+	color:#fff;		
+	position: relative
+}
+#lt-right .ir{
+	line-height: 35px;
+}
+#lt-top h1{	
+	text-transform: uppercase;
+	font-size: 28px;
+	font-weight: 500;
+	margin-top: 10px;
+	color: #ffb51e;
+}
+#lt-top h2{
+	font-size: 18px;
+	text-transform: capitalize;
+	margin-bottom: 0px;
+}
+.box-01{
+	padding-top: 10px;
+	font-size: 14px;
+	width:66%;
+	float: left;
+	font-weight: 500;
+}
+
+#lt-content .ir{
+	padding:10px 55px 10px 77px;
+}
+#lt-content p{
+	margin-bottom: 20px
+}
+#lt-content .ir a{
+	color: #323033
+}
+#lt-right .ir{
+	padding:0 80px
+}
+#lt-right .info{
+	background: #898989
+}
+#lt-right .box-02{
+	padding-top: 10px;
+	color:#005563;
+}
+.box-02 .left{
+	width: 70%;
+	float: left;
+	margin-top: 35px;
+}
+.box-02 .left span{
+	width: 390px;
+    display: inline-block;
+    vertical-align: top;
+    padding-left: 15px;
+}
+.box-02 .right{
+	float: right;	
+	width: 100%;
+}
+#lt-right ul li{
+	display: inline-block;
+	padding:10px 20px;	
+}
+#lt-right ul li:first-child{
+	padding-left: 0
+}
+#lt-right ul li:last-child{
+	padding-right: 0
+}
+#lt-right ul li strong{
+	text-transform: uppercase;
+}
+
+.box-02 i.fa{
+	padding-right: 10px;
+	color: #ffb51e;
+	font-size: 17px;
+	font-weight: 500;
+}
+#lto-day{
+	font-size: 17px;
+	font-weight: 500;
+	font-style: inherit;
+}
+
+.ic{
+	float: left;width: 40%;	
+	margin-bottom: 4px;
+}
+#form-letter .icf{
+	float: left;			
+	font-size: 14px;
+	margin-bottom: 0;
+	width: 26px;	
+	text-align: center;
+	line-height: 24px;	
+}
+.ic .icoweb{
+	float: left;
+	width: 88%;
+	line-height: 24px;
+}
+.icf .fa{
+	font-size: 14px;	
+	color:#ffb51e;	
+	font-weight: normal;
+	margin-top: 0;	
+	float: none;
+}
+#form-letter p {
+    margin-top: 0;
+    margin-bottom: 6px;
+}
+.iw{
+	width: 60%;
+}
+#cvo-profile-avatar-wraper{
+	width: 172px;
+	margin-left: 5px;
+	float: left;
+	padding-right: 20px;
+}

@@ -1,0 +1,22 @@
+#lt-top h2{
+	color: #898989;
+}
+
+.box-02 i.fa{
+	color: #898989;
+}
+
+div#ffoo{
+	background-image: url('../../bot2.png');
+	background-repeat: no-repeat;
+	background-size: 100% auto;
+}
+
+#lt-top{		
+	position: relative;
+	background-image: url('../../bg2.png');
+	background-color: #fff;
+	background-position: top center;
+	background-repeat: no-repeat;
+	background-size: 100% auto;
+}

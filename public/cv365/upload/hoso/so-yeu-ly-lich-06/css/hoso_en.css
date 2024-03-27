@@ -1,0 +1,525 @@
+#page-letter{
+	width: 900px;
+	float: left;
+	font-family: 'Tahoma';
+	font-weight:normal;
+	background: #ebebeb;
+	color:#000;
+}
+#form-letter{
+	font-size: 15px;	
+	color:#000;
+	line-height: 18px;
+	position: relative;
+	background-color: #ebebeb;
+}
+#page1{
+	width: 790px;
+	height: 1117px;
+	background: url('../bg-hoso-1.png') #fff top left no-repeat;
+	background-size: 100% 100%;
+
+	margin:25px auto;
+}
+.page_ctr{
+	padding: 70px 60px 65px 95px;
+	position: relative;
+	height: 969px;
+}
+.p1-head{
+	text-align: center;
+	font-weight:bold;
+	position: relative;
+	margin:0px;
+	margin-bottom: 30px;
+	padding: 0px;
+	float: left;
+	width: 100%;
+}
+.p1-head:after{
+	content:"";
+	width:230px;
+	margin:5px auto;
+	display:block;
+	height: 1px;
+	background: #000
+}
+.h1{
+	color:#000;
+	display: block;
+	font-size: 20pt;
+	font-weight:bold;
+	text-align: center;
+	text-transform: uppercase;
+	line-height: 21px;
+	margin: 0px;
+	padding: 0px;
+	float: left;
+	width: 100%;
+	margin-bottom: 30px
+}
+.h1 i{
+	font-size: 12pt
+}
+
+.tx_nm{
+	float: left;
+	padding: 0px;
+	margin:0px;
+}
+
+.hvt{ width: 75px; }
+.gioitinh{ width: 35px; }
+.ns_ngay{ width: 95px; }
+.ns_thang{ width: 27px; }
+.cm_thang{ width: 27px; }
+.ns_nam{ width: 27px; }
+.cm_nam{ width: 27px; }
+.dk_tt{ width: 100%;}
+.cmtnd{width: 90px;}
+.noicap{width: 105px;}
+.cm_ngay{width: 94px;}
+.dt_home{width: 210px;}
+.mobile{width: 155px;}
+.baotin{ width: 100%; }
+.ct_center{ width: 280px; margin: 0px auto;	height: 1px;padding: 0px; }
+.sohieu, .kyhieu{ width: 110px; padding-top: 10px}
+.hoten_p2{ width: 77px }
+.bidanh{width: 54px;}
+.tenthuonggoi{width:118px;}
+.ns_ngay_p2{ width: 100px; }
+.ns_thang_p2{ width: 27px; }
+.ns_nam_p2{ width: 27px; }
+.tai_p2{ width: 30px; }
+.dantoc{ width: 95px; }
+.tongiao{ width: 65px; }
+.thanhphan_bt{ width: 160px; }
+.vanhoa{ width: 80px; }
+.ngoaingu{ width: 132px; }
+.chuyenmon{ width: 175px; }
+.loaihinh_dt{ width: 110px; }
+.chuyennganh_dt{ width: 50px; }
+.dang_ngay{ width: 330px; }
+.dang_thang{ width: 27px; }
+.dang_nam{ width: 27px; }
+.dang_ketnap{ width: 110px; }
+.doan_ngay{ width: 385px; }
+.doan_thang{ width: 27px; }
+.doan_nam{ width: 27px; }
+.doan_ketnap{ width: 115px; }
+.suckhoe{ width: 100px; }
+.cao{ width: 51px; }
+.can_nang{ width: 60px; }
+.can_nang2{ width: 30px }
+.nghenghiep_chuyenmon{ width: 195px; }
+.capbac{ width: 65px; }
+.luongchinh{ width: 85px; }
+.ngaynhapngu{ width: 150px }
+.ngayxuatngu{ width: 161px }
+.lydo_p2{ width: 58px; }
+.htbo{ width: 130px; }
+.tuoibo{ width: 33px; }
+.nn_bo{ width: 85px; }
+
+.htme{ width: 135px; }
+.tuoime{ width: 33px; }
+.nn_me{ width: 85px; }
+.hotenvc{ width: 140px; }
+.tuoivc{ width: 32px; }
+.nn_vc{ width: 87px; }
+.noi_nn_vc{ width: 90px; }
+.noio_vc{ width: 116px }
+.tencon1,.tencon2,.tencon3,.tencon4,.tencon5{ width: 16px; }
+.tuoicon1,.tuoicon2,.tuoicon3,.tuoicon4,.tuoicon5{ width: 33px; }
+.nn_con1,.nn_con2,.nn_con3,.nn_con4,.nn_con5{ width: 88px; }
+.khenthuong{ width: 65px; }
+.kyluat{ width: 70px; }
+.local_ngay{ width: 105px; }
+.local_thang{ width: 27px; }
+.local_nam{ width: 27px; }
+.bo_1955{ font-size: 14px; }
+
+
+.p1-d1 #hoten{
+	float: left;
+	width:385px;
+	padding: 0px;
+	margin:0px;
+}
+.p1-d1 #gioitinh{
+	float: left;
+	width:120px;
+	padding: 0px;
+	margin:0px;
+}
+
+.line{
+	padding: 0px;
+	margin: 0px;
+	float: left;
+	background-image: url(../line-dot.png);
+    background-position: bottom center;
+    background-color: transparent;
+    background-repeat: repeat;
+    position: relative;
+    z-index: 99;
+}
+
+
+.p1-d1{
+	margin-bottom: 11px;
+	float: left;
+	padding: 0px;
+	line-height: 18px;
+	width: 617px;
+	overflow: hidden;
+}
+.p1-d1 #ns_ngay, .p1-d1 #ns_thang, #cm_thang{
+	width:50px;
+}
+#cm_ngay{
+	width:74px;
+}
+#cm_nam{
+	width:342px;
+}
+#dt_home{
+	width:140px;
+}
+#mobile{
+	width:110px;
+}
+.p1-d1 #ns_nam{
+	width:366px;
+}
+.dn{
+    height: 561px;
+    line-height: 27px;
+    margin-left: 0;
+    overflow: hidden;
+    float: left;
+    width: 96%;
+    background-image: url(../line3.png);
+    background-position: bottom center;
+    background-color: transparent;
+    background-repeat: repeat;
+}
+.d5{
+    height: 130px;
+    line-height: 27px;
+    margin-left: 0;
+    overflow: hidden;
+    float: none;
+    width: 100%;
+}
+.d4{
+    height: 102px;
+    line-height: 27px;
+    margin-left: 0;
+    overflow: hidden;
+    float: left;
+    width: 99%;
+}
+.d3{
+    height: 75px;
+    line-height: 27px;
+    margin-left: 0;
+    overflow: hidden;
+    width: 99%;
+}
+
+.d2{
+    height: 50px;
+    line-height: 27px;
+    margin-left: 0;
+    overflow: hidden;
+    float: left;
+    width: 99%;
+}
+.d1{
+	margin-left: 0;
+	overflow: hidden;
+	margin-top: 6px;
+	float: left;
+	width: 99%;
+}
+#page2 .p-head{
+	margin-bottom: 15px;
+	float: left;
+	width: 100%;
+}
+#cmtnd{
+	width:240px;
+	float: left;
+	padding: 0px;
+	margin: 0px;
+}
+#noicap{
+	width:180px;
+}
+.p1-d2{
+    font-style: italic;
+    margin: auto;
+    text-align: center;
+    padding: 0px;
+    margin: 0px;
+    padding-top: 280px;
+    float: left;
+    width: 100%;
+}
+.p1-d2 p{
+	margin-bottom: 5px
+}
+.p1-d2 p span{
+	width:150px;
+	text-align: left;
+}
+#page2,#page3,#page4{
+	width: 790px;
+	height: 1099px;
+	background: url('../bg-hoso-2.png') #fbfbfb top left no-repeat;
+	background-size: 100% 100%;
+
+	margin:20px auto;
+}
+.p-head{
+	text-transform: uppercase;
+	font-size: 18px;
+	margin:20px 0;
+	font-weight:bold;
+	float: left;
+	width: 100%;
+	text-align: center;
+}
+#sohieu, #kyhieu{ width: 150px;margin-top: 10px}
+#dk_tt{
+	width: 617px;
+}
+#hoten_p2{
+	width:270px;
+}
+#bidanh{
+	width:210px;
+}
+#tenthuonggoi{
+	width: 493px
+}
+#ns_ngay_p2{
+	width:35px;
+}
+#ns_thang_p2{
+	width:35px
+}
+#ns_nam_p2{
+	width:80px
+}
+#tai_p2{
+	width:277px;
+}
+#dantoc{
+	width:220px;
+}
+#tongiao{
+	width:230px;
+}
+#thanhphan_bt{
+	width: 450px;;
+}
+#vanhoa{
+	width:180px;
+}
+#ngoaingu{
+	width:215px;
+}
+#chuyenmon{
+	width:180px;
+}
+#loaihinh_dt{
+	width:141px;
+}
+#chuyennganh_dt{
+	width:556px;
+}
+
+#dang_ngay{ width: 34px; }
+#dang_thang{ width: 34px; }
+#can_nang{ width: 35px; }
+
+
+#dang_nam{
+	width:152px;
+}
+#dang_ketnap{
+	width:495px;
+}
+#doan_ngay{ width: 36px; }
+#doan_thang{ width: 36px; }
+
+#doan_nam{
+	width:95px;
+}
+#doan_ketnap{
+	width:489px;
+}
+#suckhoe{
+	width:175px;
+}
+#cao{
+	width:110px;
+}
+#cannang{
+	width: 105px;
+}
+#nghenghiep_chuyenmon{
+	width: 408px;
+}
+#capbac{
+	width:180px;
+}
+#luongchinh{
+	width:274px;
+}
+#ngaynhapngu{
+	width:135px;
+}
+#ngayxuatngu{
+	width:158px;
+}
+#lydo_p2{
+	width:548px;
+}
+#htbo{
+	width:205px;
+}
+#tuoibo{
+	width:45px;
+}
+#nn_bo{
+	width:105px;
+}
+#htme{
+	width:217px;
+}
+#tuoime{
+	width:45px;
+}
+#nn_me{
+	width:96px;
+}
+#local{
+	width: 40px;
+}
+
+#local_ngay{ width: 30px; }
+#local_thang{ width: 30px; }
+#local_nam{ width: 45px; }
+#xacnhan{ text-align: left; }
+
+#page3 .p-head{
+	font-size: 15px;
+	margin-top: 15px;
+	margin-bottom: 5px;
+	float: left;
+	width: 100%;
+}
+#page3 .p-head i{
+	text-transform: lowercase;
+	padding-top: 20px;
+	float: left;
+	width: 100%;
+	font-size: 15px
+}
+#page4 table{
+	width:100%;
+	border-collapse: collapse;
+}
+table thead td{
+	text-align: center;
+	padding:4px;
+}
+#page4 table td{
+	border:1px solid #000;
+}
+#page4 table tbody td{
+	padding:10px 5px 27px;
+	height: 134px;
+	line-height: 27px;
+	overflow: hidden;
+	vertical-align: top;
+		background-image: url(../line2.png);
+	background-repeat: repeat-x;
+}
+#page4 .p-head.small{
+	font-size: 12pt;
+	margin-bottom: 15px
+}
+#ht_day{
+/*	width:106px;*/
+}
+/*#ht_congtac{
+	width:196px;
+}
+#ht_odau{
+	width:148px;
+}
+#ht_chucvu{
+	width:128px;
+}*/
+#hotenvc{
+	width:231px;
+}
+#tuoivc{
+	width:210px;
+}
+#nn_vc{
+	width:527px;
+}
+#noi_nn_vc{
+	width:525px;
+}
+#noio_vc{
+	width:497px;
+}
+#tencon1,#tencon2,#tencon3,#tencon4,#tencon5{
+	width:250px;
+}
+#tuoicon1, #tuoicon2,#tuoicon3,#tuoicon4,#tuoicon5{
+	width:65px;
+}
+#nn_con1,#nn_con2,#nn_con3,#nn_con4,#nn_con5{
+	width:160px;
+}
+#khenthuong{
+	width:542px;
+}
+#kyluat{
+	width:540px;
+}
+.l{
+	width:270px;
+	margin-top: 14px;
+	float: left;
+	text-align: center;
+}
+.l strong{
+	text-align: center;
+	float: left;
+	width: 100%;
+	margin-bottom: 11px;
+	font-weight: bold;
+	font-size: 14px;
+}
+.r{
+	width:330px;
+	float:right;
+	text-align: center;
+	padding-top: 6px;
+	font-style: italic;
+}
+.r p{
+	text-align: center;
+	margin-top: 15px;
+	font-style: normal;
+	float: left;
+	width: 100%;
+}

@@ -1,0 +1,16 @@
+#form-letter{
+	width: 100%;
+	height: 1130px;
+	float: left;	
+	color:#000000;
+	position: relative;
+	background:url(form1.png)no-repeat;
+	background-size: 100% 100%;
+}
+.icf .fa{
+	font-size: 18px;	
+	color:#8c4c9b;	
+	font-weight: normal;
+	margin-top: 0;	
+	float: left
+}

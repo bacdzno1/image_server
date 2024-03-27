@@ -1,0 +1,11 @@
+#form-letter{
+	width: 790px;
+	height: 1117px;
+	float: left;	
+	background: url('../../nen71.png') #fff top center repeat-y;
+	background-size: 100% 100%;
+	background-position:0px 30px;
+	color:#000;
+	position: relative;
+	border: solid 1px #d0cfce;
+}

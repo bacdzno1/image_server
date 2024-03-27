@@ -1,0 +1,32 @@
+#form-letter{
+	color:#fc9801;
+	background-size: 100%;
+}
+
+#lt-top h1{	
+	color: #fc9801;
+}
+
+#lt-right .box-02{
+	color:#fc9801;
+		border-top: dashed 1px #fc9801;
+	border-bottom: dashed 1px #fc9801;
+}
+
+.box-02 i.fa{
+	color: #fc9801;
+}
+
+div#ffoo{
+    background : linear-gradient(0deg, #fc9801, #a89a36);
+    background : -moz-linear-gradient(0deg, #fc9801, #a89a36);
+    background : -webkit-linear-gradient(0deg, #fc9801, #a89a36);
+    background : -o-linear-gradient(0deg, #fc9801, #a89a36);
+}
+
+#lt-top{		
+	background-image: url('../../arr2.png');
+	background-color: #fff;
+	background-position: 0px 50px;
+	background-repeat: no-repeat;
+}

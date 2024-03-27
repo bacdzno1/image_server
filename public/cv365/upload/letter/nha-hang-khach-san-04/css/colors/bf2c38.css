@@ -1,0 +1,69 @@
+#lt-top h1 {
+	width: 100%;
+	padding: 0;
+	margin: 0;
+	text-transform: uppercase;
+	display: block;
+	font-size: 36px;
+	line-height: 30px;
+	font-weight: bold;
+	padding-bottom: 10px;
+	padding-top: 10px;
+	text-align: left;
+	color: #bf2c38;
+	float: left;
+	margin-top: -45px;
+}
+
+#lt-top h2 {
+	font-size: 14px;
+	line-height: 18px;
+	text-transform: capitalize;
+	color: #bf2c38;
+	font-weight: bold;
+	text-align: left;
+	margin-bottom: 35px;
+	margin-top: 0;
+}
+
+#cvo-profile-avatar-wraper {
+	padding: 0;
+	margin: 0;
+	float: left;
+	width: 160px;
+	height: 160px;
+	cursor: pointer;
+	margin-left: 45px;
+	border: 4px solid #bf2c38;
+	z-index: 99;
+	margin-top: 45px;
+}
+
+.lto-day {
+	margin: 0;
+	position: relative;
+	clear: both;
+	text-align: center;
+	width: 58%;
+	float: right;
+	padding: 7px;
+	border-bottom: 4px solid #bf2c38;
+}
+
+.icf .fa {
+	font-size: 18px;
+	color: #bf2c38;
+	font-weight: normal;
+	margin-top: 0;
+	float: left
+}
+
+#form-letter {
+	width: 100%;
+	height: 1130px;
+	float: left;
+	color: #000000;
+	position: relative;
+	background: url(bg3.png)no-repeat;
+	background-size: 100% 100%;
+}

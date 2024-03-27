@@ -1,0 +1,29 @@
+#form-letter {
+	width: 100%;
+	height: 1130px;
+	float: left;
+	color: #000000;
+	position: relative;
+	background: url(bg3.png)no-repeat;
+	background-size: 100% 100%;
+}
+
+#cvo-profile-avatar-wraper {
+	padding: 0;
+	margin: 0;
+	float: left;
+	width: 160px;
+	height: 180px;
+	cursor: pointer;
+	margin-left: 15px;
+	border: 4px solid #20c6a2;
+	z-index: 99;
+}
+
+.icf .fa {
+	font-size: 18px;
+	color: #20c6a2;
+	font-weight: normal;
+	margin-top: 0;
+	float: left
+}

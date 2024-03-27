@@ -1,0 +1,7 @@
+#lt-content,#lt-top{
+	background: #ecaa4c;
+}
+
+#lt-top #bg_head{		
+	background: url('../../bh1.png') top center no-repeat;	
+}

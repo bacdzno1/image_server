@@ -1,0 +1,84 @@
+#form-letter {
+    width: 100%;
+    height: 1130px;
+    float: left;
+    color: #000000;
+    position: relative;
+    background: url(bg4.png)no-repeat;
+    background-size: 100% 100%;
+    background-position: bottom center;
+}
+
+#lt-top h1 {
+    width: 93%;
+    padding: 0;
+    margin: 0;
+    text-transform: uppercase;
+    display: block;
+    font-size: 30px;
+    line-height: 30px;
+    font-weight: bold;
+    padding-right: 30px;
+    padding-bottom: 10px;
+    text-align: left;
+    color: #a6415c;
+    float: right;
+}
+
+#lt-top h2 {
+    font-size: 14px;
+    line-height: 18px;
+    text-transform: capitalize;
+    color: #a6415c;
+    font-weight: bold;
+    text-align: left;
+    margin-bottom: 10px;
+    width: 97%;
+    float: right;
+    margin-top: 0
+}
+
+#cvo-profile-avatar-wraper {
+    padding: 0;
+    margin: 0;
+    float: left;
+    width: 160px;
+    height: 180px;
+    cursor: pointer;
+    margin-left: 75px;
+    border: 4px solid #a6415c;
+    z-index: 99;
+}
+
+.lto-day {
+    margin: 0;
+    padding: 0px 0px;
+    position: relative;
+    clear: both;
+    text-align: right;
+    width: 94%;
+    float: left;
+    padding: 10px;
+    color: #fff;
+    background: url(hd4.png)no-repeat right center;
+}
+
+.ic .icoweb {
+    float: left;
+    width: 60%;
+    line-height: 24px;
+    text-align: left;
+    padding: 0;
+    margin: 0;
+    padding-top: 10px;
+    color: #a6415c;
+    padding-left: 10px;
+}
+
+.icf .fa {
+    font-size: 18px;
+    color: #a6415c;
+    font-weight: normal;
+    margin-top: 0;
+    float: left
+}

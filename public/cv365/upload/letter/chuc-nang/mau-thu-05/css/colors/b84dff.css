@@ -1,0 +1,23 @@
+#form-letter{
+	background: url('../../bg2.png') right no-repeat;
+	background-size: auto 100%;
+}
+#lt-top h1{	
+	color: #b84dff;
+}
+#lt-right .box-02{
+	background: #ffb51e;
+}
+
+#lt-right .box-02::after{
+	content: "";
+    position: absolute;
+    width: 0;
+    height: 0;
+    border-bottom: 63px solid transparent;
+    border-top: 63px solid transparent;
+    border-left: 38px solid #ffb51e;
+    top: 0;
+    right: -38px;
+    z-index: 9999;
+}

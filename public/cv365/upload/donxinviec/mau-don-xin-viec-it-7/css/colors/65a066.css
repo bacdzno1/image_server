@@ -1,0 +1,11 @@
+#form-letter{
+	width: 900px;
+	min-height: 1271px;
+	float: left;	
+	background: url('../../nendep661.jpg') #fff top center repeat-y;
+	background-size: cover;
+	background-position: -100px 20px;
+	color:#000;
+	position: relative;
+	border: solid 1px #65a066;
+}

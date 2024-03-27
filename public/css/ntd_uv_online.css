@@ -1,0 +1,634 @@
+body {
+    margin: 0px !important;
+    font-family: Roboto-Medium, sans-serif;
+}
+
+.content {
+    background: #f2f2f2;
+    height: 100%;
+    padding-bottom: 60px;
+}
+
+.content_download {
+    margin: auto;
+    max-width: 1170px;
+    padding-top: 27px;
+    padding-bottom: 27px;
+}
+
+.tag {
+    background-color: #4C5BD4;
+    height: 40px;
+    width: 100%;
+    line-height: 33px;
+    display: flex;
+    justify-content: center;
+}
+
+.tag a {
+    color: #fff;
+    font-size: 14px;
+    padding: 0 11px;
+}
+
+a {
+    text-decoration: unset;
+    margin-top: 0px;
+}
+
+.pt_5 {
+    padding-top: 5px;
+}
+
+.pt_20 {
+    padding-top: 20px;
+}
+
+.ava {
+    width: 70px;
+    height: 70px;
+    border-radius: 50%;
+    object-fit: contain;
+}
+
+.d_flex {
+    display: flex;
+}
+
+.w_100 {
+    width: 100%;
+}
+
+.flex_w {
+    flex-wrap: wrap;
+}
+
+.content_search {
+    width: 80%;
+    position: absolute;
+    padding-top: 20px;
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+.content_on {
+    margin: auto;
+    margin-top: 30px;
+    max-width: 1170px;
+    border-radius: 2px;
+    background-color: #FFF;
+    box-shadow: 0 2px 5px 0 rgb(0 0 0 / 5%);
+    padding-bottom: 35px;
+}
+
+.position_r {
+    position: relative;
+}
+
+.position_a {
+    position: absolute;
+}
+
+.title {
+    margin: 0;
+    color: #474747;
+    font-size: 18px;
+    font-weight: 500;
+    line-height: 35px;
+    border-bottom: 1px solid #CCCCCC;
+    width: calc(100% - 90px);
+    margin-left: 15px;
+    padding-bottom: 10px;
+    padding-top: 10px;
+    font-family: Roboto-Medium, sans-serif;
+    color: #4C5BD4
+}
+
+.item_on {
+    box-sizing: border-box;
+    height: 100%;
+    width: calc(50% - 25px);
+    padding: 10px;
+    border-radius: 1px;
+    margin-top: 8px;
+    background-color: #FFF;
+    float: left;
+    position: relative;
+    border: 1px solid #DFDFDF;
+    margin-left: 15px;
+    border-radius: 4px;
+}
+
+.img_item_on {
+    width: 70px;
+    margin-right: 10px;
+    float: left;
+    height: 70px;
+    overflow: hidden;
+}
+
+.right_item_vl {
+    float: left;
+    width: calc(100% - 80px);
+    position: relative;
+}
+
+.tit_com {
+    width: 100%;
+    float: left;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+    overflow: hidden;
+    font-family: Roboto-Medium, sans-serif;
+    margin-bottom: 5px;
+    font-weight: 400;
+    color: #444444;
+    height: 18.5px;
+}
+
+.name_com {
+    width: 100%;
+    float: left;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+    overflow: hidden;
+    font-family: Roboto-Medium, sans-serif;
+    margin-bottom: 5px;
+    font-weight: 600;
+    color: #444444;
+}
+
+.address {
+    width: 45%;
+    float: left;
+    padding-left: 20px;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    overflow: hidden;
+    background: url(https://timviec365.vn/images/loc/Ic_map.png) no-repeat;
+    background-size: 16px 16px;
+    color: #6F6F6F;
+    font-size: 14px;
+    line-height: 17px;
+    font-family: Roboto-Medium, sans-serif;
+}
+
+.chat {
+    width: 35% !important;
+    float: left;
+    padding-left: 20px;
+    font-size: 14px;
+    line-height: 17px;
+    cursor: pointer;
+    font-family: Roboto-Medium, sans-serif;
+}
+
+.float_l {
+    float: left;
+}
+
+.xem_them {
+    margin: auto;
+    margin-top: 36px;
+    color: #4C5BD4;
+    border: 0;
+    background: unset;
+    background: url(../images/ntd_uv_onl/Vector.svg) no-repeat;
+    background-size: 10px 10px;
+    background-position-x: 87px;
+    background-position-y: 3px;
+    padding-left: 17px;
+    padding-right: 17px;
+}
+
+.header_search {
+    background-color: #4C5BD4;
+    height: 150px;
+    width: 100%;
+}
+
+.input_ntd_on {
+    width: 39%;
+    border-radius: 8px 0px 0px 8px;
+    height: 67px;
+    border: none;
+    padding-left: 35px;
+    font-size: 16px;
+    float: left;
+    box-sizing: border-box;
+}
+
+.select_seach {
+    width: 23%;
+    height: 67px;
+    border: none;
+    border-left: 1px solid rgba(0, 0, 0, 0.25);
+    float: left;
+    box-sizing: border-box;
+    background-color: white;
+    overflow: hidden;
+}
+
+.select_seach .select2-container {
+    width: 100% !important;
+}
+
+.select {
+    width: 95%;
+    height: 65px;
+    border: none;
+    padding-left: 35px;
+    padding-right: 35px;
+    font-size: 16px;
+    float: left;
+    box-sizing: border-box;
+}
+
+.button_search {
+    width: 15%;
+    height: 67px;
+    border: none;
+    background: #FFF600;
+    color: #485BD6;
+    font-size: 16px;
+    border-radius: 0px 8px 8px 0px;
+    border-left: 1px solid #4C5BD4;
+    cursor: pointer;
+}
+
+.search_online {
+    width: 123px;
+    height: 55px;
+    border: none;
+    background: #FFF600;
+    color: #485BD6;
+    font-size: 16px;
+    border-radius: 1px 55px 55px 1px;
+    border-left: 1px solid #4C5BD4;
+    cursor: pointer;
+    font-weight: 700;
+    text-align: center;
+}
+
+.banner_tai_app {
+    width: 100%;
+    height: 271px;
+    background: url(../images/ntd_uv_onl/banner_ntd_on.png) no-repeat;
+}
+
+.item_tai_app {
+    padding-top: 177px;
+    padding-left: 374px;
+}
+
+.item_tai_app a {
+    margin-right: 10px;
+}
+
+.tl {
+    display: none;
+}
+
+.mb {
+    display: none;
+}
+
+.tooltip {
+    visibility: hidden;
+    z-index: 1;
+    opacity: .40;
+    max-width: 200px;
+    padding: 9px 15px;
+    background: #292D32;
+    color: #fff;
+    font-size: 13px;
+    border-radius: 4px;
+    position: absolute;
+    bottom: 82px;
+    left: 0px;
+}
+
+.tooltip span {
+    white-space: normal;
+}
+
+.tooltip::after {
+    content: " ";
+    width: 0;
+    height: 0;
+    border-style: solid;
+    border-width: 10px 8.5px 0px 8.5px;
+    border-color: #333 transparent transparent transparent;
+    position: absolute;
+    left: 45%;
+    bottom: -10px;
+}
+
+.search_1 .box_m_search #index_dia_diem {
+    width: 446px !important;
+}
+
+.search_1.search_uv .box_m_search #index_dia_diem {
+    width: 236px !important;
+}
+
+.name_com:hover .tooltip {
+    visibility: visible;
+    opacity: 1;
+}
+
+.tit_com .tooltip {
+    bottom: 56px;
+}
+
+.tit_com:hover .tooltip {
+    visibility: visible;
+    opacity: 1;
+}
+
+.header_content {
+    height: calc(100% - 40px);
+    justify-content: center;
+    display: flex;
+}
+
+.select_seach .select2-container--default .select2-selection--single {
+    line-height: 67px;
+    height: 67px;
+}
+
+.select_seach .select2-selection--single .select2-selection__rendered {
+    height: 67px !important;
+}
+
+.select_seach .select2-container--default .select2-selection--single .select2-selection__arrow {
+    top: 17px;
+    right: 0px;
+}
+
+.select_seach .select2-container--default .select2-selection--single .select2-selection__arrow b {
+    left: unset;
+    margin-left: 0px;
+}
+
+.select_seach .select2-container--default .select2-selection--single .select2-selection__rendered {
+    color: #444;
+    line-height: 66px;
+    font-size: 16px;
+    text-indent: 48px;
+}
+
+.search_1.search_uv .box_m_search .index_nganh_nghe .select2-container .select2-selection--single {
+    border-radius: 0px;
+}
+
+.search_uv .box_m_search #index_nganh_nghe,
+.search_uv .box_m_search #index_dia_diem {
+    width: 210px !important;
+}
+
+@media only screen and (max-width: 1024px) {
+    .header_search {
+        margin-top: 65px;
+    }
+
+    .new_banner_th .mobi-bor {
+        width: 100% !important;
+    }
+
+    .search_online {
+        height: 40px;
+        border-radius: 40px;
+        width: 100%;
+        text-align: center;
+    }
+
+    .content_search {
+        width: 95%;
+        display: flex;
+        justify-content: center;
+        flex-wrap: wrap;
+    }
+
+    .banner_tai_app {
+        width: 100%;
+        height: 271px;
+        background: url(../images/ntd_uv_onl/banner_on_mb.png) no-repeat;
+        background-size: contain;
+        background-repeat: round;
+    }
+
+    .tl {
+        display: block;
+    }
+
+    .pc {
+        display: none;
+    }
+
+    .item_on {
+        width: calc(100% - 35px);
+    }
+
+    .inf_tl {
+        width: 50% !important;
+    }
+
+    .item_tai_app {
+        width: 100%;
+        padding-left: 0;
+        justify-content: space-between;
+        padding-top: 200px;
+    }
+
+    .item_tai_app a {
+        margin-right: unset;
+    }
+
+    .left {
+        margin-left: 70px;
+    }
+
+    .right {
+        margin-right: 70px !important;
+    }
+
+    .content_on {
+        margin-left: 24px;
+        margin-right: 24px;
+    }
+
+    .tag a {
+        font-size: 13px;
+        padding: 0 10px;
+    }
+
+    #select2-index_dia_diem-container,
+    #select2-index_nganh_nghe-container {
+        background: unset;
+        color: unset;
+        line-height: 40px;
+    }
+}
+
+@media only screen and (max-width: 890px) {
+    .left {
+        margin-left: 3%;
+    }
+
+    .right {
+        margin-right: 3% !important;
+    }
+
+    .banner_tai_app {
+        background-repeat: no-repeat;
+    }
+
+    .item_tai_app {
+        padding-top: 18%;
+    }
+
+    .banner_tai_app {
+        height: 235px;
+    }
+
+    .inf_tl {
+        width: 100% !important;
+    }
+}
+
+@media only screen and (max-width: 768px) {
+    .item_tai_app a {
+        width: 47%;
+    }
+
+    .tl {
+        width: 100%;
+    }
+
+    .header_search {
+        height: 280px;
+    }
+
+    .header_content {
+        height: 100%;
+    }
+
+    .input_ntd_on,
+    .select_seach,
+    .button_search {
+        width: 100%;
+        height: 51px;
+        border-radius: 8px;
+    }
+
+    .select_seach,
+    .button_search {
+        margin-top: 10px;
+    }
+
+    .select {
+        height: 48px;
+        margin-top: 2px;
+        border-radius: 8px;
+    }
+
+    .tag {
+        display: none;
+    }
+
+    .select_seach .select2-selection--single .select2-selection__rendered {
+        height: 51px !important;
+    }
+
+    .select_seach .select2-container--default .select2-selection--single {
+        line-height: 51px;
+        height: 51px;
+    }
+
+    .select_seach .select2-container--default .select2-selection--single .select2-selection__rendered {
+        line-height: 51px;
+        font-size: 15px;
+        text-indent: 30px;
+    }
+
+    .select_seach .select2-container--default .select2-selection--single .select2-selection__arrow {
+        top: 10px;
+        right: 0px;
+    }
+}
+
+@media only screen and (max-width: 480px) {
+    .banner_tai_app {
+        width: 100%;
+        height: 271px;
+        background: url(../images/ntd_uv_onl/bg_banner.png) no-repeat;
+        background-size: contain;
+        background-repeat: round;
+    }
+
+    .content_download {
+        padding-bottom: 0px;
+    }
+
+    .content_on {
+        margin: 0px;
+    }
+
+    .content {
+        padding-bottom: 20px;
+    }
+
+    .tl {
+        display: none;
+    }
+
+    .mb {
+        display: block;
+    }
+
+    .item_tai_app {
+        width: 100%;
+        height: 100%;
+        padding-left: 0;
+        justify-content: space-between;
+        padding-top: 0px;
+        flex-wrap: wrap;
+    }
+
+    .item_tai_app a {
+        width: 100%;
+        margin: unset !important;
+    }
+
+    .tai_app {
+        display: flex;
+        justify-content: center;
+        flex-wrap: wrap;
+    }
+
+    .tai_app_adr {
+        padding-top: 15px;
+    }
+
+    .address {
+        width: 60%;
+    }
+
+    .chat {
+        width: 20%;
+    }
+
+    .text_dl {
+        color: #FFF;
+        font-size: 18px;
+        text-align: center;
+    }
+
+    .text_dl span {
+        color: #FFE142;
+        font-size: 20px;
+        font-weight: 700;
+    }
+}

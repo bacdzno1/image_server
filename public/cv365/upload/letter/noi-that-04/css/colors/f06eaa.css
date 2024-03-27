@@ -1,0 +1,42 @@
+#form-letter {
+	width: 100%;
+	height: 1130px;
+	float: left;
+	color: #000000;
+	position: relative;
+	background: url(bg4.png)no-repeat;
+	background-size: 100% 100%;
+}
+
+#lt-right {
+	position: relative;
+	float: left;
+	width: 72%;
+	border-bottom: 2px solid #f06eaa;
+}
+
+#lto-name {
+	background: #fff;
+	color: #f06eaa;
+}
+
+#cvo-profile-avatar-wraper {
+	padding: 0;
+	margin: 0;
+	width: 160px;
+	height: 190px;
+	float: left;
+	cursor: pointer;
+	margin-left: 45px;
+	margin-top: 5px;
+	border: 2px solid #f06eaa;
+	border-radius: 5px;
+}
+
+.icf .fa {
+	font-size: 18px;
+	color: #f06eaa;
+	font-weight: normal;
+	margin-top: 0;
+	float: left
+}

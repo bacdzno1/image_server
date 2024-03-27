@@ -1,0 +1,9 @@
+#form-letter{
+
+	background: url('../../nendep119.png') #fff left top repeat-y;
+	background-size: cover; 
+	background-position: -15px 0px;
+	color:#000;
+	border:solid 1px #90c49b;
+	position: relative
+}

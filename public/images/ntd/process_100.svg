@@ -1,0 +1,24 @@
+<svg width="967" height="6" viewBox="0 0 967 6" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g clip-path="url(#clip0_5279_217280)">
+<rect width="967" height="6" rx="3" fill="#DEE2FD"/>
+<g clip-path="url(#clip1_5279_217280)">
+<circle opacity="0.38" cx="2" cy="3" r="1" fill="#474747"/>
+<circle opacity="0.38" cx="120.875" cy="3" r="1" fill="#474747"/>
+<circle opacity="0.38" cx="239.75" cy="3" r="1" fill="#474747"/>
+<circle opacity="0.38" cx="359.625" cy="3" r="2" fill="#474747"/>
+<circle opacity="0.38" cx="480.5" cy="3" r="2" fill="#474747"/>
+<circle opacity="0.38" cx="601.375" cy="3" r="2" fill="#474747"/>
+<circle opacity="0.38" cx="722.25" cy="3" r="2" fill="#474747"/>
+<circle opacity="0.38" cx="843.125" cy="3" r="2" fill="#474747"/>
+<circle opacity="0.38" cx="964" cy="3" r="2" fill="#474747"/>
+</g>
+</g>
+<defs>
+<clipPath id="clip0_5279_217280">
+<rect width="967" height="6" rx="3" fill="white"/>
+</clipPath>
+<clipPath id="clip1_5279_217280">
+<rect width="965" height="4" fill="white" transform="translate(1 1)"/>
+</clipPath>
+</defs>
+</svg>

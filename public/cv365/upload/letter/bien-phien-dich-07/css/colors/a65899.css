@@ -1,0 +1,42 @@
+#form-letter{
+	width: 100%;
+	height: 1130px;
+	float: left;	
+	color:#000000;
+	position: relative;
+	background:url(bg-4.png)no-repeat;
+	background-size: 100% 100%;
+}
+#lt-top h1{	
+	width: 65%;
+	text-transform: uppercase;
+	display: block;
+	font-size: 24px;
+	line-height: 24px;
+	font-weight: bold;
+	margin-top: 10px;
+	text-align: left;
+	color: #a65899;
+	float: left;
+	padding-left: 20px;
+}
+#cvo-profile-avatar-wraper {
+    padding: 0;
+    margin: 0;
+    float: left;
+    width: 160px;
+    height: 165px;
+    cursor: pointer;
+    z-index: 99;
+    border: 4px solid #a65899;
+    border-radius: 5px;
+    margin-left: 15px;
+    margin-bottom: -3px;
+}
+.icf .fa{
+	font-size: 18px;	
+	color:#a65899;	
+	font-weight: normal;
+	margin-top: 0;	
+	float: left
+}

@@ -1,0 +1,54 @@
+#form-letter{
+	width: 100%;
+	height: 1130px;
+	float: left;	
+	color:#000000;
+	position: relative;
+	background: url(form3.png)no-repeat;
+	background-size: 100% 100%;
+}
+#lt-name{	
+    width: 65%;
+    padding: 0;
+    margin: 0;
+    text-transform: uppercase;
+    display: block;
+    font-size: 30px;
+    line-height: 30px;
+    font-weight: bold;
+    text-align: left;
+    color: #f24130;
+	float: right;
+	padding-bottom: 10px;
+}
+#cvo-profile-avatar-wraper {
+padding: 0;
+margin: 0;
+float: left;
+width: 145px;
+height: 150px;
+cursor: pointer;
+margin-left: 65px;
+border: 4px solid #f24130;
+z-index: 99;
+border-radius: 10px;
+}
+.icf .fa{
+	font-size: 18px;	
+	color:#f24130;
+	font-weight: normal;
+	margin-top: 0;	
+	float: left
+}
+#title-job {
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    font-size: 20px;
+    font-weight: bold;
+    color: #f24130;
+    float: left;
+	width: 100%;
+	padding-top: 10px;
+	text-transform: uppercase;
+}

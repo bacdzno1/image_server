@@ -1,0 +1,190 @@
+#page-letter{
+	width: 800px;
+	float: left;
+}
+#form-letter{
+	width: 790px;
+	min-height: 1117px;
+	float: left;	
+	color:#000000;
+	position: relative;
+	background: url('../bg.png') #fff right no-repeat;
+	background-size: auto 100%;
+	border: solid 1px #e1e1e1;
+}
+#form-letter .w{
+	position: relative;	
+	width: 172px;
+	height: 173px;
+	float: left;	
+	margin-right: 30px
+}
+.bar-tool{
+	z-index: 1;
+}
+#form-letter .bg_img{
+	position: absolute;	
+	content:"";
+	top: 0;
+	left: 0;
+	right:0;
+	bottom: 0;
+	background: url('../bg-img.png') center center;	
+}
+#lt-top{		
+	padding: 35px 44px 0px;
+	position: relative;
+	margin-left: 28px;
+	margin-bottom: 20px;
+}
+#lt-content{	
+	position: relative;
+}
+#lt-right{
+	position: relative;
+	width: 88.6%
+}
+#lt-right::after{
+    content: "";
+    position: absolute;
+    width: 0;
+    height: 0;
+    border-bottom: 80px solid transparent;
+    border-top: 80px solid transparent;
+    border-left: 53px solid #ffffff;
+    top: -15px;
+    right: -53px;
+}
+#lt-right ul{		
+	color:#fff;		
+	position: relative
+}
+#lt-right .ir{
+	line-height: 35px;
+}
+#lt-top h1{	
+	text-transform: uppercase;
+	font-size: 28px;
+	font-weight: 500;
+	margin-top: 10px;
+	margin-bottom: 20px;
+	color: #ffb51e;
+}
+#lt-top h2{
+	font-size: 18px;
+	text-transform: capitalize
+}
+.box-01{
+	padding-top: 10px;
+	font-size: 14px;
+	width:480px;
+	float: left;
+	font-weight: 500;
+	text-align: justify;
+}
+
+#lt-content .ir{
+	padding:30px 120px 30px 70px;
+}
+#lt-content p{
+	margin-bottom: 20px
+}
+#lt-content .ir a{
+	color: #323033
+}
+
+#lt-right .info{
+	background: #898989
+}
+#lt-right .box-02{
+	padding: 10px 0px;
+ 	color:#000000;
+		background: #9a9c9b;
+	padding-left: 20px;
+}
+
+#lt-right .box-02::after{
+	content: "";
+    position: absolute;
+    width: 0;
+    height: 0;
+    border-bottom: 63px solid transparent;
+    border-top: 63px solid transparent;
+    border-left: 38px solid #9a9c9b;
+    top: 0;
+    right: -38px;
+    z-index: 9999;
+}
+
+.box-02 .left{
+	width: 57%;
+	float: left;
+	margin-top: 35px;
+}
+.box-02 .left span{
+	width: 300px;
+    display: inline-block;
+    vertical-align: top;
+    padding-left: 15px;
+}
+.box-02 .right{
+	float: left;	
+}
+#lt-right ul li{
+	display: inline-block;
+	padding:10px 20px;	
+}
+#lt-right ul li:first-child{
+	padding-left: 0
+}
+#lt-right ul li:last-child{
+	padding-right: 0
+}
+#lt-right ul li strong{
+	text-transform: uppercase;
+}
+
+.box-02 i.fa{
+	padding-right: 10px;
+	color: #ffffff;
+	font-size: 17px;
+	font-weight: 500;
+}
+#lto-day{
+	font-size: 17px;
+	font-weight: 500;
+	font-style: inherit;
+}
+.ic{
+	float: left;width: 40%;	
+	margin-bottom: 4px;
+}
+
+.iw{
+	width: 60%;
+}
+
+#form-letter .icf{
+	float: left;			
+	font-size: 14px;
+	margin-bottom: 0;
+	width: 26px;	
+	text-align: center;
+	line-height: 24px;	
+}
+.ic .icoweb{
+	float: left;
+	width: 88%;
+	line-height: 24px;
+}
+.icf .fa{
+	font-size: 14px;	
+	color:#000;	
+	font-weight: normal;
+	margin-top: 0;	
+	float: none;
+}
+#form-letter p {
+    margin-top: 0;
+    margin-bottom: 6px;
+}

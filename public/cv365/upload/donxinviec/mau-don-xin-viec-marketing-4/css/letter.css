@@ -1,0 +1,134 @@
+#page-letter{
+	width: 800px;
+	float: left;
+}
+#form-letter{
+	width: 790px;
+	height: 1117px;
+	float: left;
+	background:url('colors/nen42.png') #fff;
+	background-size: 100% 100%;
+	background-position: 0px 0px;
+	color:#000;
+	position: relative;
+	border: solid 1px #e1e1e1;
+}
+#form-letter .w{
+	position: relative;	
+	width: 172px;
+	height: 173px;
+	float: left;	
+	margin-right: 30px
+}
+.bar-tool{
+	z-index: 1;
+}
+#lt-top{		
+	padding-top: 65px;
+	text-align: center;
+	font-size: 18px;
+	line-height: 26px;
+	position: relative;
+	z-index: 99
+}
+
+#lt-content{	
+	min-height: 900px;
+	margin-bottom: 60px;
+	position: relative;
+	font-size: 18px;
+	text-align: justify;
+	line-height: 28px;
+}
+.end_write{
+    float: right;
+    margin-top: 15px;
+    text-align: center;
+    position: relative;
+    z-index: 9;
+    width: 50%;
+}
+#lt-right{
+	position: relative;
+}
+#lt-right ul{		
+	color:#fff;		
+	position: relative
+}
+#lt-right .ir{
+	line-height: 35px;
+}
+#lt-top h1{	
+	text-transform: uppercase;
+	font-weight:500;
+	font-size: 18px;
+	color:#000;
+	margin-top: 10px;
+	margin-bottom: 0px;
+}
+#lt-top h2{
+	font-size: 18px;
+	text-transform: capitalize
+}
+#lt-top p{
+    padding: 0;
+    margin: 0;
+}
+.box-01{
+	padding-top: 10px;
+	font-size: 12px;
+	width:575px;
+	float: left
+}
+
+#lt-content .ir{
+	padding:10px 40px 10px 80px;
+}
+#lt-content p{
+	margin-bottom: 12px
+}
+#lt-content .lt-box p{
+	margin-bottom: 10px;
+	margin-top: 0px;
+}
+#lt-content .ir a{
+	color: #323033
+}
+#lt-right .ir{
+	padding:0 60px
+}
+#lt-right .info{
+	background: #898989
+}
+#lt-right .box-02{
+	padding-top: 20px;
+	color:#005563;
+}
+.box-02 .left{
+	width: 70%;
+	float: left;
+}
+.box-02 .left span{
+	width: 450px;
+    display: inline-block;
+    vertical-align: top
+}
+.box-02 .right{
+	float: right;	
+}
+#lt-right ul li{
+	display: inline-block;
+	padding:10px 20px;	
+}
+#lt-right ul li:first-child{
+	padding-left: 0
+}
+#lt-right ul li:last-child{
+	padding-right: 0
+}
+#lt-right ul li strong{
+	text-transform: uppercase;
+}
+#lt-content .end_write p{
+	margin-top: 0px;
+}

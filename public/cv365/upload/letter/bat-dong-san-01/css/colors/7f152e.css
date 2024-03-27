@@ -1,0 +1,27 @@
+#form-letter {
+	width: 100%;
+	height: 1130px;
+	float: left;
+	color: #000000;
+	position: relative;
+	border-bottom: 30px solid #7f152e;
+}
+
+#bg {
+	float: left;
+	background-repeat: no-repeat;
+	background-position: bottom center;
+	width: 100%;
+	background: #7f152e;
+	margin-bottom: 20px;
+}
+
+.lto-day {
+	padding: 10px 5px;
+	margin-top: 20px;
+	position: relative;
+	clear: both;
+	text-align: right;
+	background: #7f152e;
+	padding-right: 57px;
+}

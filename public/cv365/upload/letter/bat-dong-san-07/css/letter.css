@@ -1,0 +1,194 @@
+#form-letter{
+	width: 100%;
+	height: 1130px;
+	float: left;	
+	color:#000000;
+	position: relative;
+	background: url(bg1.png)no-repeat bottom center;
+	background-size: 100% 100%;
+}
+#cvo-profile-avatar-wraper #cvo-profile-avatar{
+	width: 160px;	
+	height: 160px;	
+	margin:auto;
+	float: none;
+}
+#lt-content{		
+	position: relative;
+	width: 95%;
+	float: right;
+	font-size: 14px;
+	line-height: 24px;
+	text-align: justify;
+	padding: 20px;
+}
+#lt-top{		
+	color: #000000;
+	position: relative;
+	float: left;
+	width: 100%;
+	text-align: center;
+}
+
+#bg{
+	float: left;
+	background-repeat: no-repeat;
+	background-position: bottom center;
+	width: 100%;
+}
+
+#lt-right{
+	position: relative;
+	float: left;
+	width: 100%;
+}
+
+#lt-top h1{	
+	text-transform: uppercase;
+	display: block;
+	font-size: 24px;
+	line-height: 24px;
+	font-weight: bold;
+	margin-top: 10px;
+	margin-bottom: 15px;
+	text-align: left;
+	float: right;
+	width:60%;
+	color: #2f4c73;
+}
+#lt-top h2{
+	font-size: 14px;
+	line-height: 18px;
+	text-transform: capitalize;
+	color: #2f4c73;
+	font-weight: bold;
+	text-align: center;
+	margin-bottom: 10px;
+	width: 60%;
+	float: right;
+}
+.box-01{
+	padding-top: 10px;
+	font-size: 14px;
+	width:100%;
+	float: left;
+	color: #ffffff
+}
+
+#lto-about{
+	margin: 5px 20px;
+	text-align: justify;
+}
+#lt-content .ir{
+	padding: 30px 15px;
+	padding-top: 0;
+	
+}
+#lt-content p{
+	margin-bottom: 20px
+}
+#lt-content .ir a{
+	color: #323033
+}
+
+#lt-right .info{
+	background: #898989
+}
+#lt-right .box-02{	
+    margin-bottom: 0;
+    margin-top: 55px;
+    margin-left: 0;
+    padding-bottom: 10px;
+	padding-left: 20px;
+	padding-top:20px;
+	background: #2f4c73;
+}
+#cvo-profile-avatar-wraper {
+	padding: 0;
+	margin: 0;
+    width: 160px;
+    height: 160px;
+    float: left;
+    cursor: pointer;
+	border:  2px solid #000;
+	border-radius: 5px;
+	margin-left: 55px;
+}
+.box-hvt{
+	padding-top: 50px;
+}
+#lto-day{
+    font-weight: bold;
+	float: right;
+	color: #2f4c73;
+    text-align: right;
+	width: 100%;
+	padding-right: 50px;
+	border-bottom: #2f4c73 2px solid;
+}
+.lto-day{
+    padding: 25px 5px;
+    padding-top: 20px;
+    position: relative;
+    clear: both;
+    text-align: right;
+    width: 100%;
+}
+
+#lto-content{
+	padding: 20px;	
+	line-height: 28px;
+}
+.ic{
+	float: left;
+	width: 40%;	
+	margin-bottom: 8px;
+	text-align: left;
+	margin: 0 10px;
+	border-right: 2px solid #2f4c73;
+}
+.ic:nth-child(3){
+    border-right: unset;
+    width: 53%;
+    float: left;
+    text-align: left;
+}
+.ic:nth-child(2){
+	float: right;
+}
+#form-letter .icf{
+	float: left;			
+	font-size: 18px;
+	margin-bottom: 0;
+	width: 26px;	
+	text-align: left;
+	line-height: 24px;	
+}
+.ic .icoweb{
+	float: left;
+	width: 85%;
+	line-height: 24px;
+	color:#fff;
+}
+.icf .fa{
+	font-size: 18px;	
+	color:#fff;	
+	font-weight: normal;
+	margin-top: 0;	
+	float: left
+}
+#form-letter p {
+    margin-top: 0;
+    margin-bottom: 6px;
+}
+#title-job{
+	text-align: center;
+}
+#content{
+	padding-top: 20px;
+}
+.prof{
+	float: right;
+	width: 65%;
+	padding-top: 35px;
+}

@@ -1,0 +1,50 @@
+#form-letter{
+	width: 100%;
+	height: 1130px;
+	float: left;	
+	color:#000000;
+	position: relative;
+	background:url(bg-2.png)no-repeat;
+	background-size: 100% 100%;
+}
+
+#lt-top h1 {
+    width: 100%;
+    text-transform: uppercase;
+    display: block;
+    font-size: 24px;
+    line-height: 24px;
+    font-weight: bold;
+    text-align: center;
+    color: #ffffff;
+    margin-bottom: 40px;
+    padding: 35px 0;
+    background-color: #867666;
+}
+.lto-day {
+    margin: 0;
+    padding-top: 10px;
+    position: relative;
+    clear: both;
+    text-align: left;
+    padding-left: 25px;
+    padding-bottom: 5px;
+    background-color: #867666;
+    color: #fff;
+    float: left;
+    width: 94%;
+    padding-right: 25px;
+    margin-bottom: 15px;
+    margin-top: 15px;
+}
+#lt-right {
+    margin: 0;
+    width: 55%;
+    position: relative;
+    float: right;
+    background-color: #867666;
+    padding: 20px 0 20px 15px;
+    border-top-left-radius: 10px;
+    border-bottom-left-radius: 10px;
+    color: #fff;
+}

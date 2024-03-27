@@ -1,0 +1,36 @@
+#form-letter{
+	width: 100%;
+	height: 1130px;
+	float: left;	
+	color:#000000;
+	position: relative;
+	background:url(bg-3.png)no-repeat;
+	background-size: 100% 100%;
+}
+#lt-top {
+    color: #000000;
+    position: relative;
+    float: left;
+    width: 100%;
+    text-align: left;
+    padding-bottom: 25px;
+    border-bottom: 4px solid #bf7373;
+}
+#lt-top h1 {
+    width: 100%;
+    text-transform: uppercase;
+    display: block;
+    font-size: 30px;
+    line-height: 24px;
+    font-weight: bold;
+    text-align: center;
+    color: #bf7373;
+    padding: 25px 0;
+}
+.icf .fa {
+    font-size: 18px;
+    color: #bf7373;
+    font-weight: normal;
+    margin-top: 0;
+    float: left;
+}

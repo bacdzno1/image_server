@@ -1,0 +1,7 @@
+#lt-content,#lt-top{
+	background: #157d4b;
+}
+
+#lt-top #bg_head{		
+	background: url('../../bh3.png') top center no-repeat;	
+}

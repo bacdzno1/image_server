@@ -1,0 +1,69 @@
+#form-letter{
+	width: 100%;
+	height: 1130px;
+	float: left;	
+	color:#000000;
+	position: relative;
+	    background: url(bg2.png)no-repeat;
+    background-size: 100% 100%;
+}
+.lto-day {
+    margin: 0;
+    position: relative;
+    clear: both;
+    text-align: right;
+    width: 45%;
+    padding-left: 20px;
+    margin-right: 25px;
+    padding: 10px;
+    float: right;
+    color: #fff;
+    background: url(icon2.png)no-repeat;
+    background-size: 100% 100%;
+}
+#lt-name{	
+    width: 100%;
+    padding: 0;
+    margin: 0;
+    text-transform: uppercase;
+    display: block;
+    font-size: 30px;
+    line-height: 30px;
+    font-weight: bold;
+    text-align: left;
+    color: #009f4e;
+    float: left;
+    padding-bottom: 20px;
+}
+#cvo-profile-avatar-wraper {
+    padding: 0;
+    margin: 0;
+    float: left;
+    width: 165px;
+    height: 165px;
+    cursor: pointer;
+    margin-left: 40px;
+    border: 4px solid #009f4e;
+    z-index: 99;
+    border-radius: 10px;
+    margin-top: 17px;
+}
+.icf .fa{
+	font-size: 18px;	
+	color:#009f4e;
+	font-weight: normal;
+	margin-top: 0;	
+	float: left
+}
+#title-job {
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    font-size: 20px;
+    font-weight: bold;
+    color: #009f4e;
+    float: left;
+	width: 100%;
+	padding-top: 20px;
+	text-transform: uppercase;
+}

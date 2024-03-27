@@ -1,0 +1,196 @@
+#page-letter{
+	width: 800px;
+	float: left;
+}
+#form-letter{
+	width: 730px;
+	min-height: 1057px;
+	float: left;	
+	color:#000000;
+	position: relative;
+	background: #f7ab9b;
+	padding: 30px;
+}
+#content{
+	background: #fff;
+	border-radius: 23px;
+}
+#form-letter .w{
+	position: relative;	
+	width: 172px;
+	height: 173px;
+	float: left;	
+	margin-right: 30px
+}
+.bar-tool{
+	z-index: 1;
+}
+#form-letter .bg_img{
+	position: absolute;	
+	content:"";
+	top: 0;
+	left: 0;
+	right:0;
+	bottom: 0;
+	background: url('../bg-img.png') center center;	
+}
+#cvo-profile-avatar-wraper #cvo-profile-avatar{
+	width: 190px;
+	height: 190px;
+}
+#lt-top{		
+	color: #000000;
+	padding: 35px 60px;
+	padding-bottom: 20px;
+	position: relative;
+}
+#lt-content{	
+	position: relative;
+}
+#lt-right{
+	position: relative;
+}
+#lt-right ul{		
+	color:#fff;		
+	position: relative
+}
+#lt-right .ir{
+	line-height: 35px;
+}
+#lt-top h1{	
+	text-transform: uppercase;
+	font-size: 22px;
+	line-height: 22px;
+	font-weight: 500;
+	color:#01b0f1;	
+	margin: 0px;
+	margin-top: 10px;
+	margin-bottom: 5px;
+}
+#lt-top h2{
+	font-size: 14px;
+	line-height: 16px;
+	text-transform: capitalize;
+	color: #c0948b;
+	font-weight: 500;
+	margin: 0px;
+}
+.box-01{
+	padding-top: 10px;
+	font-size: 12px;
+	width:100%;
+	float: left;
+	font-weight: 500;
+	margin-left: 0px;
+}
+
+
+#lt-content .ir{
+	padding:20px 60px;
+}
+#lt-content p{
+	margin-bottom: 20px
+}
+#lt-content .ir a{
+	color: #323033
+}
+#lt-right .ir{
+	padding:0 60px;
+}
+#lt-right .info{
+	background: #898989
+}
+#lt-right .box-02{
+	padding-top: 10px;
+	padding-bottom: 10px;
+	color:#000000;
+	border-top: dashed 1px #c0948b;
+	border-bottom: dashed 1px #c0948b;
+}
+#lt-right .box-02 i{
+	color: #64b7f9;
+}
+
+#cvo-profile-avatar-wraper {
+float: left;
+    padding: 0;
+    width: 190px;
+    margin-right: 60px;
+}
+
+.div_left{
+	width: 37%;
+	float: left;
+	padding: 0px;
+	margin:0px;
+}
+
+.div_right{
+	width: 63%;
+	float: left;
+	padding: 0px;
+	margin:0px;
+}
+
+
+.box-02 .left{
+	width: 60%;
+	float: left;
+}
+.box-02 .left span{
+	width: 350px;
+    display: inline-block;
+    vertical-align: top
+}
+.box-02 .right{
+	float: left;	
+	width: 100%;
+}
+#lt-right ul li{
+	display: inline-block;
+	padding:10px 20px;	
+}
+#lt-right ul li:first-child{
+	padding-left: 0
+}
+#lt-right ul li:last-child{
+	padding-right: 0
+}
+#lt-right ul li strong{
+	text-transform: uppercase;
+}
+
+
+
+.ic{
+	float: left;width: 50%;	
+	margin-bottom: 4px;
+	width: 40%;
+}
+.iw{
+	width: 60%;
+}
+#form-letter .icf{
+	float: left;			
+	font-size: 14px;
+	margin-bottom: 0;
+	width: 26px;	
+	text-align: center;
+	line-height: 24px;	
+	color: #64b7f9;
+}
+.ic .icoweb{
+	float: left;
+	width: 88%;
+	line-height: 24px;
+}
+.icf .fa{
+	font-size: 14px;	
+	font-weight: normal;
+	margin-top: 0;	
+	float: none
+}
+#form-letter p {
+    margin-top: 0;
+    margin-bottom: 6px;
+}

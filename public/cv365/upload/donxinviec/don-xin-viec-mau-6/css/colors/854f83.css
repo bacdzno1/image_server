@@ -1,0 +1,6 @@
+#form-letter{
+	background: url('../../bg_top3.png') #fff top center no-repeat;
+}
+#form-letter .lr{
+	background: url('../../bg_bot3.png') bottom center no-repeat;
+}

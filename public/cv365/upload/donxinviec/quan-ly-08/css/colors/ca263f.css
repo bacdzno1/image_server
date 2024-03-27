@@ -1,0 +1,9 @@
+#form-letter {
+    width: 790px;
+    height: 1130px;
+	float: left;	
+	background: url(form3.png)no-repeat;
+	background-size: 100% 100%;
+	color:#000;
+	position: relative;
+}

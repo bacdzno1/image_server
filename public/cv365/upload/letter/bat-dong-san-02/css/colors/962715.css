@@ -1,0 +1,49 @@
+.lto-day {
+	padding: 10px 5px;
+	padding-top: 20px;
+	position: relative;
+	clear: both;
+	text-align: right;
+	padding-right: 40px;
+	color: #962715;
+}
+
+.ic {
+	margin: 0;
+	padding: 0;
+	float: left;
+	width: 100%;
+	margin-bottom: 8px;
+	text-align: center;
+	background: #962715;
+	border-radius: 10px;
+	padding: 10px;
+}
+
+#lto-name {
+	color: #962715;
+	font-weight: bold;
+	padding-left: 20px;
+}
+
+#title-job {
+	text-align: center;
+	color: #962715;
+}
+
+#form-letter {
+	width: 100%;
+	height: 1130px;
+	float: left;
+	color: #000000;
+	position: relative;
+	background: url(ft3.png)no-repeat bottom center;
+	background-size: contain;
+}
+
+#content {
+	padding-right: 20px;
+	padding-left: 55px;
+	padding-top: 20px;
+	background: url(hd3.png)no-repeat;
+}

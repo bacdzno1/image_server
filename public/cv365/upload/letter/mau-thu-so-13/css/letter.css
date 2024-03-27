@@ -1,0 +1,149 @@
+#form-letter{
+	width: 790px;
+	height: 1117px;
+	float: left;	
+	color:#000000;
+	position: relative;
+	border: solid 1px #e1e1e1;
+	background: #fff;
+}
+#cvo-profile-avatar-wraper #cvo-profile-avatar{
+	width: 160px;	
+	height: 160px;	
+	margin:auto;
+	float: none;
+}
+#lt-content{		
+	position: relative;
+	width: 64.99%;
+	float: right;
+	background: url('../bg.png');	
+	font-size: 14px;
+	line-height: 24px;
+}
+#lt-top{		
+	color: #000000;
+	position: relative;
+	float: right;
+	padding: 0 6px;
+
+}
+
+#bg{
+	float: right;
+	background-image: url('../bot.png');
+	background-repeat: no-repeat;
+	background-position: bottom center;
+	background-color: #61909f;
+	width: 35%;
+	height: 1117px;
+}
+
+#lt-right{
+	position: relative;
+	float: right;
+}
+
+#lt-top h1{	
+	text-transform: uppercase;
+	display: block;
+	font-size: 24px;
+	line-height: 24px;
+	font-weight: bold;
+	color:#ffffff;	
+	margin-top: 10px;
+	margin-bottom: 15px;
+	text-align: center;
+}
+#lt-top h2{
+	font-size: 14px;
+	line-height: 18px;
+	text-transform: capitalize;
+	color: #ffffff;
+	font-weight: bold;
+	text-align: center;
+	margin-bottom: 10px;
+	margin-top: 0
+}
+.box-01{
+	padding-top: 10px;
+	font-size: 14px;
+	width:100%;
+	float: left;
+	color: #ffffff
+}
+
+#lto-about{
+	margin: 5px 20px;
+	text-align: justify;
+}
+#lt-content .ir{
+	padding: 30px 15px;
+}
+#lt-content p{
+	margin-bottom: 20px
+}
+#lt-content .ir a{
+	color: #323033
+}
+
+#lt-right .info{
+	background: #898989
+}
+#lt-right .box-02{	
+	color:#ffffff;	
+	border-top: 3px solid #ee7d31;
+	margin:20px;
+	padding-top: 20px;
+}
+#cvo-profile-avatar-wraper {
+	margin:30px auto;
+    padding: 0;
+    float: none;
+    width: 160px;
+    height: 160px;
+    cursor: pointer;
+}
+#lto-day{
+	font-weight: bold;
+	font-style: italic;
+}
+.lto-day{
+	background: #ee7d31;
+	padding: 10px 5px;	
+	position: relative;
+	margin-left: -30px;
+	z-index: 999;
+}
+
+#lto-content{
+	padding: 10px;	
+}
+.ic{
+	float: left;width: 100%;	
+	margin-bottom: 8px;
+}
+#form-letter .icf{
+	float: left;			
+	font-size: 14px;
+	margin-bottom: 0;
+	width: 26px;	
+	text-align: center;
+	line-height: 24px;	
+}
+.ic .icoweb{
+	float: left;
+	width: 88%;
+	line-height: 24px;
+}
+.icf .fa{
+	font-size: 14px;	
+	color:#ee7d31;	
+	font-weight: normal;
+	margin-top: 0;	
+	float: none
+}
+#form-letter p {
+    margin-top: 0;
+    margin-bottom: 6px;
+}

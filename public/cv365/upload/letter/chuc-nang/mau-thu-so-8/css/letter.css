@@ -1,0 +1,213 @@
+#page-letter{
+	width: 800px;
+	float: left;
+}
+#form-letter{
+	width: 790px;
+	min-height: 1117px;
+	float: left;	
+	color:#051e2e;
+	position: relative;
+	border: solid 1px #e1e1e1;
+	font-weight: 500;
+}
+#form-letter .w{
+	position: relative;	
+	width: 172px;
+	height: 173px;
+	float: left;	
+	margin-right: 30px
+}
+.bar-tool{
+	z-index: 1;
+}
+
+#lt-top{		
+	padding: 56px 44px 0px;
+	position: relative;
+	background: url('../bg.png') #fff top center no-repeat;
+	background-size: 100% auto;
+	float: left;
+}
+#lt-content{	
+	position: relative;
+	float: left;
+
+}
+#lt-right{
+	position: relative;
+	background: #f3ffff;
+	padding: 0px;
+	float: left;
+	margin: 0px;
+	margin-top: 10px;
+	width: 100%;
+
+}
+#lt-right ul{		
+	color:#fff;		
+	position: relative
+}
+#lt-right .ir{
+	line-height: 35px;
+	float: left;
+
+}
+#lt-top h1{	
+	text-transform: uppercase;
+	font-size: 28px;
+	font-weight: 500;
+	margin-top: 10px;
+	color: #051e2e;
+	float: left;
+	width: 100%;
+	margin-top: 40px;
+
+
+}
+#lt-top h2{
+	font-size: 18px;
+	text-transform: capitalize;
+	float: left;
+	width: 100%;
+	color: #00b8ae;
+}
+.box-01{
+	padding-top: 10px;
+	font-size: 14px;
+	float: left;
+	font-weight: 500;
+	width: 100%;
+}
+
+#lt-content .ir{
+	padding:20px 77px;
+}
+#lt-content p{
+	margin-bottom: 20px
+}
+#lt-content .ir a{
+	color: #323033
+}
+#lt-right .ir{
+    padding: 0 10%;
+    width: 80%;
+}
+#lt-right .info{
+	background: #898989
+}
+#lt-right .box-02{
+	padding: 10px 0px;
+	color:#051e2e;
+	margin:0px;
+	float: left;
+}
+.box-02 .left{
+	width: 70%;
+	float: left;
+	padding-top: 35px;
+	margin: 0px;
+}
+.box-02 .left span{
+	width: 390px;
+    display: inline-block;
+    vertical-align: top;
+    padding-left: 15px;
+	margin: 0px;
+
+}
+.box-02 .right{
+	float: left;	
+	width: 100%;
+	text-align: right;
+}
+#lt-right ul li{
+	display: inline-block;
+	padding:10px 20px;	
+}
+#lt-right ul li:first-child{
+	padding-left: 0
+}
+#lt-right ul li:last-child{
+	padding-right: 0
+}
+#lt-right ul li strong{
+	text-transform: uppercase;
+}
+
+.box-02 i.fa{
+	padding-right: 10px;
+	color: #00b8ac;
+	font-size: 17px;
+	font-weight: 500;
+}
+#lto-day{
+	font-size: 15px;
+	font-weight: 500;
+	font-style: inherit;
+}
+
+
+#cvo-profile-avatar{
+	margin-top: 40px;
+	float: right!important;
+	width: 190px!important;
+	height: 190px!important;
+	border: solid 1px!important;
+
+}
+
+#cvo-profile-avatar-wraper{
+	width: 30%;
+	position: relative;
+	/*padding-right: 55px;*/
+	margin: 0px;
+	float: left;
+}
+
+div#ffoo{
+	background: url('../bg1.png') center center no-repeat;
+	height: 80px;
+	background-size: 100% auto;
+	width: 100%;
+	float: left;
+}
+.gt_l{
+    float: left;
+    width: 65%;
+    padding-left: 25px;
+}
+
+.ic{
+	float: left;width: 40%;	
+	margin-bottom: 4px;
+}
+
+.iw{
+	width: 60%;
+}
+
+#form-letter .icf{
+	float: left;			
+	font-size: 14px;
+	margin-bottom: 0;
+	width: 26px;	
+	text-align: center;
+	line-height: 24px;	
+}
+.ic .icoweb{
+	float: left;
+	width: 88%;
+	line-height: 24px;
+}
+.icf .fa{
+	font-size: 14px;	
+	color:#000;	
+	font-weight: normal;
+	margin-top: 0;	
+	float: none;
+}
+#form-letter p {
+    margin-top: 0;
+    margin-bottom: 6px;
+}

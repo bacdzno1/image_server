@@ -1,0 +1,29 @@
+#form-letter{
+	width: 100%;
+	height: 1130px;
+	float: left;	
+	color:#000000;
+	position: relative;
+	background:url(bg4.png)no-repeat;
+	background-size: 100% 100%;
+}
+#lt-top h1 {
+	width: 60%;
+	text-transform: uppercase;
+	display: block;
+	font-size: 24px;
+	line-height: 30px;
+	font-weight: bold;
+	text-align: left;
+	color: #96c141;
+	float: left;
+	padding-left: 150px;
+}
+
+.icf .fa{
+	font-size: 18px;	
+	color:#96c141;
+	font-weight: normal;
+	margin-top: 0;	
+	float: left
+}

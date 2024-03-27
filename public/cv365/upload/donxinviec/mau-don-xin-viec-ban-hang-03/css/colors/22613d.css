@@ -1,0 +1,28 @@
+#lt-top{		
+	color: #22613d;
+	padding-top: 150px;
+	text-align: center;
+	font-size: 18px;
+	line-height: 30px;
+	position: relative;
+	z-index: 99;
+}
+#lt-top h1{	
+	text-transform: uppercase;
+	font-weight:500;
+	font-size: 18px;
+	color:#22613d;
+	margin: 0px
+}
+.text{
+	text-align: center;
+	color: #22613d;
+}
+#form-letter {
+    width: 100%;
+    min-height: 1117px;
+	float: left;	
+	color:#000;
+	background: url(form1.png)no-repeat;
+	background-size: 100% 100%;
+}

@@ -1,0 +1,181 @@
+#page-letter{
+	width: 800px;
+	float: left;
+}
+#form-letter{
+	width: 792.5px;
+	min-height: 1117px;
+	float: left;	
+	color:#005563;
+	position: relative;
+	background-color: #fff;
+}
+#form-letter .w{
+	position: relative;	
+	width: 172px;
+	height: 173px;
+	float: left;	
+	margin-right: 30px
+}
+.bar-tool{
+	z-index: 1;
+}
+#form-letter .bg_img{
+	position: absolute;	
+	content:"";
+	top: 0;
+	left: 0;
+	right:0;
+	bottom: 0;
+	background: url('../bg-img.png') center center;	
+}
+#lt-top{		
+	color: #fff;
+	padding: 30px 50px;
+	background:  #005563;
+	position: relative;
+}
+#lt-content{	
+	position: relative;
+}
+#lt-right{
+	position: relative;
+}
+#lt-right ul{		
+	color:#fff;		
+	position: relative
+}
+#lt-right .ir{
+	line-height: 35px;
+}
+#lt-top h1{	
+	text-transform: uppercase;
+	font-size: 28px;
+	font-weight: 500;
+	color:#fff;	
+	margin-top: 10px
+}
+#lt-top h2{
+	font-size: 18px;
+	text-transform: capitalize
+}
+.box-01{
+	padding-top: 10px;
+	font-size: 12px;
+	width:100%;
+	float: left
+}
+
+#cvo-profile-avatar-wraper {
+float: left;
+    padding: 0;
+    width: 172px;
+    margin-right: 60px;
+}
+#cvo-profile-avatar-wraper #cvo-profile-avatar{
+	width: 172px;
+	height: 172px;
+}
+
+.div_left{
+	width: 37%;
+	float: left;
+	padding: 0px;
+	margin:0px;
+}
+
+.div_right{
+	width: 63%;
+	float: left;
+	padding: 0px;
+	margin:0px;
+}
+
+#lt-content .ir{
+	padding:25px 50px;
+	padding-bottom: 0px;
+}
+#lt-content p{
+	margin-bottom: 20px
+}
+#lt-content .ir a{
+	color: #323033
+}
+#lt-right .ir{
+	padding:0 50px
+}
+#lt-right .info{
+	background: #898989
+}
+#lt-right .box-02{
+	padding-top: 20px;
+	color:#005563;
+}
+.box-02 .left{
+	width: 70%;
+	float: left;
+}
+.box-02 .left span{
+	width: 450px;
+    display: inline-block;
+    vertical-align: top
+}
+.box-02 .right{
+	float: left;	
+	width: 100%
+}
+#lt-right ul li{
+	display: inline-block;
+	padding:10px 20px;	
+}
+#lt-right ul li:first-child{
+	padding-left: 0
+}
+#lt-right ul li:last-child{
+	padding-right: 0
+}
+#lt-right ul li strong{
+	text-transform: uppercase;
+}
+
+.ic{
+	float: left;width: 50%;	
+	margin-bottom: 4px;
+}
+#form-letter .icf{
+	float: left;			
+	font-size: 14px;
+	margin-bottom: 0;
+	width: 26px;	
+	text-align: center;
+	line-height: 24px;	
+}
+.ic .icoweb{
+	float: left;
+	width: 88%;
+	line-height: 24px;
+}
+.icf .fa{
+	font-size: 14px;	
+	color:#000;	
+	font-weight: normal;
+	margin-top: 0;	
+	float: none;
+}
+#form-letter p {
+    margin-top: 0;
+    margin-bottom: 6px;
+}
+
+#ft{
+height: 150px;
+    float: left;
+    width: 100%;
+    margin: 0px;
+    background-image: url(../bg_letter.jpg);
+    background-color: #fff;
+    background-position: top center;
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+

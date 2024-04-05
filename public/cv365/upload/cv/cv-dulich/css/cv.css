@@ -1,0 +1,85 @@
+* {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    box-sizing: border-box;
+}
+
+#form-cv {
+    border-top: 16px solid #ffea2c;
+    padding: 16px 16px 0;
+}
+
+.box-01 {
+    display: flex;
+}
+
+#cvo-profile-avatar-wraper {
+    display: flex;
+    justify-content: center;
+    width: 336px;
+}
+
+.wimg {
+    width: 245px;
+    height: 250px;
+}
+
+#box-introduce {
+    width: 390px;
+    padding: 0 0 16px 16px;
+    border-left: 2px solid #000;
+}
+
+#box-introduce::after {}
+
+#box-hvt {
+    padding: 8px 0 16px 16px;
+    border-bottom: 1px solid #1e1e1f;
+    text-transform: uppercase;
+}
+
+#box-hvt h1 {
+    font-weight: 600;
+}
+
+#box-hvt h1,
+#box-hvt h2 {
+    color: #1b1c1e;
+    font-family: "Roboto";
+}
+
+#box01 {
+    padding: 16px 0 16px 16px;
+}
+
+.tt-box1 {
+    display: none;
+}
+
+#prof {
+    display: flex;
+    flex-direction: column;
+    gap: 16px;
+}
+
+.box-gender-birthday {
+    display: flex;
+    gap: 60px;
+}
+
+#prof .ic {
+    display: flex;
+    gap: 16px;
+    font-family: "Roboto";
+    font-size: 14px;
+    line-height: 22px;
+    font-weight: 400;
+    color: #000;
+}
+
+#prof .fa {
+    font-size: 18px;
+    font-weight: 500;
+    color: #000;
+}

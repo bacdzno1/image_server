@@ -16,30 +16,32 @@
   color: #000;
   margin-bottom: 20px;
 }
+
 #box03 .exp {
   float: left;
   margin: 0;
   width: 100%;
-  padding-bottom: 30px;
-  padding-top: 10px;
+  padding: 10px 0;
 }
 
 #cvo-profile {
   display: block;
 }
+
 .chu {
   float: right;
   width: 68.5%;
   margin-right: 10px;
 }
+
 #cv-content {
-  width: 49.9%;
+  width: 41.5%;
   text-align: justify;
   float: right;
   position: relative;
   padding: 0;
   margin: 0;
-  margin-right: 0;
+  margin-right: 30px;
 }
 
 #cv-main {
@@ -48,30 +50,35 @@
   padding: 0;
   position: relative;
   float: left;
-  width: 30.5%;
-  margin-left: 61px;
+  width: 41.5%;
+  margin-left: 30px;
 }
 
 #cv-right .ir {
   padding: 0;
   margin: 0;
 }
+
 #cv-main #cv-right {
   padding: 0;
   margin: 0;
   float: left;
   width: 100%;
 }
+
 #cv-main #cv-right .ir #sortable {
   padding: 0;
   margin: 0;
 }
+
 #cv-right .ir #sortable .block {
   padding: 0;
   margin: 0;
   float: left;
   width: 100%;
+  margin-bottom: 12px;
 }
+
 p.skill-name input {
   color: #fff !important;
 }
@@ -94,12 +101,14 @@ p.skill-name input {
   background-repeat: no-repeat;
   position: relative;
 }
+
 .all {
   padding-top: 20px;
   float: left;
   clear: both;
   width: 100%;
 }
+
 #cv-top h1 {
   padding: 0;
   margin: 0;
@@ -115,11 +124,14 @@ p.skill-name input {
   float: left;
   padding-bottom: 5px;
 }
-#cv-top h1 span, #cv-top h2 span {
+
+#cv-top h1 span,
+#cv-top h2 span {
   letter-spacing: 1px;
   float: right;
   width: auto;
 }
+
 #box-hvt {
   float: right;
   width: 40%;
@@ -127,6 +139,7 @@ p.skill-name input {
   margin: 0;
   margin: 30px 30px 0 0;
 }
+
 #cv-right .cvo-block .head div {
   color: #fff;
 }
@@ -174,6 +187,7 @@ p.skill-name input {
   line-height: 20px;
   padding-top: 0px;
 }
+
 #cv-content h3 {
   font-size: 14px;
   line-height: 24px;
@@ -186,22 +200,11 @@ p.skill-name input {
   margin-bottom: 10px;
 }
 
-#cv-content #block01 h3 {
-  color: #000000;
-  text-transform: uppercase;
-  width: 84%;
-}
-#cv-content #block02 h3 {
-  color: #000000;
-  text-transform: uppercase;
-}
-#cv-content #block04 h3 {
-  color: #000000;
-  text-transform: uppercase;
-}
+#cv-content #block01 h3,
+#cv-content #block02 h3,
+#cv-content #block04 h3,
 #cv-content #block05 h3 {
   color: #000000;
-  text-transform: uppercase;
 }
 
 #cv-content #block02 .exp-content {
@@ -209,11 +212,13 @@ p.skill-name input {
   padding: 0;
   padding-left: 0px;
 }
+
 #cv-content #block03 h3 {
   color: #000000;
   font-weight: unset;
   text-transform: unset;
 }
+
 #cv-content .exp-date {
   float: none;
 }
@@ -240,16 +245,14 @@ p.skill-name input {
 }
 
 #cv-content .cvo-block {
-  padding: 0 !important;
   float: left;
   width: 100%;
-}
-#cv-content .ir .cvo-block {
   padding: 0;
+  margin-bottom: 12px;
 }
 
 #cv-content span {
-  display: inline-block;
+  display: inline;
   z-index: 9999;
 }
 
@@ -283,15 +286,19 @@ p.skill-name input {
 #cv-profile-sex::before {
   color: #000;
 }
+
 #cv-profile-birthday::before {
   color: #000;
 }
+
 #cv-profile-address::before {
   color: #000;
 }
+
 #cv-profile-email::before {
   color: #000;
 }
+
 #cv-profile-phone::before {
   color: #000;
 }
@@ -302,39 +309,30 @@ p.skill-name input {
   border-radius: 50%;
   overflow: hidden;
 }
+
 #cvo-profile-avatar-wraper img {
   width: 184px;
   height: 186px;
   float: left;
 }
-#cvo-profile .box-dm {
-  width: 251px;
-  height: 255px;
-  margin-left: 55px;
-  margin-top: -228.1px;
-  float: left;
-  display: table;
-  background: url(avata.png) no-repeat;
-  background-size: 100% 100%;
-  clear: both;
-  z-index: 1;
-  top: -800px;
-  position: absolute;
-}
+
 .box-01 {
   position: relative;
   float: left;
   width: 100%;
   height: 300px;
 }
+
 #cvo-profile {
   display: block;
   float: left;
   width: 100%;
 }
+
 #line-seperate {
   height: 25px;
 }
+
 .ctbx .skill-name {
   margin: 0px;
   padding: 0px;
@@ -381,9 +379,11 @@ p.skill-name input {
   float: left;
   color: #fff;
 }
+
 #sortable .ic {
   margin: 0;
 }
+
 .ic {
   display: flex;
   align-items: center;
@@ -393,14 +393,17 @@ p.skill-name input {
   margin: 0;
   padding-bottom: 10px;
 }
+
 #prof [contentEditable="true"] {
   width: 100%;
   float: left;
 }
+
 #prof .icoweb,
 #prof .icoweb span {
   height: auto;
 }
+
 div#prof {
   float: left;
   width: 100%;
@@ -408,6 +411,7 @@ div#prof {
 
 div#prof .ic_group {
   display: flex;
+  gap: 10px;
 }
 
 #form-cv .icf1 {
@@ -421,6 +425,7 @@ div#prof .ic_group {
   background-position: left;
   background-size: 80% 80%;
 }
+
 #form-cv .icf2 {
   float: left;
   margin-bottom: 0;
@@ -432,6 +437,7 @@ div#prof .ic_group {
   background-position: left;
   background-size: 80% 80%;
 }
+
 #form-cv .icf3 {
   float: left;
   margin-bottom: 0;
@@ -443,6 +449,7 @@ div#prof .ic_group {
   background-position: left;
   background-size: 80% 80%;
 }
+
 #form-cv .icf4 {
   float: left;
   margin-bottom: 0;
@@ -454,6 +461,7 @@ div#prof .ic_group {
   background-position: left;
   background-size: 80% 80%;
 }
+
 #form-cv .icf5 {
   float: left;
   margin-bottom: 0;
@@ -486,12 +494,14 @@ div#prof .ic_group {
   width: 100%;
   height: 30px;
 }
+
 #cv-right .block {
   margin-bottom: 10px;
   position: relative;
   padding: 0;
   padding-bottom: 20px;
 }
+
 #cv-content .head {
   padding: 0;
   margin: 0 auto;
@@ -501,8 +511,7 @@ div#prof .ic_group {
   width: 100%;
 }
 
-#experience-table .ctbx {
-}
+#experience-table .ctbx {}
 
 .ifo {
   margin: 0;
@@ -531,12 +540,9 @@ div#prof .ic_group {
   font-weight: bold;
   width: 70%;
   font-size: 18px;
-  margin-top: 15px;
-  padding-bottom: 5px;
 }
 
-#exp1 .exp-content {
-}
+#exp1 .exp-content {}
 
 #bg {
   background: #f58284;
@@ -544,46 +550,146 @@ div#prof .ic_group {
 }
 
 div#experience-table {
-  margin: 0px;
+  margin-top: 10px;
   width: 100%;
   float: left;
   color: #000;
 }
 
-.tt-box1 {
-  margin: 0 auto;
-  height: 35px;
-  width: 100%;
-  float: left;
-  line-height: 35px;
-  color: #3f5b66;
-}
 div#cv-boxtitle {
   font-size: 18px;
   font-weight: bold;
   text-transform: uppercase;
-  text-align: center;
   float: left;
   width: 100%;
   /*display: none;*/
 }
-.ski {
+
+.cum,
+.ski,
+.head {
+  position: relative;
+  display: flex;
+  gap: 12px;
+  align-items: center;
   padding: 0;
   margin: 0 auto;
   height: 35px;
   width: 100%;
   float: left;
   line-height: 35px;
-  color: #3f5b66;
+  color: #3d4853;
 }
-.cum {
-  padding: 0;
-  margin: 0 auto;
-  height: 35px;
+
+.cum::after,
+.ski::after,
+.head::after {
+  position: absolute;
+  content: "";
+  bottom: 0;
+  left: 0;
+  height: 2px;
   width: 100%;
-  float: left;
-  line-height: 35px;
-  color: #3f5b66;
+  background-color: #3d4853;
+}
+
+#form-cv .cumicc2 {
+  width: 25px;
+  height: 25px;
+  background-image: url(target.svg);
+  background-position: left;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+}
+
+#form-cv .cumicc3 {
+  width: 25px;
+  height: 25px;
+  background-image: url(skill.svg);
+  background-position: left;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+}
+
+#form-cv .cumicc4 {
+  width: 25px;
+  height: 25px;
+  background-image: url(reward.svg);
+  background-position: left;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+}
+
+#form-cv .cumicc5 {
+  width: 25px;
+  height: 25px;
+  background-image: url(certificate.svg);
+  background-position: left;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+}
+
+#form-cv .cumicc6 {
+  width: 25px;
+  height: 25px;
+  background-image: url(hobby.svg);
+  background-position: left;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+}
+
+#form-cv .cumicc7 {
+  width: 25px;
+  height: 25px;
+  background-image: url(reference.svg);
+  background-position: left;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+}
+
+#form-cv .icright1 {
+  width: 25px;
+  height: 25px;
+  background-image: url(graduate.svg);
+  background-position: left;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+}
+
+#form-cv .icright2 {
+  width: 25px;
+  height: 25px;
+  background-image: url(experience.svg);
+  background-position: left;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+}
+
+#form-cv .icright3 {
+  width: 25px;
+  height: 25px;
+  background-image: url(activity.svg);
+  background-position: left;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+}
+
+#form-cv .icright4 {
+  width: 25px;
+  height: 25px;
+  background-image: url(project.svg);
+  background-position: left;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+}
+
+#form-cv .icright5 {
+  width: 25px;
+  height: 25px;
+  background-image: url(more.svg);
+  background-position: left;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
 }
 
 div#box01 {
@@ -593,17 +699,21 @@ div#box01 {
   margin-top: 30px !important;
 }
 
+div#box01:hover {
+  box-shadow: none;
+}
+
 .footer {
-  background: url(footer1.png) no-repeat;
-  background-size: 100% 100%;
   height: 60px;
   float: left;
   width: 100%;
 }
+
 div#sort_block {
   padding: 0;
   margin: 0;
 }
+
 .cvo-block .blockControls {
   margin: 0px;
   padding: 0px 5px;
@@ -640,6 +750,7 @@ div#sort_block {
   float: left;
   border-radius: 10px;
 }
+
 .bar-exp div {
   float: left;
   padding: 0px;
@@ -651,6 +762,7 @@ div#sort_block {
   margin-top: 0px;
   border-radius: 10px;
 }
+
 #cvo-profile-avatar {
   width: 190px;
   height: 190px;

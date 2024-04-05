@@ -1,0 +1,219 @@
+* {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-size: 100%;
+}
+
+#page-cv {
+    max-width: 790px;
+    margin: 0;
+
+    /* border: 1px solid #ccc; */
+}
+
+#cv-title {
+    text-align: center;
+    font-weight: 500;
+    text-transform: uppercase;
+}
+
+#form-cv {
+    width: 100%;
+
+    /* border: 1px solid red; */
+}
+
+.cv_page {
+    padding: 42px 0 0 0;
+    background-image: url(/cv365/upload/cv/co-khi/background_blue.png);
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+}
+
+#cv-top {
+
+    /* border: 1px solid blue; */
+}
+
+#cv-main {
+    /* margin-top: 48px; */
+}
+
+.box-01 {
+    display: flex;
+    flex-direction: row-reverse;
+    justify-content: flex-end;
+
+    background-image: url(/cv365/upload/cv/co-khi/header_blue.png);
+    background-size: 70% 30%;
+    background-repeat: no-repeat;
+}
+
+#box-hvt {
+    margin: 0 32px;
+    width: 50%;
+}
+
+#box-hvt>h1 {
+    margin-top: 18px;
+    color: #000;
+}
+
+#box-hvt>h2 {
+    color: #fff;
+    white-space: nowrap;
+}
+
+#cv-profile-fullname {
+    font-family: "Roboto", sans-serif;
+    font-size: 32px;
+    font-weight: 700;
+    text-transform: uppercase;
+}
+
+#cv-profile-job {
+    font-family: "Roboto", sans-serif;
+    font-size: 22px;
+    font-weight: 400;
+    text-transform: uppercase;
+}
+
+#box01 {
+    margin: 16px 0;
+
+    /* border: 1px solid green; */
+}
+
+#box01>h3 {
+    display: none;
+}
+
+#prof {
+    display: flex;
+    flex-direction: column;
+    /* flex-wrap: wrap; */
+    gap: 12px;
+    /* height: 132px; */
+}
+
+.gender-birthday {
+    display: flex;
+    gap: 80px;
+}
+
+.ic {
+    display: flex;
+    align-items: center;
+    gap: 12px;
+    font-family: "Roboto", sans-serif;
+    font-size: 14px;
+    line-height: 24px;
+}
+
+.ic>p {
+
+    margin: 0;
+}
+
+.icf i {
+    font-size: 18px;
+    color: #5ce1e6;
+}
+
+#cvo-profile-avatar-wraper {
+    width: 186px;
+    height: 186px;
+    margin-top: -4px;
+
+    /* border: 1px solid green; */
+
+}
+
+#cvo-profile-avatar {
+    display: block;
+    width: 100%;
+    height: 100%;
+    border-radius: 50%;
+
+    border: 4px solid #fff;
+}
+
+.all {
+    display: flex;
+    justify-content: space-between;
+    gap: 16px;
+    margin: 0 74px 0 32px;
+}
+
+#cv-main {
+    width: 50%;
+}
+
+#cv-content {
+    width: 50%;
+}
+
+.box-title,
+.block-title {
+    font-family: "Roboto", sans-serif;
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 20px;
+    text-transform: uppercase;
+}
+
+.box-title>i,
+.block-title>i {
+    margin-right: 12px;
+}
+
+.box-title::after,
+.block-title::after {
+    content: "";
+    display: block;
+    width: 80px;
+    border: 2px solid #5ce1e6;
+    margin: 4px 0;
+}
+
+#experience-table .exp-date {
+    width: 100%;
+    float: left;
+}
+
+.exp-content,
+.exp-date,
+.experience>h3,
+.experience>p {
+    margin-top: 4px;
+}
+
+.exp-content,
+.exp-date,
+.experience>h3,
+.experience>p,
+.box-content {
+    font-family: "Roboto", sans-serif;
+    font-size: 14px;
+    line-height: 24px;
+}
+
+.bar-exp,
+.bar-value-exp {
+    display: none;
+}
+
+.connectedSortable {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+
+.blockControls {
+    /* display: none; */
+}
+
+.fieldgroup_controls {
+    /* display: none; */
+}

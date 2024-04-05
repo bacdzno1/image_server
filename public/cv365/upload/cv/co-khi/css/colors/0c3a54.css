@@ -1,0 +1,111 @@
+#cv-top {
+    background-image: url(hd2.png);
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+}
+.all {
+    background-image: url(bd3.png);
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+}
+.exp-fake {
+	background: url(skill2.png)no-repeat;
+    background-size: 100% 100%;
+}
+.box-dm {
+    background: url(ava2.png)no-repeat;
+    background-size: 100% 100%;
+}
+#block01{
+	background: url(icon_02.png)no-repeat;
+	background-position: right;
+	background-size: 6% 100%;
+
+}
+#block02{
+	background: url(icon_06.png)no-repeat;
+	background-position: right;
+	background-size: 6% 100%;
+
+}
+#block03{
+	background: url(icon_12.png)no-repeat;
+	background-position: right;
+	background-size: 6% 100%;
+
+}
+#block04{
+	background: url(icon_15.png)no-repeat;
+	background-position: right;
+	background-size: 6% 100%;
+
+}
+#block05{
+	background: url(icon_18.png)no-repeat;
+	background-position: right;
+	background-size: 6% 100%;
+
+}
+#block01 h3{
+	background: url(icon_09.png)no-repeat;
+	background-position: 1px 8px;
+	background-size: 4%;
+}
+#block02 h3{
+	background: url(icon_09.png)no-repeat;
+	background-position: 3px 8px;
+	background-size: 4%;
+}
+
+#block01 .head{
+	background: url(icon_04.png)no-repeat;
+	background-position: right bottom;
+	background-size: 120%;
+}
+#block02 .head{
+	background: url(icon_07.png)no-repeat;
+	background-position: right bottom;
+	background-size: 100%;
+}
+#block03 .head{
+	background: url(icon_13.png)no-repeat;
+	background-position: right bottom;
+	background-size: 100%;
+}
+#block04 .head{
+	background: url(icon_16.png)no-repeat;
+	background-position: right bottom;
+	background-size: 100%;
+}
+#block05 .head{
+	background: url(icon_19.png)no-repeat;
+	background-position: right bottom;
+	background-size: 100%;
+}
+
+#block01 .ctbx {
+    background: url(../doc3.png) no-repeat;
+    background-size: 1.5% 100%;
+    background-position: 16px 35px;
+}
+
+#block02 .h3, #block02 .exp-content {
+    background: url(../dot3.png) repeat-y;
+    background-position: 2px 8px;
+}
+
+#cv-right h3 {
+	color: #fff;
+	background: url(bar4.png)no-repeat;
+	background-size: 170% 3px;
+	background-position: center;
+}
+.bar-exp div {
+    background: rgb(196, 35, 41);
+}
+
+#cv-right #box01  h3{
+	background: url(bar5.png)no-repeat;
+	background-size: 120% 3px;
+	background-position: center;
+}

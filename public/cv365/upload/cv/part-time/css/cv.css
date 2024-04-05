@@ -601,14 +601,6 @@ div#box01:hover {
   box-shadow: none;
 }
 
-.footer {
-  height: 60px;
-  float: left;
-  width: 100%;
-  background-image: url(footer.png);
-  background-repeat: no-repeat;
-}
-
 div#sort_block {
   padding: 0;
   margin: 0;

@@ -1,0 +1,59 @@
+#cv-top {
+    background-image: url(header3.png);
+}
+
+#form-cv .cumicc2 {
+    background-image: url(target3.svg);
+}
+
+#form-cv .cumicc3 {
+    background-image: url(skill3.svg);
+}
+
+#form-cv .cumicc4 {
+    background-image: url(reward3.svg);
+}
+
+#form-cv .cumicc5 {
+    background-image: url(certificate3.svg);
+}
+
+#form-cv .cumicc6 {
+    background-image: url(hobby3.svg);
+}
+
+#form-cv .cumicc7 {
+    background-image: url(reference3.svg);
+}
+
+#form-cv .icright1 {
+    background-image: url(graduate3.svg);
+}
+
+#form-cv .icright2 {
+    background-image: url(experience3.svg);
+}
+
+#form-cv .icright3 {
+    background-image: url(activity3.svg);
+}
+
+#form-cv .icright4 {
+    background-image: url(project3.svg);
+}
+
+#form-cv .icright5 {
+    background-image: url(more3.svg);
+}
+
+.cum,
+.ski,
+.head {
+    color: #12372a;
+}
+
+.cum::after,
+.ski::after,
+.head::after {
+    background-color: #12372a;
+}

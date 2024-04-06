@@ -2,10 +2,6 @@
   background-image: url(header2.png);
 }
 
-#cv-content .head {
-  background-image: url(block2.png);
-}
-
-.footer {
-  background-image: url(footer2.png);
+.all {
+  background-image: url(body2.png);
 }

@@ -9,8 +9,7 @@
 }
 
 .cv_page {
-    padding: 24px 32px 32px;
-    background-color: #eeefea;
+    padding: 0;
 }
 
 #sortable .cvo-block .box-content {
@@ -39,13 +38,13 @@
 }
 
 #cv-content {
-    width: 50%;
+    width: 52%;
     text-align: justify;
     float: right;
     position: relative;
     padding: 0;
     margin: 0;
-    padding-left: 32px;
+    padding-left: 24px;
 }
 
 #cv-main {
@@ -54,7 +53,8 @@
     padding: 0;
     position: relative;
     float: left;
-    width: 50%;
+    width: 48%;
+    padding-right: 32px;
 }
 
 #cv-right .ir {
@@ -95,21 +95,14 @@ p.skill-name input {
     float: left;
 }
 
-/* .cv-top-wrapper {
-    width: 100%;
-    height: 240px;
-    background-color: #fff;
-    border-radius: 16px;
-} */
-
 #cv-top {
-    display: flex;
     width: 100%;
-    height: 228px;
+    height: 272px;
+    /* background-image: url(hd.png);
+    background-size: 100% 100%;
+    background-repeat: no-repeat; */
     position: relative;
-    background-color: #4454a3;
-    margin-bottom: 16px;
-    border-radius: 16px;
+    background-color: #2c2c2c;
     /* overflow: hidden; */
 }
 
@@ -117,29 +110,15 @@ p.skill-name input {
     float: left;
     clear: both;
     width: 100%;
-    background-image: url(all_background.png);
+    padding: 40px 32px 0;
+    background-image: url(all_background_mau1.png);
     background-size: 100% 100%;
     background-repeat: no-repeat;
-    /* background-color: #fff; */
-    padding: 32px 24px 16px 16px;
-    border-radius: 16px;
-}
-
-#all-page-1 {
-    height: 76%;
-}
-
-#all-page-2 {
-    height: 100%;
-}
-
-#all-page-3 {
-    height: 100%;
 }
 
 #cv-top h1 {
+    padding: 0 0 12px 16px;
     margin: 0;
-    margin-bottom: 8px;
     font-size: 32px;
     font-family: "Roboto";
     line-height: 35px;
@@ -157,11 +136,10 @@ p.skill-name input {
 
 #box-hvt {
     position: relative;
-    border: 1px solid #fff;
     /* float: right; */
     width: 100%;
+    padding: 24px 40px 16px 16px;
     margin: 0;
-    padding: 8px 24px;
 }
 
 #cv-right .cvo-block .head div {
@@ -178,13 +156,15 @@ p.skill-name input {
 
 #cv-top h2 {
     margin: 0;
-    padding: 0;
+    margin-left: 12px;
+    padding: 8px;
     text-transform: uppercase;
     white-space: nowrap;
     width: fit-content;
     font-weight: unset;
     font-size: 22px;
-    color: #fff;
+    color: #000000;
+    background-color: #f4d240;
     text-align: left;
     float: left;
 }
@@ -263,9 +243,8 @@ p.skill-name input {
     text-transform: unset;
 }
 
-
-
 #cv-content .exp-date {
+    display: none;
     float: left;
 }
 
@@ -288,12 +267,10 @@ p.skill-name input {
 #cv-content p.h3 {
     margin: 0px;
     padding: 0px;
-    display: flex;
 }
 
 .label-text {
     font-weight: bold;
-    white-space: nowrap;
 }
 
 #cv-content .cvo-block {
@@ -315,6 +292,7 @@ p.skill-name input {
     margin-bottom: 16px;
     padding-left: 0;
     position: relative;
+    padding-right: 40px;
 }
 
 .ctbx:hover {
@@ -333,7 +311,8 @@ p.skill-name input {
     width: 45%;
     float: left;
     display: table;
-    padding: 16px 32px 0 40px;
+    margin-right: 24px;
+    padding: 48px 40px 16px 56px;
 }
 
 .box-info-wrapper {
@@ -373,41 +352,21 @@ p.skill-name input {
 }
 
 #cvo-profile-avatar-wraper .wimg {
-    position: relative;
     width: 100%;
     height: 100%;
     /* float: left; */
     display: flex;
     justify-content: center;
     align-items: center;
-}
-
-.label-main {
-    position: absolute;
-    width: 32px;
-    height: 64px;
-    background-image: url(label_main.svg);
-    background-size: 100% 100%;
-    background-repeat: no-repeat;
-    top: -24px;
-    left: 16px;
-}
-
-.label-sub {
-    position: absolute;
-    background-image: url(label_sub.svg);
-    background-size: 100% 100%;
-    background-repeat: no-repeat;
-    width: 9px;
-    height: 9px;
-    top: 0px;
-    left: -8px;
+    border: 2px solid #f4d240;
+    border-radius: 50%;
 }
 
 #cvo-profile-avatar-wraper img {
     width: 100%;
-    height: auto;
-    border-radius: 16px;
+    height: 100%;
+    border: 8px solid #2c2c2c;
+    border-radius: 50%;
     /* float: left; */
 }
 
@@ -428,10 +387,9 @@ p.skill-name input {
 
 .box-01 {
     display: flex;
-    flex-direction: column;
     float: left;
     width: 100%;
-    height: 100%;
+    height: 272px;
 }
 
 #box-introduce {
@@ -441,9 +399,8 @@ p.skill-name input {
 #cvo-profile {
     display: block;
     float: left;
-    width: 55%;
-    height: 100%;
-    padding: 16px 40px 24px 0;
+    width: 100%;
+    height: 255px;
 }
 
 #line-seperate {
@@ -505,7 +462,7 @@ p.skill-name input {
     /* width: 100%; */
     display: flex;
     float: left;
-    color: #fff;
+    color: #000;
     margin: 0;
     padding-bottom: 8px;
 }
@@ -523,18 +480,15 @@ p.skill-name input {
 
 div#prof {
     display: flex;
-    justify-content: space-between;
+    flex-direction: column;
+    float: left;
     width: 100%;
+    padding: 16px 32px;
 }
 
-.box-gender-mail-addr {
+.box-gender-birthday-phone {
     display: flex;
-    flex-direction: column;
-}
-
-.box-phone-birthday {
-    display: flex;
-    flex-direction: column;
+    gap: 16px;
 }
 
 #form-cv .icf1 {
@@ -606,6 +560,7 @@ div#prof {
 
 #form-cv .fa {
     font-size: 18px;
+    color: #fff;
 }
 
 .container {
@@ -629,6 +584,7 @@ div#prof {
 #cv-content .head {
     display: flex;
     align-items: center;
+    gap: 8px;
     position: relative;
     padding: 0;
     margin: 0 auto;
@@ -643,13 +599,13 @@ div#prof {
     content: "";
     position: absolute;
     display: block;
-    width: 128px;
+    width: 300px;
     height: 2px;
-    background-color: #000;
+    background-color: #f4d240;
     bottom: 0;
 }
 
-/* .icright1 {
+.icright1 {
     width: 24px;
     height: 24px;
     background-image: url(trinhDoHocVanIcon.svg);
@@ -687,7 +643,7 @@ div#prof {
     background-image: url(thongTinThemIcon.svg);
     background-size: 100% 100%;
     background-repeat: no-repeat;
-} */
+}
 
 #experience-table .ctbx {
     display: flex;
@@ -715,7 +671,7 @@ div#prof {
 }
 
 #cvo-experience-blocktitle {
-    color: #4454a3;
+    color: #000;
     float: left;
     text-transform: uppercase;
     font-weight: bold;
@@ -760,7 +716,6 @@ div#cv-boxtitle {
     font-weight: bold;
     text-transform: uppercase;
     width: 100%;
-    color: #4454a3;
     /*display: none;*/
 }
 
@@ -768,6 +723,7 @@ div#cv-boxtitle {
     position: relative;
     display: flex;
     align-items: center;
+    gap: 8px;
     padding: 0;
     margin: 0 auto;
     height: 35px;
@@ -781,6 +737,7 @@ div#cv-boxtitle {
     position: relative;
     display: flex;
     align-items: center;
+    gap: 8px;
     padding: 0;
     margin: 0 auto;
     height: 35px;
@@ -790,7 +747,7 @@ div#cv-boxtitle {
     color: #000;
 }
 
-/* .cumicc2 {
+.cumicc2 {
     width: 24px;
     height: 24px;
     background-image: url(mucTieuNgheNghiepIcon.svg);
@@ -836,7 +793,7 @@ div#cv-boxtitle {
     background-image: url(nguoiThamChieuIcon.svg);
     background-size: 100% 100%;
     background-repeat: no-repeat;
-} */
+}
 
 div#box01 {
     /* float: left; */

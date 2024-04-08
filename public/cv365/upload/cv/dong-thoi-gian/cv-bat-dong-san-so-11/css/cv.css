@@ -138,7 +138,7 @@ p.skill-name input {
 }
 
 #cv-top h1 span {
-  letter-spacing: 1px;
+  ;
 }
 
 #box-hvt {
@@ -189,7 +189,8 @@ p.skill-name input {
   color: #2ebb2f
 }
 
-#cv-right h3, #cv-content .head {
+#cv-right h3,
+#cv-content .head {
   font-size: 20px;
   text-transform: uppercase;
   color: #000;
@@ -471,7 +472,8 @@ p.skill-name input {
   float: left;
 }
 
-#prof .icoweb, #prof .icoweb span {
+#prof .icoweb,
+#prof .icoweb span {
   height: auto;
 }
 

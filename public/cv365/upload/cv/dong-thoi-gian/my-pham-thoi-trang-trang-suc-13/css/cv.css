@@ -184,7 +184,7 @@ p.skill-name input {
 }
 
 #cv-top h1 span {
-    letter-spacing: 1px;
+    ;
 }
 
 div#box01 {
@@ -621,12 +621,14 @@ div#cv-boxtitle {
     width: 100%;
     line-height: 36px;
 }
-.cumicc5{
+
+.cumicc5 {
     float: left;
     width: 29%;
     height: 32px;
     background: url(head-cc.png)no-repeat;
 }
+
 div#sort_block {
     padding: 0;
     margin: 0;
@@ -648,7 +650,8 @@ div#sort_block {
     float: left;
     width: 100%;
 }
-.exp-fake{
+
+.exp-fake {
     /* float: left; */
     /* width: 100%; */
     /* height: 16px; */
@@ -657,6 +660,7 @@ div#sort_block {
     /* margin-top: -16px; */
     /* z-index: 9; */
 }
+
 .box-dm {
     padding: 0;
     margin: 0;
@@ -673,7 +677,8 @@ div#sort_block {
     margin-top: -211px;
     margin-left: 11px;
 }
-#cvo-profile-avatar{
+
+#cvo-profile-avatar {
     width: 288px;
     height: 196px;
 }

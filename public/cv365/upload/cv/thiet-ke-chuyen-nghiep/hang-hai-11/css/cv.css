@@ -27,8 +27,8 @@
   margin-top: 0px !important;
 }
 
-#sortable  #box07 .box-content {
-    color: #fff;
+#sortable #box07 .box-content {
+  color: #fff;
 }
 
 .exp.content-edit.skill {
@@ -115,26 +115,26 @@
 }
 
 #cv-right .ir #sortable #box02 {
-    padding-top: 35px;
+  padding-top: 35px;
 }
 
 #cv-right .ir #sortable #box06 {
-    padding-bottom: 20px;
+  padding-bottom: 20px;
 }
 
-#cv-right .ir #sortable  #box02 {
+#cv-right .ir #sortable #box02 {
   background: var(--box-content1);
   background-position: left top, 0 0;
   background-size: 100% 50px, 100% 100%;
 }
 
-#cv-right .ir #sortable  #box06 {
+#cv-right .ir #sortable #box06 {
   background: var(--box-content2);
   background-position: left bottom, 0 0;
   background-size: 100% 50px, 100% 100%;
 }
 
-#cv-right .ir #sortable  #box07 {
+#cv-right .ir #sortable #box07 {
   width: 95%;
   padding-top: 15px;
   padding-left: 13px;
@@ -213,7 +213,7 @@ p.skill-name input {
 }
 
 #cv-top h1 span {
-  letter-spacing: 1px;
+  ;
   width: 100%;
   line-height: 45px;
   text-align: left;
@@ -266,9 +266,9 @@ div#box01 {
 }
 
 #cv-profile-job {
-    width: 100%;
-    text-align: left;
-    padding: 5px 0px 2px 0px;
+  width: 100%;
+  text-align: left;
+  padding: 5px 0px 2px 0px;
 }
 
 .box-01 p {
@@ -576,8 +576,8 @@ div#experience-table {
 }
 
 #box07 #cv-boxtitle {
-    color: #fff;
-    background: unset;
+  color: #fff;
+  background: unset;
 }
 
 .ski {
@@ -715,7 +715,7 @@ div#sort_block {
 }
 
 #box07 .cum {
-    background: unset;
+  background: unset;
 }
 
 #cv-content .exp-date {
@@ -767,11 +767,11 @@ span.exp-subtitle {
 }
 
 #prof .ic3 .icoweb {
-    width: 80%;
+  width: 80%;
 }
 
 #prof .ic1 .icoweb {
-    width: 65%;
+  width: 65%;
 }
 
 .icright1,

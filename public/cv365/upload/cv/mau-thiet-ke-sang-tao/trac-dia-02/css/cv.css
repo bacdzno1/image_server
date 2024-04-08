@@ -25,14 +25,16 @@
   color: #000;
   padding-bottom: 15px;
 }
+
 .exp.content-edit.skill {
   border-radius: 10px;
 }
 
 
 #cvo-profile {
-display: block;
+  display: block;
 }
+
 #cv-content {
   width: 53.7%;
   text-align: justify;
@@ -55,25 +57,29 @@ display: block;
 }
 
 #cv-right .ir {
-padding: 0;
-margin: 0;
+  padding: 0;
+  margin: 0;
 }
-#cv-main #cv-right{
-padding: 0;
-margin: 0;
+
+#cv-main #cv-right {
+  padding: 0;
+  margin: 0;
 }
-#cv-main #cv-right .ir #sortable{
-padding: 0;
-margin: 0;
+
+#cv-main #cv-right .ir #sortable {
+  padding: 0;
+  margin: 0;
 }
-#cv-right .ir #sortable .block{
-padding: 0;
-margin: 0;
-float: left;
-width: 100%;
+
+#cv-right .ir #sortable .block {
+  padding: 0;
+  margin: 0;
+  float: left;
+  width: 100%;
 }
+
 p.skill-name input {
-color: #fff !important;
+  color: #fff !important;
 }
 
 #cv-right #box03 .ctbx {
@@ -84,7 +90,7 @@ color: #fff !important;
   padding-top: 10px;
   padding-bottom: 10px;
   padding-left: 15px;
-  float:left;
+  float: left;
 }
 
 #cv-top {
@@ -95,13 +101,15 @@ color: #fff !important;
   background-repeat: no-repeat;
   position: relative;
 }
-.all{
-float: left;
-clear: both;
-width: 100%;
-background:url(main.png)no-repeat;
-background-size: 100% 100%;
+
+.all {
+  float: left;
+  clear: both;
+  width: 100%;
+  background: url(main.png)no-repeat;
+  background-size: 100% 100%;
 }
+
 #cv-top h1 {
   padding: 0;
   margin: 0;
@@ -117,9 +125,11 @@ background-size: 100% 100%;
   float: left;
   padding-top: 30px;
 }
+
 #cv-top h1 span {
-  letter-spacing: 1px;
+  ;
 }
+
 #box-hvt {
   float: right;
   width: 100%;
@@ -145,20 +155,20 @@ background-size: 100% 100%;
 }
 
 #box01 ul {
-list-style: none;
-padding-left: 20px
+  list-style: none;
+  padding-left: 20px
 }
 
 #cv-right .cvo-block .head div {
-color: #fff;
+  color: #fff;
 }
 
 .innertext {
-margin: 0px;
-padding: 0px;
-width: 29%;
-float: left;
-color: white;
+  margin: 0px;
+  padding: 0px;
+  width: 29%;
+  float: left;
+  color: white;
 }
 
 #cv-top h2 {
@@ -175,26 +185,28 @@ color: white;
 }
 
 .box-01 p {
-overflow: hidden;
+  overflow: hidden;
 }
 
 #cv-content p {
-margin-bottom: 5px
+  margin-bottom: 5px
 }
 
 #cv-content .ir a {
-color: #2ebb2f
+  color: #2ebb2f
 }
 
-#cv-right h3, #cv-content .head {
-font-size: 20px;
-text-transform: uppercase;
-color: #000;
-font-weight: bold;
-text-align: left;
-line-height: 20px;
-padding-top: 0px;
+#cv-right h3,
+#cv-content .head {
+  font-size: 20px;
+  text-transform: uppercase;
+  color: #000;
+  font-weight: bold;
+  text-align: left;
+  line-height: 20px;
+  padding-top: 0px;
 }
+
 #cv-content h3 {
   font-size: 16px;
   line-height: 24px;
@@ -205,41 +217,43 @@ padding-top: 0px;
 }
 
 
-#cv-content #block02 .exp-content{
-margin: 0;
-padding: 0;
-padding-left: 10px;
+#cv-content #block02 .exp-content {
+  margin: 0;
+  padding: 0;
+  padding-left: 10px;
 }
-#cv-content #block03 h3{
-font-weight: bold;
+
+#cv-content #block03 h3 {
+  font-weight: bold;
 }
+
 #cv-content #block04 h3 {
-font-weight: bold;
+  font-weight: bold;
 }
 
 #cv-content .exp-date {
-float: none;
+  float: none;
 }
 
 #cv-content #block01 .exp-date {
-display: none;
+  display: none;
 }
 
 #cv-content #block03 .exp-date {
-display: none;
+  display: none;
 }
 
 #cv-content #block04 .exp-date {
-display: none;
+  display: none;
 }
 
 #cv-content #block05 .exp-date {
-display: none;
+  display: none;
 }
 
 #cv-content p.h3 {
-margin: 0px;
-padding: 0px;
+  margin: 0px;
+  padding: 0px;
 }
 
 #cv-content .cvo-block {
@@ -247,42 +261,44 @@ padding: 0px;
   float: left;
   width: 100%;
 }
-#cv-content .ir .cvo-block{
-padding: 0;
+
+#cv-content .ir .cvo-block {
+  padding: 0;
 }
+
 .ctbx {
-padding-left: 10px;
-padding-right: 10px
+  padding-left: 10px;
+  padding-right: 10px
 }
 
 
 #cv-content span {
-display: inline-block;
-z-index: 9999;
+  display: inline-block;
+  z-index: 9999;
 }
 
 #cv-content #block02 h3 {
-font-weight: bold;
+  font-weight: bold;
 }
 
 .ctbx {
-margin-bottom: 10px;
-padding-left: 0;
-padding-right: 0;
-position: relative;
+  margin-bottom: 10px;
+  padding-left: 0;
+  padding-right: 0;
+  position: relative;
 }
 
 
 .ctbx:hover {
-box-shadow: 0 0 1px #999;
+  box-shadow: 0 0 1px #999;
 }
 
 .ctbx:hover .fieldgroup_controls {
-display: block;
+  display: block;
 }
 
 [cvo-form-field] {
-cursor: text;
+  cursor: text;
 }
 
 #cvo-profile-avatar-wraper {
@@ -304,25 +320,29 @@ cursor: text;
   border: 3px solid #208099;
   border-radius: 10px;
 }
+
 #cvo-profile-avatar-wraper img {
   width: 170px;
   height: 170px;
   border-radius: 5px;
   float: none;
 }
+
 .box-01 {
   float: left;
   width: 100%;
   height: 300px;
 }
+
 \#cvo-profile {
   display: block;
   float: left;
   width: 100%;
   height: 300px;
 }
+
 #line-seperate {
-height: 25px;
+  height: 25px;
 }
 
 .bar-exp div {
@@ -331,6 +351,7 @@ height: 25px;
   background: #208099;
   margin-top: 0px;
 }
+
 .ctbx .skill-name {
   margin: 0px;
   padding: 0px;
@@ -349,16 +370,16 @@ height: 25px;
 }
 
 .bar-value-exp {
-width: 100%
+  width: 100%
 }
 
 .bar-value-exp input[type="text"] {
-color: #000;
-width: 95%
+  color: #000;
+  width: 95%
 }
 
 .icoweb label {
-display: block;
+  display: block;
 }
 
 /*#sortable .icoweb {
@@ -384,35 +405,39 @@ color: #fff;
 }
 
 .ic {
-width: 100%;
-float: left;
-color: #000;
+  width: 100%;
+  float: left;
+  color: #000;
 }
 
 #prof span {
   width: 270px;
 }
+
 #prof [contentEditable=true] {
   width: 270px;
   float: left;
 }
-#prof .icoweb, #prof .icoweb span {
+
+#prof .icoweb,
+#prof .icoweb span {
   height: auto;
 }
+
 #sortable .ic {
-margin-bottom: 5px;
-padding-top: 5px;
-padding-left: 5px;
+  margin-bottom: 5px;
+  padding-top: 5px;
+  padding-left: 5px;
 }
 
 
 #form-cv .icf {
-float: left;
-border-radius: 5px;
-line-height: 30px;
-margin-bottom: 0;
-width: 28px;
-text-align: center;
+  float: left;
+  border-radius: 5px;
+  line-height: 30px;
+  margin-bottom: 0;
+  width: 28px;
+  text-align: center;
 }
 
 
@@ -424,38 +449,40 @@ text-align: center;
 }
 
 .container {
-width: 100%;
+  width: 100%;
 }
 
 .sum {
-margin: 0;
-padding: 0;
-width: 100%;
-height: 30px;
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  height: 30px;
 }
+
 #cv-right .block {
   margin-bottom: 10px;
   position: relative;
   padding: 0;
   padding-bottom: 20px;
 }
+
 #cv-content .head {
-padding: 0;
-margin: 0;
+  padding: 0;
+  margin: 0;
   height: 40px;
   line-height: 40px;
   text-align: left;
   width: 100%;
   float: left;
 }
-#experience-table .ctbx {
-}
+
+#experience-table .ctbx {}
 
 .ifo {
-margin: 0;
-padding: 0;
-width: 100%;
-height: 30px;
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  height: 30px;
 }
 
 
@@ -476,26 +503,33 @@ height: 30px;
   /*float: right;
   width: 83%;*/
 }
-#experience-table #exp2{
-margin-top: 10px;
+
+#experience-table #exp2 {
+  margin-top: 10px;
 }
+
 #block02 #experience-table .ctbx {
   padding-left: 10px;
 }
+
 #block01 #experience-table .ctbx {
   padding-left: 10px;
 }
-#block03 #experience-table .ctbx{
+
+#block03 #experience-table .ctbx {
   padding-left: 10px;
 }
-#block04 #experience-table .ctbx{
+
+#block04 #experience-table .ctbx {
   padding-left: 10px;
 }
-#block05 #experience-table .ctbx{
+
+#block05 #experience-table .ctbx {
   padding-left: 10px;
 }
-#exp1 .exp-content{
-}
+
+#exp1 .exp-content {}
+
 /*#icon{
   width: 30px;
   height: 30px;
@@ -503,9 +537,9 @@ margin-top: 10px;
   float: left;
   border-bottom: 2px solid #fff;
 }*/
-#bg{
-background: #F58284;
-text-align: left;
+#bg {
+  background: #F58284;
+  text-align: left;
 }
 
 /*#prof {
@@ -524,6 +558,7 @@ text-align: left;
   background-position: center;
   background-repeat: no-repeat;
 }
+
 .cumicc2 {
   width: 50px;
   height: 42px;
@@ -532,6 +567,7 @@ text-align: left;
   background-position: center;
   background-repeat: no-repeat;
 }
+
 .cumicc3 {
   width: 50px;
   height: 42px;
@@ -540,6 +576,7 @@ text-align: left;
   background-position: center;
   background-repeat: no-repeat;
 }
+
 .cumicc4 {
   width: 50px;
   height: 42px;
@@ -548,6 +585,7 @@ text-align: left;
   background-position: center;
   background-repeat: no-repeat;
 }
+
 .cumicc5 {
   width: 50px;
   height: 42px;
@@ -556,6 +594,7 @@ text-align: left;
   background-position: center;
   background-repeat: no-repeat;
 }
+
 .cumicc6 {
   width: 50px;
   height: 42px;
@@ -564,6 +603,7 @@ text-align: left;
   background-position: center;
   background-repeat: no-repeat;
 }
+
 .cumicc7 {
   width: 50px;
   height: 42px;
@@ -572,6 +612,7 @@ text-align: left;
   background-position: center;
   background-repeat: no-repeat;
 }
+
 div#experience-table {
   margin: 0px;
   width: 91%;
@@ -588,6 +629,7 @@ div#experience-table {
   line-height: 40px;
   float: left;
 }
+
 div#cv-boxtitle {
   font-size: 19px;
   font-weight: bold;
@@ -597,16 +639,17 @@ div#cv-boxtitle {
 
 .ski {
   padding: 0;
-margin: 0;
+  margin: 0;
   height: 40px;
   width: 100%;
   line-height: 40px;
   background: url(tt_03.png)no-repeat;
   background-size: 100% 100%;
 }
+
 .cum {
-padding: 0;
-margin: 0;
+  padding: 0;
+  margin: 0;
   height: 40px;
   width: 99.9%;
   line-height: 40px;
@@ -622,33 +665,37 @@ margin: 0;
   background-position: center;
   background-repeat: no-repeat;
 }
+
 .icright2 {
   width: 60px;
-  height:40px;
+  height: 40px;
   float: left;
   background: url(ic_10.png);
   background-position: center;
   background-repeat: no-repeat;
 }
+
 .icright3 {
   width: 60px;
-  height:40px;
+  height: 40px;
   float: left;
   background: url(ic_20.png);
   background-position: center;
   background-repeat: no-repeat;
 }
+
 .icright4 {
   width: 60px;
-  height:40px;
+  height: 40px;
   float: left;
   background: url(ic_30.png);
   background-position: center;
   background-repeat: no-repeat;
 }
+
 .icright5 {
   width: 60px;
-  height:40px;
+  height: 40px;
   float: left;
   background: url(ic_35.png);
   background-position: center;
@@ -668,39 +715,48 @@ div#sort_block {
   padding: 0;
   margin: 0;
 }
-.cvo-block .blockControls{
-margin: 0px;
-padding: 0px;
+
+.cvo-block .blockControls {
+  margin: 0px;
+  padding: 0px;
 }
-#box01 .tt-box1{
-background: #208099;
+
+#box01 .tt-box1 {
+  background: #208099;
 }
-#block01 .head{
-background: #208099;
+
+#block01 .head {
+  background: #208099;
 }
-#block01 .head #cvo-experience-blocktitle{
-color: #fff;
+
+#block01 .head #cvo-experience-blocktitle {
+  color: #fff;
 }
-#block02 .head{
-border: 2px solid #208099;
+
+#block02 .head {
+  border: 2px solid #208099;
 }
-#block03 .head{
-border: 2px solid #208099;
+
+#block03 .head {
+  border: 2px solid #208099;
 }
-#block04 .head{
-border: 2px solid #208099;
+
+#block04 .head {
+  border: 2px solid #208099;
 }
-#block05 .head{
-border: 2px solid #208099;
+
+#block05 .head {
+  border: 2px solid #208099;
 }
+
 .watermark {
-float: left;
-width: 100%;
-/* height: 22px; */
-color: #999;
-text-align: right;
-padding-right: 22px;
-/* padding-top: 25px; */
-font-size: 15px;
-font-family: Courier;
+  float: left;
+  width: 100%;
+  /* height: 22px; */
+  color: #999;
+  text-align: right;
+  padding-right: 22px;
+  /* padding-top: 25px; */
+  font-size: 15px;
+  font-family: Courier;
 }

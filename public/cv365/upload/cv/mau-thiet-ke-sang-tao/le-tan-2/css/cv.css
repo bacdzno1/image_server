@@ -165,7 +165,7 @@ p.skill-name input {
 }
 
 #cv-top h1 span {
-  letter-spacing: 1px;
+  ;
   width: 100%;
   line-height: 45px;
   text-align: left;
@@ -748,7 +748,7 @@ span.exp-subtitle {
   display: none;
 }
 
-:is(div#block01,div#block02) .exp-title {
+:is(div#block01, div#block02) .exp-title {
   font-weight: bold;
 }
 
@@ -757,22 +757,14 @@ div#block02 p.h3 {
 }
 
 :root {
-  --sex: url(
-  sex.png) no-repeat;
-  --phone: url(
-  phone.png) no-repeat;
-  --date: url(
-  date.png) no-repeat;
-  --email: url(
-  email.png) no-repeat;
-  --add: url(
-  add.png) no-repeat;
-  --bg_cv: url(
-  bg_cv1.png) no-repeat;
-  --top: url(
-  top1.png) no-repeat;
-  --line: url(
-  line1.png) no-repeat;
+  --sex: url(sex.png) no-repeat;
+  --phone: url(phone.png) no-repeat;
+  --date: url(date.png) no-repeat;
+  --email: url(email.png) no-repeat;
+  --add: url(add.png) no-repeat;
+  --bg_cv: url(bg_cv1.png) no-repeat;
+  --top: url(top1.png) no-repeat;
+  --line: url(line1.png) no-repeat;
   --color-title: #fdf5a2;
   --color-name: #ffcb51;
   --color-ski: #4b566e;

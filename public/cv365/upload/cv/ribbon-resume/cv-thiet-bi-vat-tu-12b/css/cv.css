@@ -9,21 +9,26 @@
 }
 
 .ic3-4 {
-    width: 100%;
-    float: left;
-    margin-top: 10px;
-    background: var(--tt);
-    background-size: 100% 100%;
-    background-position: left;
+  width: 100%;
+  float: left;
+  margin-top: 10px;
+  background: var(--tt);
+  background-size: 100% 100%;
+  background-position: left;
 }
 
 .ct_bo {
-    float: left;
-    width: 100%;
-    padding: 0px 0px;
+  float: left;
+  width: 100%;
+  padding: 0px 0px;
 }
 
-.cv_page {padding: 0;background: var(--page);background-size: 450px 100%;background-position: right 0;}
+.cv_page {
+  padding: 0;
+  background: var(--page);
+  background-size: 450px 100%;
+  background-position: right 0;
+}
 
 #sortable .cvo-block .box-content {
   margin-top: 0 !important;
@@ -113,9 +118,9 @@
 }
 
 #cv-right .ir #sortable #box02 {
-    margin-top: 0px !important;
-    padding-bottom: 5px;
-    margin-bottom: 0;
+  margin-top: 0px !important;
+  padding-bottom: 5px;
+  margin-bottom: 0;
 }
 
 p.skill-name input {
@@ -173,7 +178,7 @@ p.skill-name input {
 }
 
 #cv-top h1 span {
-  letter-spacing: 1px;
+  ;
   width: 100%;
   line-height: 45px;
 }
@@ -224,10 +229,10 @@ div#box01 {
 }
 
 span#cv-profile-job {
-    float: left;
-    padding-bottom: 3px;
-    width: max-content;
-    max-width: 100%;
+  float: left;
+  padding-bottom: 3px;
+  width: max-content;
+  max-width: 100%;
 }
 
 .box-01 p {
@@ -253,8 +258,8 @@ span#cv-profile-job {
 }
 
 #cv-content #block01 h3 {
-    display: flex;
-    flex-direction: column-reverse;
+  display: flex;
+  flex-direction: column-reverse;
 }
 
 #cv-content #block03 h3 {
@@ -283,7 +288,7 @@ span#cv-profile-job {
 }
 
 #cv-content .ir #block01 {
-    margin-top: 0 !important;
+  margin-top: 0 !important;
 }
 
 .ctbx {
@@ -525,6 +530,7 @@ div#experience-table {
   text-transform: uppercase;
   text-align: center;
 }
+
 .ski {
   padding: 0;
   margin: 0 auto;
@@ -607,27 +613,26 @@ div#sort_block {
   background-size: 3px 100%;
 }
 
-#block01 .head {
-}
+#block01 .head {}
 
 #block02 .head {
-    background: var(--kinhnghiem);
-    background-position: left center;
+  background: var(--kinhnghiem);
+  background-position: left center;
 }
 
 #block03 .head {
-    background: var(--hoatdong);
-    background-position: left center;
+  background: var(--hoatdong);
+  background-position: left center;
 }
 
 #block04 .head {
-    background: var(--duan);
-    background-position: left center;
+  background: var(--duan);
+  background-position: left center;
 }
 
 #block05 .head {
-    background: var(--TTthem);
-    background-position: left center;
+  background: var(--TTthem);
+  background-position: left center;
 }
 
 .ic1,
@@ -703,31 +708,34 @@ div#sort_block {
 }
 
 #box05 .cum {
-    background: var(--chungchi);
-    background-position: 10px center;
+  background: var(--chungchi);
+  background-position: 10px center;
 }
 
 #box04 .cum {
-    background: var(--giaithuong);
-    background-position: 10px center;
+  background: var(--giaithuong);
+  background-position: 10px center;
 }
 
 #box06 .cum {
-    background: var(--sothich);
-    background-position: 10px center;
+  background: var(--sothich);
+  background-position: 10px center;
 }
 
 #box07 .cum {
-    background: var(--nguoiTC);
-    background-position: 10px center;
+  background: var(--nguoiTC);
+  background-position: 10px center;
 }
 
 #box02 .cum {
-    background: var(--muctieu);
-    background-position: 10px center;
+  background: var(--muctieu);
+  background-position: 10px center;
 }
 
-#box03 .ski {background: var(--kinang);background-position: 10px center;}
+#box03 .ski {
+  background: var(--kinang);
+  background-position: 10px center;
+}
 
 #cv-content .exp-date {
   float: left;
@@ -738,7 +746,7 @@ div#sort_block {
 }
 
 #cv-content #block01 .exp-date {
-    display: none;
+  display: none;
 }
 
 .exp-title {
@@ -779,15 +787,15 @@ span.exp-subtitle {
 }
 
 #prof .ic3 .icoweb {
-    width: 95%;
+  width: 95%;
 }
 
 #prof .ic4 .icoweb {
-    width: 100%;
+  width: 100%;
 }
 
 #prof .ic5 .icoweb {
-    width: 100%;
+  width: 100%;
 }
 
 .icright1,
@@ -812,7 +820,9 @@ span.exp-subtitle {
   width: 57%;
 }
 
-#experience-table #exp1 {margin-top: 8px !important;}
+#experience-table #exp1 {
+  margin-top: 8px !important;
+}
 
 #cv-right .ir #sortable #box03 {
   width: 100%;
@@ -820,19 +830,19 @@ span.exp-subtitle {
 }
 
 #cv-right .ir #sortable #box04 {
-    margin-top: 5px !important;
+  margin-top: 5px !important;
 }
 
 #cv-right .ir #sortable #box05 {
-    margin-top: 5px !important;
+  margin-top: 5px !important;
 }
 
 #cv-right .ir #sortable #box06 {
-    margin-top: 5px !important;
+  margin-top: 5px !important;
 }
 
 #cv-right .ir #sortable #box07 {
-    margin-top: 5px !important;
+  margin-top: 5px !important;
 }
 
 #cv-content #block05 p.h3 {
@@ -859,7 +869,7 @@ span.exp-subtitle {
   --color2: #2c3e50;
   --page: url(page1.png) no-repeat;
   --fake: url(fake1.png) no-repeat;
-  --block: url(block-t1.png) no-repeat, url(  block-b1.png) no-repeat, url(  block-f1.png) no-repeat;
+  --block: url(block-t1.png) no-repeat, url(block-b1.png) no-repeat, url(block-f1.png) no-repeat;
   --doc1: url(doc1_01.png) no-repeat;
   --doc2: url(doc1_02.png) no-repeat;
   --tt: url(tt1.png) no-repeat;

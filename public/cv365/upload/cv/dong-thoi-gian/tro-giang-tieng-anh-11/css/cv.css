@@ -169,7 +169,7 @@ p.skill-name input {
 }
 
 #cv-top h1 span {
-  letter-spacing: 1px;
+  ;
 }
 
 div#box01 {
@@ -683,8 +683,7 @@ div#sort_block {
   z-index: 1;
 }
 
-#block02 .head {
-}
+#block02 .head {}
 
 #block03 .head {
   background: url(act1.png) no-repeat;
@@ -715,8 +714,7 @@ div#sort_block {
   font-weight: bold;
 }
 
-#box02 .cum {
-}
+#box02 .cum {}
 
 #box03 .ski {
   position: relative;
@@ -724,11 +722,9 @@ div#sort_block {
 }
 
 .box-content,
-.ctbx {
-}
+.ctbx {}
 
-div#exp1 {
-}
+div#exp1 {}
 
 .ic1 .icf {
   background: url(date1.png) no-repeat;
@@ -754,7 +750,8 @@ div#exp1 {
   /* padding-top: 8px; */
 }
 
-.ic4 .icoweb, .ic5 .icoweb {
+.ic4 .icoweb,
+.ic5 .icoweb {
   width: 85%;
 }
 
@@ -763,9 +760,11 @@ div#exp1 {
   text-transform: none;
   font-size: 14px;
 }
+
 .cv_page.height_page {
   padding: 0;
 }
+
 .infor_title {
   font-size: 20px;
   text-transform: uppercase;

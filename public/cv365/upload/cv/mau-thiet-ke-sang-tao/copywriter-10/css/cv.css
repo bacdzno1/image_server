@@ -27,9 +27,9 @@
 }
 
 #box01 {
-	border: none!important;
-	margin: 0!important;
-	padding: 0!important;
+	border: none !important;
+	margin: 0 !important;
+	padding: 0 !important;
 }
 
 #cvo-profile {
@@ -109,7 +109,7 @@ p.skill-name input {
 	background-size: 100% 100%;
 	background-repeat: no-repeat;
 	position: relative;
-	height: 215px!important;
+	height: 215px !important;
 }
 
 .all {
@@ -139,7 +139,7 @@ p.skill-name input {
 }
 
 #cv-top h1 span {
-	letter-spacing: 1px;
+	;
 }
 
 #box-hvt {
@@ -190,7 +190,8 @@ p.skill-name input {
 	color: #2ebb2f
 }
 
-#cv-right h3, #cv-content .head {
+#cv-right h3,
+#cv-content .head {
 	font-size: 20px;
 	text-transform: uppercase;
 	color: #000;
@@ -427,7 +428,8 @@ p.skill-name input {
 	float: left;
 }
 
-#prof .icoweb, #prof .icoweb span {
+#prof .icoweb,
+#prof .icoweb span {
 	height: auto;
 }
 
@@ -463,14 +465,14 @@ div#prof {
 
 .icf {
 	float: left;
-	margin: 0!important;
+	margin: 0 !important;
 }
 
 #prof .icoweb {
 	width: 80%;
 	float: left;
 	line-height: 24px;
-	margin: 5px 0!important;
+	margin: 5px 0 !important;
 }
 
 .container {
@@ -642,13 +644,14 @@ div#sort_block {
 	width: 40px;
 	height: 30px;
 }
+
 .watermark {
-    float: left;
-    width: 100%;
-    /* height: 22px; */
-    color: #999;
-    text-align: right;
-    padding-right: 22px;
-    font-size: 15px;
-    font-family: Courier;
+	float: left;
+	width: 100%;
+	/* height: 22px; */
+	color: #999;
+	text-align: right;
+	padding-right: 22px;
+	font-size: 15px;
+	font-family: Courier;
 }

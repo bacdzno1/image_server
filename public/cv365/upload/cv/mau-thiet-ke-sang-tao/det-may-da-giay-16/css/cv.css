@@ -171,7 +171,7 @@ p.skill-name input {
 }
 
 #cv-top h1 div {
-  letter-spacing: 1px;
+  ;
   width: 100%;
   line-height: 45px;
 }
@@ -284,11 +284,11 @@ div#box01 {
 }
 
 #cv-content .ir #block05 {
-    border-bottom: unset;
+  border-bottom: unset;
 }
 
 #cv-content .ir #block01 {
-    padding-top: 10px;
+  padding-top: 10px;
 }
 
 .ctbx {
@@ -526,7 +526,12 @@ div#experience-table {
   background-color: #fff;
 }
 
-#box02 #cv-boxtitle {color: #fff;background-color: unset;width: 100%;max-width: unset;}
+#box02 #cv-boxtitle {
+  color: #fff;
+  background-color: unset;
+  width: 100%;
+  max-width: unset;
+}
 
 
 .ski {
@@ -726,7 +731,11 @@ div#sort_block {
   width: 100%;
 }
 
-#block01 .exp-title, #block01 .exp-date, #block02 .exp-title, #block02 .exp-date, #block04 .exp-date {
+#block01 .exp-title,
+#block01 .exp-date,
+#block02 .exp-title,
+#block02 .exp-date,
+#block04 .exp-date {
   font-weight: bold;
 }
 

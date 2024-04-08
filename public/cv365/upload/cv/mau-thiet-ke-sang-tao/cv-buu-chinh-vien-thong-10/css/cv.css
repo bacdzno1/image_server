@@ -175,7 +175,7 @@ p.skill-name input {
 }
 
 #cv-top h1 span {
-    letter-spacing: 1px;
+    ;
 }
 
 div#box01 {
@@ -713,14 +713,11 @@ div#prof {
     line-height: 30px;
 }
 
-#experience-table #exp1 {
-}
+#experience-table #exp1 {}
 
-#experience-table #exp2 {
-}
+#experience-table #exp2 {}
 
-#experience-table #exp3 {
-}
+#experience-table #exp3 {}
 
 #exp1 .exp-content {}
 
@@ -859,7 +856,9 @@ div#sort_block {
     color: #000;
 }
 
-#block01 .exp-title, #block02 .exp-title, #block04 .exp-title {
+#block01 .exp-title,
+#block02 .exp-title,
+#block04 .exp-title {
     font-weight: bold;
 }
 

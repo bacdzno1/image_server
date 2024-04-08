@@ -129,7 +129,7 @@ p.skill-name input {
 }
 
 #cv-top h1 span {
-	letter-spacing: 1px;
+	;
 }
 
 #box-hvt {
@@ -480,8 +480,7 @@ p.skill-name input {
 	width: 100%;
 }
 
-#experience-table .ctbx {
-}
+#experience-table .ctbx {}
 
 .ifo {
 	margin: 0;

@@ -172,7 +172,7 @@ p.skill-name input {
 }
 
 #cv-top h1 span {
-  letter-spacing: 1px;
+  ;
   width: 100%;
   line-height: 45px;
 }
@@ -247,7 +247,7 @@ div#box01 {
 }
 
 #cv-content #block01 h3 {
-    font-weight: bold;
+  font-weight: bold;
 }
 
 #cv-content #block02 h3 {

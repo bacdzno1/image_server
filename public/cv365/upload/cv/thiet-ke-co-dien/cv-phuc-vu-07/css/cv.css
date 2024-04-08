@@ -49,9 +49,9 @@
 }
 
 #blocktitle {
-    width: 100%;
-    float: left;
-    text-align: right;
+  width: 100%;
+  float: left;
+  text-align: right;
 }
 
 #cv-profile-sex:before {
@@ -182,7 +182,7 @@ p.skill-name input {
 }
 
 #cv-top h1 div {
-  /* letter-spacing: 1px; */
+  /* ; */
   width: 100%;
   line-height: 45px;
   text-align: center;
@@ -243,9 +243,9 @@ div#box01 {
 }
 
 #cv-profile-job {
-    float: left;
-    width: 100%;
-    text-align: center;
+  float: left;
+  width: 100%;
+  text-align: center;
 }
 
 .box-01 p {
@@ -305,7 +305,7 @@ div#box01 {
 }
 
 #cv-content .ir #block01 {
-    padding-top: 15px;
+  padding-top: 15px;
 }
 
 .ctbx {
@@ -581,43 +581,43 @@ div#experience-table {
 }
 
 #box07 #cv-boxtitle {
-    max-width: 287px;
+  max-width: 287px;
 }
 
 #box02 #cv-boxtitle {
-    max-width: 287px;
+  max-width: 287px;
 }
 
 #box02 #boxtitle {
-    background: var(--color);
+  background: var(--color);
 }
 
 #box03 #boxtitle {
-    background: var(--title-c), var(--color);
-    background-position: 130px center;
-    background-size: 140px 6px;
+  background: var(--title-c), var(--color);
+  background-position: 130px center;
+  background-size: 140px 6px;
 }
 
 #box04 #boxtitle {
-    background: var(--title-c), var(--color);
-    background-position: 170px center;
-    background-size: 99px 6px;
+  background: var(--title-c), var(--color);
+  background-position: 170px center;
+  background-size: 99px 6px;
 }
 
 #box05 #boxtitle {
-    background: var(--title-c), var(--color);
-    background-position: 152px center;
-    background-size: 118px 6px;
+  background: var(--title-c), var(--color);
+  background-position: 152px center;
+  background-size: 118px 6px;
 }
 
 #box06 #boxtitle {
-    background: var(--title-c), var(--color);
-    background-position: 135px center;
-    background-size: 135px 6px;
+  background: var(--title-c), var(--color);
+  background-position: 135px center;
+  background-size: 135px 6px;
 }
 
 #box07 #boxtitle {
-    background: var(--color);
+  background: var(--color);
 }
 
 .ski {
@@ -693,33 +693,33 @@ div#sort_block {
 }
 
 #cv-content #block01 .head {
-    background: var(--hocvan);
-    background-position: right center;
-    background-size: 45px 46px;
+  background: var(--hocvan);
+  background-position: right center;
+  background-size: 45px 46px;
 }
 
 #cv-content #block02 .head {
-    background: var(--kinhnghiem);
-    background-position: right center;
-    background-size: 45px 46px;
+  background: var(--kinhnghiem);
+  background-position: right center;
+  background-size: 45px 46px;
 }
 
 #cv-content #block03 .head {
-    background: var(--hoatdong);
-    background-position: right center;
-    background-size: 45px 46px;
+  background: var(--hoatdong);
+  background-position: right center;
+  background-size: 45px 46px;
 }
 
 #cv-content #block04 .head {
-    background: var(--duan);
-    background-position: right center;
-    background-size: 45px 46px;
+  background: var(--duan);
+  background-position: right center;
+  background-size: 45px 46px;
 }
 
 #cv-content #block05 .head {
-    background: var(--TTthem);
-    background-position: right center;
-    background-size: 45px 46px;
+  background: var(--TTthem);
+  background-position: right center;
+  background-size: 45px 46px;
 }
 
 .ic1,
@@ -781,7 +781,9 @@ div#sort_block {
   display: none;
 }
 
-#sortable #box02 .box-content {border: unset;}
+#sortable #box02 .box-content {
+  border: unset;
+}
 
 .cum,
 .ski {
@@ -796,38 +798,38 @@ div#sort_block {
 }
 
 #boxtitle {
-    width: 100%;
-    float: left;
+  width: 100%;
+  float: left;
 }
 
 #box02 .cum {
-    background: var(--muctieu);
-    background-position: left center;
+  background: var(--muctieu);
+  background-position: left center;
 }
 
 #box03 .ski {
-    background: var(--kinang);
-    background-position: left center;
+  background: var(--kinang);
+  background-position: left center;
 }
 
 #box04 .cum {
-    background: var(--giaithuong);
-    background-position: left center;
+  background: var(--giaithuong);
+  background-position: left center;
 }
 
 #box05 .cum {
-    background: var(--chungchi);
-    background-position: left center;
+  background: var(--chungchi);
+  background-position: left center;
 }
 
 #box06 .cum {
-    background: var(--sothich);
-    background-position: left center;
+  background: var(--sothich);
+  background-position: left center;
 }
 
 #box07 .cum {
-    background: var(--nguoiTC);
-    background-position: left center;
+  background: var(--nguoiTC);
+  background-position: left center;
 }
 
 #cv-content .exp-date {
@@ -846,7 +848,12 @@ div#sort_block {
   text-transform: uppercase;
 }
 
-#block01 .exp-title, #block01 .exp-date, #block02 .exp-title, #block02 .exp-date, #block02 p.h3, #block04 .exp-date {
+#block01 .exp-title,
+#block01 .exp-date,
+#block02 .exp-title,
+#block02 .exp-date,
+#block02 p.h3,
+#block04 .exp-date {
   font-weight: bold;
 }
 

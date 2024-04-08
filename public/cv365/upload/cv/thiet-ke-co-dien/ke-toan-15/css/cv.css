@@ -186,7 +186,7 @@ p.skill-name input {
 }
 
 #cv-top h1 span {
-    letter-spacing: 1px;
+    ;
 }
 
 div#box01 {
@@ -371,7 +371,7 @@ div#box01 {
 #cvo-profile #cvo-profile-avatar-wraper img {
     width: 280px;
     height: 255px;
-    border-radius: 50%!important;
+    border-radius: 50% !important;
     /* border: 5px solid #fff; */
     display: unset !important;
 }
@@ -650,37 +650,43 @@ div#sort_block {
     /* float: left; */
     /* width: 100%; */
 }
-.icr1{
+
+.icr1 {
     float: left;
     width: 10%;
     height: 30px;
     background: url(hv.png)no-repeat;
 }
-.icr2{
+
+.icr2 {
     float: left;
     width: 10%;
     height: 30px;
     background: url(exp.png)no-repeat;
 }
-.icr3{
+
+.icr3 {
     float: left;
     width: 10%;
     height: 30px;
     background: url(act.png)no-repeat;
 }
-.icr4{
+
+.icr4 {
     float: left;
     width: 10%;
     height: 30px;
     background: url(da.png)no-repeat;
 }
-.icr5{
+
+.icr5 {
     float: left;
     width: 10%;
     height: 30px;
     background: url(info.png)no-repeat;
 }
-.exp-fake{
+
+.exp-fake {
     float: left;
     width: 100%;
     height: 17px;
@@ -689,6 +695,7 @@ div#sort_block {
     margin-top: -16px;
     z-index: 9;
 }
+
 .box-dm {
     padding: 0;
     margin: 0;
@@ -705,11 +712,17 @@ div#sort_block {
     margin-top: -346px;
     margin-left: -6px;
 }
-#cvo-profile-avatar{
+
+#cvo-profile-avatar {
     width: 285px;
     height: 265px;
 }
+
 .icr1,
-.icr2, .icr3,.icr4,.icr5,.icr6 {
+.icr2,
+.icr3,
+.icr4,
+.icr5,
+.icr6 {
     display: none;
 }

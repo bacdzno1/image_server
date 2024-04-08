@@ -157,7 +157,7 @@ p.skill-name input {
 }
 
 #cv-top h1 span {
-  letter-spacing: 1px;
+  ;
 }
 
 #box-hvt {
@@ -561,17 +561,13 @@ div#prof {
   color: #fff;
 }
 
-#block02 .head {
-}
+#block02 .head {}
 
-#block03 .head {
-}
+#block03 .head {}
 
-#block04 .head {
-}
+#block04 .head {}
 
-#block05 .head {
-}
+#block05 .head {}
 
 #experience-table .ctbx {}
 
@@ -768,8 +764,7 @@ div#box01 {
   padding-top: 50px;
 }
 
-.footer {
-}
+.footer {}
 
 div#sort_block {
   padding: 0;
@@ -800,55 +795,75 @@ div#sort_block {
 #block05 {
   /* background-color: #3b3753; */
 }
-#cvo-experience-blocktitle #block02{
+
+#cvo-experience-blocktitle #block02 {
   color: #000;
   padding-left: 0px;
   text-align: center;
   float: left;
   width: 100%;
 }
-.tt-box1::after, .cum::after, .ski::after {
+
+.tt-box1::after,
+.cum::after,
+.ski::after {
   content: '';
   position: absolute;
   width: 100%;
   height: 100%;
   left: 0;
 }
-.cum, .ski {
+
+.cum,
+.ski {
   position: relative;
   background: url(line.png) no-repeat;
   background-position: right;
 }
+
 .ic1 .icf {
   background: url(sex.png) no-repeat;
 }
+
 .ic2 .icf {
   background: url(phone_.png) no-repeat;
 }
+
 .ic3 .icf {
   background: url(mail_.png) no-repeat;
 }
+
 .ic4 .icf {
   background: url(date_.png) no-repeat;
 }
+
 .ic5 .icf {
   background: url(address.png) no-repeat;
   background-position: 3px;
 }
+
 .icoweb {
   float: left;
   padding-left: 10px;
   color: #fff;
   margin-top: -2px;
 }
-.ic1, .ic2, .ic3, .ic4, .ic5 {
+
+.ic1,
+.ic2,
+.ic3,
+.ic4,
+.ic5 {
   width: 100%;
   float: left;
   padding-bottom: 7px;
 }
+
 .ic5 .icf {
   /* margin-left: 30px; */
 }
-.ic3 .icoweb, .ic5 .icoweb {
+
+.ic3 .icoweb,
+.ic5 .icoweb {
   width: 90%;
 }

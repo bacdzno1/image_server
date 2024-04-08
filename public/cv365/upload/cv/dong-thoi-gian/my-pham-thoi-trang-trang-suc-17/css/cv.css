@@ -164,7 +164,7 @@ p.skill-name input {
 }
 
 #cv-top h1 span {
-  letter-spacing: 1px;
+  ;
   width: 100%;
   line-height: 45px;
 }
@@ -218,12 +218,12 @@ div#box01 {
 }
 
 #cv-profile-job {
-    float: left;
-    width: max-content;
-    max-width: 420px;
-    padding: 5px 15px 2px 15px;
-    background: var(--color);
-    border-radius: 20px;
+  float: left;
+  width: max-content;
+  max-width: 420px;
+  padding: 5px 15px 2px 15px;
+  background: var(--color);
+  border-radius: 20px;
 }
 
 #block05 #experience-table {
@@ -668,8 +668,7 @@ div#sort_block {
   color: #000;
 }
 
-#block04 .exp-date {
-}
+#block04 .exp-date {}
 
 .exp-title {
   float: left;
@@ -706,11 +705,11 @@ span.exp-subtitle {
 }
 
 #prof .ic3 .icoweb {
-    width: 70%;
+  width: 70%;
 }
 
 #prof .ic1 .icoweb {
-    width: 65%;
+  width: 65%;
 }
 
 .icright1,

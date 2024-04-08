@@ -48,9 +48,9 @@
 }
 
 #blocktitle {
-    width: 100%;
-    float: left;
-    text-align: left;
+  width: 100%;
+  float: left;
+  text-align: left;
 }
 
 #cv-profile-sex:before {
@@ -124,7 +124,7 @@
 }
 
 #box02 .ct_bo {
-    padding-left: 0px;
+  padding-left: 0px;
 }
 
 p.skill-name input {
@@ -187,7 +187,7 @@ p.skill-name input {
 }
 
 #cv-top h1 div {
-  /* letter-spacing: 1px; */
+  /* ; */
   width: 100%;
   line-height: 45px;
   text-align: left;
@@ -247,9 +247,9 @@ div#box01 {
 }
 
 #cv-profile-job {
-    float: left;
-    width: 100%;
-    text-align: left;
+  float: left;
+  width: 100%;
+  text-align: left;
 }
 
 .box-01 p {
@@ -309,7 +309,7 @@ div#box01 {
 }
 
 #cv-content .ir #block01 {
-    padding-top: 5px;
+  padding-top: 5px;
 }
 
 .ctbx {
@@ -556,11 +556,11 @@ div#experience-table {
 }
 
 #box02 #cv-boxtitle {
-    color: var(--color-m);
+  color: var(--color-m);
 }
 
 #box07 #cv-boxtitle {
-    max-width: 287px;
+  max-width: 287px;
 }
 
 .ski {
@@ -696,7 +696,9 @@ div#sort_block {
   display: none;
 }
 
-#sortable #box02 .box-content {border: unset;}
+#sortable #box02 .box-content {
+  border: unset;
+}
 
 .cum,
 .ski {
@@ -713,8 +715,8 @@ div#sort_block {
 }
 
 #boxtitle {
-    width: 100%;
-    float: left;
+  width: 100%;
+  float: left;
 }
 
 #cv-content .exp-date {
@@ -728,7 +730,7 @@ div#sort_block {
 }
 
 #cv-content #block04 .exp-date {
-    display: none;
+  display: none;
 }
 
 .exp-title {
@@ -737,7 +739,11 @@ div#sort_block {
   text-transform: uppercase;
 }
 
-#block01 .exp-title, #block01 .exp-date, #block02 .exp-title, #block02 .exp-date, #block04 .exp-date {
+#block01 .exp-title,
+#block01 .exp-date,
+#block02 .exp-title,
+#block02 .exp-date,
+#block04 .exp-date {
   font-weight: bold;
 }
 

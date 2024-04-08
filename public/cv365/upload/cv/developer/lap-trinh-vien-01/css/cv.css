@@ -156,7 +156,7 @@ p.skill-name input {
 }
 
 #cv-top h1 span {
-  letter-spacing: 1px;
+  ;
   width: 100%;
   line-height: 45px;
 }
@@ -232,7 +232,8 @@ div#box01 {
   flex-direction: column;
 }
 
-#cv-content #block01 h3, #cv-content #block04 h3 {
+#cv-content #block01 h3,
+#cv-content #block04 h3 {
   display: flex;
   flex-direction: column-reverse;
 }
@@ -699,7 +700,10 @@ div#sort_block {
   text-align: left;
 }
 
-#block01 .exp-date, #block02 .exp-date, #block02 .exp-title, #block04 .exp-date {
+#block01 .exp-date,
+#block02 .exp-date,
+#block02 .exp-title,
+#block04 .exp-date {
   font-weight: bold;
 }
 

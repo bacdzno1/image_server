@@ -9,18 +9,18 @@
 }
 
 .ic13 {
-    float: left;
-    width: 100%;
-    padding-left: 85px;
-    padding-bottom: 2px;
-    background: var(--ic13);
-    background-position: 0 0;
-    background-size: 100% 100%;
+  float: left;
+  width: 100%;
+  padding-left: 85px;
+  padding-bottom: 2px;
+  background: var(--ic13);
+  background-position: 0 0;
+  background-size: 100% 100%;
 }
 
 .cv_page {
-    padding: 0px;
-    background-color: var(--color);
+  padding: 0px;
+  background-color: var(--color);
 }
 
 #sortable .cvo-block .box-content {
@@ -110,12 +110,14 @@
   margin-top: 0 !important;
 }
 
-#box02 .ct_bo {padding-top: 20px;}
+#box02 .ct_bo {
+  padding-top: 20px;
+}
 
 #cv-right .ir #sortable #box02 {
-    background: var(--muctieu);
-    background-size: 20px 18px;
-    background-position: left top;
+  background: var(--muctieu);
+  background-size: 20px 18px;
+  background-position: left top;
 }
 
 p.skill-name input {
@@ -176,7 +178,7 @@ p.skill-name input {
 }
 
 #cv-top h1 span {
-  letter-spacing: 1px;
+  ;
   width: 100%;
   line-height: 45px;
 }
@@ -226,10 +228,10 @@ div#box01 {
 }
 
 #cv-profile-job {
-    background-color: #fff;
-    padding-right: 10px;
-    width: max-content;
-    max-width: 70%;
+  background-color: #fff;
+  padding-right: 10px;
+  width: max-content;
+  max-width: 70%;
 }
 
 .box-01 p {
@@ -687,7 +689,7 @@ div#sort_block {
 }
 
 #box02 .cum {
-    display: none;
+  display: none;
 }
 
 #cv-content .exp-date {
@@ -736,11 +738,11 @@ span.exp-subtitle {
 }
 
 #prof .ic4 .icoweb {
-    padding-left: 43px;
+  padding-left: 43px;
 }
 
 #prof .ic5 .icoweb {
-    padding-left: 43px;
+  padding-left: 43px;
 }
 
 .icright1,

@@ -109,9 +109,9 @@
 }
 
 #box02 .ct_bo {
-    border: unset;
-    background: #fff;
-    border-radius: 9px;
+  border: unset;
+  background: #fff;
+  border-radius: 9px;
 }
 
 p.skill-name input {
@@ -179,7 +179,7 @@ p.skill-name input {
 }
 
 #cv-top h1 div {
-  letter-spacing: 1px;
+  ;
   width: 100%;
   line-height: 45px;
 }
@@ -237,9 +237,9 @@ div#box01 {
 }
 
 #cv-profile-job {
-    float: left;
-    width: 100%;
-    text-align: left;
+  float: left;
+  width: 100%;
+  text-align: left;
 }
 
 .box-01 p {
@@ -268,11 +268,10 @@ div#box01 {
 }
 
 #cv-content #block02 h3 {
-    flex-direction: column;
+  flex-direction: column;
 }
 
-#cv-content #block04 h3 {
-}
+#cv-content #block04 h3 {}
 
 #cv-content #block02 h3 {
   display: flex;
@@ -302,7 +301,7 @@ div#box01 {
 }
 
 #cv-content .ir #block01 {
-    padding-top: 15px;
+  padding-top: 15px;
 }
 
 .ctbx {
@@ -673,7 +672,9 @@ div#sort_block {
   display: none;
 }
 
-#sortable #box02 .box-content {border: unset;}
+#sortable #box02 .box-content {
+  border: unset;
+}
 
 .cum,
 .ski {
@@ -704,8 +705,11 @@ div#sort_block {
   width: 100%;
 }
 
-#block01 .exp-title, #block01 .exp-date, #block02 .exp-title, #block02 .exp-date, #block04 .exp-date {
-}
+#block01 .exp-title,
+#block01 .exp-date,
+#block02 .exp-title,
+#block02 .exp-date,
+#block04 .exp-date {}
 
 .bar-exp div p {
   color: #F44336;

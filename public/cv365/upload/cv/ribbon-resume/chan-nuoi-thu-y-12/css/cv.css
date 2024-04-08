@@ -140,7 +140,7 @@ p.skill-name input {
 }
 
 #cv-top h1 span {
-    letter-spacing: 1px;
+    ;
 }
 
 div#box01 {
@@ -727,7 +727,7 @@ div#box-hvt {
     position: relative;
     z-index: 3;
     background: url(vien.png) no-repeat, url(icon/info3.png) no-repeat;
-    background-position: 4px 37px,right;
+    background-position: 4px 37px, right;
     margin-bottom: -97px;
 }
 

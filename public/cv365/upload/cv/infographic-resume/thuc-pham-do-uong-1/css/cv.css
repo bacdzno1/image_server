@@ -48,12 +48,12 @@
 }
 
 #blocktitle {
-    width: 100%;
-    float: left;
-    text-align: right;
-    background: var(--content);
-    background-position: left;
-    background-size: 100% 100%;
+  width: 100%;
+  float: left;
+  text-align: right;
+  background: var(--content);
+  background-position: left;
+  background-size: 100% 100%;
 }
 
 #cv-profile-sex:before {
@@ -117,8 +117,8 @@
 }
 
 #cv-right .ir #sortable #box02 {
-    background-color: var(--color-n);
-    padding-left: 20px;
+  background-color: var(--color-n);
+  padding-left: 20px;
 }
 
 .ct_bo {
@@ -129,7 +129,7 @@
 }
 
 #box02 .ct_bo {
-    padding-left: 0px;
+  padding-left: 0px;
 }
 
 p.skill-name input {
@@ -194,7 +194,7 @@ p.skill-name input {
 }
 
 #cv-top h1 div {
-  /* letter-spacing: 1px; */
+  /* ; */
   width: 100%;
   line-height: 45px;
   text-align: center;
@@ -254,12 +254,12 @@ div#box01 {
 }
 
 #cv-profile-job {
-    float: left;
-    width: max-content;
-    max-width: 320px;
-    text-align: center;
-    padding: 0 10px;
-    background: var(--color);
+  float: left;
+  width: max-content;
+  max-width: 320px;
+  text-align: center;
+  padding: 0 10px;
+  background: var(--color);
 }
 
 .box-01 p {
@@ -320,7 +320,7 @@ div#box01 {
 }
 
 #cv-content .ir #block01 {
-    padding-top: 5px;
+  padding-top: 5px;
 }
 
 .ctbx {
@@ -564,7 +564,7 @@ div#experience-table {
 }
 
 #box07 #cv-boxtitle {
-    max-width: 287px;
+  max-width: 287px;
 }
 
 #box02 #cv-boxtitle {
@@ -709,7 +709,9 @@ div#sort_block {
   display: none;
 }
 
-#sortable #box02 .box-content {border: unset;}
+#sortable #box02 .box-content {
+  border: unset;
+}
 
 .cum,
 .ski {
@@ -723,9 +725,9 @@ div#sort_block {
 }
 
 #boxtitle {
-    width: 100%;
-    float: left;
-    padding-right: 100px;
+  width: 100%;
+  float: left;
+  padding-right: 100px;
 }
 
 #box02 .cum {
@@ -740,33 +742,33 @@ div#sort_block {
 }
 
 #box03 .ski {
-    background: var(--kinang), var(--main);
-    background-position: 40px center, left;
-    background-size: 20px 21px, 100% 100%;
+  background: var(--kinang), var(--main);
+  background-position: 40px center, left;
+  background-size: 20px 21px, 100% 100%;
 }
 
 #box04 .cum {
-    background: var(--giaithuong), var(--main);
-    background-position: 40px center, left;
-    background-size: 20px 21px, 100% 100%;
+  background: var(--giaithuong), var(--main);
+  background-position: 40px center, left;
+  background-size: 20px 21px, 100% 100%;
 }
 
 #box05 .cum {
-    background: var(--chungchi), var(--main);
-    background-position: 40px center, left;
-    background-size: 16px 21px, 100% 100%;
+  background: var(--chungchi), var(--main);
+  background-position: 40px center, left;
+  background-size: 16px 21px, 100% 100%;
 }
 
 #box06 .cum {
-    background: var(--sothich), var(--main);
-    background-position: 40px center, left;
-    background-size: 20px 21px, 100% 100%;
+  background: var(--sothich), var(--main);
+  background-position: 40px center, left;
+  background-size: 20px 21px, 100% 100%;
 }
 
 #box07 .cum {
-    background: var(--nguoiTC), var(--main);
-    background-position: 40px center, left;
-    background-size: 20px 17px, 100% 100%;
+  background: var(--nguoiTC), var(--main);
+  background-position: 40px center, left;
+  background-size: 20px 17px, 100% 100%;
 }
 
 #cv-content .exp-date {
@@ -784,7 +786,11 @@ div#sort_block {
   width: 100%;
 }
 
-#block01 .exp-title, #block01 .exp-date, #block02 .exp-title, #block02 .exp-date, #block04 .exp-date {
+#block01 .exp-title,
+#block01 .exp-date,
+#block02 .exp-title,
+#block02 .exp-date,
+#block04 .exp-date {
   font-weight: bold;
 }
 

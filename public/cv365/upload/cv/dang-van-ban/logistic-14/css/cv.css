@@ -49,12 +49,12 @@
 }
 
 #blocktitle {
-    width: max-content;
-    max-width: 300px;
-    float: left;
-    text-align: left;
-    padding-right: 15px;
-    background-color: #fff;
+  width: max-content;
+  max-width: 300px;
+  float: left;
+  text-align: left;
+  padding-right: 15px;
+  background-color: #fff;
 }
 
 #cv-profile-sex:before {
@@ -77,18 +77,18 @@
 }
 
 .ct_box {
-    width: 100%;
-    float: left;
-    padding-bottom: 15px;
+  width: 100%;
+  float: left;
+  padding-bottom: 15px;
 }
 
 #box07 .ct_box {
-    border-bottom: unset;
+  border-bottom: unset;
 }
 
 #box02 .ct_box {
-    border-bottom: unset;
-    padding-bottom: 0px;
+  border-bottom: unset;
+  padding-bottom: 0px;
 }
 
 .chu {
@@ -202,7 +202,7 @@ p.skill-name input {
 }
 
 #cv-top h1 div {
-  /* letter-spacing: 1px; */
+  /* ; */
   width: 100%;
   line-height: 45px;
   text-align: center;
@@ -259,9 +259,9 @@ div#box01 {
 }
 
 #cv-profile-job {
-    float: left;
-    width: 100%;
-    text-align: center;
+  float: left;
+  width: 100%;
+  text-align: center;
 }
 
 .box-01 p {
@@ -321,8 +321,7 @@ div#box01 {
   margin-bottom: 10px;
 }
 
-#cv-content .ir #block01 {
-}
+#cv-content .ir #block01 {}
 
 .ctbx {
   padding-left: 10px;
@@ -517,9 +516,9 @@ div#prof {
 }
 
 #block02 #experience-table .ctbx {
-    background: var(--ngang);
-    background-position: left top;
-    background-size: 334px 2px;
+  background: var(--ngang);
+  background-position: left top;
+  background-size: 334px 2px;
 }
 
 #cv-right h3 {
@@ -635,34 +634,34 @@ div#sort_block {
 }
 
 #cv-content #block01 .head {
-    background: var(--hocvan), var(--ngang-h);
-    background-size: 43px 36px, 97% 5px;
-    background-position: right center, left center;
+  background: var(--hocvan), var(--ngang-h);
+  background-size: 43px 36px, 97% 5px;
+  background-position: right center, left center;
 }
 
 #cv-content #block02 .head {
-    background: var(--kinhnghiem), var(--ngang-h);
-    background-size: 43px 36px, 97% 5px;
-    background-position: right center, left center;
+  background: var(--kinhnghiem), var(--ngang-h);
+  background-size: 43px 36px, 97% 5px;
+  background-position: right center, left center;
 }
 
 
 #cv-content #block03 .head {
-    background: var(--hoatdong), var(--ngang-h);
-    background-size: 43px 36px, 97% 5px;
-    background-position: right center, left center;
+  background: var(--hoatdong), var(--ngang-h);
+  background-size: 43px 36px, 97% 5px;
+  background-position: right center, left center;
 }
 
 #cv-content #block04 .head {
-    background: var(--duan), var(--ngang-h);
-    background-size: 43px 36px, 97% 5px;
-    background-position: right center, left center;
+  background: var(--duan), var(--ngang-h);
+  background-size: 43px 36px, 97% 5px;
+  background-position: right center, left center;
 }
 
 #cv-content #block05 .head {
-    background: var(--TTthem), var(--ngang-h);
-    background-size: 43px 36px, 97% 5px;
-    background-position: right center, left center;
+  background: var(--TTthem), var(--ngang-h);
+  background-size: 43px 36px, 97% 5px;
+  background-position: right center, left center;
 }
 
 .ic1,
@@ -725,7 +724,9 @@ div#sort_block {
   background: var(--fake);
 }
 
-#sortable #box02 .box-content {border: unset;}
+#sortable #box02 .box-content {
+  border: unset;
+}
 
 .cum,
 .ski {
@@ -740,22 +741,22 @@ div#sort_block {
 }
 
 #boxtitle {
-    width: 100%;
-    float: left;
-    padding-top: 2px;
-    padding-bottom: 2px;
+  width: 100%;
+  float: left;
+  padding-top: 2px;
+  padding-bottom: 2px;
 }
 
 #box05 #boxtitle {
-    max-width: 150px;
+  max-width: 150px;
 }
 
 #box06 #boxtitle {
-    max-width: 135px;
+  max-width: 135px;
 }
 
 #box04 #boxtitle {
-    max-width: 170px;
+  max-width: 170px;
 }
 
 #box07 #boxtitle {
@@ -806,8 +807,7 @@ div#sort_block {
   text-align: left;
 }
 
-#cv-content #block04 .exp-date {
-}
+#cv-content #block04 .exp-date {}
 
 .exp-title {
   float: left;
@@ -815,7 +815,12 @@ div#sort_block {
   text-transform: uppercase;
 }
 
-#block01 .exp-title, #block01 .exp-date, #block02 .exp-title, #block02 .exp-date, #block02 p.h3, #block04 .exp-date {
+#block01 .exp-title,
+#block01 .exp-date,
+#block02 .exp-title,
+#block02 .exp-date,
+#block02 p.h3,
+#block04 .exp-date {
   font-weight: bold;
 }
 
@@ -886,7 +891,7 @@ span.exp-subtitle {
 }
 
 #block02 #experience-table #exp1 {
-    background: unset;
+  background: unset;
 }
 
 #block04 #exp1 {

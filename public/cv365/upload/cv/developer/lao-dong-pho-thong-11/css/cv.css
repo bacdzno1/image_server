@@ -158,13 +158,13 @@ p.skill-name input {
 }
 
 #cv-top h1 span {
-    letter-spacing: 1px;
+    ;
 }
 
 #box-hvt {
     float: left;
     width: 36%;
-    padding: 0!important;
+    padding: 0 !important;
     margin: 0;
     /*padding-left: 13px;*/
     margin-top: -36px;
@@ -394,7 +394,7 @@ float: left;
     height: 245px;
     border-radius: 50%;
     float: none;
-    display: unset!important;
+    display: unset !important;
 }
 
 .box-dm {

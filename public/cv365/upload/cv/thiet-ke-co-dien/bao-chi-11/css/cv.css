@@ -143,13 +143,13 @@ p.skill-name input {
 }
 
 #cv-top h1 span {
-    letter-spacing: 1px;
+    ;
 }
 
 #box-hvt {
     float: left;
     width: 43.5%;
-    padding: 0!important;
+    padding: 0 !important;
     margin: 0;
     padding-left: 13px;
     margin-top: -40px;
@@ -377,7 +377,7 @@ p.skill-name input {
     border-radius: 400px;
     border: solid 2px #fff;
     float: left;
-    display: unset!important;
+    display: unset !important;
     /*clip-path: polygon(5% 0%, 95% 0%, 100% 6%, 100% 93%, 95% 100%, 5% 100%, 0 94%, 0 6%);*/
 }
 

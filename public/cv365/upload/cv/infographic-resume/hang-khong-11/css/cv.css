@@ -143,13 +143,13 @@ p.skill-name input {
 }
 
 #cv-top h1 span {
-    letter-spacing: 1px;
+    ;
 }
 
 #box-hvt {
     float: left;
     width: 53.5%;
-    padding: 0!important;
+    padding: 0 !important;
     margin-top: 2px;
     border-bottom: solid 2px #fff;
 }
@@ -367,7 +367,7 @@ p.skill-name input {
 #cvo-profile-avatar-wraper img {
     width: 422px;
     height: 363px;
-    display: unset!important;
+    display: unset !important;
 }
 
 .box-01 {

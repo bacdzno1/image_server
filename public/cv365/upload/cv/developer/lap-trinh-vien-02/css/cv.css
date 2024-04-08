@@ -9,12 +9,17 @@
 }
 
 .ct_bo {
-    float: left;
-    width: 100%;
-    padding: 0px 0px;
+  float: left;
+  width: 100%;
+  padding: 0px 0px;
 }
 
-.cv_page {padding: 0;background: var(--main),var(--page);background-size: 44.8% 95%, 100% 100%;background-position: 35px 0, 0 0;}
+.cv_page {
+  padding: 0;
+  background: var(--main), var(--page);
+  background-size: 44.8% 95%, 100% 100%;
+  background-position: 35px 0, 0 0;
+}
 
 #sortable .cvo-block .box-content {
   margin-top: 0 !important;
@@ -107,9 +112,9 @@
 }
 
 #cv-right .ir #sortable #box02 {
-    margin-top: 0px !important;
-    padding-bottom: 5px;
-    margin-bottom: 0;
+  margin-top: 0px !important;
+  padding-bottom: 5px;
+  margin-bottom: 0;
 }
 
 p.skill-name input {
@@ -173,7 +178,7 @@ p.skill-name input {
 }
 
 #cv-top h1 span {
-  letter-spacing: 1px;
+  ;
   width: 100%;
   line-height: 45px;
 }
@@ -229,10 +234,10 @@ div#box01 {
 }
 
 span#cv-profile-job {
-    float: left;
-    padding-bottom: 3px;
-    width: max-content;
-    max-width: 100%;
+  float: left;
+  padding-bottom: 3px;
+  width: max-content;
+  max-width: 100%;
 }
 
 .box-01 p {
@@ -258,8 +263,8 @@ span#cv-profile-job {
 }
 
 #cv-content #block01 h3 {
-    display: flex;
-    flex-direction: column-reverse;
+  display: flex;
+  flex-direction: column-reverse;
 }
 
 #cv-content #block03 h3 {
@@ -285,7 +290,7 @@ span#cv-profile-job {
 }
 
 #cv-content .ir #block01 {
-    margin-top: 0 !important;
+  margin-top: 0 !important;
 }
 
 .ctbx {
@@ -530,6 +535,7 @@ div#experience-table {
   background-size: 100% 100%;
   background-position: left top;
 }
+
 .ski {
   padding: 0;
   margin: 0 auto;
@@ -615,27 +621,27 @@ div#sort_block {
 }
 
 #block02 .head {
-    background: var(--kinhnghiem);
-    background-position: left center;
-    background-size: 46px 54px;
+  background: var(--kinhnghiem);
+  background-position: left center;
+  background-size: 46px 54px;
 }
 
 #block03 .head {
-    background: var(--hoatdong);
-    background-position: left center;
-    background-size: 46px 54px;
+  background: var(--hoatdong);
+  background-position: left center;
+  background-size: 46px 54px;
 }
 
 #block04 .head {
-    background: var(--duan);
-    background-position: left center;
-    background-size: 46px 54px;
+  background: var(--duan);
+  background-position: left center;
+  background-size: 46px 54px;
 }
 
 #block05 .head {
-    background: var(--TTthem);
-    background-position: left center;
-    background-size: 46px 54px;
+  background: var(--TTthem);
+  background-position: left center;
+  background-size: 46px 54px;
 }
 
 .ic1,
@@ -704,31 +710,34 @@ div#sort_block {
 }
 
 #box05 .cum {
-    background: var(--chungchi);
-    background-position:  left;
+  background: var(--chungchi);
+  background-position: left;
 }
 
 #box04 .cum {
-    background: var(--giaithuong);
-    background-position: left;
+  background: var(--giaithuong);
+  background-position: left;
 }
 
 #box06 .cum {
-    background: var(--sothich);
-    background-position: left;
+  background: var(--sothich);
+  background-position: left;
 }
 
 #box07 .cum {
-    background: var(--nguoiTC);
-    background-position: left;
+  background: var(--nguoiTC);
+  background-position: left;
 }
 
 #box02 .cum {
-    background: var(--muctieu);
-    background-position: left;
+  background: var(--muctieu);
+  background-position: left;
 }
 
-#box03 .ski {background: var(--kinang);background-position: left;}
+#box03 .ski {
+  background: var(--kinang);
+  background-position: left;
+}
 
 #cv-content .exp-date {
   float: left;
@@ -775,15 +784,15 @@ span.exp-subtitle {
 }
 
 #prof .ic3 .icoweb {
-    width: 95%;
+  width: 95%;
 }
 
 #prof .ic4 .icoweb {
-    width: 100%;
+  width: 100%;
 }
 
 #prof .ic5 .icoweb {
-    width: 100%;
+  width: 100%;
 }
 
 .icright1,
@@ -808,7 +817,9 @@ span.exp-subtitle {
   width: 57%;
 }
 
-#experience-table #exp1 {margin-top: 8px !important;}
+#experience-table #exp1 {
+  margin-top: 8px !important;
+}
 
 #cv-right .ir #sortable #box03 {
   width: 100%;
@@ -816,19 +827,19 @@ span.exp-subtitle {
 }
 
 #cv-right .ir #sortable #box04 {
-    margin-top: 5px !important;
+  margin-top: 5px !important;
 }
 
 #cv-right .ir #sortable #box05 {
-    margin-top: 5px !important;
+  margin-top: 5px !important;
 }
 
 #cv-right .ir #sortable #box06 {
-    margin-top: 5px !important;
+  margin-top: 5px !important;
 }
 
 #cv-right .ir #sortable #box07 {
-    margin-top: 5px !important;
+  margin-top: 5px !important;
 }
 
 #cv-content #block05 p.h3 {

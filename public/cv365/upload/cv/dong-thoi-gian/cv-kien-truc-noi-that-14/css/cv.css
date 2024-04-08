@@ -9,7 +9,7 @@
 }
 
 .cv_page {
-    padding: 0 !important;
+  padding: 0 !important;
 }
 
 #sortable .cvo-block .box-content {
@@ -58,15 +58,15 @@
 }
 
 .ct_bo {
-    float: left;
-    padding: 22px 0px 30px 0px;
+  float: left;
+  padding: 22px 0px 30px 0px;
 }
 
 #box02 .ct_bo {
-    color: #fff;
-    background: var(--main1);
-    background-position: 0 top, 0 bottom, 0 0;
-    background-size: 100% 14px, 100% 14px, 100% 99%;
+  color: #fff;
+  background: var(--main1);
+  background-position: 0 top, 0 bottom, 0 0;
+  background-size: 100% 14px, 100% 14px, 100% 99%;
 }
 
 .chu {
@@ -172,7 +172,7 @@ p.skill-name input {
 }
 
 #cv-top h1 span {
-  letter-spacing: 1px;
+  ;
   width: 100%;
   line-height: 45px;
 }
@@ -221,7 +221,7 @@ div#box01 {
 }
 
 #cv-profile-job {
-    width: 100%;
+  width: 100%;
 }
 
 .box-01 p {
@@ -273,10 +273,10 @@ div#box01 {
 }
 
 #cv-content .ir #block01 {
-    margin-top: 0 !important;
-    background: var(--bg-hv);
-    background-position: 0 top, 0 bottom, 0 0;
-    background-size: 100% 45px, 100% 41px, 100% 100%;
+  margin-top: 0 !important;
+  background: var(--bg-hv);
+  background-position: 0 top, 0 bottom, 0 0;
+  background-size: 100% 45px, 100% 41px, 100% 100%;
 }
 
 .ctbx {
@@ -491,23 +491,23 @@ div#prof {
 }
 
 #cv-content #block03 #cvo-experience-blocktitle {
-    background: var(--hoatdong);
-    background-position: 0px center;
+  background: var(--hoatdong);
+  background-position: 0px center;
 }
 
 #cv-content #block04 #cvo-experience-blocktitle {
-    background: var(--duan);
-    background-position: 0px center;
+  background: var(--duan);
+  background-position: 0px center;
 }
 
 #cv-content #block05 #cvo-experience-blocktitle {
-    background: var(--thongtinthem);
-    background-position: 0px center;
+  background: var(--thongtinthem);
+  background-position: 0px center;
 }
 
 #cv-content #block02 #cvo-experience-blocktitle {
-    background: var(--kinhnghiem);
-    background-position: 0px center;
+  background: var(--kinhnghiem);
+  background-position: 0px center;
 }
 
 #cv-content #block01 #cvo-experience-blocktitle {
@@ -537,19 +537,19 @@ div#experience-table {
 }
 
 #box04 #cv-boxtitle {
-    border-bottom: solid 1px var(--color3);
+  border-bottom: solid 1px var(--color3);
 }
 
 #box05 #cv-boxtitle {
-    border-bottom: solid 1px var(--color);
+  border-bottom: solid 1px var(--color);
 }
 
 #box06 #cv-boxtitle {
-    border-bottom: solid 1px var(--color3);
+  border-bottom: solid 1px var(--color3);
 }
 
 #box07 #cv-boxtitle {
-    border-bottom: solid 1px var(--color);
+  border-bottom: solid 1px var(--color);
 }
 
 #box03 #cv-boxtitle {
@@ -630,7 +630,7 @@ div#sort_block {
 }
 
 #cv-content #block01 .head {
-    border: unset;
+  border: unset;
 }
 
 .ic1,
@@ -703,7 +703,7 @@ div#sort_block {
 }
 
 #box02 .cum {
-    display: none;
+  display: none;
 }
 
 #cv-content .exp-date {
@@ -789,34 +789,35 @@ span.exp-subtitle {
 }
 
 #cv-right .ir #sortable #box04 {
-    color: var(--color4);
-    margin-top: 0;
-    background: var(--main3);
-    background-position: 0 top, 0 bottom, 0 0;
-    background-size: 100% 14px, 100% 14px, 100% 99%;
+  color: var(--color4);
+  margin-top: 0;
+  background: var(--main3);
+  background-position: 0 top, 0 bottom, 0 0;
+  background-size: 100% 14px, 100% 14px, 100% 99%;
 }
 
 #cv-right .ir #sortable #box05 {
-    margin: 0;
-    background: var(--main4);
-    background-position: 0 top, 0 bottom, 0 0;
-    background-size: 100% 14px, 100% 14px, 100% 99%;
+  margin: 0;
+  background: var(--main4);
+  background-position: 0 top, 0 bottom, 0 0;
+  background-size: 100% 14px, 100% 14px, 100% 99%;
 }
 
 #cv-right .ir #sortable #box06 {
-    margin: 0;
-    color: var(--color4);
-    background: var(--main5);
-    background-position: 0 top, 0 bottom, 0 0;
-    background-size: 100% 14px, 100% 14px, 100% 99%;
+  margin: 0;
+  color: var(--color4);
+  background: var(--main5);
+  background-position: 0 top, 0 bottom, 0 0;
+  background-size: 100% 14px, 100% 14px, 100% 99%;
 }
 
 #cv-right .ir #sortable #box07 {
-    margin: 0;
-    background: var(--main6);
-    background-position: 0 top, 0 0;
-    background-size: 100% 14px, 100% 100%;
+  margin: 0;
+  background: var(--main6);
+  background-position: 0 top, 0 0;
+  background-size: 100% 14px, 100% 100%;
 }
+
 #cv-content #block05 p.h3 {
   padding: 0;
 }
@@ -843,7 +844,8 @@ span.exp-subtitle {
   --main3: url(main11-1.png) no-repeat, url(main12-1.png) no-repeat, url(main13-2.png) no-repeat;
   --main4: url(main21-1.png) no-repeat, url(main22-1.png) no-repeat, url(main23-2.png) no-repeat;
   --main5: url(main11-1.png) no-repeat, url(main12-1.png) no-repeat, url(main13-2.png) no-repeat;
-  --main6: url(main21-1.png) no-repeat, url(main23-1.png) no-repeat;--kn: url(kn1.png) no-repeat;
+  --main6: url(main21-1.png) no-repeat, url(main23-1.png) no-repeat;
+  --kn: url(kn1.png) no-repeat;
   --skill: url(skill.png) no-repeat;
   --foot: url(foot1.png) no-repeat;
   --fake: url(fake1.png) no-repeat;

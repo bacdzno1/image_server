@@ -178,7 +178,7 @@ p.skill-name input {
 }
 
 #cv-top h1 span {
-  letter-spacing: 1px;
+  ;
   width: 100%;
   line-height: 45px;
   text-align: left;
@@ -234,13 +234,12 @@ div#box01 {
 }
 
 #cv-profile-job {
-    width: 100%;
-    text-align: left;
-    padding: 5px 0px 2px 0px;
+  width: 100%;
+  text-align: left;
+  padding: 5px 0px 2px 0px;
 }
 
-#block05 #experience-table {
-}
+#block05 #experience-table {}
 
 .box-01 p {
   overflow: hidden;
@@ -518,33 +517,33 @@ div#prof {
 }
 
 #cv-content #block01 .head {
-    background: var(--hocvan), var(--head);
-    background-position: 290px center, 0 center;
-    background-size: 51px 50px, 100% 30px;
+  background: var(--hocvan), var(--head);
+  background-position: 290px center, 0 center;
+  background-size: 51px 50px, 100% 30px;
 }
 
 #cv-content #block02 .head {
-    background: var(--kinhnghiem), var(--head);
-    background-position: 290px center, 0 center;
-    background-size: 51px 50px, 100% 30px;
+  background: var(--kinhnghiem), var(--head);
+  background-position: 290px center, 0 center;
+  background-size: 51px 50px, 100% 30px;
 }
 
 #cv-content #block03 .head {
-    background: var(--hoatdong), var(--head);
-    background-position: 290px center, 0 center;
-    background-size: 51px 50px, 100% 30px;
+  background: var(--hoatdong), var(--head);
+  background-position: 290px center, 0 center;
+  background-size: 51px 50px, 100% 30px;
 }
 
 #cv-content #block04 .head {
-    background: var(--duan), var(--head);
-    background-position: 290px center, 0 center;
-    background-size: 51px 50px, 100% 30px;
+  background: var(--duan), var(--head);
+  background-position: 290px center, 0 center;
+  background-size: 51px 50px, 100% 30px;
 }
 
 #cv-content #block05 .head {
-    background: var(--TTthem), var(--head);
-    background-position: 290px center, 0 center;
-    background-size: 51px 50px, 100% 30px;
+  background: var(--TTthem), var(--head);
+  background-position: 290px center, 0 center;
+  background-size: 51px 50px, 100% 30px;
 }
 
 #bg {
@@ -695,10 +694,19 @@ div#sort_block {
 }
 
 #cv-right .ir #sortable #box02 {
-    padding: 0 10px 10px 25px;
+  padding: 0 10px 10px 25px;
 }
 
-#cv-right .ir #sortable #box02 .box-content {padding-right: 15px;padding-bottom: 10px;padding-top: 10px;width: 100%;background-color: #fff;border-radius: 20px;padding-left: 10px;box-shadow: rgba(0, 0, 0, 0.17) 0px -3px 15px 0px inset, rgba(0, 0, 0, 0.15) 0px 1px 2px 0px inset, rgba(0, 0, 0, 0.1) 0px 3px 16px 0px inset, rgba(0, 0, 0, 0.06) 0px 2px 1px, rgba(0, 0, 0, 0.09) 0px 4px 2px, rgba(0, 0, 0, 0.09) 0px -5px 4px, rgba(0, 0, 0, 0.09) 0px -5px 8px, rgba(0, 0, 0, 0.09) 0px 6px 16px;}
+#cv-right .ir #sortable #box02 .box-content {
+  padding-right: 15px;
+  padding-bottom: 10px;
+  padding-top: 10px;
+  width: 100%;
+  background-color: #fff;
+  border-radius: 20px;
+  padding-left: 10px;
+  box-shadow: rgba(0, 0, 0, 0.17) 0px -3px 15px 0px inset, rgba(0, 0, 0, 0.15) 0px 1px 2px 0px inset, rgba(0, 0, 0, 0.1) 0px 3px 16px 0px inset, rgba(0, 0, 0, 0.06) 0px 2px 1px, rgba(0, 0, 0, 0.09) 0px 4px 2px, rgba(0, 0, 0, 0.09) 0px -5px 4px, rgba(0, 0, 0, 0.09) 0px -5px 8px, rgba(0, 0, 0, 0.09) 0px 6px 16px;
+}
 
 .cum,
 .ski {
@@ -713,7 +721,9 @@ div#sort_block {
   background-position: 4px bottom;
 }
 
-#box02 .cum {display: none;}
+#box02 .cum {
+  display: none;
+}
 
 #cv-content .exp-date {
   float: left;
@@ -764,11 +774,11 @@ span.exp-subtitle {
 }
 
 #prof .ic3 .icoweb {
-    width: 80%;
+  width: 80%;
 }
 
 #prof .ic1 .icoweb {
-    width: 65%;
+  width: 65%;
 }
 
 .icright1,

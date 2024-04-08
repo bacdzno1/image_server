@@ -9,11 +9,11 @@
 }
 
 #ic1-3 {
-    width: 100%;
-    float: left;
-    margin-bottom: 5px;
-    padding-left: 15px;
-    background-color: var(--color);
+  width: 100%;
+  float: left;
+  margin-bottom: 5px;
+  padding-left: 15px;
+  background-color: var(--color);
 }
 
 .cv_page {
@@ -39,8 +39,8 @@
 
 
 #box02 .box-content div {
-    background: unset;
-    padding-left: 0;
+  background: unset;
+  padding-left: 0;
 }
 
 .exp.content-edit.skill {
@@ -65,18 +65,18 @@
 }
 
 .bg-title {
-    width: 100%;
-    float: left;
+  width: 100%;
+  float: left;
 }
 
 #block01 .bg-title {
-    background: var(--vaitro2);
-    background-position: right center;
+  background: var(--vaitro2);
+  background-position: right center;
 }
 
 #block02 .bg-title {
-    background: var(--vaitro1);
-    background-position: 5px center;
+  background: var(--vaitro1);
+  background-position: 5px center;
 }
 
 #blocktitle {
@@ -156,8 +156,8 @@
 }
 
 #cv-right .ir #sortable #box07 {
-    background-color: unset;
-    border-radius: unset;
+  background-color: unset;
+  border-radius: unset;
 }
 
 
@@ -243,7 +243,7 @@ p.skill-name input {
 }
 
 #cv-top h1 div {
-  /* letter-spacing: 1px; */
+  /* ; */
   width: 100%;
   line-height: 45px;
   text-align: left;
@@ -333,10 +333,10 @@ div#box01 {
 }
 
 #cv-content #block04 h3 {
-    display: flex;
-    flex-direction: column;
-    padding-right: 15px;
-    padding-left: 60px;
+  display: flex;
+  flex-direction: column;
+  padding-right: 15px;
+  padding-left: 60px;
 }
 
 
@@ -363,17 +363,17 @@ div#box01 {
 }
 
 #cv-content #block01 p.h3 {
-    padding-left: 35px;
-    padding-right: 57px;
-    background: var(--doc);
-    background-position: 417px 0;
-    background-size: 1px 100%;
+  padding-left: 35px;
+  padding-right: 57px;
+  background: var(--doc);
+  background-position: 417px 0;
+  background-size: 1px 100%;
 }
 
 #cv-content #block02 p.h3 {
-    background: var(--doc);
-    background-position: 26px 0;
-    background-size: 1px 100%;
+  background: var(--doc);
+  background-position: 26px 0;
+  background-size: 1px 100%;
 }
 
 #cv-content .cvo-block {
@@ -388,7 +388,10 @@ div#box01 {
 }
 
 
-#cv-content .ir #block01 {padding-top: 10px;margin-top: 0 !important;}
+#cv-content .ir #block01 {
+  padding-top: 10px;
+  margin-top: 0 !important;
+}
 
 .ctbx {
   padding-left: 10px;
@@ -577,37 +580,39 @@ div#prof {
   margin-top: 5px !important;
 }
 
-#block03 #experience-table .ctbx {margin-top: 0px !important;}
+#block03 #experience-table .ctbx {
+  margin-top: 0px !important;
+}
 
 #block01 .ctbx:last-child {
-    background: var(--ngang);
-    background-position: 26px bottom;
-    background-size: 89% 1px;
+  background: var(--ngang);
+  background-position: 26px bottom;
+  background-size: 89% 1px;
 }
 
 #block02 .ctbx:last-child {
-    background: var(--ngang);
-    background-position: 26px bottom;
-    background-size: 89% 1px;
+  background: var(--ngang);
+  background-position: 26px bottom;
+  background-size: 89% 1px;
 }
 
 #block03 .ctbx:last-child {
-    background: var(--ngang);
-    background-position: 26px bottom;
-    background-size: 89% 1px;
+  background: var(--ngang);
+  background-position: 26px bottom;
+  background-size: 89% 1px;
 }
 
 #block04 .ctbx:last-child {
-    background: var(--ngang);
-    background-position: 26px bottom;
-    background-size: 89% 1px;
+  background: var(--ngang);
+  background-position: 26px bottom;
+  background-size: 89% 1px;
 }
 
 #block05 .ctbx {
-    padding-top: 10px;
-    background: var(--ngang), var(--doc);
-    background-position: 26px bottom, right top;
-    background-size: 100% 1px, 1px 100%;
+  padding-top: 10px;
+  background: var(--ngang), var(--doc);
+  background-position: 26px bottom, right top;
+  background-size: 100% 1px, 1px 100%;
 }
 
 #cv-right h3 {
@@ -634,7 +639,7 @@ div#prof {
 }
 
 #cv-content #block04 .head #cvo-experience-blocktitle {
-    color: #fff;
+  color: #fff;
 }
 
 #cv-content #block01 .head #blocktitle {
@@ -655,7 +660,9 @@ div#prof {
   clip-path: polygon(0 0, 100% 0%, 97% 50%, 100% 100%, 0px 100%, 3% 50%);
 }
 
-#cv-content #block03 .head #blocktitle, #block04 .head #blocktitle, #block05 .head #blocktitle {
+#cv-content #block03 .head #blocktitle,
+#block04 .head #blocktitle,
+#block05 .head #blocktitle {
   width: max-content;
   max-width: 420px;
   padding-left: 15px;
@@ -676,8 +683,8 @@ div#experience-table {
 }
 
 #block01 #experience-table {
-    float: right;
-    width: 95%;
+  float: right;
+  width: 95%;
 }
 
 #block02 #experience-table {
@@ -689,36 +696,36 @@ div#experience-table {
 }
 
 #block01 #experience-table {
-    padding-bottom: 3px;
-    padding-left: 5px;
-    background: var(--block1), var(--doc);
-    background-position: left bottom, 4px top;
-    background-size: 32px 31px, 1px 100%;
+  padding-bottom: 3px;
+  padding-left: 5px;
+  background: var(--block1), var(--doc);
+  background-position: left bottom, 4px top;
+  background-size: 32px 31px, 1px 100%;
 }
 
 #block03 #experience-table {
-    padding-bottom: 3px;
-    padding-right: 5px;
-    background: var(--block2), var(--block1), var(--doc), var(--doc);
-    background-position: right bottom, 22px bottom, 444px bottom, 26px top;
-    background-size: 32px 31px, 32px 31px, 1px 100%, 1px 100%;
+  padding-bottom: 3px;
+  padding-right: 5px;
+  background: var(--block2), var(--block1), var(--doc), var(--doc);
+  background-position: right bottom, 22px bottom, 444px bottom, 26px top;
+  background-size: 32px 31px, 32px 31px, 1px 100%, 1px 100%;
 }
 
 #block04 #experience-table {
-    padding-bottom: 3px;
-    padding-right: 5px;
-    background: var(--block2), var(--block1), var(--doc), var(--doc);
-    background-position: right bottom, 22px bottom, 444px bottom, 26px top;
-    background-size: 32px 31px, 32px 31px, 1px 100%, 1px 100%;
+  padding-bottom: 3px;
+  padding-right: 5px;
+  background: var(--block2), var(--block1), var(--doc), var(--doc);
+  background-position: right bottom, 22px bottom, 444px bottom, 26px top;
+  background-size: 32px 31px, 32px 31px, 1px 100%, 1px 100%;
 }
 
 #block05 #experience-table {
-    padding-top: 0;
-    padding-bottom: 3px;
-    padding-right: 5px;
-    background: var(--block1), var(--doc);
-    background-position: 22px bottom, 26px top;
-    background-size: 32px 31px, 1px 100%;
+  padding-top: 0;
+  padding-bottom: 3px;
+  padding-right: 5px;
+  background: var(--block1), var(--doc);
+  background-position: 22px bottom, 26px top;
+  background-size: 32px 31px, 1px 100%;
 }
 
 #cv-boxtitle {
@@ -808,15 +815,17 @@ div#sort_block {
 }
 
 #cv-content #block01 .head {
-    background-color: var(--color-c);
+  background-color: var(--color-c);
 }
 
 #cv-content #block02 .head {
   background-color: var(--color);
 }
 
-#cv-content #block03 .head, #block04 .head, #block05 .head {
-     background-color: var(--color);
+#cv-content #block03 .head,
+#block04 .head,
+#block05 .head {
+  background-color: var(--color);
 }
 
 .ic1,
@@ -917,15 +926,15 @@ div#sort_block {
 }
 
 #cv-content #block04 .exp-date {
-    display: none;
+  display: none;
 }
 
 #cv-content #block01 .exp-date {
-    width: 100%;
-    padding-left: 35px;
-    padding-right: 57px;
-    background: var(--ngang), var(--doc);
-    background-position: 400px 5px, 417px 5px;
+  width: 100%;
+  padding-left: 35px;
+  padding-right: 57px;
+  background: var(--ngang), var(--doc);
+  background-position: 400px 5px, 417px 5px;
 }
 
 
@@ -943,31 +952,31 @@ div#sort_block {
 }
 
 #block02 .exp-title {
-    float: right;
-    width: 87%;
-    padding-left: 12px;
-    color: var(--color);
-    background: var(--color-t);
-    clip-path: polygon( 0 0, 100% 0%, 100% 100%, 0 100%, 5px 50%);
+  float: right;
+  width: 87%;
+  padding-left: 12px;
+  color: var(--color);
+  background: var(--color-t);
+  clip-path: polygon(0 0, 100% 0%, 100% 100%, 0 100%, 5px 50%);
 }
 
 #block01 .exp-title {
-    float: left;
-    width: 88%;
-    padding-left: 35px;
-    color: var(--color);
-    background: var(--vuong), var(--color-t);
-    background-position: 20px 9px;
-    clip-path: polygon( 0 0, 100% 0%, 381px 50%, 100% 100%, 0 100%);
+  float: left;
+  width: 88%;
+  padding-left: 35px;
+  color: var(--color);
+  background: var(--vuong), var(--color-t);
+  background-position: 20px 9px;
+  clip-path: polygon(0 0, 100% 0%, 381px 50%, 100% 100%, 0 100%);
 }
 
 #block01 h3 {
-    display: flex;
-    align-items: flex-start;
+  display: flex;
+  align-items: flex-start;
 }
 
 #bloc02 .exp-title {
-    width: 70%;
+  width: 70%;
 }
 
 .bar-exp div p {
@@ -1043,17 +1052,17 @@ span.exp-subtitle {
 }
 
 #block01 .exp-content {
-    padding-left: 35px;
-    padding-right: 57px;
-    background: var(--doc);
-    background-position: 417px 0;
-    background-size: 1px 100%;
+  padding-left: 35px;
+  padding-right: 57px;
+  background: var(--doc);
+  background-position: 417px 0;
+  background-size: 1px 100%;
 }
 
 #block02 .exp-content {
-    background: var(--doc);
-    background-position: 26px 0;
-    background-size: 1px 100%;
+  background: var(--doc);
+  background-position: 26px 0;
+  background-size: 1px 100%;
 }
 
 #experience-table #exp1 {

@@ -107,8 +107,8 @@
 }
 
 .ct_bo {
-    float: left;
-    width: 100%;
+  float: left;
+  width: 100%;
 }
 
 p.skill-name input {
@@ -170,7 +170,7 @@ p.skill-name input {
 }
 
 #cv-top h1 span {
-  letter-spacing: 1px;
+  ;
   width: 100%;
   line-height: 45px;
 }
@@ -226,8 +226,8 @@ div#box01 {
 }
 
 #cv-profile-job {
-    width: 100%;
-    float: left;
+  width: 100%;
+  float: left;
 }
 
 .box-01 p {
@@ -529,6 +529,7 @@ div#prof {
   padding: 2px 35px 0px 15px;
   border-radius: 30px;
 }
+
 #block05 #cvo-experience-blocktitle {
   background: var(--x1), var(--icon), var(--color2);
   background-position: 5px 2px, 335px center;
@@ -681,8 +682,16 @@ div#sort_block {
 }
 
 #cv-content #block04 .head {
-#block02 #cvo-experience-blocktitle {background: var(--x1), var(--icon), var(--color2);background-position: 5px 2px, 335px center;background-size: 8px 8px, 15px 16px;padding: 2px 35px 0px 15px;border-radius: 30px;
-};}
+  #block02 #cvo-experience-blocktitle {
+    background: var(--x1), var(--icon), var(--color2);
+    background-position: 5px 2px, 335px center;
+    background-size: 8px 8px, 15px 16px;
+    padding: 2px 35px 0px 15px;
+    border-radius: 30px;
+  }
+
+  ;
+}
 
 .ic1,
 .ic2,

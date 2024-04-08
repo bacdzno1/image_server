@@ -143,7 +143,7 @@ p.skill-name input {
 }
 
 #cv-top h1 span {
-    letter-spacing: 1px;
+    ;
 }
 
 #box-hvt {
@@ -481,6 +481,7 @@ div#prof {
     width: 100%;
     padding: 15px 0px;
 }
+
 .icf .fa {
     font-size: 20px;
     color: #000;
@@ -607,6 +608,7 @@ div#experience-table {
     color: #000;
     /* border-left: 10px solid #c27644; */
 }
+
 div#cv-boxtitle {
     font-size: 18px;
     font-weight: bold;
@@ -618,6 +620,7 @@ div#cv-boxtitle {
     /* padding-left: 52px; */
     /* display: none; */
 }
+
 #box07 .cum {
     padding: 0;
     margin: 0 auto;
@@ -629,11 +632,13 @@ div#cv-boxtitle {
     /* background-position: left; */
     /* background-size: 100% 100%; */
 }
+
 div#box01 {
     float: left;
     width: 100%;
     padding-top: 50px;
 }
+
 .footer {
     /* background: url(ft.png)no-repeat; */
     /* background-size: 100% 100%; */
@@ -641,14 +646,17 @@ div#box01 {
     /* float: left; */
     /* width: 100%; */
 }
+
 div#sort_block {
     padding: 0;
     margin: 0;
 }
+
 .cvo-block .blockControls {
     margin: 0px;
     padding: 0px 5px;
 }
+
 #block01 {
     /* background: url(bg_01.png)no-repeat; */
     background-position: left;
@@ -678,61 +686,79 @@ div#sort_block {
     background-position: 0 15px;
     background-size: auto 100%;
 }
+
 .fieldgroup_controls .remove {
     background-color: #f15c4c;
     font-size: 11px;
     width: 50px;
 }
+
 .fieldgroup_controls .edit {
     font-size: 10px;
     background-color: #b3a329;
     width: 50px;
 }
+
 .fieldgroup_controls .clone {
     font-size: 11px;
     background-color: #3cb371;
     width: 50px;
 }
-.icf1{
+
+.icf1 {
     float: left;
     width: 20px;
     height: 20px;
     background: url(sex.png) no-repeat;
 }
-.icf2{
+
+.icf2 {
     float: left;
     width: 20px;
     height: 20px;
     background: url(date.png) no-repeat;
 }
-.icf3{
+
+.icf3 {
     float: left;
     width: 20px;
     height: 20px;
     background: url(phone.png) no-repeat;
 }
-.icf4{
+
+.icf4 {
     float: left;
     width: 20px;
     height: 20px;
     background: url(mail.png) no-repeat;
 }
-.icf5{
+
+.icf5 {
     float: left;
     width: 20px;
     height: 20px;
     background: url(address.png) no-repeat;
     margin-left: 3px;
 }
+
 span.exp-date {
     float: unset !important;
     width: 100%;
 }
-#block01, #block02, #block03, #block04 {
+
+#block01,
+#block02,
+#block03,
+#block04 {
     background: url(line1.png) no-repeat;
     background-size: 6px 100%;
     background-position: 4%;
 }
-.icf1, .icf2, .icf3, .icf4, .icf5 {
+
+.icf1,
+.icf2,
+.icf3,
+.icf4,
+.icf5 {
     /* margin-top: 5px; */
 }

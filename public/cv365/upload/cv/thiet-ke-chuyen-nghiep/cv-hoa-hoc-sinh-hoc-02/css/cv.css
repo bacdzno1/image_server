@@ -174,7 +174,7 @@ p.skill-name input {
 }
 
 #cv-top h1 div {
-  letter-spacing: 1px;
+  ;
   width: 100%;
   line-height: 45px;
 }
@@ -250,8 +250,7 @@ div#box01 {
   flex-direction: column;
 }
 
-#cv-content #block04 h3 {
-}
+#cv-content #block04 h3 {}
 
 #cv-content #block02 h3 {
   display: flex;
@@ -499,33 +498,33 @@ div#prof {
 }
 
 #cv-content #block01 .head #cvo-experience-blocktitle {
-    border: solid 1px var(--color);
-    background: var(--hocvan);
-    background-position: 305px center;
+  border: solid 1px var(--color);
+  background: var(--hocvan);
+  background-position: 305px center;
 }
 
 #cv-content #block02 .head #cvo-experience-blocktitle {
-    border: solid 1px var(--color-b);
-    background: var(--kinhnghiem);
-    background-position: 305px center;
+  border: solid 1px var(--color-b);
+  background: var(--kinhnghiem);
+  background-position: 305px center;
 }
 
 #cv-content #block03 .head #cvo-experience-blocktitle {
-    border: solid 1px var(--color);
-    background: var(--hoatdong);
-    background-position: 305px center;
+  border: solid 1px var(--color);
+  background: var(--hoatdong);
+  background-position: 305px center;
 }
 
 #cv-content #block04 .head #cvo-experience-blocktitle {
-    border: solid 1px var(--color-b);
-    background: var(--duan);
-    background-position: 305px center;
+  border: solid 1px var(--color-b);
+  background: var(--duan);
+  background-position: 305px center;
 }
 
 #cv-content #block05 .head #cvo-experience-blocktitle {
-    border: solid 1px var(--color);
-    background: var(--TTthem);
-    background-position: 305px center;
+  border: solid 1px var(--color);
+  background: var(--TTthem);
+  background-position: 305px center;
 }
 
 #bg {
@@ -552,39 +551,39 @@ div#experience-table {
 }
 
 #box02 #cv-boxtitle {
-    border: solid 1px var(--color-b);
-    background: var(--muctieu);
-    background-position: 290px center;
+  border: solid 1px var(--color-b);
+  background: var(--muctieu);
+  background-position: 290px center;
 }
 
 #box03 #cv-boxtitle {
-    border: solid 1px var(--color);
-    background: var(--kinang);
-    background-position: 290px center;
+  border: solid 1px var(--color);
+  background: var(--kinang);
+  background-position: 290px center;
 }
 
 #box04 #cv-boxtitle {
-    border: solid 1px var(--color);
-    background: var(--giaithuong);
-    background-position: 290px center;
+  border: solid 1px var(--color);
+  background: var(--giaithuong);
+  background-position: 290px center;
 }
 
 #box05 #cv-boxtitle {
-    border: solid 1px var(--color-b);
-    background: var(--chungchi);
-    background-position: 290px center;
+  border: solid 1px var(--color-b);
+  background: var(--chungchi);
+  background-position: 290px center;
 }
 
 #box06 #cv-boxtitle {
-    border: solid 1px var(--color-b);
-    background: var(--sothich);
-    background-position: 290px center;
+  border: solid 1px var(--color-b);
+  background: var(--sothich);
+  background-position: 290px center;
 }
 
 #box07 #cv-boxtitle {
-    border: solid 1px var(--color);
-    background: var(--nguoiTC);
-    background-position: 290px center;
+  border: solid 1px var(--color);
+  background: var(--nguoiTC);
+  background-position: 290px center;
 }
 
 
@@ -661,33 +660,33 @@ div#sort_block {
 }
 
 #cv-content #block01 .head {
-    background: var(--title2);
-    background-position: left;
-    background-size: 98px 100%;
+  background: var(--title2);
+  background-position: left;
+  background-size: 98px 100%;
 }
 
 #cv-content #block02 .head {
-    background: var(--title1);
-    background-position: left;
-    background-size: 98px 100%;
+  background: var(--title1);
+  background-position: left;
+  background-size: 98px 100%;
 }
 
 #cv-content #block03 .head {
-    background: var(--title3);
-    background-position: left;
-    background-size: 98px 100%;
+  background: var(--title3);
+  background-position: left;
+  background-size: 98px 100%;
 }
 
 #cv-content #block04 .head {
-    background: var(--title1);
-    background-position: left;
-    background-size: 98px 100%;
+  background: var(--title1);
+  background-position: left;
+  background-size: 98px 100%;
 }
 
 #cv-content #block05 .head {
-    background: var(--title3);
-    background-position: left;
-    background-size: 98px 100%;
+  background: var(--title3);
+  background-position: left;
+  background-size: 98px 100%;
 }
 
 .ic1,
@@ -772,39 +771,39 @@ div#sort_block {
 }
 
 #box02 .cum {
-    background: var(--title1);
-    background-position: left;
-    background-size: 98px 100%;
+  background: var(--title1);
+  background-position: left;
+  background-size: 98px 100%;
 }
 
 #box03 .ski {
-    background: var(--title2);
-    background-position: left;
-    background-size: 98px 100%;
+  background: var(--title2);
+  background-position: left;
+  background-size: 98px 100%;
 }
 
 #box04 .cum {
-    background: var(--title2);
-    background-position: left;
-    background-size: 98px 100%;
+  background: var(--title2);
+  background-position: left;
+  background-size: 98px 100%;
 }
 
 #box05 .cum {
-    background: var(--title1);
-    background-position: left;
-    background-size: 98px 100%;
+  background: var(--title1);
+  background-position: left;
+  background-size: 98px 100%;
 }
 
 #box06 .cum {
-    background: var(--title1);
-    background-position: left;
-    background-size: 98px 100%;
+  background: var(--title1);
+  background-position: left;
+  background-size: 98px 100%;
 }
 
 #box07 .cum {
-    background: var(--title3);
-    background-position: left;
-    background-size: 98px 100%;
+  background: var(--title3);
+  background-position: left;
+  background-size: 98px 100%;
 }
 
 #cv-content .exp-date {
@@ -818,7 +817,7 @@ div#sort_block {
 }
 
 #cv-content #block04 .exp-date {
-    display: none;
+  display: none;
 }
 
 .exp-title {
@@ -831,8 +830,7 @@ div#sort_block {
 #block02 .exp-title,
 #block02 .exp-date,
 #block02 .h3,
-#block04 .exp-date {
-}
+#block04 .exp-date {}
 
 .bar-exp div p {
   color: #F44336;

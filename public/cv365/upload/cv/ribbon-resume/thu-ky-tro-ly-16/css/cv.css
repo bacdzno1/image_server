@@ -169,7 +169,7 @@ p.skill-name input {
 }
 
 #cv-top h1 span {
-  letter-spacing: 1px;
+  ;
   width: 100%;
   line-height: 45px;
 }
@@ -265,8 +265,7 @@ div#box01 {
   margin: 0px;
 }
 
-#cv-content #block02 p.h3 {
-}
+#cv-content #block02 p.h3 {}
 
 #cv-content .cvo-block {
   float: left;
@@ -663,8 +662,8 @@ div#sort_block {
   padding-bottom: 2px;
   border-bottom: solid 2px var(--color-k);
 }
-#box02 .cum {
-}
+
+#box02 .cum {}
 
 #cv-content .exp-date {
   float: left;
@@ -681,8 +680,7 @@ div#sort_block {
   width: 100%;
 }
 
-#block01 .exp-date {
-}
+#block01 .exp-date {}
 
 .bar-exp div p {
   color: #F44336;

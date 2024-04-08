@@ -40,38 +40,38 @@
 }
 
 #block01 #experience-table #tt-content {
-    float: left;
-    background: var(--exp1);
-    background-position: 25px 0px;
-    background-size: 2px 100%;
+  float: left;
+  background: var(--exp1);
+  background-position: 25px 0px;
+  background-size: 2px 100%;
 }
 
 #block02 #experience-table #tt-content {
-    float: left;
-    background: var(--exp1);
-    background-position: 25px 0px;
-    background-size: 2px 100%;
+  float: left;
+  background: var(--exp1);
+  background-position: 25px 0px;
+  background-size: 2px 100%;
 }
 
 #block03 #experience-table #tt-content {
-    float: left;
-    background: var(--exp1);
-    background-position: 25px 0px;
-    background-size: 2px 100%;
+  float: left;
+  background: var(--exp1);
+  background-position: 25px 0px;
+  background-size: 2px 100%;
 }
 
 #block04 #experience-table #tt-content {
-    float: left;
-    background: var(--exp1);
-    background-position: 25px 0px;
-    background-size: 2px 100%;
+  float: left;
+  background: var(--exp1);
+  background-position: 25px 0px;
+  background-size: 2px 100%;
 }
 
 #block05 #experience-table #tt-content {
-    float: left;
-    background: var(--exp1);
-    background-position: 25px 0px;
-    background-size: 2px 100%;
+  float: left;
+  background: var(--exp1);
+  background-position: 25px 0px;
+  background-size: 2px 100%;
 }
 
 #cv-profile-sex:before {
@@ -198,7 +198,7 @@ p.skill-name input {
 }
 
 #cv-top h1 span {
-  letter-spacing: 1px;
+  ;
   width: 100%;
   line-height: 45px;
 }

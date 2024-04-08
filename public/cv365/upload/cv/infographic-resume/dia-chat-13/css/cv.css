@@ -104,35 +104,35 @@
 }
 
 #cv-right .ir #sortable #box02 {
-    margin-top: 0 !important;
+  margin-top: 0 !important;
 }
 
 #cv-right .ir #sortable #box04 {
-    padding: 27px 20px 20px 30px;
-    background: var(--giaithuong), var(--box);
-    background-position: left top, right 15px, right bottom, right 15px;
-    background-size: 36px 36px, 323px 20px, 323px 20px, 323px 100%;
+  padding: 27px 20px 20px 30px;
+  background: var(--giaithuong), var(--box);
+  background-position: left top, right 15px, right bottom, right 15px;
+  background-size: 36px 36px, 323px 20px, 323px 20px, 323px 100%;
 }
 
 #cv-right .ir #sortable #box05 {
-    padding: 27px 20px 20px 30px;
-    background: var(--chungchi), var(--box);
-    background-position: left top, right 15px, right bottom, right 15px;
-    background-size: 36px 36px, 323px 20px, 323px 20px, 323px 100%;
+  padding: 27px 20px 20px 30px;
+  background: var(--chungchi), var(--box);
+  background-position: left top, right 15px, right bottom, right 15px;
+  background-size: 36px 36px, 323px 20px, 323px 20px, 323px 100%;
 }
 
 #cv-right .ir #sortable #box06 {
-    padding: 27px 20px 20px 30px;
-    background: var(--sothich), var(--box);
-    background-position: left top, right 15px, right bottom, right 15px;
-    background-size: 36px 36px, 323px 20px, 323px 20px, 323px 100%;
+  padding: 27px 20px 20px 30px;
+  background: var(--sothich), var(--box);
+  background-position: left top, right 15px, right bottom, right 15px;
+  background-size: 36px 36px, 323px 20px, 323px 20px, 323px 100%;
 }
 
 #cv-right .ir #sortable #box07 {
-    padding: 27px 20px 20px 30px;
-    background: var(--nguoiTC), var(--box);
-    background-position: left top, right 15px, right bottom, right 15px;
-    background-size: 36px 36px, 323px 20px, 323px 20px, 323px 100%;
+  padding: 27px 20px 20px 30px;
+  background: var(--nguoiTC), var(--box);
+  background-position: left top, right 15px, right bottom, right 15px;
+  background-size: 36px 36px, 323px 20px, 323px 20px, 323px 100%;
 }
 
 p.skill-name input {
@@ -207,7 +207,7 @@ p.skill-name input {
 
 #cv-top h1 span {
   float: right;
-  letter-spacing: 1px;
+  ;
   width: 100%;
   line-height: 45px;
 }
@@ -312,8 +312,8 @@ div#box01 {
 
 
 #cv-content .ir #block01 {
-    width: 94%;
-    margin-top: 0px !important;
+  width: 94%;
+  margin-top: 0px !important;
 }
 
 .ctbx {
@@ -544,7 +544,7 @@ div#experience-table {
 }
 
 #block01 #experience-table {
-    border: solid 3px var(--color2);
+  border: solid 3px var(--color2);
 }
 
 #cv-boxtitle {
@@ -556,19 +556,19 @@ div#experience-table {
 }
 
 #box03 #cv-boxtitle {
-    width: max-content;
-    max-width: 100%;
-    text-align: center;
-    padding: 2px 35px;
-    background: var(--kinang), var(--kinang), var(--color);
-    background-position: 3% center, 97% center;
-    background-size: 21px 21px;
-    border-radius: 10px;
+  width: max-content;
+  max-width: 100%;
+  text-align: center;
+  padding: 2px 35px;
+  background: var(--kinang), var(--kinang), var(--color);
+  background-position: 3% center, 97% center;
+  background-size: 21px 21px;
+  border-radius: 10px;
 }
 
 #box02 #cv-boxtitle {
-    padding-left: 50px;
-    padding-top: 10px;
+  padding-left: 50px;
+  padding-top: 10px;
 }
 
 .ski {
@@ -649,42 +649,47 @@ div#sort_block {
 }
 
 #cv-content #block02 .head {
-    width: 100%;
-    padding-left: 15px;
-    padding-top: 45px;
-    background: var(--kinhnghiem), var(--ngang1);
-    background-position: 0 top, 0 18px;
-    background-size: 35px 36px, 100% 2px;
+  width: 100%;
+  padding-left: 15px;
+  padding-top: 45px;
+  background: var(--kinhnghiem), var(--ngang1);
+  background-position: 0 top, 0 18px;
+  background-size: 35px 36px, 100% 2px;
 }
 
 #cv-content #block03 .head {
-    width: 97%;
-    padding-left: 15px;
-    padding-top: 45px;
-    background: var(--hoatdong), var(--dot), var(--ngang2);
-    background-position: 0 top, right 14px, 0 18px;
-    background-size: 35px 36px, 11px 10px, 100% 2px;
+  width: 97%;
+  padding-left: 15px;
+  padding-top: 45px;
+  background: var(--hoatdong), var(--dot), var(--ngang2);
+  background-position: 0 top, right 14px, 0 18px;
+  background-size: 35px 36px, 11px 10px, 100% 2px;
 }
 
 #cv-content #block04 .head {
-    width: 97%;
-    padding-left: 15px;
-    padding-top: 45px;
-    background: var(--duan), var(--dot), var(--ngang2);
-    background-position: 0 top, right 14px, 0 18px;
-    background-size: 35px 36px, 11px 10px, 100% 2px;
+  width: 97%;
+  padding-left: 15px;
+  padding-top: 45px;
+  background: var(--duan), var(--dot), var(--ngang2);
+  background-position: 0 top, right 14px, 0 18px;
+  background-size: 35px 36px, 11px 10px, 100% 2px;
 }
 
 #cv-content #block05 .head {
-    width: 97%;
-    padding-left: 15px;
-    padding-top: 45px;
-    background: var(--TTthem), var(--dot), var(--ngang2);
-    background-position: 0 top, right 14px, 0 18px;
-    background-size: 35px 36px, 11px 10px, 100% 2px;
+  width: 97%;
+  padding-left: 15px;
+  padding-top: 45px;
+  background: var(--TTthem), var(--dot), var(--ngang2);
+  background-position: 0 top, right 14px, 0 18px;
+  background-size: 35px 36px, 11px 10px, 100% 2px;
 }
 
-#block01 .head {display: flex;background: var(--color);text-align: center;justify-content: space-around;}
+#block01 .head {
+  display: flex;
+  background: var(--color);
+  text-align: center;
+  justify-content: space-around;
+}
 
 .ic1,
 .ic2,
@@ -879,6 +884,6 @@ span.exp-subtitle {
   --ngang1: url(ngang1.png) repeat-x;
   --ngang2: url(ngang2.png) repeat-x;
   --muctieu-2: url(muctieu1-2.png) repeat-x;
-  --kinang-f: url(kinang-t1.png) no-repeat, url(  kinang-b.png) no-repeat, url(kinang-p.png) repeat-y, url(kinang-p.png) repeat-y;
+  --kinang-f: url(kinang-t1.png) no-repeat, url(kinang-b.png) no-repeat, url(kinang-p.png) repeat-y, url(kinang-p.png) repeat-y;
   --box: url(box-t.png) no-repeat, url(box-b.png) no-repeat, url(box-f.png) no-repeat;
 }

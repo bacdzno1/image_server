@@ -135,7 +135,7 @@ p.skill-name input {
 }
 
 #cv-top h1 span {
-    letter-spacing: 1px;
+    ;
 }
 
 #box-hvt {
@@ -735,48 +735,62 @@ div#sort_block {
     font-size: 15px;
     font-family: Courier;
 }
+
 .ic1 .icf {
     background: url(sex.png) no-repeat;
     width: 18px;
     height: 24px;
 }
+
 .ic2 .icf {
     background: url(date.png) no-repeat;
     width: 20px;
     height: 23px;
 }
+
 .ic3 .icf {
     background: url(phone.png) no-repeat;
     width: 22px;
     height: 23px;
 }
+
 .ic4 .icf {
     background: url(mail.png) no-repeat;
     width: 24px;
     height: 19px;
 }
+
 .ic5 .icf {
     background: url(add.png) no-repeat;
     width: 23px;
     height: 18px;
 }
+
 .icoweb {
     float: left;
     padding-left: 10px;
 }
 
-.ic1, .ic2, .ic3, .ic4, .ic5 {
+.ic1,
+.ic2,
+.ic3,
+.ic4,
+.ic5 {
     float: left;
     width: 100%;
     padding-bottom: 10px;
 }
-.ic4 .icoweb, .ic5 .icoweb {
+
+.ic4 .icoweb,
+.ic5 .icoweb {
     width: 89%;
 }
-.hi{
+
+.hi {
     float: left;
     width: 100%;
 }
+
 .hi1 {
     width: 15px;
     height: 2px;

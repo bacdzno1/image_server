@@ -24,14 +24,16 @@
   color: #666666;
   padding-bottom: 5px;
 }
+
 .exp.content-edit.skill {
   float: left;
 }
 
 
 #cvo-profile {
-display: block;
+  display: block;
 }
+
 #cv-content {
   width: 47%;
   text-align: justify;
@@ -42,21 +44,26 @@ display: block;
   margin-left: 20px;
 }
 
-#cv-profile-phone:before{
-color: #666666;
+#cv-profile-phone:before {
+  color: #666666;
 }
-#cv-profile-email:before{
-color: #666666;
+
+#cv-profile-email:before {
+  color: #666666;
 }
-#cv-profile-address:before{
-color: #666666;
+
+#cv-profile-address:before {
+  color: #666666;
 }
-#cv-profile-sex:before{
-color: #666666;
+
+#cv-profile-sex:before {
+  color: #666666;
 }
-#cv-profile-birthday:before{
-color: #666666;
+
+#cv-profile-birthday:before {
+  color: #666666;
 }
+
 #cv-main {
   text-align: justify;
   margin: 0;
@@ -66,31 +73,42 @@ color: #666666;
   width: 38.5%;
   margin-right: 20px;
 }
-.chu{float: left;width: 100%;padding-top: 70px;}
+
+.chu {
+  float: left;
+  width: 100%;
+  padding-top: 70px;
+}
+
 .anh {
   float: left;
   width: 52%;
 }
+
 #cv-right .ir {
-padding: 0;
-margin: 0;
+  padding: 0;
+  margin: 0;
 }
-#cv-main #cv-right{
-padding: 0;
-margin: 0;
+
+#cv-main #cv-right {
+  padding: 0;
+  margin: 0;
 }
-#cv-main #cv-right .ir #sortable{
-padding: 0;
-margin: 0;
+
+#cv-main #cv-right .ir #sortable {
+  padding: 0;
+  margin: 0;
 }
-#cv-right .ir #sortable .block{
-padding: 0;
-margin: 0;
-float:left;
-width: 100%;
+
+#cv-right .ir #sortable .block {
+  padding: 0;
+  margin: 0;
+  float: left;
+  width: 100%;
 }
+
 p.skill-name input {
-color: #fff !important;
+  color: #fff !important;
 }
 
 #cv-right #box03 .ctbx {
@@ -99,14 +117,21 @@ color: #fff !important;
   margin: 0;
   border: 0;
   padding-bottom: 10px;
-  float:left;
+  float: left;
 }
-#cv-content #box01{
-/*background:#666666;*/
-padding: 0;
-margin: 0;
+
+#cv-content #box01 {
+  /*background:#666666;*/
+  padding: 0;
+  margin: 0;
 }
-#box03 .exp{float: left;padding-top: 30px;width: 100%;}
+
+#box03 .exp {
+  float: left;
+  padding-top: 30px;
+  width: 100%;
+}
+
 #cv-top {
   width: 100%;
   height: 440px;
@@ -115,7 +140,8 @@ margin: 0;
   background-repeat: no-repeat;
   position: relative;
 }
-.all{
+
+.all {
   float: left;
   clear: both;
   background: url(main.png)no-repeat;
@@ -123,7 +149,8 @@ margin: 0;
   width: 100%;
   padding-top: 20px;
   /* padding-bottom: 37px; */
-  }
+}
+
 #cv-top h1 {
   padding: 0;
   margin: 0;
@@ -138,13 +165,16 @@ margin: 0;
   width: 100%;
   float: left;
 }
+
 #cv-top h1 span {
-  letter-spacing: 1px;
+  ;
 }
+
 div#box01 {
   float: right;
   width: 100%;
 }
+
 #box-hvt {
   float: left;
   width: 40.5%;
@@ -154,20 +184,23 @@ div#box01 {
   padding-top: 80px;
   margin-left: 50px;
 }
+
 #cv-right .cvo-block .head div {
-color: #fff;
+  color: #fff;
 }
 
 .innertext {
-margin: 0px;
-padding: 0px;
-width: 29%;
-float: left;
-color: white;
+  margin: 0px;
+  padding: 0px;
+  width: 29%;
+  float: left;
+  color: white;
 }
-#cv-profile-fullname::before{
-color: #666666;
+
+#cv-profile-fullname::before {
+  color: #666666;
 }
+
 #cv-top h2 {
   margin: 0;
   padding: 0;
@@ -181,28 +214,30 @@ color: #666666;
 }
 
 .box-01 p {
-overflow: hidden;
+  overflow: hidden;
 }
 
 #cv-content p {
-margin-bottom: 5px
+  margin-bottom: 5px
 }
 
 #cv-content .ir a {
-color: #2ebb2f
+  color: #2ebb2f
 }
 
-#cv-right h3, #cv-content .head {
-font-size: 20px;
-text-transform: uppercase;
-color: #666666;
-font-weight: bold;
-text-align: left;
-line-height: 20px;
-padding-top: 0px;
+#cv-right h3,
+#cv-content .head {
+  font-size: 20px;
+  text-transform: uppercase;
+  color: #666666;
+  font-weight: bold;
+  text-align: left;
+  line-height: 20px;
+  padding-top: 0px;
 }
+
 #cv-content h3 {
-font-weight: unset;
+  font-weight: unset;
   font-size: 14px;
   line-height: 24px;
   margin: 0px;
@@ -211,72 +246,96 @@ font-weight: unset;
 }
 
 
-#cv-content #block02 .exp-content{margin: 0;padding: 0;padding-left: 10px;padding-top: 10px;}
-#cv-content #block03 h3{
-font-weight: unset;
+#cv-content #block02 .exp-content {
+  margin: 0;
+  padding: 0;
+  padding-left: 10px;
+  padding-top: 10px;
 }
+
+#cv-content #block03 h3 {
+  font-weight: unset;
+}
+
 #cv-content .exp-date {
-float: none;
+  float: none;
 }
 
 #cv-content #block01 .exp-date {
-display: none;
+  display: none;
 }
 
 #cv-content #block03 .exp-date {
-display: none;
+  display: none;
 }
 
 #cv-content #block04 .exp-date {
-display: none;
+  display: none;
 }
 
 #cv-content #block05 .exp-date {
-display: none;
+  display: none;
 }
 
-#cv-content p.h3 {margin: 0px;padding: 0px;padding-top: 15px;}
+#cv-content p.h3 {
+  margin: 0px;
+  padding: 0px;
+  padding-top: 15px;
+}
 
 #cv-content .cvo-block {
   padding: 0 !important;
   float: left;
   width: 100%;
 }
-#cv-content .ir .cvo-block{
-padding: 0;
-background: #fff;
+
+#cv-content .ir .cvo-block {
+  padding: 0;
+  background: #fff;
 }
+
 .ctbx {
-padding-left: 10px;
-padding-right: 10px
+  padding-left: 10px;
+  padding-right: 10px
 }
 
 
 #cv-content span {
-display: inline-block;
-z-index: 9999;
+  display: inline-block;
+  z-index: 9999;
 }
-#cv-content #block02 h3 {font-weight: bold;color: #8b7e7e;float: left;width: 100%;text-transform: unset;font-size: 15px;text-align: right;/* padding-top: 15px; */}
-#block02 #experience-table #exp2{
+
+#cv-content #block02 h3 {
+  font-weight: bold;
+  color: #8b7e7e;
+  float: left;
+  width: 100%;
+  text-transform: unset;
+  font-size: 15px;
+  text-align: right;
+  /* padding-top: 15px; */
 }
+
+#block02 #experience-table #exp2 {}
+
 .ctbx {
-margin-bottom: 10px;
-padding-left: 0;
-padding-right: 0;
-position: relative;
+  margin-bottom: 10px;
+  padding-left: 0;
+  padding-right: 0;
+  position: relative;
 }
 
 
 .ctbx:hover {
-box-shadow: 0 0 1px #999;
+  box-shadow: 0 0 1px #999;
 }
 
 .ctbx:hover .fieldgroup_controls {
-display: block;
+  display: block;
 }
 
 [cvo-form-field] {
-cursor: text;
+  cursor: text;
 }
 
 #cvo-profile-avatar-wraper {
@@ -294,24 +353,28 @@ cursor: text;
   float: right;
   display: unset !important;
 }
+
 #cvo-profile-avatar-wraper img {
   width: 180px;
   height: 180px;
   float: none;
 }
+
 .box-01 {
   float: left;
   width: 100%;
   height: 300px;
 }
+
 #cvo-profile {
   display: block;
   float: left;
   width: 100%;
   height: 300px;
 }
+
 #line-seperate {
-height: 25px;
+  height: 25px;
 }
 
 .bar-exp div {
@@ -319,8 +382,9 @@ height: 25px;
   height: 8px;
   background: #000;
   margin-top: 0px;
-  border-radius:10px;
+  border-radius: 10px;
 }
+
 .ctbx .skill-name {
   margin: 0px;
   padding: 0px;
@@ -339,20 +403,20 @@ height: 25px;
   border: 1px solid #000;
   float: right;
   width: 100%;
-  border-radius:10px;
+  border-radius: 10px;
 }
 
 .bar-value-exp {
-width: 100%
+  width: 100%
 }
 
 .bar-value-exp input[type="text"] {
-color: #666666;
-width: 95%
+  color: #666666;
+  width: 95%
 }
 
 .icoweb label {
-display: block;
+  display: block;
 }
 
 /*#sortable .icoweb {
@@ -377,22 +441,26 @@ color: #fff;
   float: left;
   color: #666666;
 }
+
 .ic {
-width: 100%;
-float: left;
-color: #666666;
-padding-bottom: 10px;
+  width: 100%;
+  float: left;
+  color: #666666;
+  padding-bottom: 10px;
 }
 
-#prof span {
-}
+#prof span {}
+
 #prof [contentEditable=true] {
   width: 100%;
   float: left;
 }
-#prof .icoweb, #prof .icoweb span {
+
+#prof .icoweb,
+#prof .icoweb span {
   height: auto;
 }
+
 div#prof {
   float: right;
   width: 100%;
@@ -400,21 +468,24 @@ div#prof {
 }
 
 #form-cv .icf {
-float: left;
-line-height: 20px;
-margin-bottom: 0;
-width: 26px;
-height: 20px;
-text-align: left;
+  float: left;
+  line-height: 20px;
+  margin-bottom: 0;
+  width: 26px;
+  height: 20px;
+  text-align: left;
 }
+
 .ic02 {
   float: right;
   width: 64%;
 }
+
 .ic03 {
-float: left;
-width: 35%;
+  float: left;
+  width: 35%;
 }
+
 .icf .fa {
   font-size: 20px;
   color: #666666;
@@ -423,21 +494,23 @@ width: 35%;
 }
 
 .container {
-width: 100%;
+  width: 100%;
 }
 
 .sum {
-margin: 0;
-padding: 0;
-width: 100%;
-height: 30px;
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  height: 30px;
 }
+
 #cv-right .block {
   margin-bottom: 10px;
   position: relative;
   padding: 0;
   padding-bottom: 20px;
 }
+
 #cv-content .head {
   padding: 0;
   margin: 0;
@@ -449,14 +522,14 @@ height: 30px;
   /* padding-top: 15px; */
   border-bottom: 2px solid #666666;
 }
-#experience-table .ctbx {
-}
+
+#experience-table .ctbx {}
 
 .ifo {
-margin: 0;
-padding: 0;
-width: 100%;
-height: 30px;
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  height: 30px;
 }
 
 
@@ -478,11 +551,13 @@ height: 30px;
   float: left;
   width: 100%;
 }
-#experience-table #exp2{
-margin-top: 10px;
+
+#experience-table #exp2 {
+  margin-top: 10px;
 }
-#exp1 .exp-content{
-}
+
+#exp1 .exp-content {}
+
 /*#icon{
   width: 30px;
   height: 30px;
@@ -490,9 +565,9 @@ margin-top: 10px;
   float: left;
   border-bottom: 2px solid #fff;
 }*/
-#bg{
-background: #F58284;
-text-align: left;
+#bg {
+  background: #F58284;
+  text-align: left;
 }
 
 /*#prof {
@@ -595,6 +670,7 @@ div#cv-boxtitle {
   border-bottom: 2px solid #666666;
   /* padding-top: 10px; */
 }
+
 .cum {
   padding: 0;
   margin: 0 auto;
@@ -605,6 +681,7 @@ div#cv-boxtitle {
   border-bottom: 2px solid #666666;
   /* padding-top: 15px; */
 }
+
 /*.icright {
   width: 40px;
   height: 40px;
@@ -657,14 +734,17 @@ div#sort_block {
   padding: 0;
   margin: 0;
 }
-.cvo-block .blockControls{
-margin: 0px;
-padding: 0px;
+
+.cvo-block .blockControls {
+  margin: 0px;
+  padding: 0px;
 }
-#cv-profile-job::before{
-color: #666666;
+
+#cv-profile-job::before {
+  color: #666666;
 }
-.footer{
+
+.footer {
   background: url(ft.png)no-repeat;
   background-size: 100% 100%;
   height: 60px;
@@ -672,13 +752,14 @@ color: #666666;
   width: 100%;
   padding-top: 50px;
 }
+
 .watermark {
-float: left;
-width: 100%;
-height: 22px;
-color: #999;
-text-align: right;
-padding-right: 22px;
-font-size: 15px;
-font-family: Courier;
+  float: left;
+  width: 100%;
+  height: 22px;
+  color: #999;
+  text-align: right;
+  padding-right: 22px;
+  font-size: 15px;
+  font-family: Courier;
 }

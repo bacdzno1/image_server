@@ -46,6 +46,7 @@
     margin: 0;
     margin-left: 30px;
 }
+
 #cv-main {
     text-align: justify;
     margin: 0;
@@ -120,9 +121,11 @@ p.skill-name input {
 #box07 #sortable .cvo-block .box-content {
     padding-bottom: 0;
 }
-#box02{
+
+#box02 {
     margin-top: -280px !important;
 }
+
 #box03 .exp {
     float: left;
     padding-top: 18px;
@@ -165,7 +168,7 @@ p.skill-name input {
 }
 
 #cv-top h1 span {
-    letter-spacing: 1px;
+    ;
 }
 
 div#box01 {
@@ -250,6 +253,7 @@ div#box01 {
 #cv-content #block03 h3 {
     font-weight: unset;
 }
+
 #cv-content p.h3 {
     margin: 0px;
     padding: 0px;
@@ -276,9 +280,8 @@ div#box01 {
     z-index: 9999;
     padding-top: 0px;
 }
-#block02{
 
-}
+#block02 {}
 
 .ctbx {
     margin-bottom: 10px;
@@ -324,10 +327,12 @@ div#box01 {
     display: unset !important;
     clip-path: polygon(46% 4%, 33% 13%, 27% 17%, 19% 22%, 9% 28%, 4% 32%, 3% 34%, 1% 40%, 1% 50%, 3% 59%, 6% 68%, 13% 79%, 22% 88%, 31% 94%, 42% 98%, 54% 99%, 64% 99%, 73% 95%, 79% 91%, 87% 82%, 94% 70%, 98% 55%, 98% 44%, 97% 34%, 94% 23%, 88% 14%, 84% 9%, 75% 3%, 65% 1%, 57% 1%);
 }
-#cvo-profile-avatar{
+
+#cvo-profile-avatar {
     width: 275px;
     height: 205px;
 }
+
 .box-01 {
     float: left;
     width: 100%;
@@ -600,7 +605,7 @@ div#sort_block {
     width: 100%;
 }
 
-.exp-fake{
+.exp-fake {
     float: left;
     width: 100%;
     height: 41px;
@@ -609,6 +614,7 @@ div#sort_block {
     margin-top: -40px;
     z-index: 9;
 }
+
 .box-dm {
     padding: 0;
     margin: 0;
@@ -625,37 +631,43 @@ div#sort_block {
     margin-top: -235px;
     margin-left: 0px;
 }
-.cumicc2{
-float: left;
-width: 10%;
-height: 30px;
-background: url(taget.png)no-repeat;
+
+.cumicc2 {
+    float: left;
+    width: 10%;
+    height: 30px;
+    background: url(taget.png)no-repeat;
 }
-.cumicc3{
+
+.cumicc3 {
     float: left;
     width: 10%;
     height: 30px;
     background: url(skill.png)no-repeat;
 }
-.cumicc4{
+
+.cumicc4 {
     float: left;
     width: 10%;
     height: 30px;
     background: url(ribbon.png)no-repeat;
 }
-.cumicc5{
+
+.cumicc5 {
     float: left;
     width: 10%;
     height: 30px;
     background: url(document.png)no-repeat;
 }
-.cumicc6{
+
+.cumicc6 {
     float: left;
     width: 10%;
     height: 30px;
     background: url(joystick.png)no-repeat;
 }
-.cumicc7{
+
+.cumicc7 {
     float: left;
     width: 10%;
     height: 30px;

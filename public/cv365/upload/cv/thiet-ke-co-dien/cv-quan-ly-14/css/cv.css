@@ -30,8 +30,8 @@
 
 
 #box02 .box-content div {
-    background: unset;
-    padding-left: 0;
+  background: unset;
+  padding-left: 0;
 }
 
 .exp.content-edit.skill {
@@ -235,7 +235,7 @@ p.skill-name input {
 }
 
 #cv-top h1 div {
-  /* letter-spacing: 1px; */
+  /* ; */
   width: 100%;
   line-height: 45px;
   text-align: center;
@@ -332,9 +332,9 @@ div#box01 {
 }
 
 #cv-content #block04 h3 {
-    display: flex;
-    flex-direction: column;
-    padding-right: 15px;
+  display: flex;
+  flex-direction: column;
+  padding-right: 15px;
 }
 
 
@@ -580,7 +580,7 @@ div#prof {
 }
 
 #cv-content #block04 .head #cvo-experience-blocktitle {
-    color: #fff;
+  color: #fff;
 }
 
 #bg {
@@ -676,16 +676,19 @@ div#sort_block {
   padding-bottom: 2px;
 }
 
-#cv-content #block01 .head, #block03 .head, #block05 .head {
-    background: var(--head1);
-    background-position: left top;
-    background-size: 100% 100%;
+#cv-content #block01 .head,
+#block03 .head,
+#block05 .head {
+  background: var(--head1);
+  background-position: left top;
+  background-size: 100% 100%;
 }
 
-#cv-content #block02 .head, #block04 .head {
-    background: var(--head2);
-    background-position: left top;
-    background-size: 100% 100%;
+#cv-content #block02 .head,
+#block04 .head {
+  background: var(--head2);
+  background-position: left top;
+  background-size: 100% 100%;
 }
 
 .ic1,
@@ -762,16 +765,19 @@ div#sort_block {
   padding-bottom: 3px;
 }
 
-#box04 .cum, #box06 .cum {
-    background: var(--cum2);
-    background-position: left top;
-    background-size: 100% 100%;
+#box04 .cum,
+#box06 .cum {
+  background: var(--cum2);
+  background-position: left top;
+  background-size: 100% 100%;
 }
 
-#box03 .ski, #box05 .cum, #box07 .cum {
-    background: var(--cum1);
-    background-position: left top;
-    background-size: 100% 100%;
+#box03 .ski,
+#box05 .cum,
+#box07 .cum {
+  background: var(--cum1);
+  background-position: left top;
+  background-size: 100% 100%;
 }
 
 #boxtitle {
@@ -808,7 +814,7 @@ div#sort_block {
 }
 
 #bloc02 .exp-title {
-    width: 70%;
+  width: 70%;
 }
 
 .bar-exp div p {

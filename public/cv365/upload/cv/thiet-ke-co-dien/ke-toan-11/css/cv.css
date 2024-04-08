@@ -137,7 +137,7 @@ p.skill-name input {
 }
 
 #cv-top h1 span {
-    letter-spacing: 1px;
+    ;
 }
 
 #box-hvt {
@@ -825,6 +825,7 @@ div#sort_block {
     background-position: bottom;
     display: none;
 }
+
 .fake_img {
     background: url(fake1.png) no-repeat;
     background-size: 100% 100%;
@@ -836,10 +837,14 @@ div#sort_block {
     z-index: 9;
     top: 999999px;
 }
-#block01 #experience-table, #block02 #experience-table, #block03 #experience-table {
+
+#block01 #experience-table,
+#block02 #experience-table,
+#block03 #experience-table {
     background: url(bg_content1.png) repeat-x;
     background-position: right bottom;
 }
+
 .exp-title {
     text-align: left;
 }

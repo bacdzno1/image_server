@@ -166,7 +166,7 @@ p.skill-name input {
 }
 
 #cv-top h1 span {
-  letter-spacing: 1px;
+  ;
 }
 
 div#box01 {
@@ -739,7 +739,9 @@ div#sort_block {
   text-transform: uppercase;
 }
 
-#box02 .cum {display: none;}
+#box02 .cum {
+  display: none;
+}
 
 #box03 .ski {
   background: url(bg_skill.png) no-repeat;
@@ -768,11 +770,9 @@ div#sort_block {
 }
 
 .box-content,
-.ctbx {
-}
+.ctbx {}
 
-div#exp1 {
-}
+div#exp1 {}
 
 .ic1 .icf {
   background: url(date1.png) no-repeat;
@@ -798,7 +798,8 @@ div#exp1 {
   padding-top: 8px;
 }
 
-.ic4 .icoweb, .ic5 .icoweb {
+.ic4 .icoweb,
+.ic5 .icoweb {
   width: 85%;
 }
 
@@ -807,9 +808,11 @@ div#exp1 {
   text-transform: none;
   font-size: 14px;
 }
+
 .ic1 {
   width: 40%;
 }
+
 #box02 {
   background-color: #f4e1b2;
 }

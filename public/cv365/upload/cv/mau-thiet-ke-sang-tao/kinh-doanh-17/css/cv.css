@@ -7,17 +7,19 @@
   line-height: 24px;
   color: #000;
 }
+
 .watermark {
-float: left;
-width: 100%;
-height: 22px;
-color: #999;
-text-align: right;
-padding-right: 22px;
-font-size: 15px;
-font-family: Courier;
-background: #fff;
+  float: left;
+  width: 100%;
+  height: 22px;
+  color: #999;
+  text-align: right;
+  padding-right: 22px;
+  font-size: 15px;
+  font-family: Courier;
+  background: #fff;
 }
+
 /*#sortable .cvo-block {
   margin-bottom: 15px;
   margin-top: 8px;
@@ -27,7 +29,7 @@ background: #fff;
 }*/
 
 #sortable .cvo-block .box-content {
- /* padding-left: 25px;*/
+  /* padding-left: 25px;*/
   margin: 0;
   width: 100%;
   margin-top: 15px;
@@ -36,14 +38,16 @@ background: #fff;
   padding-bottom: 15px;
   text-align: justify;
 }
+
 .exp.content-edit.skill {
   border-radius: 10px;
 }
 
 
 #cvo-profile {
-display: block;
+  display: block;
 }
+
 #cv-content {
   width: 42%;
   text-align: justify;
@@ -66,24 +70,28 @@ display: block;
 }
 
 #cv-right .ir {
-padding: 0;
-margin: 0;
+  padding: 0;
+  margin: 0;
 }
-#cv-main #cv-right{
-padding: 0;
-margin: 0;
+
+#cv-main #cv-right {
+  padding: 0;
+  margin: 0;
 }
-#cv-main #cv-right .ir #sortable{
-padding: 0;
-margin: 0;
+
+#cv-main #cv-right .ir #sortable {
+  padding: 0;
+  margin: 0;
 }
-#cv-right .ir #sortable .block{
-padding: 0;
-margin: 0;
-margin-bottom: 20px;
+
+#cv-right .ir #sortable .block {
+  padding: 0;
+  margin: 0;
+  margin-bottom: 20px;
 }
+
 p.skill-name input {
-color: #fff !important;
+  color: #fff !important;
 }
 
 #cv-right #box03 .ctbx {
@@ -93,7 +101,7 @@ color: #fff !important;
   border: 0;
   padding-top: 10px;
   padding-bottom: 10px;
-  float:left;
+  float: left;
 }
 
 #cv-top {
@@ -104,12 +112,14 @@ color: #fff !important;
   background-repeat: no-repeat;
   position: relative;
 }
-.all{
-float: left;
-clear: both;
-width: 100%;
-background-color: #fff5f6;
+
+.all {
+  float: left;
+  clear: both;
+  width: 100%;
+  background-color: #fff5f6;
 }
+
 #cv-top h1 {
   padding: 0;
   margin: 0;
@@ -124,9 +134,11 @@ background-color: #fff5f6;
   width: 98%;
   float: left;
 }
+
 #cv-top h1 span {
-  letter-spacing: 1px;
+  ;
 }
+
 #box-hvt {
   float: right;
   width: 55%;
@@ -152,20 +164,20 @@ background-color: #fff5f6;
 }
 
 #box01 ul {
-list-style: none;
-padding-left: 20px
+  list-style: none;
+  padding-left: 20px
 }
 
 #cv-right .cvo-block .head div {
-color: #fff;
+  color: #fff;
 }
 
 .innertext {
-margin: 0px;
-padding: 0px;
-width: 29%;
-float: left;
-color: white;
+  margin: 0px;
+  padding: 0px;
+  width: 29%;
+  float: left;
+  color: white;
 }
 
 #cv-top h2 {
@@ -173,7 +185,7 @@ color: white;
   width: 100%;
   font-size: 20px;
   font-family: "Roboto";
-  color: #000  ;
+  color: #000;
   text-align: center;
   margin: 0;
   padding: 0;
@@ -182,26 +194,28 @@ color: white;
 }
 
 .box-01 p {
-overflow: hidden;
+  overflow: hidden;
 }
 
 #cv-content p {
-margin-bottom: 5px
+  margin-bottom: 5px
 }
 
 #cv-content .ir a {
-color: #2ebb2f
+  color: #2ebb2f
 }
 
-#cv-right h3, #cv-content .head {
-font-size: 20px;
-text-transform: uppercase;
-color: #000;
-font-weight: bold;
-text-align: left;
-line-height: 20px;
-padding-top: 0px;
+#cv-right h3,
+#cv-content .head {
+  font-size: 20px;
+  text-transform: uppercase;
+  color: #000;
+  font-weight: bold;
+  text-align: left;
+  line-height: 20px;
+  padding-top: 0px;
 }
+
 #cv-content h3 {
   font-size: 16px;
   line-height: 24px;
@@ -224,28 +238,28 @@ font-weight: bold;
 }
 */
 #cv-content .exp-date {
-float: none;
+  float: none;
 }
 
 #cv-content #block01 .exp-date {
-display: none;
+  display: none;
 }
 
 #cv-content #block03 .exp-date {
-display: none;
+  display: none;
 }
 
 #cv-content #block04 .exp-date {
-display: none;
+  display: none;
 }
 
 #cv-content #block05 .exp-date {
-display: none;
+  display: none;
 }
 
 #cv-content p.h3 {
-margin: 0px;
-padding: 0px;
+  margin: 0px;
+  padding: 0px;
 }
 
 #cv-content .cvo-block {
@@ -253,47 +267,50 @@ padding: 0px;
   float: left;
   width: 100%;
 }
-#cv-content .ir .cvo-block{
-padding: 0;
-margin-bottom: 20px;
+
+#cv-content .ir .cvo-block {
+  padding: 0;
+  margin-bottom: 20px;
 }
+
 .ctbx {
-padding-left: 10px;
-padding-right: 10px
+  padding-left: 10px;
+  padding-right: 10px
 }
 
 
 #cv-content span {
-display: inline-block;
-z-index: 9999;
+  display: inline-block;
+  z-index: 9999;
 }
 
 #cv-content #block02 h3 {
-font-weight: bold;
+  font-weight: bold;
 }
 
 .ctbx {
-margin-bottom: 10px;
-padding-left: 0;
-padding-right: 0;
-position: relative;
+  margin-bottom: 10px;
+  padding-left: 0;
+  padding-right: 0;
+  position: relative;
 }
 
 
 .ctbx:hover {
-box-shadow: 0 0 1px #999;
+  box-shadow: 0 0 1px #999;
 }
 
 .ctbx:hover .fieldgroup_controls {
-display: block;
+  display: block;
 }
 
 [cvo-form-field] {
-cursor: text;
+  cursor: text;
 }
 
 #cvo-profile-avatar-wraper {
-  width: 30%;/*
+  width: 30%;
+  /*
   height: 200px;*/
   padding: 0;
   margin: 0;
@@ -309,14 +326,16 @@ cursor: text;
   float: left;
   display: unset !important;
 }
+
 #cvo-profile-avatar-wraper img {
   width: 185px;
   height: 185px;
   border-radius: 50%;
   float: none;
 }
-.box-dm{
-width: 229px;
+
+.box-dm {
+  width: 229px;
   height: 229px;
   clear: both;
   z-index: 1;
@@ -331,32 +350,38 @@ width: 229px;
   margin-left: -25px;
   top: -900px;
 }
-#cvo-profile-avatar{
+
+#cvo-profile-avatar {
   width: 185px;
   height: 185px;
 }
+
 .box-01 {
   float: left;
   width: 100%;
   height: 280px;
 }
+
 #cvo-profile {
   display: block;
   float: left;
   width: 100%;
   height: 280px;
 }
+
 #line-seperate {
-height: 25px;
+  height: 25px;
 }
 
 .bar-exp div {
   float: left;
   height: 13px;
   background: #fcbe80;
-  margin-top: 0px;/*
+  margin-top: 0px;
+  /*
   border-radius: 5px;*/
 }
+
 .ctbx .skill-name {
   margin: 0px;
   padding: 0px;
@@ -369,22 +394,24 @@ height: 25px;
   float: none;
   margin-top: 0;
   margin-bottom: 0px;
-  padding: 0px;/*
-  border: 1px solid #208099;*//*
+  padding: 0px;
+  /*
+  border: 1px solid #208099;*/
+  /*
   border-radius: 5px;*/
 }
 
 .bar-value-exp {
-width: 100%
+  width: 100%
 }
 
 .bar-value-exp input[type="text"] {
-color: #fff;
-width: 95%
+  color: #fff;
+  width: 95%
 }
 
 .icoweb label {
-display: block;
+  display: block;
 }
 
 /*#sortable .icoweb {
@@ -410,36 +437,40 @@ color: #fff;
 }
 
 .ic {
-width: 100%;
-float: left;
-color: #000;
+  width: 100%;
+  float: left;
+  color: #000;
 }
 
 #prof span {
   width: 270px;
 }
+
 #prof [contentEditable=true] {
   width: 270px;
   float: left;
 }
-#prof .icoweb, #prof .icoweb span {
+
+#prof .icoweb,
+#prof .icoweb span {
   height: auto;
 }
+
 #sortable .ic {
-margin-bottom: 5px;
-padding-top: 5px;
-padding-left: 5px;
+  margin-bottom: 5px;
+  padding-top: 5px;
+  padding-left: 5px;
 }
 
 
 #form-cv .icf {
-float: left;
-border-radius: 5px;
-line-height: 30px;
-margin-bottom: 0;
-width: 28px;
-text-align: center;
-background: #f19997;
+  float: left;
+  border-radius: 5px;
+  line-height: 30px;
+  margin-bottom: 0;
+  width: 28px;
+  text-align: center;
+  background: #f19997;
 }
 
 
@@ -451,37 +482,39 @@ background: #f19997;
 }
 
 .container {
-width: 100%;
+  width: 100%;
 }
 
 .sum {
-margin: 0;
-padding: 0;
-width: 100%;
-height: 30px;
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  height: 30px;
 }
+
 #cv-right .block {
   margin-bottom: 10px;
   position: relative;
   padding: 0;
   padding-bottom: 20px;
 }
+
 #cv-content .head {
-padding: 0;
-margin: 0;
+  padding: 0;
+  margin: 0;
   height: 60px;
   line-height: 60px;
   text-align: left;
   width: 100%;
 }
-#experience-table .ctbx {
-}
+
+#experience-table .ctbx {}
 
 .ifo {
-margin: 0;
-padding: 0;
-width: 100%;
-height: 30px;
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  height: 30px;
 }
 
 
@@ -504,26 +537,33 @@ height: 30px;
   text-align: center;
 
 }
-#experience-table #exp2{
-margin-top: 10px;
+
+#experience-table #exp2 {
+  margin-top: 10px;
 }
+
 #block02 #experience-table .ctbx {
   padding-left: 10px;
 }
+
 #block01 #experience-table .ctbx {
   padding-left: 10px;
 }
-#block03 #experience-table .ctbx{
+
+#block03 #experience-table .ctbx {
   padding-left: 10px;
 }
-#block04 #experience-table .ctbx{
+
+#block04 #experience-table .ctbx {
   padding-left: 10px;
 }
-#block05 #experience-table .ctbx{
+
+#block05 #experience-table .ctbx {
   padding-left: 10px;
 }
-#exp1 .exp-content{
-}
+
+#exp1 .exp-content {}
+
 /*#icon{
   width: 30px;
   height: 30px;
@@ -531,9 +571,9 @@ margin-top: 10px;
   float: left;
   border-bottom: 2px solid #fff;
 }*/
-#bg{
-background: #F58284;
-text-align: left;
+#bg {
+  background: #F58284;
+  text-align: left;
 }
 
 /*#prof {
@@ -617,6 +657,7 @@ div#experience-table {
   background-size: 100% 100%;
   background-position: center;
 }
+
 div#cv-boxtitle {
   font-size: 19px;
   font-weight: bold;
@@ -629,14 +670,15 @@ div#cv-boxtitle {
 
 .ski {
   padding: 0;
-margin: 0;
+  margin: 0;
   height: 60px;
   width: 100%;
   line-height: 60px;
 }
+
 .cum {
-padding: 0;
-margin: 0;
+  padding: 0;
+  margin: 0;
   height: 60px;
   width: 100%;
   line-height: 60px;
@@ -651,37 +693,45 @@ margin: 0;
   background-repeat: no-repeat;
   display: none;
 }
+
 .icright2 {
   width: 60px;
-  height:40px;
+  height: 40px;
   float: left;
   background: url(ic_11.png);
   background-position: center;
-  background-repeat: no-repeat;display: none;
+  background-repeat: no-repeat;
+  display: none;
 }
+
 .icright3 {
   width: 60px;
-  height:40px;
+  height: 40px;
   float: left;
   background: url(ic_21.png);
   background-position: center;
-  background-repeat: no-repeat;display: none;
+  background-repeat: no-repeat;
+  display: none;
 }
+
 .icright4 {
   width: 60px;
-  height:40px;
+  height: 40px;
   float: left;
   background: url(ic_27.png);
   background-position: center;
-  background-repeat: no-repeat;display: none;
+  background-repeat: no-repeat;
+  display: none;
 }
+
 .icright5 {
   width: 60px;
-  height:40px;
+  height: 40px;
   float: left;
   background: url(ic_35.png);
   background-position: center;
-  background-repeat: no-repeat;display: none;
+  background-repeat: no-repeat;
+  display: none;
 }
 
 
@@ -697,63 +747,74 @@ div#sort_block {
   padding: 0;
   margin: 0;
 }
-.cvo-block .blockControls{
-margin: 0px;
-padding: 0px;
+
+.cvo-block .blockControls {
+  margin: 0px;
+  padding: 0px;
 }
-#box02 div#cv-boxtitle{
+
+#box02 div#cv-boxtitle {
   background: url(ic_13.gif)no-repeat;
   background-size: 100% 100%;
   background-position: center;
 }
-#box03 div#cv-boxtitle{
+
+#box03 div#cv-boxtitle {
   background: url(ic_15.gif)no-repeat;
   background-size: 100% 100%;
   background-position: center;
 }
-#box04 div#cv-boxtitle{
+
+#box04 div#cv-boxtitle {
   background: url(ic_18.gif)no-repeat;
   background-size: 100% 100%;
   background-position: center;
 }
-#box05 div#cv-boxtitle{
+
+#box05 div#cv-boxtitle {
   background: url(ic_23.gif)no-repeat;
   background-size: 100% 100%;
   background-position: center;
 }
-#box06 div#cv-boxtitle{
+
+#box06 div#cv-boxtitle {
   background: url(ic_03.gif)no-repeat;
   background-size: 100% 100%;
   background-position: center;
 }
-#box07 div#cv-boxtitle{
+
+#box07 div#cv-boxtitle {
   background: url(ic_11.gif)no-repeat;
   background-size: 100% 100%;
   background-position: center;
 }
 
 
-#block01 .head{
+#block01 .head {
   background: url(ic_03.gif)no-repeat;
   background-size: 100% 100%;
   background-position: center;
 }
-#block02 .head{
+
+#block02 .head {
   background: url(ic_11.gif)no-repeat;
   background-size: 100% 100%;
   background-position: center;
 }
-#block03 .head{
+
+#block03 .head {
   background: url(ic_24.gif)no-repeat;
   background-size: 100% 100%;
   background-position: center;
 }
-#block04 .head{
+
+#block04 .head {
   background: url(ic_30.gif)no-repeat;
   background-size: 100% 100%;
   background-position: center;
 }
-#block05 .head{
+
+#block05 .head {
   background: url(ic_20.gif)no-repeat;
   background-size: 100% 100%;
   background-position: center;

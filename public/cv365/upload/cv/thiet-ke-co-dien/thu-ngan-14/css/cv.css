@@ -163,7 +163,7 @@ p.skill-name input {
 }
 
 #cv-top h1 span {
-  letter-spacing: 1px;
+  ;
   width: 100%;
   line-height: 45px;
 }
@@ -744,27 +744,21 @@ div#block01 .exp-title {
 #block02 p.h3 {
   font-weight: bold;
 }
+
 .cv_page.page_more.height_page .all {
   margin-top: 7px !important;
 }
 
 :root {
-  --sex: url(
-  sex1.png) no-repeat;
-  --phone: url(
-  phone1.png) no-repeat;
-  --date: url(
-  date1.png) no-repeat;
-  --email: url(
-  email1.png) no-repeat;
-  --add: url(
-  add1.png) no-repeat;
-  --bg_cv: url(
-  bg_cv1.png) no-repeat;
-  --ke_giua: url(
-  line_center1.png) no-repeat;
-  --kn: url(
-  bar_ski01.png) no-repeat;--color-title: #5070d2;
+  --sex: url(sex1.png) no-repeat;
+  --phone: url(phone1.png) no-repeat;
+  --date: url(date1.png) no-repeat;
+  --email: url(email1.png) no-repeat;
+  --add: url(add1.png) no-repeat;
+  --bg_cv: url(bg_cv1.png) no-repeat;
+  --ke_giua: url(line_center1.png) no-repeat;
+  --kn: url(bar_ski01.png) no-repeat;
+  --color-title: #5070d2;
   --color-ski: #ffdfc7;
   --color-name: #ffdfc7;
 }

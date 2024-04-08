@@ -108,11 +108,11 @@
 }
 
 #cv-right .ir #sortable #box07 {
-    padding-top: 8px;
-    padding-bottom: 20px;
-    background: var(--bg-ntc), var(--color);
-    background-position: 310px 10px;
-    border-top-left-radius: 20px;
+  padding-top: 8px;
+  padding-bottom: 20px;
+  background: var(--bg-ntc), var(--color);
+  background-position: 310px 10px;
+  border-top-left-radius: 20px;
 }
 
 p.skill-name input {
@@ -184,7 +184,7 @@ p.skill-name input {
 }
 
 #cv-top h1 span {
-  letter-spacing: 1px;
+  ;
   width: 100%;
   line-height: 45px;
   text-align: center;
@@ -237,10 +237,10 @@ div#box01 {
 }
 
 #cv-profile-job {
-    width: 100%;
-    max-width: 420px;
-    padding: 5px 15px 2px 15px;
-    border: solid 1px;
+  width: 100%;
+  max-width: 420px;
+  padding: 5px 15px 2px 15px;
+  border: solid 1px;
 }
 
 
@@ -510,28 +510,28 @@ div#prof {
 }
 
 #cv-content #block01 .head #cvo-experience-blocktitle {
-    background: var(--hocvan);
-    background-position: left center;
+  background: var(--hocvan);
+  background-position: left center;
 }
 
 #cv-content #block02 .head #cvo-experience-blocktitle {
-    background: var(--kinhnghiem);
-    background-position: left center;
+  background: var(--kinhnghiem);
+  background-position: left center;
 }
 
 #cv-content #block03 .head #cvo-experience-blocktitle {
-    background: var(--hoatdong);
-    background-position: left center;
+  background: var(--hoatdong);
+  background-position: left center;
 }
 
 #cv-content #block04 .head #cvo-experience-blocktitle {
-    background: var(--duan);
-    background-position: left center;
+  background: var(--duan);
+  background-position: left center;
 }
 
 #cv-content #block05 .head #cvo-experience-blocktitle {
-    background: var(--TTthem);
-    background-position: left center;
+  background: var(--TTthem);
+  background-position: left center;
 }
 
 #bg {
@@ -695,33 +695,33 @@ div#sort_block {
 }
 
 #box02 .cum #cv-boxtitle {
-    background: var(--muctieu);
-    background-position: 22px center;
+  background: var(--muctieu);
+  background-position: 22px center;
 }
 
 #box03 .ski #cv-boxtitle {
-    background: var(--kinang);
-    background-position: 20px center;
+  background: var(--kinang);
+  background-position: 20px center;
 }
 
 #box04 .cum #cv-boxtitle {
-    background: var(--giaithuong);
-    background-position: 20px center;
+  background: var(--giaithuong);
+  background-position: 20px center;
 }
 
 #box05 .cum #cv-boxtitle {
-    background: var(--chungchi);
-    background-position: 20px center;
+  background: var(--chungchi);
+  background-position: 20px center;
 }
 
 #box06 .cum #cv-boxtitle {
-    background: var(--sothich);
-    background-position: 20px center;
+  background: var(--sothich);
+  background-position: 20px center;
 }
 
 #box07 .cum #cv-boxtitle {
-    background: var(--nguoiTC);
-    background-position: 20px center;
+  background: var(--nguoiTC);
+  background-position: 20px center;
 }
 
 #cv-content .exp-date {
@@ -732,7 +732,9 @@ div#sort_block {
   color: #000;
 }
 
-#block02 .exp-date {display: none;}
+#block02 .exp-date {
+  display: none;
+}
 
 .exp-title {
   float: left;
@@ -770,11 +772,11 @@ span.exp-subtitle {
 }
 
 #prof .ic3 .icoweb {
-    width: 77%;
+  width: 77%;
 }
 
 #prof .ic1 .icoweb {
-    width: 65%;
+  width: 65%;
 }
 
 .icright1,

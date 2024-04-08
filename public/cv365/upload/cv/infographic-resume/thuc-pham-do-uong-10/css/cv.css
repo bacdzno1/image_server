@@ -201,7 +201,7 @@ p.skill-name input {
 }
 
 #cv-top h1 span {
-    letter-spacing: 1px;
+    ;
 }
 
 #box-hvt {
@@ -663,7 +663,7 @@ div#prof {
 }
 
 #block03 #cvo-experience-blocktitle {
-    width: 12%!important;
+    width: 12% !important;
 }
 
 #cvo-experience-blocktitle {

@@ -185,7 +185,7 @@ p.skill-name input {
 }
 
 #cv-top h1 span {
-    /* letter-spacing: 1px; */
+    /* ; */
 }
 
 div#box01 {
@@ -318,7 +318,8 @@ div#box01 {
     padding-top: 0px;
 }
 
-#cv-content #block02 h3, #cv-content #block01 h3 {
+#cv-content #block02 h3,
+#cv-content #block01 h3 {
     font-weight: bold;
     color: #000000;
     float: left;
@@ -711,6 +712,7 @@ div#sort_block {
     background: url(ic11.png)no-repeat;
     background-size: 7% 70%;
 }
+
 .box-dm {
     padding: 0;
     margin: 0;

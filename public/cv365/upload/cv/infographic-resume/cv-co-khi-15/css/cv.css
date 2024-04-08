@@ -186,7 +186,7 @@ p.skill-name input {
 }
 
 #cv-top h1 span {
-    letter-spacing: 1px;
+    ;
     text-transform: uppercase;
     /* color: #ffb704; */
 }
@@ -382,7 +382,7 @@ div#box01 {
     height: 284px;
     /* margin-left: -10px; */
     /* margin-top: -10px; */
-    border-radius: 50%!important;
+    border-radius: 50% !important;
     /* border: 5px solid #fff; */
     display: unset !important;
     /* clip-path: polygon(30% 13%, 32% 7%, 37% 2%, 43% 0%, 48% 1%, 53% 4%, 58% 12%, 57% 9%, 74% 1%, 90% 14%, 69% 23%, 73% 14%, 80% 13%, 91% 14%, 75% 14%, 86% 17%, 85% 32%, 83% 38%, 70% 28%, 83% 3%, 83% 31%, 90% 32%, 93% 34%, 97% 38%, 100% 47%, 99% 52%, 97% 58%, 95% 61%, 90% 65%, 88% 65%, 89% 66%, 89% 61%, 89% 73%, 87% 79%, 85% 82%, 81% 85%, 75% 86%, 68% 84%, 62% 94%, 53% 97%, 50% 96%, 45% 95%, 43% 94%, 40% 90%, 36% 93%, 22% 97%, 17% 79%, 17% 75%, 21% 63%, 26% 74%, 13% 76%, 10% 74%, 1% 67%, 0% 59%, 1% 47%, 4% 43%, 6% 41%, 4% 36%, 4% 13%, 11% 4%, 2% 22%, 7% 12%, 5% 23%, 2% 10%); */
@@ -692,37 +692,43 @@ div#sort_block {
     /* float: left; */
     /* width: 100%; */
 }
-.icr1{
+
+.icr1 {
     float: left;
     width: 10%;
     height: 30px;
     background: url(hv.png)no-repeat;
 }
-.icr2{
+
+.icr2 {
     float: left;
     width: 10%;
     height: 30px;
     background: url(exp.png)no-repeat;
 }
-.icr3{
+
+.icr3 {
     float: left;
     width: 10%;
     height: 30px;
     background: url(act.png)no-repeat;
 }
-.icr4{
+
+.icr4 {
     float: left;
     width: 10%;
     height: 30px;
     background: url(da.png)no-repeat;
 }
-.icr5{
+
+.icr5 {
     float: left;
     width: 10%;
     height: 30px;
     background: url(info.png)no-repeat;
 }
-.exp-fake{
+
+.exp-fake {
     float: right;
     width: 50%;
     height: 29px;
@@ -731,6 +737,7 @@ div#sort_block {
     margin-top: -29px;
     z-index: 9;
 }
+
 .box-dm {
     padding: 0;
     margin: 0;
@@ -747,10 +754,17 @@ div#sort_block {
     margin-top: -332px;
     margin-left: 14px;
 }
-#cvo-profile-avatar{
+
+#cvo-profile-avatar {
     width: 287px;
     height: 300px;
 }
-.icr1,.icr2,.icr3,.icr4,.icr5,.icr6 {
+
+.icr1,
+.icr2,
+.icr3,
+.icr4,
+.icr5,
+.icr6 {
     display: none;
 }

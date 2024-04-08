@@ -14,7 +14,7 @@
   color: #000;
   padding: 0;
   text-align: justify;
-  
+
 }
 
 #sortable #box02 .box-content {
@@ -99,6 +99,7 @@
   /* background-position: 3px 3px; */
   background-size: 35px 35px;
 }
+
 #cv-content #block05 .head {
 
   /* background: url(icon_thongtin.png) no-repeat; */
@@ -265,7 +266,7 @@ p.skill-name input {
 }
 
 #cv-top h1 span {
-  letter-spacing: 1px;
+  ;
   width: 100%;
   line-height: 45px;
 }
@@ -321,6 +322,7 @@ div#box01 {
   background-size: 100% 100%;
   line-height: 1.444;
 }
+
 #cv-top h2 #cv-profile-job {
   padding-right: 12px;
 }
@@ -918,6 +920,7 @@ span.exp-subtitle {
 #experience-table #exp1 {
   margin: 0;
 }
+
 #cv-right .ir #sortable #box02 .cum {
   background: url(icon_muctieu.png) no-repeat, var(--box_muctieu2);
   background-position: -2px center;

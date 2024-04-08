@@ -1,12 +1,13 @@
 #form-cv {
-    font-family: "Roboto", sans-serif;
-    width: 100%;
-    float: left;
-    position: relative;
-    font-size: 16px;
-    line-height: 24px;
-    color: #000;
+  font-family: "Roboto", sans-serif;
+  width: 100%;
+  float: left;
+  position: relative;
+  font-size: 16px;
+  line-height: 24px;
+  color: #000;
 }
+
 .watermark {
   float: left;
   width: 100%;
@@ -18,20 +19,23 @@
   font-family: Courier;
   background: #fff;
 }
+
 #sortable .cvo-block .box-content {
-    margin: 0;
-    width: 87%;
-    color: #000;
-    padding-bottom: 15px;
-    margin-bottom: 15px;
-    font-size: 14px;
-    padding-left: 38px;
+  margin: 0;
+  width: 87%;
+  color: #000;
+  padding-bottom: 15px;
+  margin-bottom: 15px;
+  font-size: 14px;
+  padding-left: 38px;
 }
+
 .exp.content-edit.skill {
-    float: left;
-    padding: 10px 0;
-    margin-bottom: 15px;
+  float: left;
+  padding: 10px 0;
+  margin-bottom: 15px;
 }
+
 #sortable #box07 .box-content {
   border: 0;
   padding-bottom: 0px;
@@ -41,101 +45,116 @@
 #cvo-profile {
   display: block;
 }
+
 #cv-content {
-    width: 50%;
-    text-align: justify;
-    float: right;
-    position: relative;
-    padding: 0;
-    margin: 0;
-    margin-right: 40px;
-    margin-top: -135px;
+  width: 50%;
+  text-align: justify;
+  float: right;
+  position: relative;
+  padding: 0;
+  margin: 0;
+  margin-right: 40px;
+  margin-top: -135px;
 }
 
-#cv-profile-phone:before{
+#cv-profile-phone:before {
   color: #000;
 }
-#cv-profile-email:before{
+
+#cv-profile-email:before {
   color: #000;
 }
-#cv-profile-address:before{
+
+#cv-profile-address:before {
   color: #000;
 }
-#cv-profile-sex:before{
+
+#cv-profile-sex:before {
   color: #000;
 }
-#cv-profile-birthday:before{
+
+#cv-profile-birthday:before {
   color: #000;
 }
+
 #cv-main {
-    text-align: justify;
-    margin: 0;
-    padding: 0;
-    position: relative;
-    float: left;
-    width: 40%;
+  text-align: justify;
+  margin: 0;
+  padding: 0;
+  position: relative;
+  float: left;
+  width: 40%;
 }
 
 #cv-right .ir {
   padding: 0;
   margin: 0;
 }
-#cv-main #cv-right{
+
+#cv-main #cv-right {
   padding: 0;
   margin: 0;
 }
-#cv-main #cv-right .ir #sortable{
+
+#cv-main #cv-right .ir #sortable {
   padding: 0;
   margin: 0;
 }
-#cv-right .ir #sortable .block{
+
+#cv-right .ir #sortable .block {
   padding: 0;
   margin: 0;
-  float:left;
+  float: left;
   width: 100%;
   margin-bottom: 5px;
 }
+
 p.skill-name input {
   color: #fff !important;
 }
 
 #cv-right #box03 .ctbx {
-    width: 95%;
-    padding: 0;
-    margin: 0;
-    border: 0;
-    padding-bottom: 10px;
-    float:left;
-    /*padding-left: 10px;*/
+  width: 95%;
+  padding: 0;
+  margin: 0;
+  border: 0;
+  padding-bottom: 10px;
+  float: left;
+  /*padding-left: 10px;*/
 }
-#cv-content #box01{
+
+#cv-content #box01 {
   /*background:#0b90ba;*/
   padding: 0;
   margin: 0;
 }
-#box03 .exp{
+
+#box03 .exp {
   float: left;
   padding-top: 10px;
   width: 90%;
   margin-left: 40px;
 }
+
 #box01 #cv-boxtitle {
-    font-size: 24px;
-    font-weight: bold;
-    text-transform: uppercase;
-    color: #00a99d;
-    float: left;
-    /* padding-left: 12px; */
+  font-size: 24px;
+  font-weight: bold;
+  text-transform: uppercase;
+  color: #00a99d;
+  float: left;
+  /* padding-left: 12px; */
 }
+
 #cv-top {
-    width: 100%;
-    height: 340px;
-    background-image: url(hd1.png);
-    background-size: 100% 100%;
-    background-repeat: no-repeat;
-    position: relative;
+  width: 100%;
+  height: 340px;
+  background-image: url(hd1.png);
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  position: relative;
 }
-.all{
+
+.all {
   float: left;
   clear: both;
   background: url(main1.png)no-repeat;
@@ -143,40 +162,46 @@ p.skill-name input {
   width: 100%;
   /*padding-bottom: 50px;*/
 }
+
 #cv-top h1 {
-    padding: 0;
-    margin: 0;
-    font-size: 40px;
-    font-family: "Roboto";
-    text-transform: uppercase;
-    margin-bottom: 10px;
-    color: #00a99d;
-    font-weight: bold;
-    text-align: left;
-    width: 100%;
-    float: left;
-    margin-left: 39px;
-    /* line-height: 53px; */
-    margin-top: 30px;
+  padding: 0;
+  margin: 0;
+  font-size: 40px;
+  font-family: "Roboto";
+  text-transform: uppercase;
+  margin-bottom: 10px;
+  color: #00a99d;
+  font-weight: bold;
+  text-align: left;
+  width: 100%;
+  float: left;
+  margin-left: 39px;
+  /* line-height: 53px; */
+  margin-top: 30px;
 }
+
 #cv-top h1 span {
-    letter-spacing: 1px;
+  ;
 }
+
 div#box01 {
-    float: right;
-    width: 100%;
-    margin-top: 35px;
+  float: right;
+  width: 100%;
+  margin-top: 35px;
 }
+
 #box-hvt {
-    float: right;
-    width: 54%;
-    padding: 0;
-    margin: 0;
-    position: relative;
+  float: right;
+  width: 54%;
+  padding: 0;
+  margin: 0;
+  position: relative;
 }
+
 #cv-right .cvo-block .head div {
   color: #fff;
 }
+
 /*span#cv-profile-fullname {
     margin-top: 30px;
 }*/
@@ -188,23 +213,25 @@ div#box01 {
   float: left;
   color: white;
 }
-#cv-profile-fullname::before{
+
+#cv-profile-fullname::before {
   color: #000;
 }
+
 #cv-top h2 {
-  
-    margin: 0;
-    padding: 0;
-    text-transform: uppercase;
-    width: 82%;
-    font-size: 25px;
-    font-weight: bold;
-    color: #000;
-    float: left;
-    text-align: right;
-    padding-bottom: 10px;
-    margin-left: 38px;
-    margin-bottom: 20px;
+
+  margin: 0;
+  padding: 0;
+  text-transform: uppercase;
+  width: 82%;
+  font-size: 25px;
+  font-weight: bold;
+  color: #000;
+  float: left;
+  text-align: right;
+  padding-bottom: 10px;
+  margin-left: 38px;
+  margin-bottom: 20px;
 }
 
 .box-01 p {
@@ -219,7 +246,8 @@ div#box01 {
   color: #2ebb2f
 }
 
-#cv-right h3, #cv-content .head {
+#cv-right h3,
+#cv-content .head {
   font-size: 24px;
   text-transform: uppercase;
   color: #000;
@@ -229,24 +257,27 @@ div#box01 {
   line-height: 20px;
   padding-top: 0px;
 }
+
 #cv-content h3 {
   font-weight: unset;
-    font-size: 14px;
-    line-height: 24px;
-    margin: 0px;
-    padding: 0px;
-    color: #000;
+  font-size: 14px;
+  line-height: 24px;
+  margin: 0px;
+  padding: 0px;
+  color: #000;
 }
 
 
-#cv-content #block02 .exp-content{
+#cv-content #block02 .exp-content {
   margin: 0;
   padding: 0;
   /*padding-left: 10px;*/
 }
-#cv-content #block03 h3{
+
+#cv-content #block03 h3 {
   font-weight: unset;
 }
+
 #cv-content .exp-date {
   float: none;
 }
@@ -273,13 +304,15 @@ div#box01 {
 }
 
 #cv-content .cvo-block {
-    padding: 0 !important;
-    float: left;
-    width: 100%;
+  padding: 0 !important;
+  float: left;
+  width: 100%;
 }
-#cv-content .ir .cvo-block{
+
+#cv-content .ir .cvo-block {
   padding: 0;
 }
+
 /*div#block01 {
     margin-top: -150px;
 }*/
@@ -293,6 +326,7 @@ div#box01 {
   display: inline-block;
   z-index: 9999;
 }
+
 #cv-content #block02 h3 {
   font-weight: bold;
   color: #000;
@@ -302,8 +336,9 @@ div#box01 {
   font-size: 15px;
   /*padding-bottom: 15px;*/
 }
-#block02 #experience-table #exp2{
-}
+
+#block02 #experience-table #exp2 {}
+
 .ctbx {
   /*margin-bottom: 10px;*/
   padding-left: 0;
@@ -325,88 +360,95 @@ div#box01 {
 }
 
 #cvo-profile-avatar-wraper {
-    width: 40%;
-    padding: 0;
-    margin: 0;
-    float: left;
-    display: table;
-    margin-left: 40px;
+  width: 40%;
+  padding: 0;
+  margin: 0;
+  float: left;
+  display: table;
+  margin-left: 40px;
 
 }
 
 #cvo-profile-avatar-wraper .wimg {
-    border-radius: 50%;
+  border-radius: 50%;
   width: 315px;
-    height: 281px;
-    padding-top: 40px;
-    /* margin-left: 20px; */
+  height: 281px;
+  padding-top: 40px;
+  /* margin-left: 20px; */
 }
+
 #cvo-profile-avatar-wraper img {
-    width: 270px;
-    height: 270px;
-    border-radius: 50%;
-    /* border: solid 4px #fff; */
+  width: 270px;
+  height: 270px;
+  border-radius: 50%;
+  /* border: solid 4px #fff; */
 }
+
 .box-dm {
-padding: 0;
-    margin: 0;
-    float: left;
-    display: table;
-    background: url(avata1.png)no-repeat;
-    background-size: 100% 100%;
-    clear: both;
-    z-index: 1;
-    top: -900px;
-    position: absolute;
-   width: 288px;
-    height: 293px;
-    margin-top: -288px;
-    margin-left: 33px;
+  padding: 0;
+  margin: 0;
+  float: left;
+  display: table;
+  background: url(avata1.png)no-repeat;
+  background-size: 100% 100%;
+  clear: both;
+  z-index: 1;
+  top: -900px;
+  position: absolute;
+  width: 288px;
+  height: 293px;
+  margin-top: -288px;
+  margin-left: 33px;
 
 }
-#cvo-profile-avatar{
-    width: 278px;
-    height: 282px;
+
+#cvo-profile-avatar {
+  width: 278px;
+  height: 282px;
 }
+
 .box-01 {
-    float: left;
-    width: 100%;
+  float: left;
+  width: 100%;
 }
+
 #cvo-profile {
-    display: block;
-    float: left;
-    width: 100%;
+  display: block;
+  float: left;
+  width: 100%;
 }
+
 #line-seperate {
   height: 25px;
 }
 
 .bar-exp div {
-    float: left;
-    height: 7px;
-    background: #404040;
-    margin-top: 0px;
+  float: left;
+  height: 7px;
+  background: #404040;
+  margin-top: 0px;
 }
+
 .ctbx .skill-name {
-    font-size: 14px;
-    margin: 0px;
-    padding: 0px;
-    color: #000;
-    float: left;
-    width: 100%;
+  font-size: 14px;
+  margin: 0px;
+  padding: 0px;
+  color: #000;
+  float: left;
+  width: 100%;
 }
 
 .bar-exp {
-    background: #eff2f2;
-    height: 7px;
-    float: none;
-    margin-top: 5px;
-    margin-bottom: 0px;
-    padding: 0px;
-    float: right;
-    width: 100%;
-    border: 1px solid;
-    border-radius: 10px;
+  background: #eff2f2;
+  height: 7px;
+  float: none;
+  margin-top: 5px;
+  margin-bottom: 0px;
+  padding: 0px;
+  float: right;
+  width: 100%;
+  border: 1px solid;
+  border-radius: 10px;
 }
 
 .bar-value-exp {
@@ -432,18 +474,19 @@ padding: 0;
   color: #fff;
 }*/
 #cv-right .block {
-    position: relative !important;
-    padding: 0;
-    margin: 0;
+  position: relative !important;
+  padding: 0;
+  margin: 0;
 }
 
 .ic .icoweb {
-    width: 80%;
-    text-align: left;
-    padding-left: 5px;
-    float: left;
-    color: #000;
+  width: 80%;
+  text-align: left;
+  padding-left: 5px;
+  float: left;
+  color: #000;
 }
+
 .ic {
   width: 100%;
   float: left;
@@ -451,25 +494,29 @@ padding: 0;
   padding-bottom: 10px;
 }
 
-#prof span {
-}
+#prof span {}
+
 #prof [contentEditable=true] {
-    width: 100%;
-    float: left;
-    
+  width: 100%;
+  float: left;
+
 }
-#box01 .cum{
-    margin-left: 45px;
+
+#box01 .cum {
+  margin-left: 45px;
 }
-#prof .icoweb, #prof .icoweb span {
-    height: auto;
+
+#prof .icoweb,
+#prof .icoweb span {
+  height: auto;
 }
+
 div#prof {
-    float: left;
-    width: 89%;
-    margin-left: 30px;
-    padding-left: 20px;
-    border-left: solid 1px #000;
+  float: left;
+  width: 89%;
+  margin-left: 30px;
+  padding-left: 20px;
+  border-left: solid 1px #000;
 }
 
 #form-cv .icf {
@@ -481,18 +528,23 @@ div#prof {
   text-align: left;
   margin-top: 2px;
 }
+
 .ic02 {
-    width: 100%;
+  width: 100%;
 }
+
 .ic03 {
   width: 100%;
 }
+
 .icf .fa {
-    font-size: 20px;
-    color: #000;
-    margin-top: 0;
-    float: left;
-}/* 
+  font-size: 20px;
+  color: #000;
+  margin-top: 0;
+  float: left;
+}
+
+/* 
 #form-cv .icf1 {
   background: url(cvvv_1.gif) no-repeat;
 }
@@ -519,6 +571,7 @@ div#prof {
   width: 100%;
   height: 30px;
 }
+
 /* #box01 .cumicc1{
    width: 40px;
     height: 40px;
@@ -533,12 +586,13 @@ div#prof {
   width: 10%;
   height: 40px;
   float: left;
-     background: url(ic1_09.png);
+  background: url(ic1_09.png);
   background-position: 5%;
   background-repeat: no-repeat;
   margin-left: 18px;
   z-index: 1;
 }
+
 .icright2 {
   width: 10%;
   height: 40px;
@@ -549,16 +603,18 @@ div#prof {
   margin-left: 18px;
   z-index: 1;
 }
+
 .icright3 {
   width: 40px;
   height: 40px;
   float: left;
   background: url(ic1_14.png);
-   background-position: 5%;
+  background-position: 5%;
   background-repeat: no-repeat;
   margin-left: 18px;
   z-index: 1;
 }
+
 .icright4 {
   width: 10%;
   height: 40px;
@@ -569,6 +625,7 @@ div#prof {
   margin-left: 18px;
   z-index: 1;
 }
+
 .icright5 {
   width: 10%;
   height: 40px;
@@ -579,14 +636,16 @@ div#prof {
   margin-left: 18px;
   z-index: 1;
 }
+
 #cv-right .block {
-    margin-bottom: 10px;
-    position: relative;
-    padding: 0;
-    padding-bottom: 20px;
+  margin-bottom: 10px;
+  position: relative;
+  padding: 0;
+  padding-bottom: 20px;
 }
+
 #experience-table .ctbx {
-    font-size: 14px;
+  font-size: 14px;
 }
 
 .ifo {
@@ -598,152 +657,168 @@ div#prof {
 
 
 #cv-right h3 {
-    width: 100%;
-    height: 30px;
-    margin: 0;
-    color: #ffffff;
-    padding: 0;
-    float: left;
-    line-height: 30px;
-    text-align: center;
-    background: #b82731;
+  width: 100%;
+  height: 30px;
+  margin: 0;
+  color: #ffffff;
+  padding: 0;
+  float: left;
+  line-height: 30px;
+  text-align: center;
+  background: #b82731;
 }
 
 #cv-content .head #cvo-experience-blocktitle {
-    color: #00a99d;
-    text-align: left;
-    float: left;
-    padding-top: 10px;
+  color: #00a99d;
+  text-align: left;
+  float: left;
+  padding-top: 10px;
 
 }
+
 #experience-table #exp1 {
-    margin-bottom: 20px;
+  margin-bottom: 20px;
 }
-#experience-table #exp2{
+
+#experience-table #exp2 {
   /*margin-top: 20px;*/
   margin-bottom: 20px;
 }
-#experience-table #exp3{
+
+#experience-table #exp3 {
   margin-bottom: 20px;
 }
-#exp1 .exp-content{
+
+#exp1 .exp-content {}
+
+#bg {
+  background: #F58284;
+  text-align: left;
 }
-#bg{
-	background: #F58284;
-	text-align: left;
-}
+
 .cumicc2 {
-    width: 7%;
-    height: 35px;
-    float: left;
-    background: url(ic1_06.png);
-    background-position: left;
-    background-repeat: no-repeat;
-    padding-right: 20px;
-    z-index: 1;
+  width: 7%;
+  height: 35px;
+  float: left;
+  background: url(ic1_06.png);
+  background-position: left;
+  background-repeat: no-repeat;
+  padding-right: 20px;
+  z-index: 1;
 }
+
 .cumicc3 {
-    width: 7%;
-    height: 35px;
-    float: left;
-    background: url(ic1_06.png);
-    background-position: left;
-    background-repeat: no-repeat;
-    padding-right: 20px;
-    z-index: 1;
+  width: 7%;
+  height: 35px;
+  float: left;
+  background: url(ic1_06.png);
+  background-position: left;
+  background-repeat: no-repeat;
+  padding-right: 20px;
+  z-index: 1;
 }
+
 .cumicc4 {
-    width: 7%;
-    height: 35px;
-    float: left;
-    background: url(ic1_06.png);
-    background-position: left;
-    background-repeat: no-repeat;
-    padding-right: 20px;
-    z-index: 1;
+  width: 7%;
+  height: 35px;
+  float: left;
+  background: url(ic1_06.png);
+  background-position: left;
+  background-repeat: no-repeat;
+  padding-right: 20px;
+  z-index: 1;
 }
+
 .cumicc5 {
-     width: 7%;
-    height: 35px;
-    float: left;
-    background: url(ic1_06.png);
-    background-position: left;
-    background-repeat: no-repeat;
-    padding-right: 20px;
-    z-index: 1;
+  width: 7%;
+  height: 35px;
+  float: left;
+  background: url(ic1_06.png);
+  background-position: left;
+  background-repeat: no-repeat;
+  padding-right: 20px;
+  z-index: 1;
 }
+
 .cumicc6 {
-     width: 7%;
-    height: 35px;
-    float: left;
-    background: url(ic1_06.png);
-    background-position: left;
-    background-repeat: no-repeat;
-    padding-right: 20px;
-    z-index: 1;
+  width: 7%;
+  height: 35px;
+  float: left;
+  background: url(ic1_06.png);
+  background-position: left;
+  background-repeat: no-repeat;
+  padding-right: 20px;
+  z-index: 1;
 }
+
 .cumicc7 {
-     width: 7%;
-    height: 35px;
-    float: left;
-    background: url(ic1_06.png);
-    background-position: left;
-    background-repeat: no-repeat;
-    padding-right: 20px;
-    z-index: 1;
+  width: 7%;
+  height: 35px;
+  float: left;
+  background: url(ic1_06.png);
+  background-position: left;
+  background-repeat: no-repeat;
+  padding-right: 20px;
+  z-index: 1;
 }
+
 div#experience-table {
-    margin: 0px;
-    width: 83%;
-    padding-bottom: 0px;
-    float: left;
-    color: #000;
-    border-left: solid 1px #000;
-    margin-left: 30px;
-    padding-left: 19px;
+  margin: 0px;
+  width: 83%;
+  padding-bottom: 0px;
+  float: left;
+  color: #000;
+  border-left: solid 1px #000;
+  margin-left: 30px;
+  padding-left: 19px;
 }
+
 div#cv-boxtitle {
-    font-size: 24px;
-    font-weight: bold;
-    text-transform: uppercase;
-    color: #000;
-    float: left;
-    /*padding-left: 12px;*/
+  font-size: 24px;
+  font-weight: bold;
+  text-transform: uppercase;
+  color: #000;
+  float: left;
+  /*padding-left: 12px;*/
 }
 
 .ski {
-    padding: 0;
-    margin: 0 auto;
-    height: 35px;
-    width: 100%;
-    line-height: 35px;
-    text-align: left;
+  padding: 0;
+  margin: 0 auto;
+  height: 35px;
+  width: 100%;
+  line-height: 35px;
+  text-align: left;
 }
+
 .cum {
-    padding: 0;
-    margin: 0 auto;
-    height: 35px;
-    width: 100%;
-    line-height: 35px;
-    text-align: left;
+  padding: 0;
+  margin: 0 auto;
+  height: 35px;
+  width: 100%;
+  line-height: 35px;
+  text-align: left;
 }
 
 .footer {
-    float: left;
+  float: left;
   height: 70px;
-    background: url(ft1.png);
-    background-size: 100% 100%;
-    background-repeat: no-repeat;
-    width: 100%;
+  background: url(ft1.png);
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  width: 100%;
 }
+
 div#sort_block {
-    padding: 0;
-    margin: 0;
+  padding: 0;
+  margin: 0;
 }
-.cvo-block .blockControls{
+
+.cvo-block .blockControls {
   margin: 0px;
   padding: 0px;
 }
-#cv-profile-job::before{
+
+#cv-profile-job::before {
   color: #000;
 }

@@ -8,13 +8,21 @@
   color: #000;
 }
 
-.ic123 {float: left;padding: 0px 14px 0px 10px;margin-bottom: 5px;width: 96%;background: var(--ic), var(--ic);background-position: left 0, right 0;background-size: 4px 100%, 4px 100%;}
+.ic123 {
+  float: left;
+  padding: 0px 14px 0px 10px;
+  margin-bottom: 5px;
+  width: 96%;
+  background: var(--ic), var(--ic);
+  background-position: left 0, right 0;
+  background-size: 4px 100%, 4px 100%;
+}
 
 .cv_page {
-    padding: 0;
-    background: var(--form);
-    background-position: left 0, 15px bottom;
-    background-size: 15px 100%, 100% 15px;
+  padding: 0;
+  background: var(--form);
+  background-position: left 0, 15px bottom;
+  background-size: 15px 100%, 100% 15px;
 }
 
 #sortable .cvo-block .box-content {
@@ -176,7 +184,7 @@ p.skill-name input {
 }
 
 #cv-top h1 span {
-  letter-spacing: 1px;
+  ;
   width: 100%;
   line-height: 45px;
 }
@@ -260,9 +268,10 @@ div#box01 {
   margin: 0px;
 }
 
-#cv-content #block01 .h3, #cv-content #block02 .h3 {
-    float: right;
-    width: 68%;
+#cv-content #block01 .h3,
+#cv-content #block02 .h3 {
+  float: right;
+  width: 68%;
 }
 
 #cv-content .cvo-block {
@@ -463,10 +472,11 @@ div#prof {
   margin-bottom: 0px;
 }
 
-#block01 .ctbx, #block02 .ctbx {
-    background: var(--doc);
-    background-position: 28.6% 0;
-    background-size: 2px 100%;
+#block01 .ctbx,
+#block02 .ctbx {
+  background: var(--doc);
+  background-position: 28.6% 0;
+  background-size: 2px 100%;
 }
 
 div#exp1 {}
@@ -512,21 +522,23 @@ div#experience-table {
 }
 
 #box03 #cv-boxtitle {
-    margin-top: -36px;
+  margin-top: -36px;
 }
 
-#box04 #cv-boxtitle {margin-top: -37px;}
+#box04 #cv-boxtitle {
+  margin-top: -37px;
+}
 
 #box05 #cv-boxtitle {
-    margin-top: -37px;
+  margin-top: -37px;
 }
 
 #box06 #cv-boxtitle {
-    margin-top: -37px;
+  margin-top: -37px;
 }
 
 #box07 #cv-boxtitle {
-    margin-top: -37px;
+  margin-top: -37px;
 }
 
 .ski {
@@ -564,14 +576,16 @@ div#experience-table {
 }
 
 .cumicc3 {
-    display: none !important;
+  display: none !important;
 }
 
 #box04 .cum {
   padding-bottom: 6px;
 }
 
-#box05 .cum {padding-bottom: 6px;}
+#box05 .cum {
+  padding-bottom: 6px;
+}
 
 #box06 .cum {
   padding-bottom: 6px;
@@ -713,43 +727,43 @@ div#sort_block {
 }
 
 .cumicc4 {
-    width: 48px;
-    height: 44px;
-    position: relative;
-    margin-left: 15px;
-    z-index: 3;
-    background: var(--giaithuong);
-    background-position: 5px 0px;
+  width: 48px;
+  height: 44px;
+  position: relative;
+  margin-left: 15px;
+  z-index: 3;
+  background: var(--giaithuong);
+  background-position: 5px 0px;
 }
 
 .cumicc5 {
-    width: 48px;
-    height: 44px;
-    position: relative;
-    z-index: 3;
-    margin-left: 15px;
-    background: var(--chungchi);
-    background-position: 5px 0px;
+  width: 48px;
+  height: 44px;
+  position: relative;
+  z-index: 3;
+  margin-left: 15px;
+  background: var(--chungchi);
+  background-position: 5px 0px;
 }
 
 .cumicc6 {
-    width: 48px;
-    height: 44px;
-    position: relative;
-    margin-left: 15px;
-    z-index: 3;
-    background: var(--sothich);
-    background-position: 5px 0px;
+  width: 48px;
+  height: 44px;
+  position: relative;
+  margin-left: 15px;
+  z-index: 3;
+  background: var(--sothich);
+  background-position: 5px 0px;
 }
 
 .cumicc7 {
-    width: 48px;
-    height: 44px;
-    position: relative;
-    margin-left: 15px;
-    z-index: 3;
-    background: var(--thamchieu);
-    background-position: 5px 0px;
+  width: 48px;
+  height: 44px;
+  position: relative;
+  margin-left: 15px;
+  z-index: 3;
+  background: var(--thamchieu);
+  background-position: 5px 0px;
 }
 
 #cv-content .exp-date {
@@ -766,7 +780,7 @@ div#sort_block {
 }
 
 #cv-content #block04 .exp-date {
-    display: none;
+  display: none;
 }
 
 .exp-title {
@@ -775,9 +789,10 @@ div#sort_block {
   font-weight: bold;
 }
 
-#block01 .exp-title, #block02 .exp-title {
-    float: right;
-    width: 68%;
+#block01 .exp-title,
+#block02 .exp-title {
+  float: right;
+  width: 68%;
 }
 
 .bar-exp div p {
@@ -830,9 +845,10 @@ span.exp-subtitle {
   width: 99%;
 }
 
-#block01 .exp-content, #block02 .exp-content {
-    float: right;
-    width: 68%;
+#block01 .exp-content,
+#block02 .exp-content {
+  float: right;
+  width: 68%;
 }
 
 #prof .ic2 .icoweb {
@@ -848,37 +864,40 @@ span.exp-subtitle {
   width: 100%;
 }
 
-#cv-content #block05 p.h3 {float: left;width: 100%;}
+#cv-content #block05 p.h3 {
+  float: left;
+  width: 100%;
+}
 
 #cv-right .ir #sortable #box01 {
   display: none;
 }
 
 :root {
---sex: url(sex1.png) no-repeat;
---phone: url(phone1.png) no-repeat;
---date: url(date1.png) no-repeat;
---email: url(mail1.png) no-repeat;
---add: url(add1.png) no-repeat;
---dot: url(dot1.png) no-repeat;
---tro: url(main1.png) no-repeat;
---box02: url(muctieu1.png) no-repeat;
---kynang: url(kinang1.png) no-repeat;
---chungchi: url(chungchi1.png) no-repeat;
---giaithuong: url(giaithuong1.png) no-repeat;
---sothich: url(sothich1.png) no-repeat;
---thamchieu: url(nguoithamchieu1.png) no-repeat;
---hocvan: url(hocvan1.png) no-repeat;
---kinhnghiem: url(kinhnghiem1.png) no-repeat;
---duan: url(duan1.png) no-repeat;
---hoatdong: url(hoatdong1.png) no-repeat;
---title: #184d77;
---kn: url(kn1.png) no-repeat;
---skill: url(skill1.png) no-repeat;
---bg-tt: #f7f0e9; 
---ic: url(ic-1.png) no-repeat;
---inf: url(top-inf.png) no-repeat, url(bottom-inf.png) no-repeat;
---h1: url(h1.png) no-repeat;
---doc: url(doc1.png) no-repeat;
---form: url(form1.png) no-repeat, url(form2.png) no-repeat;
+  --sex: url(sex1.png) no-repeat;
+  --phone: url(phone1.png) no-repeat;
+  --date: url(date1.png) no-repeat;
+  --email: url(mail1.png) no-repeat;
+  --add: url(add1.png) no-repeat;
+  --dot: url(dot1.png) no-repeat;
+  --tro: url(main1.png) no-repeat;
+  --box02: url(muctieu1.png) no-repeat;
+  --kynang: url(kinang1.png) no-repeat;
+  --chungchi: url(chungchi1.png) no-repeat;
+  --giaithuong: url(giaithuong1.png) no-repeat;
+  --sothich: url(sothich1.png) no-repeat;
+  --thamchieu: url(nguoithamchieu1.png) no-repeat;
+  --hocvan: url(hocvan1.png) no-repeat;
+  --kinhnghiem: url(kinhnghiem1.png) no-repeat;
+  --duan: url(duan1.png) no-repeat;
+  --hoatdong: url(hoatdong1.png) no-repeat;
+  --title: #184d77;
+  --kn: url(kn1.png) no-repeat;
+  --skill: url(skill1.png) no-repeat;
+  --bg-tt: #f7f0e9;
+  --ic: url(ic-1.png) no-repeat;
+  --inf: url(top-inf.png) no-repeat, url(bottom-inf.png) no-repeat;
+  --h1: url(h1.png) no-repeat;
+  --doc: url(doc1.png) no-repeat;
+  --form: url(form1.png) no-repeat, url(form2.png) no-repeat;
 }

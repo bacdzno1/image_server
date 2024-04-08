@@ -172,7 +172,7 @@ p.skill-name input {
 }
 
 #cv-top h1 #cv-profile-fullname {
-  letter-spacing: 1px;
+  ;
   width: 100%;
   line-height: 45px;
   border-bottom: solid 1px;

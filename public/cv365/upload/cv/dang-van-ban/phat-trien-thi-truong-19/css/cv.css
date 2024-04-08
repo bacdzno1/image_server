@@ -9,12 +9,12 @@
 }
 
 #ic1-3 {
-    float: left;
-    width: 100%;
-    padding: 8px 0px 0px 0px;
-    background: var(--ic1-3);
-    background-position: left bottom, right top, 237px 0;
-    background-size: 49.9% 13px, 50.5% 13px, 2px 100%;
+  float: left;
+  width: 100%;
+  padding: 8px 0px 0px 0px;
+  background: var(--ic1-3);
+  background-position: left bottom, right top, 237px 0;
+  background-size: 49.9% 13px, 50.5% 13px, 2px 100%;
 }
 
 .cv_page {
@@ -172,7 +172,7 @@ p.skill-name input {
 }
 
 #cv-top h1 span {
-  letter-spacing: 1px;
+  ;
   width: 100%;
   line-height: 45px;
 }
@@ -268,16 +268,25 @@ div#box01 {
 }
 
 #cv-content .ir #block02 {
-    margin-top: -2px !important;
+  margin-top: -2px !important;
 }
 
 #cv-content .ir #block01 {
-    margin-bottom: 0;
-    background: var(--ngang-ct);
-    background-position: 17px 100%;
+  margin-bottom: 0;
+  background: var(--ngang-ct);
+  background-position: 17px 100%;
 }
 
-#cv-content #block02 .head {width: max-content;max-width: 90%;background-color: var(--color2);margin-left: 24px;padding-left: 10px;padding-right: 20px;border-bottom-left-radius: 18px;border-top-right-radius: 18px;}
+#cv-content #block02 .head {
+  width: max-content;
+  max-width: 90%;
+  background-color: var(--color2);
+  margin-left: 24px;
+  padding-left: 10px;
+  padding-right: 20px;
+  border-bottom-left-radius: 18px;
+  border-top-right-radius: 18px;
+}
 
 .ctbx {
   padding-left: 10px;
@@ -468,11 +477,11 @@ div#prof {
 }
 
 #block01 #experience-table .ctbx {
-    border-top: solid 1px var(--color);
+  border-top: solid 1px var(--color);
 }
 
 #block01 #experience-table #exp1 {
-    border-top: unset;
+  border-top: unset;
 }
 
 #cv-right h3 {
@@ -495,30 +504,30 @@ div#prof {
 }
 
 #cv-content #block03 .head #cvo-experience-blocktitle {
-    width: max-content;
-    max-width: 90%;
-    color: #fff;
-    padding: 0px 15px;
-    border-radius: 20px;
-    background-color: var(--color);
+  width: max-content;
+  max-width: 90%;
+  color: #fff;
+  padding: 0px 15px;
+  border-radius: 20px;
+  background-color: var(--color);
 }
 
 #cv-content #block04 .head #cvo-experience-blocktitle {
-    width: max-content;
-    max-width: 90%;
-    color: #fff;
-    padding: 0px 15px;
-    border-radius: 20px;
-    background-color: var(--color);
+  width: max-content;
+  max-width: 90%;
+  color: #fff;
+  padding: 0px 15px;
+  border-radius: 20px;
+  background-color: var(--color);
 }
 
 #cv-content #block05 .head #cvo-experience-blocktitle {
-    width: max-content;
-    max-width: 90%;
-    color: #fff;
-    padding: 0px 15px;
-    border-radius: 20px;
-    background-color: var(--color);
+  width: max-content;
+  max-width: 90%;
+  color: #fff;
+  padding: 0px 15px;
+  border-radius: 20px;
+  background-color: var(--color);
 }
 
 #bg {
@@ -533,10 +542,10 @@ div#experience-table {
 }
 
 #block01 #experience-table {
-    margin: 0px 20px 5px 24px;
-    border-top-right-radius: 50px;
-    border-bottom-right-radius: 50px;
-    background: var(--color2);
+  margin: 0px 20px 5px 24px;
+  border-top-right-radius: 50px;
+  border-bottom-right-radius: 50px;
+  background: var(--color2);
 }
 
 #cv-boxtitle {
@@ -549,12 +558,12 @@ div#experience-table {
 }
 
 .ski #cv-boxtitle {
-    margin-left: 0px;
-    width: max-content;
-    max-width: 274px;
-    padding-right: 55px;
-    background: var(--ski);
-    background-position: right 8px;
+  margin-left: 0px;
+  width: max-content;
+  max-width: 274px;
+  padding-right: 55px;
+  background: var(--ski);
+  background-position: right 8px;
 }
 
 .ski {
@@ -577,13 +586,29 @@ div#experience-table {
   border-top-right-radius: 50px;
 }
 
-#box06 .cum {background: var(--color2);border-bottom-right-radius: 50px;border-top-right-radius: 50px;}
+#box06 .cum {
+  background: var(--color2);
+  border-bottom-right-radius: 50px;
+  border-top-right-radius: 50px;
+}
 
-#box04 .cum {background: var(--color2);border-bottom-right-radius: 50px;border-top-right-radius: 50px;}
+#box04 .cum {
+  background: var(--color2);
+  border-bottom-right-radius: 50px;
+  border-top-right-radius: 50px;
+}
 
-#box07 .cum {background: var(--color2);border-bottom-right-radius: 50px;border-top-right-radius: 50px;}
+#box07 .cum {
+  background: var(--color2);
+  border-bottom-right-radius: 50px;
+  border-top-right-radius: 50px;
+}
 
-#cv-right #box02 {margin: 0 !important;background: var(--dot);background-position: right bottom;}
+#cv-right #box02 {
+  margin: 0 !important;
+  background: var(--dot);
+  background-position: right bottom;
+}
 
 div#sort_block {
   padding: 0;
@@ -645,34 +670,34 @@ div#sort_block {
 }
 
 #cv-content #block03 .head {
-    width: 92%;
-    padding-left: 0;
-    margin-left: 20px;
-    background: var(--dot), var(--ngang);
-    background-position: right center, 0px center;
+  width: 92%;
+  padding-left: 0;
+  margin-left: 20px;
+  background: var(--dot), var(--ngang);
+  background-position: right center, 0px center;
 }
 
 #cv-content #block04 .head {
-    width: 92%;
-    padding-left: 0;
-    margin-left: 20px;
-    background: var(--dot), var(--ngang);
-    background-position: right center, 0px center;
+  width: 92%;
+  padding-left: 0;
+  margin-left: 20px;
+  background: var(--dot), var(--ngang);
+  background-position: right center, 0px center;
 }
 
 #cv-content #block05 .head {
-    width: 92%;
-    padding-left: 0;
-    margin-left: 20px;
-    background: var(--dot), var(--ngang);
-    background-position: right center, 0px center;
+  width: 92%;
+  padding-left: 0;
+  margin-left: 20px;
+  background: var(--dot), var(--ngang);
+  background-position: right center, 0px center;
 }
 
 #cv-content #block01 .head {
-    padding: 5px 0px 0px 35px;
-    background: var(--dot), var(--ngang), var(--ngang);
-    background-position: left top, 0px 2px, right bottom;
-    background-size: 7px 7px, 100% 3px, 95% 3px;
+  padding: 5px 0px 0px 35px;
+  background: var(--dot), var(--ngang), var(--ngang);
+  background-position: left top, 0px 2px, right bottom;
+  background-size: 7px 7px, 100% 3px, 95% 3px;
 }
 
 .ic1,
@@ -760,15 +785,15 @@ div#sort_block {
 }
 
 #block02 .exp-date {
-    display: none;
+  display: none;
 }
 
 #block03 .exp-date {
-    display: none;
+  display: none;
 }
 
 #block04 .exp-date {
-    display: none;
+  display: none;
 }
 
 .exp-title {
@@ -778,11 +803,11 @@ div#sort_block {
 }
 
 #block02 .exp-title {
-    width: 100%;
+  width: 100%;
 }
 
 #block04 .exp-title {
-    width: 100%;
+  width: 100%;
 }
 
 .bar-exp div p {
@@ -815,11 +840,11 @@ span.exp-subtitle {
 }
 
 #prof .ic4 .icoweb {
-    width: 90%;
+  width: 90%;
 }
 
 #prof .ic5 .icoweb {
-    width: 90%;
+  width: 90%;
 }
 
 .icright1,

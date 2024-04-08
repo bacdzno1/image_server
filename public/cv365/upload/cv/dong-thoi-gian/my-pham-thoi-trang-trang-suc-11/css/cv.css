@@ -7,21 +7,24 @@
   line-height: 24px;
   color: #000;
 }
+
 .watermark {
-float: left;
-width: 100%;
-/* height: 22px; */
-color: #fff;
-text-align: right;
-padding-right: 22px;
-font-size: 15px;
-font-family: Courier;
-padding-top: 28px;
-/* background: #fff; */
+  float: left;
+  width: 100%;
+  /* height: 22px; */
+  color: #fff;
+  text-align: right;
+  padding-right: 22px;
+  font-size: 15px;
+  font-family: Courier;
+  padding-top: 28px;
+  /* background: #fff; */
 }
-#box02 .box-content{
-color: #fff;
+
+#box02 .box-content {
+  color: #fff;
 }
+
 .cvo-block .box-content {
   padding-left: 15px;
   margin: 0;
@@ -31,14 +34,16 @@ color: #fff;
   color: #fff;
   padding-bottom: 15px;
 }
+
 .exp.content-edit.skill {
   border-radius: 10px;
 }
 
 
 #cvo-profile {
-display: block;
+  display: block;
 }
+
 #cv-content {
   width: 49%;
   text-align: justify;
@@ -55,7 +60,7 @@ display: block;
 
 
 #cv-main {
- text-align: justify;
+  text-align: justify;
   margin: 0;
   padding: 0;
   position: relative;
@@ -64,25 +69,29 @@ display: block;
 }
 
 #cv-right .ir {
-padding: 0;
-margin: 0;
+  padding: 0;
+  margin: 0;
 }
-#cv-main #cv-right{
-padding: 0;
-margin: 0;
+
+#cv-main #cv-right {
+  padding: 0;
+  margin: 0;
 }
-#cv-main #cv-right .ir #sortable{
-padding: 0;
-margin: 0;
+
+#cv-main #cv-right .ir #sortable {
+  padding: 0;
+  margin: 0;
 }
-#cv-right .ir #sortable .block{
-padding: 0;
-margin: 0;
-float: left;
-width: 100%;
+
+#cv-right .ir #sortable .block {
+  padding: 0;
+  margin: 0;
+  float: left;
+  width: 100%;
 }
+
 p.skill-name input {
-color: #fff !important;
+  color: #fff !important;
 }
 
 #cv-right #box03 .ctbx {
@@ -93,7 +102,7 @@ color: #fff !important;
   padding-top: 10px;
   padding-bottom: 15px;
   padding-left: 15px;
-  float:left;
+  float: left;
 }
 
 #cv-top {
@@ -105,20 +114,23 @@ color: #fff !important;
   background-repeat: no-repeat;
   position: relative;
 }
-.footer{
-float: left;
-width: 100%;
-background: url(ft1.png)no-repeat;
-background-size: 100% 100%;
-height: 50px;
+
+.footer {
+  float: left;
+  width: 100%;
+  background: url(ft1.png)no-repeat;
+  background-size: 100% 100%;
+  height: 50px;
 }
-.all{
-float: left;
-clear: both;
-width: 100%;
-background:url(main.png)no-repeat;
-background-size: 100% 100%;
+
+.all {
+  float: left;
+  clear: both;
+  width: 100%;
+  background: url(main.png)no-repeat;
+  background-size: 100% 100%;
 }
+
 #cv-top h1 {
   padding: 0;
   margin: 0 auto;
@@ -132,9 +144,11 @@ background-size: 100% 100%;
   text-align: center;
   width: 100%;
 }
+
 #cv-top h1 span {
-  letter-spacing: 1px;
+  ;
 }
+
 #box-hvt {
   float: left;
   width: 41.5%;
@@ -143,26 +157,29 @@ background-size: 100% 100%;
   padding-left: 0px;
   margin-top: -75px;
 }
+
 #box01 ul {
-list-style: none;
-padding-left: 20px
+  list-style: none;
+  padding-left: 20px
 }
 
 #cv-right .cvo-block .head div {
-color: #fff;
+  color: #fff;
 }
 
 .innertext {
-margin: 0px;
-padding: 0px;
-width: 29%;
-float: left;
-color: white;
+  margin: 0px;
+  padding: 0px;
+  width: 29%;
+  float: left;
+  color: white;
 }
-div#prof{
-float: right;
-width: 100%;
+
+div#prof {
+  float: right;
+  width: 100%;
 }
+
 #cv-top h2 {
   text-transform: uppercase;
   width: 90%;
@@ -176,26 +193,28 @@ width: 100%;
 }
 
 .box-01 p {
-overflow: hidden;
+  overflow: hidden;
 }
 
 #cv-content p {
-margin-bottom: 5px
+  margin-bottom: 5px
 }
 
 #cv-content .ir a {
-color: #2ebb2f
+  color: #2ebb2f
 }
 
-#cv-right h3, #cv-content .head {
-font-size: 20px;
-text-transform: uppercase;
-color: #000;
-font-weight: bold;
-text-align: left;
-line-height: 20px;
-padding-top: 0px;
+#cv-right h3,
+#cv-content .head {
+  font-size: 20px;
+  text-transform: uppercase;
+  color: #000;
+  font-weight: bold;
+  text-align: left;
+  line-height: 20px;
+  padding-top: 0px;
 }
+
 #cv-content h3 {
   font-size: 16px;
   line-height: 24px;
@@ -205,41 +224,43 @@ padding-top: 0px;
 }
 
 
-#cv-content #block02 .exp-content{
-margin: 0;
-padding: 0;
-padding-left: 10px;
+#cv-content #block02 .exp-content {
+  margin: 0;
+  padding: 0;
+  padding-left: 10px;
 }
-#cv-content #block03 h3{
-font-weight: unset;
+
+#cv-content #block03 h3 {
+  font-weight: unset;
 }
+
 #cv-content #block04 h3 {
-font-weight: unset;
+  font-weight: unset;
 }
 
 #cv-content .exp-date {
-float: none;
+  float: none;
 }
 
 #cv-content #block01 .exp-date {
-display: none;
+  display: none;
 }
 
 #cv-content #block03 .exp-date {
-display: none;
+  display: none;
 }
 
 #cv-content #block04 .exp-date {
-display: none;
+  display: none;
 }
 
 #cv-content #block05 .exp-date {
-display: none;
+  display: none;
 }
 
 #cv-content p.h3 {
-margin: 0px;
-padding: 0px;
+  margin: 0px;
+  padding: 0px;
 }
 
 #cv-content .cvo-block {
@@ -247,51 +268,56 @@ padding: 0px;
   float: left;
   width: 100%;
 }
-#cv-content .ir .cvo-block{
-padding: 0;
+
+#cv-content .ir .cvo-block {
+  padding: 0;
 }
+
 .ctbx {
-padding-left: 10px;
-padding-right: 10px
+  padding-left: 10px;
+  padding-right: 10px
 }
 
 
 #cv-content span {
-display: inline-block;
-z-index: 9999;
+  display: inline-block;
+  z-index: 9999;
 }
 
 #cv-content #block02 h3 {
-font-weight: bold;
+  font-weight: bold;
   color: #000;
   float: left;
 }
-#cv-content #block02 #experience-table #exp1 .exp-title{
-float: left;
-padding-left: 5px;
+
+#cv-content #block02 #experience-table #exp1 .exp-title {
+  float: left;
+  padding-left: 5px;
 }
-#block02 #experience-table #exp2 .exp-title{
-float: left;
-padding-left: 5px;
+
+#block02 #experience-table #exp2 .exp-title {
+  float: left;
+  padding-left: 5px;
 }
+
 .ctbx {
-margin-bottom: 0px;
-padding-left: 0;
-padding-right: 0;
-position: relative;
+  margin-bottom: 0px;
+  padding-left: 0;
+  padding-right: 0;
+  position: relative;
 }
 
 
 .ctbx:hover {
-box-shadow: 0 0 1px #999;
+  box-shadow: 0 0 1px #999;
 }
 
 .ctbx:hover .fieldgroup_controls {
-display: block;
+  display: block;
 }
 
 [cvo-form-field] {
-cursor: text;
+  cursor: text;
 }
 
 #cvo-profile-avatar-wraper {
@@ -304,33 +330,38 @@ cursor: text;
 }
 
 #cvo-profile-avatar-wraper .wimg {
- width: 361px;
+  width: 361px;
   height: 347px;
   float: left;
   display: unset !important;
 }
+
 #cvo-profile-avatar-wraper img {
- width: 360px;
+  width: 360px;
   height: 346px;
   float: none;
 }
-#cvo-profile-avatar{
+
+#cvo-profile-avatar {
   width: 360px;
   height: 347px;
 }
+
 .box-01 {
   float: left;
   width: 100%;
   height: 350px;
 }
+
 #cvo-profile {
   display: block;
   float: left;
   width: 100%;
   height: 350px;
 }
+
 #line-seperate {
-height: 25px;
+  height: 25px;
 }
 
 .bar-exp div {
@@ -339,6 +370,7 @@ height: 25px;
   background: #fff;
   margin-top: 0px;
 }
+
 .ctbx .skill-name {
   margin: 0px;
   padding: 0px;
@@ -356,17 +388,18 @@ height: 25px;
 }
 
 .bar-value-exp {
-width: 100%
+  width: 100%
 }
 
 .bar-value-exp input[type="text"] {
-color: #000;
-width: 95%
+  color: #000;
+  width: 95%
 }
 
 .icoweb label {
-display: block;
+  display: block;
 }
+
 #cv-right .block {
   position: relative !important;
   padding: 0;
@@ -382,39 +415,42 @@ display: block;
 }
 
 .ic {
-width: 100%;
-float: left;
-color: #000;
-padding-bottom: 10px;
-margin-left: 20px;
+  width: 100%;
+  float: left;
+  color: #000;
+  padding-bottom: 10px;
+  margin-left: 20px;
 }
 
-#prof span {
- 
-}
+#prof span {}
+
 #prof [contentEditable=true] {
   width: 100%;
   float: left;
 }
-#prof .icoweb, #prof .icoweb span {
+
+#prof .icoweb,
+#prof .icoweb span {
   height: auto;
 }
+
 #sortable .ic {
-margin-bottom: 5px;
-padding-top: 5px;
-padding-left: 5px;
+  margin-bottom: 5px;
+  padding-top: 5px;
+  padding-left: 5px;
 }
 
-#block05 h3{
+#block05 h3 {
   font-weight: unset;
 }
+
 #form-cv .icf {
-float: left;
-border-radius: 5px;
-line-height: 28px;
-margin-bottom: 0;
-width: 28px;
-text-align: center;
+  float: left;
+  border-radius: 5px;
+  line-height: 28px;
+  margin-bottom: 0;
+  width: 28px;
+  text-align: center;
 }
 
 
@@ -426,24 +462,26 @@ text-align: center;
 }
 
 .container {
-width: 100%;
+  width: 100%;
 }
 
 .sum {
-margin: 0;
-padding: 0;
-width: 100%;
-height: 30px;
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  height: 30px;
 }
+
 #cv-right .block {
   margin-bottom: 10px;
   position: relative;
   padding: 0;
   padding-bottom: 20px;
 }
+
 #cv-content .head {
-padding: 0;
-margin: 0;
+  padding: 0;
+  margin: 0;
   height: 40px;
   line-height: 40px;
   text-align: left;
@@ -451,14 +489,14 @@ margin: 0;
   float: left;
   border-bottom: solid 2px #000;
 }
-#experience-table .ctbx {
-}
+
+#experience-table .ctbx {}
 
 .ifo {
-margin: 0;
-padding: 0;
-width: 100%;
-height: 30px;
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  height: 30px;
 }
 
 
@@ -475,39 +513,37 @@ height: 30px;
 }
 
 #cvo-experience-blocktitle {
-color: #000;
+  color: #000;
   font-weight: bold;
 }
-#experience-table #exp2{
-margin-top: 10px;
+
+#experience-table #exp2 {
+  margin-top: 10px;
 }
-#block02 #experience-table .ctbx {
-  
+
+#block02 #experience-table .ctbx {}
+
+#block01 #experience-table .ctbx {}
+
+#block03 #experience-table .ctbx {}
+
+#block04 #experience-table .ctbx {}
+
+#block05 #experience-table .ctbx {}
+
+#exp1 .exp-content {}
+
+#bg {
+  background: #F58284;
+  text-align: left;
 }
-#block01 #experience-table .ctbx {
-  
-}
-#block03 #experience-table .ctbx{
-  
-}
-#block04 #experience-table .ctbx{
-  
-}
-#block05 #experience-table .ctbx{
-  
-}
-#exp1 .exp-content{
-}
-#bg{
-background: #F58284;
-text-align: left;
-}
+
 div#experience-table {
   margin: 0px;
   width: 97%;
   padding-bottom: 10px;
   float: left;
-      margin-top: 10px;
+  margin-top: 10px;
 }
 
 
@@ -517,20 +553,24 @@ div#experience-table {
   line-height: 40px;
   margin-left: 20px;
 }
+
 div#cv-boxtitle {
   font-size: 19px;
   font-weight: bold;
   text-transform: uppercase;
 
   color: #fff;
-  float:left;
+  float: left;
 }
-#box01 #cv-boxtitle{
-    margin-left: 20px;
+
+#box01 #cv-boxtitle {
+  margin-left: 20px;
 }
-#box02 div#cv-boxtitle{
-color: #fff;
+
+#box02 div#cv-boxtitle {
+  color: #fff;
 }
+
 .ski {
   padding: 0;
   margin: 0 auto;
@@ -539,9 +579,11 @@ color: #fff;
   line-height: 40px;
   border-bottom: solid 2px #fff;
 }
-.cum{
+
+.cum {
   border-bottom: solid 2px #fff;
 }
+
 .cum {
   padding: 0;
   margin: 0 auto;
@@ -555,38 +597,46 @@ color: #fff;
   height: 40px;
   float: right;
 }
+
 .icright2 {
   width: 60px;
-  height:40px;
+  height: 40px;
   float: right;
 }
+
 .icright3 {
   width: 60px;
-  height:40px;
+  height: 40px;
   float: right;
 }
+
 .icright4 {
   width: 60px;
-  height:40px;
+  height: 40px;
   float: right;
 }
+
 .icright5 {
   width: 60px;
-  height:40px;
+  height: 40px;
   float: right;
 }
+
 div#sort_block {
   padding: 0;
   margin: 0;
 }
-.cvo-block .blockControls{
-margin: 0px;
-padding: 0px;
+
+.cvo-block .blockControls {
+  margin: 0px;
+  padding: 0px;
 }
-#box01 .tt-box1{
+
+#box01 .tt-box1 {
   border-bottom: solid 2px #fff;
 }
-div#box01{
+
+div#box01 {
   float: right;
   width: 48.3%;
   margin-right: 30px;

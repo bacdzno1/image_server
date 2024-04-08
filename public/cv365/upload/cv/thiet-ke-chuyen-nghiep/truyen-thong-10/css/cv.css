@@ -184,7 +184,7 @@ p.skill-name input {
 }
 
 #cv-top h1 span {
-    letter-spacing: 1px;
+    ;
 }
 
 div#box01 {
@@ -723,7 +723,8 @@ div#sort_block {
     background-position: left bottom;
 }
 
-#block01 .exp-title, #block02 .exp-title {
+#block01 .exp-title,
+#block02 .exp-title {
     font-weight: bold;
     text-transform: uppercase;
 }

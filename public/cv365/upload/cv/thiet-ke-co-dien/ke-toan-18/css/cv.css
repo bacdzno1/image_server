@@ -154,7 +154,7 @@ p.skill-name input {
 }
 
 #cv-top h1 span {
-  letter-spacing: 1px;
+  ;
   width: 100%;
   line-height: 45px;
 }
@@ -704,8 +704,7 @@ span.exp-subtitle {
   padding-left: 30px;
 }
 
-#prof .ic2 .icoweb {
-}
+#prof .ic2 .icoweb {}
 
 #experience-table #exp1 {
   margin: 0;
@@ -720,14 +719,14 @@ span.exp-subtitle {
 }
 
 #box02 .cum {
-    margin: -12px auto 0 auto;
-    border-radius: unset;
+  margin: -12px auto 0 auto;
+  border-radius: unset;
 }
 
 #cv-right .ir #sortable #box02 {
-    background: url(tt1.png) no-repeat , var(--bg-h3);
-    background-position: left 15px;
-    border-radius: 10px;
+  background: url(tt1.png) no-repeat, var(--bg-h3);
+  background-position: left 15px;
+  border-radius: 10px;
 }
 
 :root {

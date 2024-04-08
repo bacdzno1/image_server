@@ -1,12 +1,13 @@
 #form-cv {
-    font-family: "Roboto", sans-serif;
-    width: 100%;
-    float: left;
-    position: relative;
-    font-size: 14px;
-    line-height: 24px;
-    color: #000;
+  font-family: "Roboto", sans-serif;
+  width: 100%;
+  float: left;
+  position: relative;
+  font-size: 14px;
+  line-height: 24px;
+  color: #000;
 }
+
 .watermark {
   float: left;
   width: 100%;
@@ -18,6 +19,7 @@
   font-family: Courier;
   background: #fff;
 }
+
 /*#sortable .cvo-block {
     margin-bottom: 15px;
     margin-top: 8px;
@@ -27,124 +29,142 @@
 }*/
 
 #sortable .cvo-block .box-content {
-    margin: 0;
-    width: 92%;
-    border-radius: 10px;
-    padding-top: 15px;
-    color: #000;
-    padding-bottom: 20px;
-    padding-left: 20px;
+  margin: 0;
+  width: 92%;
+  border-radius: 10px;
+  padding-top: 15px;
+  color: #000;
+  padding-bottom: 20px;
+  padding-left: 20px;
 }
+
 .exp.content-edit.skill {
-    float: left;
+  float: left;
 }
 
 
 #cvo-profile {
   display: block;
 }
+
 #cv-content {
   width: 50.635%;
-    text-align: justify;
-    float: right;
-    position: relative;
-    padding: 0;
-    margin: 0;
-    margin-right: 35px;
-    /* padding-top: 192px; */
+  text-align: justify;
+  float: right;
+  position: relative;
+  padding: 0;
+  margin: 0;
+  margin-right: 35px;
+  /* padding-top: 192px; */
 }
 
-#cv-profile-phone:before{
+#cv-profile-phone:before {
   color: #000;
 }
-#cv-profile-email:before{
+
+#cv-profile-email:before {
   color: #000;
 }
-#cv-profile-address:before{
+
+#cv-profile-address:before {
   color: #000;
 }
-#cv-profile-sex:before{
+
+#cv-profile-sex:before {
   color: #000;
 }
-#cv-profile-birthday:before{
+
+#cv-profile-birthday:before {
   color: #000;
 }
 
 #cv-main {
-    text-align: justify;
-    margin: 0;
-    padding: 0;
-    position: relative;
-    float: left;
-    width: 38.8%;
-    margin-left: 30.5px;
-}
-.chu{
+  text-align: justify;
+  margin: 0;
+  padding: 0;
+  position: relative;
   float: left;
-    width: 83%;
-    position: relative;
-    top: 10px;
+  width: 38.8%;
+  margin-left: 30.5px;
 }
+
+.chu {
+  float: left;
+  width: 83%;
+  position: relative;
+  top: 10px;
+}
+
 .anh {
-    float: left;
-    width: 100%;
+  float: left;
+  width: 100%;
 }
-.div-left{
+
+.div-left {
   float: right;
   width: 50%;
 }
+
 #cv-right .ir {
   padding: 0;
   margin: 0;
   margin-top: -200px;
 }
-#cv-main #cv-right{
+
+#cv-main #cv-right {
   padding: 0;
   margin: 0;
 }
-#cv-main #cv-right .ir #sortable{
+
+#cv-main #cv-right .ir #sortable {
   padding: 0;
   margin: 0;
 }
-#cv-right .ir #sortable .block{
+
+#cv-right .ir #sortable .block {
   padding: 0;
   margin: 0;
-  float:left;
+  float: left;
   width: 100%;
 }
+
 p.skill-name input {
   color: #fff !important;
 }
 
 #cv-right #box03 .ctbx {
-    width: 100%;
-    padding: 0;
-    margin: 0;
-    border: 0;
-    padding-bottom: 10px;
-    float:left;
+  width: 100%;
+  padding: 0;
+  margin: 0;
+  border: 0;
+  padding-bottom: 10px;
+  float: left;
 }
-#cv-content #box01{
+
+#cv-content #box01 {
   /*background:#000;*/
   padding: 0;
   margin: 0;
 }
-#box03 .exp{
+
+#box03 .exp {
   float: left;
   padding-top: 15px;
   width: 96%;
   padding-bottom: 20px;
   padding-left: 20px;
 }
+
 #cv-top {
-    width: 100%;
-    height: 499px;
-    background-image: url(hd.png);
-    background-size: 100% 100%;
-    background-repeat: no-repeat;
-    position: relative;
+  width: 100%;
+  height: 499px;
+  background-image: url(hd.png);
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  position: relative;
 }
-.all{
+
+.all {
   float: left;
   clear: both;
   background: url(main.png)no-repeat;
@@ -152,28 +172,32 @@ p.skill-name input {
   width: 100%;
   /* margin-top: -200px; */
 }
+
 #cv-top h1 {
-    padding: 0;
-    margin: 0;
-    font-size: 28px;
-    font-family: "Roboto";
-    line-height: 35px;
-    text-transform: uppercase;
-    margin-bottom: 0;
-    color: #fff;
-    font-weight: bold;
-    text-align: center;
-    width: 100%;
-    float: left;
-    padding-bottom: 5px;
-  }
+  padding: 0;
+  margin: 0;
+  font-size: 28px;
+  font-family: "Roboto";
+  line-height: 35px;
+  text-transform: uppercase;
+  margin-bottom: 0;
+  color: #fff;
+  font-weight: bold;
+  text-align: center;
+  width: 100%;
+  float: left;
+  padding-bottom: 5px;
+}
+
 #cv-top h1 span {
-    letter-spacing: 1px;
+  ;
 }
+
 div#box01 {
-    float: right;
-    width: 100%;
+  float: right;
+  width: 100%;
 }
+
 #box-hvt {
   float: left;
   width: 42.5%;
@@ -183,6 +207,7 @@ div#box01 {
   padding-top: 30px;
   margin-left: 20px;
 }
+
 #cv-right .cvo-block .head div {
   color: #fff;
 }
@@ -194,9 +219,11 @@ div#box01 {
   float: left;
   color: white;
 }
-#cv-profile-fullname::before{
+
+#cv-profile-fullname::before {
   color: #000;
 }
+
 #cv-top h2 {
   margin: 0;
   padding: 0;
@@ -222,7 +249,8 @@ div#box01 {
   color: #2ebb2f
 }
 
-#cv-right h3, #cv-content .head {
+#cv-right h3,
+#cv-content .head {
   font-size: 20px;
   text-transform: uppercase;
   color: #000;
@@ -231,23 +259,26 @@ div#box01 {
   line-height: 20px;
   padding-top: 0px;
 }
+
 #cv-content h3 {
   font-weight: unset;
-    font-size: 14px;
-    line-height: 24px;
-    margin: 0px;
-    padding: 0px;
-    color: #000;
+  font-size: 14px;
+  line-height: 24px;
+  margin: 0px;
+  padding: 0px;
+  color: #000;
 }
 
 
-#cv-content #block02 .exp-content{
+#cv-content #block02 .exp-content {
   margin: 0;
   padding: 0;
 }
-#cv-content #block03 h3{
+
+#cv-content #block03 h3 {
   font-weight: unset;
 }
+
 #cv-content .exp-date {
   float: none;
 }
@@ -274,13 +305,15 @@ div#box01 {
 }
 
 #cv-content .cvo-block {
-    padding: 0 !important;
-    float: left;
-    width: 100%;
+  padding: 0 !important;
+  float: left;
+  width: 100%;
 }
-#cv-content .ir .cvo-block{
+
+#cv-content .ir .cvo-block {
   padding: 0;
 }
+
 .ctbx {
   padding-left: 10px;
   padding-right: 10px
@@ -291,6 +324,7 @@ div#box01 {
   display: inline-block;
   z-index: 9999;
 }
+
 #cv-content #block02 h3 {
   font-weight: bold;
   color: #000;
@@ -299,8 +333,9 @@ div#box01 {
   text-transform: unset;
   font-size: 15px;
 }
-#block02 #experience-table #exp2{
-}
+
+#block02 #experience-table #exp2 {}
+
 .ctbx {
   margin-bottom: 10px;
   padding-left: 0;
@@ -322,40 +357,44 @@ div#box01 {
 }
 
 #cvo-profile-avatar-wraper {
-    width: 85%;
-    padding: 0;
-    margin: 0;
-    float: left;
-    display: table;
-    padding-top: 55px;
-    padding-left: 50px;
+  width: 85%;
+  padding: 0;
+  margin: 0;
+  float: left;
+  display: table;
+  padding-top: 55px;
+  padding-left: 50px;
 }
 
 #cvo-profile-avatar-wraper .wimg {
-    width: 215px;
-    height: 215px;
-    float: left;
-    display: unset !important;
-    border: 3px solid #fff;
-    border-radius: 50%;
+  width: 215px;
+  height: 215px;
+  float: left;
+  display: unset !important;
+  border: 3px solid #fff;
+  border-radius: 50%;
 }
+
 #cvo-profile-avatar-wraper img {
   width: 215px;
   height: 215px;
   float: none;
   border-radius: 50%;
 }
+
 .box-01 {
-    float: left;
-    width: 100%;
-    height: 300px;
+  float: left;
+  width: 100%;
+  height: 300px;
 }
+
 #cvo-profile {
-    display: block;
-    float: left;
-    width: 100%;
-    height: 300px;
+  display: block;
+  float: left;
+  width: 100%;
+  height: 300px;
 }
+
 #line-seperate {
   height: 25px;
 }
@@ -367,12 +406,13 @@ div#box01 {
   margin-top: 0px;
   border-radius: 10px;
 }
+
 .ctbx .skill-name {
-    margin: 0px;
-    padding: 0px;
-    color: #000;
-    float: left;
-    width: 100%;
+  margin: 0px;
+  padding: 0px;
+  color: #000;
+  float: left;
+  width: 100%;
 }
 
 .bar-exp {
@@ -412,18 +452,19 @@ div#box01 {
   color: #fff;
 }*/
 #cv-right .block {
-    position: relative !important;
-    padding: 0;
-    margin: 0;
+  position: relative !important;
+  padding: 0;
+  margin: 0;
 }
 
 .ic .icoweb {
-    width: 86%;
-    text-align: left;
-    padding-left: 5px;
-    float: left;
-    color: #000;
+  width: 86%;
+  text-align: left;
+  padding-left: 5px;
+  float: left;
+  color: #000;
 }
+
 .ic {
   width: 100%;
   float: left;
@@ -432,19 +473,22 @@ div#box01 {
   padding-bottom: 12px;
 }
 
-#prof span {
-}
+#prof span {}
+
 #prof [contentEditable=true] {
-    width: 100%;
-    float: left;
+  width: 100%;
+  float: left;
 }
-#prof .icoweb, #prof .icoweb span {
-    height: auto;
+
+#prof .icoweb,
+#prof .icoweb span {
+  height: auto;
 }
+
 div#prof {
-    float: left;
-    width: 100%;
-    padding: 20px 0px 15px 25px;
+  float: left;
+  width: 100%;
+  padding: 20px 0px 15px 25px;
 }
 
 #form-cv .icf {
@@ -455,16 +499,19 @@ div#prof {
   height: 20px;
   text-align: left;
 }
+
 .ic02 {
-    float: right;
-    width: 64%;
+  float: right;
+  width: 64%;
 }
+
 .ic03 {
   float: left;
   width: 35%;
 }
- #box01 .fa {
-    display: none;
+
+#box01 .fa {
+  display: none;
 }
 
 .container {
@@ -477,12 +524,14 @@ div#prof {
   width: 100%;
   height: 30px;
 }
+
 #cv-right .block {
-    margin-bottom: 10px;
-    position: relative;
-    padding: 0;
-    padding-bottom: 20px;
+  margin-bottom: 10px;
+  position: relative;
+  padding: 0;
+  padding-bottom: 20px;
 }
+
 #cv-content .head {
   padding: 0;
   margin: 0;
@@ -492,8 +541,8 @@ div#prof {
   width: 100%;
   float: left;
 }
-#experience-table .ctbx {
-}
+
+#experience-table .ctbx {}
 
 .ifo {
   margin: 0;
@@ -501,59 +550,61 @@ div#prof {
   width: 100%;
   height: 30px;
 }
-.cvi-info
 
-#cv-right h3 {
-    width: 100%;
-    height: 30px;
-    margin: 0;
-    color: #ffffff;
-    padding: 0;
-    float: left;
-    line-height: 30px;
-    text-align: center;
+.cvi-info #cv-right h3 {
+  width: 100%;
+  height: 30px;
+  margin: 0;
+  color: #ffffff;
+  padding: 0;
+  float: left;
+  line-height: 30px;
+  text-align: center;
 }
 
 /* #cv-content .head #cvo-experience-blocktitle {
     color: #000;
 
 } */
-#experience-table #exp2{
+#experience-table #exp2 {
   margin-top: 10px;
 }
-#exp1 .exp-content{
-}
 
-#bg{
-	background: #F58284;
-	text-align: left;
+#exp1 .exp-content {}
+
+#bg {
+  background: #F58284;
+  text-align: left;
 }
 
 
 div#experience-table {
-    margin: 0px;
-    width: 92%;
-    padding-top: 20px;
-    padding-bottom: 10px;
-    float: left;
-    color: #000;
-    padding-left: 30px;
+  margin: 0px;
+  width: 92%;
+  padding-top: 20px;
+  padding-bottom: 10px;
+  float: left;
+  color: #000;
+  padding-left: 30px;
 }
-#cvo-experience-blocktitle{
+
+#cvo-experience-blocktitle {
   font-size: 19px;
-    font-weight: bold;
-    text-transform: uppercase;
-    color: #04aaa0;
-    float: left;
-    padding-left: 25px;
+  font-weight: bold;
+  text-transform: uppercase;
+  color: #04aaa0;
+  float: left;
+  padding-left: 25px;
 }
-#box01 #prof h3{
+
+#box01 #prof h3 {
   margin: 0;
   position: relative;
   left: -20px;
   padding-bottom: 15px;
 }
-#box01 #prof h3>div{
+
+#box01 #prof h3>div {
   padding-bottom: 15px;
 }
 
@@ -564,7 +615,7 @@ div#cv-boxtitle {
   color: #04aaa0;
   float: left;
   position: relative;
-    left: 20px;
+  left: 20px;
 }
 
 .ski {
@@ -575,6 +626,7 @@ div#cv-boxtitle {
   line-height: 25px;
   text-align: center;
 }
+
 .cum {
   padding: 0;
   margin: 0 auto;
@@ -586,14 +638,16 @@ div#cv-boxtitle {
 
 
 div#sort_block {
-    padding: 0;
-    margin: 0;
+  padding: 0;
+  margin: 0;
 }
-.cvo-block .blockControls{
+
+.cvo-block .blockControls {
   margin: 0px;
   padding: 0px;
 }
-#cv-profile-job::before{
+
+#cv-profile-job::before {
   color: #000;
 }
 
@@ -607,6 +661,7 @@ div#sort_block {
   background: url(icon_03.png)no-repeat;
   background-position: left;
 }
+
 #form-cv .icf2 {
   float: left;
   margin-bottom: 0;
@@ -617,6 +672,7 @@ div#sort_block {
   background: url(icon_06.png)no-repeat;
   background-position: left;
 }
+
 #form-cv .icf3 {
   float: left;
   margin-bottom: 0;
@@ -627,6 +683,7 @@ div#sort_block {
   background: url(icon_08.png)no-repeat;
   background-position: left;
 }
+
 #form-cv .icf4 {
   margin-bottom: 0;
   width: 23px;
@@ -637,6 +694,7 @@ div#sort_block {
   background-position: left;
   float: left;
 }
+
 #form-cv .icf5 {
   float: left;
   margin-bottom: 0;
@@ -647,46 +705,56 @@ div#sort_block {
   background: url(icon_12.png)no-repeat;
   background-position: left;
 }
-#box03 .ski{
+
+#box03 .ski {
   background: url(cham.png) no-repeat center left;
-      background-position: 0px 9px;
+  background-position: 0px 9px;
 
 
 }
-#box04 .cum{
+
+#box04 .cum {
   background: url(cham.png) no-repeat center left;
-    background-position: 0px 9px;
+  background-position: 0px 9px;
 }
-#box05 .cum{
+
+#box05 .cum {
   background: url(cham.png) no-repeat center left;
-    background-position: 0px 10px;
+  background-position: 0px 10px;
 }
-#box06 .cum{
+
+#box06 .cum {
   background: url(cham.png) no-repeat center left;
-    background-position: 0px 10px;
+  background-position: 0px 10px;
 }
-#box07 .cum{
+
+#box07 .cum {
   background: url(cham.png) no-repeat center left;
-    background-position: 0px 9px;
+  background-position: 0px 9px;
 }
-#block01 .head{
+
+#block01 .head {
   background: url(cham.png) no-repeat center left;
 }
-#block02 .head{
+
+#block02 .head {
   background: url(cham.png) no-repeat center left;
   background-position: 2px;
 }
-#block03 .head{
-  background: url(cham.png) no-repeat center left;
-}
-#block04 .head{
-  background: url(cham.png) no-repeat center left;
-}
-#block05 .head{
+
+#block03 .head {
   background: url(cham.png) no-repeat center left;
 }
 
-.box-dm{
+#block04 .head {
+  background: url(cham.png) no-repeat center left;
+}
+
+#block05 .head {
+  background: url(cham.png) no-repeat center left;
+}
+
+.box-dm {
   width: 249px;
   height: 240px;
   padding: 0;
@@ -703,43 +771,48 @@ div#sort_block {
   top: -999px;
 }
 
-#box02 .cumicc2{
+#box02 .cumicc2 {
   background: url(tl_03.png) no-repeat right center;
- width: 44%;
-    height: 24px;
+  width: 44%;
+  height: 24px;
   background-size: 100% 100%;
   float: right;
   z-index: 1;
 }
-#box03 .cumicc3{
+
+#box03 .cumicc3 {
   background: url(tl_07.png) no-repeat right center;
   width: 30%;
   height: 25px;
   background-size: 100% 100%;
   float: right;
 }
-#box04 .cumicc4{
+
+#box04 .cumicc4 {
   background: url(tl_10.png) no-repeat right center;
   width: 57%;
   height: 25px;
   background-size: 100% 100%;
   float: right;
 }
-#box05 .cumicc5{
+
+#box05 .cumicc5 {
   background: url(tl_13.png) no-repeat right center;
   width: 42%;
   height: 25px;
   background-size: 100% 100%;
   float: right;
 }
-#box06 .cumicc6{
+
+#box06 .cumicc6 {
   background: url(tl_15.png) no-repeat right center;
   width: 60%;
   height: 25px;
   background-size: 100% 100%;
   float: right;
 }
-#box07 .cumicc7{
+
+#box07 .cumicc7 {
   background: url(tl_18.png) no-repeat right center;
   width: 48%;
   height: 25px;
@@ -749,35 +822,40 @@ div#sort_block {
 
 
 
-#block01 .icright1{
+#block01 .icright1 {
   background: url(tr_03.png) no-repeat center right;
   height: 25px;
   background-size: 100% 100%;
   float: right;
-  width: 62%;z-index: 1;
+  width: 62%;
+  z-index: 1;
 }
-#block02 .icright2{
+
+#block02 .icright2 {
   background: url(tr_07.png) no-repeat center right;
   height: 25px;
   background-size: 100% 100%;
   float: right;
   width: 38%;
 }
-#block03 .icright3{
+
+#block03 .icright3 {
   background: url(tr_10.png) no-repeat center right;
   height: 25px;
   background-size: 100% 100%;
   float: right;
   width: 65%;
 }
-#block04 .icright4{
+
+#block04 .icright4 {
   background: url(tr_13.png) no-repeat center right;
   height: 25px;
   background-size: 100% 100%;
   float: right;
   width: 34%;
 }
-#block05 .icright5{
+
+#block05 .icright5 {
   background: url(tr_16.png) no-repeat center right;
   height: 25px;
   background-size: 100% 100%;

@@ -7,7 +7,18 @@
   line-height: 24px;
   color: #000000;
 }
-.watermark {float: left;width: 100%;/* height: 22px; */color: #999;text-align: right;padding-right: 22px;font-size: 15px;font-family: Courier;background: #fff;}
+
+.watermark {
+  float: left;
+  width: 100%;
+  /* height: 22px; */
+  color: #999;
+  text-align: right;
+  padding-right: 22px;
+  font-size: 15px;
+  font-family: Courier;
+  background: #fff;
+}
 
 /*#sortable .cvo-block {
   margin-bottom: 15px;
@@ -18,23 +29,25 @@
 }*/
 
 #sortable .cvo-block .box-content {
-border-left: solid 2px #cc0000;
+  border-left: solid 2px #cc0000;
   margin: 0;
   width: 80%;
   color: #000000;
   padding-bottom: 20px;
   padding-left: 15px;
 }
+
 .exp.content-edit.skill {
   float: left;
 }
 
 
 #cvo-profile {
-display: block;
+  display: block;
 }
+
 #cv-content {
- width: 50%;
+  width: 50%;
   text-align: justify;
   float: right;
   position: relative;
@@ -43,21 +56,26 @@ display: block;
   margin-right: 35px;
 }
 
-#cv-profile-phone:before{
-color: #000000;
+#cv-profile-phone:before {
+  color: #000000;
 }
-#cv-profile-email:before{
-color: #000000;
+
+#cv-profile-email:before {
+  color: #000000;
 }
-#cv-profile-address:before{
-color: #000000;
+
+#cv-profile-address:before {
+  color: #000000;
 }
-#cv-profile-sex:before{
-color: #000000;
+
+#cv-profile-sex:before {
+  color: #000000;
 }
-#cv-profile-birthday:before{
-color: #000000;
+
+#cv-profile-birthday:before {
+  color: #000000;
 }
+
 #cv-main {
   text-align: justify;
   margin: 0;
@@ -67,34 +85,45 @@ color: #000000;
   width: 40%;
   margin-left: 36px;
 }
-.chu{float: right;width: 95%;padding-top: 90px;}
+
+.chu {
+  float: right;
+  width: 95%;
+  padding-top: 90px;
+}
+
 .anh {
   float: left;
   width: 37%;
 }
+
 #cv-right .ir {
-padding: 0;
-margin: 0;
+  padding: 0;
+  margin: 0;
 }
-#cv-main #cv-right{
-padding: 0;
-margin: 0;
+
+#cv-main #cv-right {
+  padding: 0;
+  margin: 0;
 }
-#cv-main #cv-right .ir #sortable{
-padding: 0;
-margin: 0;
+
+#cv-main #cv-right .ir #sortable {
+  padding: 0;
+  margin: 0;
 }
-#cv-right .ir #sortable .block{
-padding: 0;
-margin: 0;
-float:
-left;
-width: 97%;
-margin-left: 20px;
-padding-top: 10px;
+
+#cv-right .ir #sortable .block {
+  padding: 0;
+  margin: 0;
+  float:
+    left;
+  width: 97%;
+  margin-left: 20px;
+  padding-top: 10px;
 }
+
 p.skill-name input {
-color: #fff !important;
+  color: #fff !important;
 }
 
 #cv-right #box03 .ctbx {
@@ -103,32 +132,39 @@ color: #fff !important;
   margin: 0;
   border: 0;
   padding-bottom: 10px;
-  float:left;
+  float: left;
 }
-#cv-content #box01{
-/*background:#000000;*/
-padding: 0;
-margin: 0;
+
+#cv-content #box01 {
+  /*background:#000000;*/
+  padding: 0;
+  margin: 0;
 }
-#box-hvt .ic1{
-width: 38% !important;
+
+#box-hvt .ic1 {
+  width: 38% !important;
 }
-#box-hvt .ic1 .icoweb{
-width: 77% !important;
+
+#box-hvt .ic1 .icoweb {
+  width: 77% !important;
 }
+
 #box-hvt .ic3 {
-width: 100%;
+  width: 100%;
 }
-#box03 .exp{
-float: left;
+
+#box03 .exp {
+  float: left;
   width: 89%;
   padding-left: 20px;
   padding-bottom: 20px;
   border-left: solid 2px #cc0000;
 }
-#block01 .exp-title{
+
+#block01 .exp-title {
   color: #000;
 }
+
 #cv-top {
   width: 100%;
   height: 330px;
@@ -137,35 +173,40 @@ float: left;
   background-repeat: no-repeat;
   position: relative;
 }
-.all{
-float: left;
+
+.all {
+  float: left;
   clear: both;
   width: 100%;
   background: url(main1.png)no-repeat;
   background-size: 100% 100%;
 }
+
 #cv-top h1 {
- padding: 0;
- margin: 0;
- font-size: 30px;
- font-family: "Roboto";
- line-height: 35px;
- text-transform: uppercase;
- margin-bottom: 0;
- color: #cc0000;
- font-weight: bold;
- text-align: left;
- width: 100%;
- float: left;
- padding-left: 4px;
+  padding: 0;
+  margin: 0;
+  font-size: 30px;
+  font-family: "Roboto";
+  line-height: 35px;
+  text-transform: uppercase;
+  margin-bottom: 0;
+  color: #cc0000;
+  font-weight: bold;
+  text-align: left;
+  width: 100%;
+  float: left;
+  padding-left: 4px;
 }
+
 #cv-top h1 span {
-  letter-spacing: 1px;
+  ;
 }
+
 div#box01 {
   float: right;
   width: 97%;
 }
+
 #box-hvt {
   float: left;
   width: 99%;
@@ -173,20 +214,23 @@ div#box01 {
   padding: 0;
   margin: 0;
 }
+
 #cv-right .cvo-block .head div {
-color: #fff;
+  color: #fff;
 }
 
 .innertext {
-margin: 0px;
-padding: 0px;
-width: 29%;
-float: left;
-color: white;
+  margin: 0px;
+  padding: 0px;
+  width: 29%;
+  float: left;
+  color: white;
 }
-#cv-profile-fullname::before{
-color: #000000;
+
+#cv-profile-fullname::before {
+  color: #000000;
 }
+
 #cv-top h2 {
   margin: 0;
   padding: 0;
@@ -200,28 +244,30 @@ color: #000000;
 }
 
 .box-01 p {
-overflow: hidden;
+  overflow: hidden;
 }
 
 #cv-content p {
-margin-bottom: 5px
+  margin-bottom: 5px
 }
 
 #cv-content .ir a {
-color: #2ebb2f
+  color: #2ebb2f
 }
 
-#cv-right h3, #cv-content .head {
-font-size: 20px;
-text-transform: uppercase;
-color: #000000;
-font-weight: bold;
-text-align: left;
-line-height: 20px;
-padding-top: 0px;
+#cv-right h3,
+#cv-content .head {
+  font-size: 20px;
+  text-transform: uppercase;
+  color: #000000;
+  font-weight: bold;
+  text-align: left;
+  line-height: 20px;
+  padding-top: 0px;
 }
+
 #cv-content h3 {
-font-weight: unset;
+  font-weight: unset;
   font-size: 14px;
   line-height: 24px;
   margin: 0px;
@@ -230,36 +276,38 @@ font-weight: unset;
 }
 
 
-#cv-content #block02 .exp-content{
-margin: 0;
-padding: 0;
+#cv-content #block02 .exp-content {
+  margin: 0;
+  padding: 0;
 }
-#cv-content #block03 h3{
-font-weight: unset;
+
+#cv-content #block03 h3 {
+  font-weight: unset;
 }
+
 #cv-content .exp-date {
-float: none;
+  float: none;
 }
 
 #cv-content #block01 .exp-date {
-display: none;
+  display: none;
 }
 
 #cv-content #block03 .exp-date {
-display: none;
+  display: none;
 }
 
 #cv-content #block04 .exp-date {
-display: none;
+  display: none;
 }
 
 #cv-content #block05 .exp-date {
-display: none;
+  display: none;
 }
 
 #cv-content p.h3 {
-margin: 0px;
-padding: 0px;
+  margin: 0px;
+  padding: 0px;
 }
 
 #cv-content .cvo-block {
@@ -268,45 +316,57 @@ padding: 0px;
   width: 100%;
   /* padding-top: 5px; */
 }
-#cv-content .ir .cvo-block{/* padding: 0; */}
+
+#cv-content .ir .cvo-block {
+  /* padding: 0; */
+}
+
 .ctbx {
-padding-left: 10px;
-padding-right: 10px
+  padding-left: 10px;
+  padding-right: 10px
 }
 
 
 #cv-content span {
-display: inline-block;
-z-index: 9999;
+  display: inline-block;
+  z-index: 9999;
 }
+
 #cv-content #block02 h3 {
-font-weight: bold;
-color: #fff;
-float: left;
-width: 100%;
-text-transform: unset;
-font-size: 15px;
+  font-weight: bold;
+  color: #fff;
+  float: left;
+  width: 100%;
+  text-transform: unset;
+  font-size: 15px;
 }
-#block02 #experience-table #exp2{
+
+#block02 #experience-table #exp2 {}
+
+.ctbx {
+  margin-bottom: 5px;
+  padding-left: 0;
+  padding-right: 0;
+  position: relative;
 }
-.ctbx {margin-bottom: 5px;padding-left: 0;padding-right: 0;position: relative;}
-.chu-rightt{
-float: left;
-width: 55%;
-height: auto;
-padding-left: 30px;
+
+.chu-rightt {
+  float: left;
+  width: 55%;
+  height: auto;
+  padding-left: 30px;
 }
 
 .ctbx:hover {
-box-shadow: 0 0 1px #999;
+  box-shadow: 0 0 1px #999;
 }
 
 .ctbx:hover .fieldgroup_controls {
-display: block;
+  display: block;
 }
 
 [cvo-form-field] {
-cursor: text;
+  cursor: text;
 }
 
 #cvo-profile-avatar-wraper {
@@ -327,15 +387,17 @@ cursor: text;
   margin-top: 15px;
   float: left;
   display: unset !important;
-    border-radius: 50%;
+  border-radius: 50%;
   border: 3px solid #fff;
 }
+
 #cvo-profile-avatar-wraper img {
-   width: 190px;
+  width: 190px;
   height: 190px;
   border-radius: 50%;
   float: none;
 }
+
 .box-dm {
   width: 216px;
   height: 212.1px;
@@ -351,29 +413,33 @@ cursor: text;
   margin-left: 90px;
   position: absolute;
   top: -800px;
-  }
+}
+
 .box-01 {
   float: left;
   width: 100%;
   height: auto;
 }
+
 #cvo-profile {
   display: block;
   float: left;
   width: 100%;
   height: auto;
 }
+
 #line-seperate {
-height: 25px;
+  height: 25px;
 }
 
 .bar-exp div {
- float: left;
+  float: left;
   height: 8px;
   background: #333333;
   margin-top: 0px;
   border-radius: 10px;
 }
+
 .ctbx .skill-name {
   margin: 0px;
   padding: 0px;
@@ -392,20 +458,20 @@ height: 25px;
   border: 2px solid #333333;
   float: right;
   width: 100%;
-  border-radius:10px;
+  border-radius: 10px;
 }
 
 .bar-value-exp {
-width: 100%
+  width: 100%
 }
 
 .bar-value-exp input[type="text"] {
-color: #000000;
-width: 95%
+  color: #000000;
+  width: 95%
 }
 
 .icoweb label {
-display: block;
+  display: block;
 }
 
 /*#sortable .icoweb {
@@ -430,22 +496,26 @@ color: #fff;
   float: left;
   color: #000000;
 }
+
 .ic {
-width: 60%;
-float: left;
-color: #000000;
-padding-bottom: 12px;
+  width: 60%;
+  float: left;
+  color: #000000;
+  padding-bottom: 12px;
 }
 
-#prof span {
-}
+#prof span {}
+
 #prof [contentEditable=true] {
   width: 100%;
   float: left;
 }
-#prof .icoweb, #prof .icoweb span {
+
+#prof .icoweb,
+#prof .icoweb span {
   height: auto;
 }
+
 div#prof {
   float: right;
   width: 100%;
@@ -453,21 +523,24 @@ div#prof {
 }
 
 #form-cv .icf {
-float: left;
-line-height: 20px;
-margin-bottom: 0;
-width: 26px;
-height: 20px;
-text-align: left;
+  float: left;
+  line-height: 20px;
+  margin-bottom: 0;
+  width: 26px;
+  height: 20px;
+  text-align: left;
 }
+
 .ic02 {
   float: right;
   width: 64%;
 }
+
 .ic03 {
-float: left;
-width: 35%;
+  float: left;
+  width: 35%;
 }
+
 .icf .fa {
   font-size: 20px;
   color: #000;
@@ -476,21 +549,23 @@ width: 35%;
 }
 
 .container {
-width: 100%;
+  width: 100%;
 }
 
 .sum {
-margin: 0;
-padding: 0;
-width: 100%;
-height: 30px;
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  height: 30px;
 }
+
 #cv-right .block {
   margin-bottom: 10px;
   position: relative;
   padding: 0;
   padding-bottom: 20px;
 }
+
 #cv-content .head {
   padding: 0;
   margin: 0;
@@ -499,6 +574,7 @@ height: 30px;
   float: left;
   font-size: 20px;
 }
+
 #block02 .head {
   padding: 0;
   margin: 0;
@@ -510,6 +586,7 @@ height: 30px;
   background: url(gach1.png)no-repeat;
   background-size: 100% 95%;
 }
+
 #block03 .head {
   padding: 0;
   margin: 0;
@@ -521,9 +598,11 @@ height: 30px;
   background: url(gach1.png)no-repeat;
   background-size: 100% 95%;
 }
-#block03 .block-title{
+
+#block03 .block-title {
   margin-left: -65px;
 }
+
 #block04 .head {
   padding: 0;
   margin: 0;
@@ -535,6 +614,7 @@ height: 30px;
   background: url(gach3.png)no-repeat;
   background-size: 100% 95%;
 }
+
 #block05 .head {
   padding: 0;
   margin: 0;
@@ -546,38 +626,46 @@ height: 30px;
   background: url(gach4.png)no-repeat;
   background-size: 100% 95%;
 }
-#block02 .block-title{
+
+#block02 .block-title {
   color: #fff;
-}
-#block03 .block-title{
-  color: #fff;
-}
-#block04 .block-title{
-  color: #fff;
-}
-#block05 .block-title{
-  color: #fff;
-}
-#block01 #experience-table{
-  color: #000;
-}
-#block03{
-  background: #660000;
-}
-#block04{
-  background: #660000;
-}
-#block05{
-  background: #660000;
-}
-#experience-table .ctbx {
 }
 
+#block03 .block-title {
+  color: #fff;
+}
+
+#block04 .block-title {
+  color: #fff;
+}
+
+#block05 .block-title {
+  color: #fff;
+}
+
+#block01 #experience-table {
+  color: #000;
+}
+
+#block03 {
+  background: #660000;
+}
+
+#block04 {
+  background: #660000;
+}
+
+#block05 {
+  background: #660000;
+}
+
+#experience-table .ctbx {}
+
 .ifo {
-margin: 0;
-padding: 0;
-width: 100%;
-height: 30px;
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  height: 30px;
 }
 
 
@@ -594,15 +682,17 @@ height: 30px;
 }
 
 #block01 .block-title {
- color: #cc0000;
+  color: #cc0000;
   float: left;
   width: 100%;
 }
-#experience-table #exp2{
-margin-top: 10px;
+
+#experience-table #exp2 {
+  margin-top: 10px;
 }
-#exp1 .exp-content{
-}
+
+#exp1 .exp-content {}
+
 div#experience-table {
   margin: 0px;
   width: 89%;
@@ -611,13 +701,16 @@ div#experience-table {
   color: #fff;
   padding-left: 20px;
 }
-#block01 #experience-table{
+
+#block01 #experience-table {
 
   border-left: solid 2px #cc0000;
 }
-#block02{
-  background:#660000 ;
+
+#block02 {
+  background: #660000;
 }
+
 div#cv-boxtitle {
   font-size: 20px;
   font-weight: bold;
@@ -635,29 +728,33 @@ div#cv-boxtitle {
   /* background: url(bg.png)no-repeat; */
   background-size: 100% 100%;
 }
+
 .cum {
   padding: 0;
   margin: 0;
   width: 100%;
-  line-height: 53px;}
+  line-height: 53px;
+}
 
 div#sort_block {
   padding: 0;
   margin: 0;
 }
-.cvo-block .blockControls{
-margin: 0px;
-padding: 0px;
+
+.cvo-block .blockControls {
+  margin: 0px;
+  padding: 0px;
 }
-#cv-profile-job::before{
-color: #000000;
+
+#cv-profile-job::before {
+  color: #000000;
 }
-.footer{
-float: left;
-width: 100%;
-height: 35px;
-background: url(ft1.png)no-repeat;
-background-size: 100% 100%;
+
+.footer {
+  float: left;
+  width: 100%;
+  height: 35px;
+  background: url(ft1.png)no-repeat;
+  background-size: 100% 100%;
 
 }
-  

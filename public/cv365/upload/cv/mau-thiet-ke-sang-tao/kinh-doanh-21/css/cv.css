@@ -155,7 +155,7 @@ p.skill-name input {
 }
 
 #cv-top h1 span {
-  letter-spacing: 1px;
+  ;
   width: 100%;
   line-height: 45px;
 }
@@ -700,10 +700,11 @@ span.exp-subtitle {
   display: none;
 }
 
-#block03 .h3, #block03 .exp-content {
-    padding-left: 15px;
-    background: url(dot.png) no-repeat;
-    background-position: 2px 6px;
+#block03 .h3,
+#block03 .exp-content {
+  padding-left: 15px;
+  background: url(dot.png) no-repeat;
+  background-position: 2px 6px;
 }
 
 :root {

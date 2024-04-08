@@ -169,7 +169,7 @@ p.skill-name input {
 }
 
 #cv-top h1 span {
-  letter-spacing: 1px;
+  ;
   width: 100%;
   line-height: 45px;
 }
@@ -713,8 +713,7 @@ span.exp-subtitle {
   padding-left: 20px;
 }
 
-#prof .ic2 .icoweb {
-}
+#prof .ic2 .icoweb {}
 
 #experience-table #exp1 {
   margin: 0;

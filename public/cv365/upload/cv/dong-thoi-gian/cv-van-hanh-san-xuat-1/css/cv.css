@@ -174,7 +174,7 @@ p.skill-name input {
 }
 
 #cv-top h1 span {
-  letter-spacing: 1px;
+  ;
   width: 100%;
   line-height: 45px;
   text-align: center;
@@ -234,14 +234,13 @@ div#box01 {
 }
 
 #cv-profile-job {
-    width: max-content;
-    max-width: 380px;
-    padding: 5px 15px 2px 15px;
-    background-color: #f8f5ea;
+  width: max-content;
+  max-width: 380px;
+  padding: 5px 15px 2px 15px;
+  background-color: #f8f5ea;
 }
 
-#block05 #experience-table {
-}
+#block05 #experience-table {}
 
 .box-01 p {
   overflow: hidden;
@@ -512,28 +511,28 @@ div#prof {
 }
 
 #cv-content #block01 .head #cvo-experience-blocktitle {
-    background: var(--hocvan);
-    background-position: left center;
+  background: var(--hocvan);
+  background-position: left center;
 }
 
 #cv-content #block02 .head #cvo-experience-blocktitle {
-    background: var(--kinhnghiem);
-    background-position: left center;
+  background: var(--kinhnghiem);
+  background-position: left center;
 }
 
 #cv-content #block03 .head #cvo-experience-blocktitle {
-    background: var(--hoatdong);
-    background-position: left center;
+  background: var(--hoatdong);
+  background-position: left center;
 }
 
 #cv-content #block04 .head #cvo-experience-blocktitle {
-    background: var(--duan);
-    background-position: left center;
+  background: var(--duan);
+  background-position: left center;
 }
 
 #cv-content #block05 .head #cvo-experience-blocktitle {
-    background: var(--TTthem);
-    background-position: left center;
+  background: var(--TTthem);
+  background-position: left center;
 }
 
 #bg {
@@ -701,39 +700,39 @@ div#sort_block {
 }
 
 #box02 .cum {
-    background: var(--muctieu), var(--main);
-    background-size: 25px 26px, 100% 100%;
-    background-position: 20px center, 0 0;
+  background: var(--muctieu), var(--main);
+  background-size: 25px 26px, 100% 100%;
+  background-position: 20px center, 0 0;
 }
 
 #box03 .ski {
-    background: var(--kinang), var(--main);
-    background-size: 25px 26px, 100% 100%;
-    background-position: 20px center, 0 0;
+  background: var(--kinang), var(--main);
+  background-size: 25px 26px, 100% 100%;
+  background-position: 20px center, 0 0;
 }
 
 #box04 .cum {
-    background: var(--giaithuong), var(--main);
-    background-size: 25px 26px, 100% 100%;
-    background-position: 20px center, 0 0;
+  background: var(--giaithuong), var(--main);
+  background-size: 25px 26px, 100% 100%;
+  background-position: 20px center, 0 0;
 }
 
 #box05 .cum {
-    background: var(--chungchi), var(--main);
-    background-size: 20px 26px, 100% 100%;
-    background-position: 20px center, 0 0;
+  background: var(--chungchi), var(--main);
+  background-size: 20px 26px, 100% 100%;
+  background-position: 20px center, 0 0;
 }
 
 #box06 .cum {
-    background: var(--sothich), var(--main);
-    background-size: 25px 26px, 100% 100%;
-    background-position: 20px center, 0 0;
+  background: var(--sothich), var(--main);
+  background-size: 25px 26px, 100% 100%;
+  background-position: 20px center, 0 0;
 }
 
 #box07 .cum {
-    background: var(--nguoiTC), var(--main);
-    background-size: 25px 21px, 100% 100%;
-    background-position: 20px center, 0 0;
+  background: var(--nguoiTC), var(--main);
+  background-size: 25px 21px, 100% 100%;
+  background-position: 20px center, 0 0;
 }
 
 #cv-content .exp-date {
@@ -785,11 +784,11 @@ span.exp-subtitle {
 }
 
 #prof .ic3 .icoweb {
-    width: 70%;
+  width: 70%;
 }
 
 #prof .ic1 .icoweb {
-    width: 65%;
+  width: 65%;
 }
 
 .icright1,
@@ -842,7 +841,7 @@ span.exp-subtitle {
   --email: url(mail1.png) no-repeat;
   --add: url(add1.png) no-repeat;
   --skill: url(skill1.png) no-repeat;
-  --kn: url(vuong1.png) no-repeat, url(  kn1.png) no-repeat;
+  --kn: url(vuong1.png) no-repeat, url(kn1.png) no-repeat;
   --all: url(all1.png) no-repeat;
   --fake: url(fake1.png) no-repeat;
   --page: url(page1.png) no-repeat;

@@ -165,7 +165,7 @@ p.skill-name input {
 }
 
 #cv-top h1 span {
-  letter-spacing: 1px;
+  ;
   width: 100%;
   line-height: 45px;
 }
@@ -411,21 +411,21 @@ div#prof {
 }
 
 .if-t {
-    float: left;
-    width: 100%;
-    background: var(--info);
-    background-size: 2px 100%;
-    background-position: 115px top;
+  float: left;
+  width: 100%;
+  background: var(--info);
+  background-size: 2px 100%;
+  background-position: 115px top;
 }
 
 .t-l {
-    float: left;
-    width: 30%;
+  float: left;
+  width: 30%;
 }
 
 .t-r {
-    float: left;
-    width: 70%;
+  float: left;
+  width: 70%;
 }
 
 #form-cv .icf {

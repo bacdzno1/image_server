@@ -190,7 +190,7 @@ p.skill-name input {
 }
 
 #cv-top h1 span {
-    letter-spacing: 1px;
+    ;
 }
 
 div#box01 {
@@ -679,11 +679,13 @@ div#sort_block {
     /* margin-top: -295px; */
     /* margin-left: 27px; */
 }
-div#box06{
+
+div#box06 {
     background: #5c5d5d;
     border-right: 12px solid #ffc53b;
 }
-#box06 #cv-boxtitle{
+
+#box06 #cv-boxtitle {
     float: left;
     font-size: 19px;
     font-weight: bold;
@@ -693,15 +695,17 @@ div#box06{
     /* padding-left: 37px; */
 }
 
-#box06 .box-content{
+#box06 .box-content {
     color: #fff;
 }
-div#box07{
+
+div#box07 {
     background: #5c5d5d;
     border-right: 12px solid #ffc53b;
     border-bottom: 12px solid #ffc53b;
 }
-#box07 #cv-boxtitle{
+
+#box07 #cv-boxtitle {
     float: left;
     font-size: 19px;
     font-weight: bold;
@@ -710,18 +714,22 @@ div#box07{
     border-bottom: 6px solid #ffc53b;
     /* padding-left: 37px; */
 }
-#box07 .box-content{
+
+#box07 .box-content {
     color: #fff;
 }
-div#box03{
-    border:2px dashed #5c5d5d;
+
+div#box03 {
+    border: 2px dashed #5c5d5d;
 }
+
 #cvo-profile-avatar {
     width: 150px;
     height: 195px;
     object-fit: cover;
 }
 
-#block04 h3, #block05 h3 {
+#block04 h3,
+#block05 h3 {
     font-weight: unset;
 }

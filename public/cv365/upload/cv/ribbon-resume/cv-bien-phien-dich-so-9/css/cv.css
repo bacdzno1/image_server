@@ -148,7 +148,7 @@ p.skill-name input {
 }
 
 #cv-top h1 span {
-    letter-spacing: 1px;
+    ;
 }
 
 #box-hvt {
@@ -785,28 +785,38 @@ div#sort_block {
     font-size: 15px;
     font-family: Courier;
 }
+
 .ic1 .icf {
     background: url(sex1.png) no-repeat;
 }
+
 .ic2 .icf {
     background: url(phone1.png) no-repeat;
 }
+
 .ic3 .icf {
     background: url(mail1.png) no-repeat;
 }
+
 .ic4 .icf {
     background: url(date1.png) no-repeat;
 }
+
 .ic5 .icf {
     background: url(add1.png) no-repeat;
     background-position: 3px;
 }
+
 .icoweb {
     float: left;
     padding-left: 5px;
 }
 
-.ic1, .ic2, .ic3, .ic4, .ic5 {
+.ic1,
+.ic2,
+.ic3,
+.ic4,
+.ic5 {
     float: left;
     padding-bottom: 10px;
 }

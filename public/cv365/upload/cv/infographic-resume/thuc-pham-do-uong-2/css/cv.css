@@ -52,24 +52,24 @@
 }
 
 #blocktitle {
-    width: 100%;
-    float: left;
-    text-align: center;
+  width: 100%;
+  float: left;
+  text-align: center;
 }
 
 #block04 #blocktitle {
-    border-bottom-right-radius: 22px;
-    background-color: #fff;
+  border-bottom-right-radius: 22px;
+  background-color: #fff;
 }
 
 #block02 #blocktitle {
-    width: max-content;
-    max-width: 330px;
-    float: left;
-    padding-left: 20px;
-    padding-right: 20px;
-    background-color: #fff;
-    border-radius: 30px;
+  width: max-content;
+  max-width: 330px;
+  float: left;
+  padding-left: 20px;
+  padding-right: 20px;
+  background-color: #fff;
+  border-radius: 30px;
 }
 
 #cv-profile-sex:before {
@@ -137,8 +137,10 @@
   padding-right: 25px;
 }
 
-#box05 .ct_bo, #box06 .ct_bo, #box07 .ct_bo {
-    padding-left: 30px;
+#box05 .ct_bo,
+#box06 .ct_bo,
+#box07 .ct_bo {
+  padding-left: 30px;
 }
 
 p.skill-name input {
@@ -201,7 +203,7 @@ p.skill-name input {
 }
 
 #cv-top h1 div {
-  /* letter-spacing: 1px; */
+  /* ; */
   width: 100%;
   line-height: 45px;
   text-align: left;
@@ -253,9 +255,9 @@ div#box01 {
 }
 
 #cv-profile-job {
-    float: left;
-    width: 100%;
-    text-align: left;
+  float: left;
+  width: 100%;
+  text-align: left;
 }
 
 .box-01 p {
@@ -316,7 +318,7 @@ div#box01 {
 }
 
 #cv-content .ir #block01 {
-    padding-top: 5px;
+  padding-top: 5px;
 }
 
 .ctbx {
@@ -534,8 +536,9 @@ div#prof {
   text-align: center;
 }
 
-#cv-content #block02 .head #cvo-experience-blocktitle, #block04 .head #cvo-experience-blocktitle {
-    color: var(--color-t);
+#cv-content #block02 .head #cvo-experience-blocktitle,
+#block04 .head #cvo-experience-blocktitle {
+  color: var(--color-t);
 }
 
 #bg {
@@ -550,11 +553,11 @@ div#experience-table {
 }
 
 #block02 #experience-table {
-    background-color: #fff;
-    border-radius: 30px;
-    padding-left: 20px;
-    padding-right: 20px;
-    padding-top: 10px;
+  background-color: #fff;
+  border-radius: 30px;
+  padding-left: 20px;
+  padding-right: 20px;
+  padding-top: 10px;
 }
 
 #cv-boxtitle {
@@ -568,8 +571,10 @@ div#experience-table {
   padding-bottom: 2px;
 }
 
-#box03 #cv-boxtitle, #box05 #cv-boxtitle, #box07 #cv-boxtitle {
-    color: #fff;
+#box03 #cv-boxtitle,
+#box05 #cv-boxtitle,
+#box07 #cv-boxtitle {
+  color: #fff;
 }
 
 #box02 #boxtitle {
@@ -649,31 +654,31 @@ div#sort_block {
 }
 
 #cv-content #block02 .head {
-    background: var(--kinhnghiem);
-    background-position: left center;
-    background-size: 100% 2px;
-    display: flex;
-    justify-content: center;
-    margin-bottom: 5px;
+  background: var(--kinhnghiem);
+  background-position: left center;
+  background-size: 100% 2px;
+  display: flex;
+  justify-content: center;
+  margin-bottom: 5px;
 }
 
 #cv-content #block01 .head {
-    background-color: var(--color);
+  background-color: var(--color);
 }
 
 #cv-content #block03 .head {
-    float: right;
-    width: 90%;
-    border-bottom-left-radius: 22px;
-    background-color: var(--color);
+  float: right;
+  width: 90%;
+  border-bottom-left-radius: 22px;
+  background-color: var(--color);
 }
 
 #cv-content #block04 .head {
-    padding-left: 20px;
+  padding-left: 20px;
 }
 
 #cv-content #block05 .head {
-    background-color: var(--color);
+  background-color: var(--color);
 }
 
 
@@ -736,7 +741,9 @@ div#sort_block {
   background: var(--fake);
 }
 
-#sortable #box02 .box-content {border: unset;}
+#sortable #box02 .box-content {
+  border: unset;
+}
 
 .cum,
 .ski {
@@ -752,8 +759,8 @@ div#sort_block {
 }
 
 #boxtitle {
-    width: 100%;
-    float: left;
+  width: 100%;
+  float: left;
 }
 
 #box02 .cum {
@@ -761,23 +768,23 @@ div#sort_block {
 }
 
 #box03 .ski {
-    background: var(--color);
+  background: var(--color);
 }
 
 #box04 .cum {
-    border: solid 1px var(--color);
+  border: solid 1px var(--color);
 }
 
 #box05 .cum {
-    background: var(--color);
+  background: var(--color);
 }
 
 #box06 .cum {
-    border: solid 1px var(--color);
+  border: solid 1px var(--color);
 }
 
 #box07 .cum {
-    background: var(--color);
+  background: var(--color);
 }
 
 #cv-content .exp-date {
@@ -796,7 +803,8 @@ div#sort_block {
   text-transform: uppercase;
 }
 
-#block01 .exp-title, #block02 .exp-title {
+#block01 .exp-title,
+#block02 .exp-title {
   font-weight: bold;
 }
 

@@ -143,7 +143,7 @@ p.skill-name input {
 }
 
 #cv-top h1 span {
-    letter-spacing: 1px;
+    ;
     width: 100%;
 }
 
@@ -526,8 +526,7 @@ border-radius: 5px;*/
     font-size: 20px;
 }
 
-#experience-table #exp2 {
-}
+#experience-table #exp2 {}
 
 #exp1 .exp-content {
     width: 100%;
@@ -704,7 +703,11 @@ img#cvo-profile-avatar {
     height: 28px !important;
 }
 
-.ic1,.ic2,.ic3,.ic4,.ic5 {
+.ic1,
+.ic2,
+.ic3,
+.ic4,
+.ic5 {
     float: left;
     width: 100%;
     padding: 0;
@@ -765,97 +768,123 @@ div#block05 .head {
     /* z-index: 999; */
     /* opacity: 0; */
 }
+
 .ic5 .icoweb {
     width: 85% !important;
 }
-#box02 .cum{
+
+#box02 .cum {
     background: url(muctieu.png) no-repeat;
     width: 100%;
     height: 45px;
     padding-left: 45px;
     padding-top: 5px;
 }
-#box03 .ski{
+
+#box03 .ski {
     background: url(kynang.png) no-repeat;
     width: 100%;
     height: 45px;
     padding-left: 45px;
     margin-bottom: 10px;
 }
-#box04 .cum{
+
+#box04 .cum {
     background: url(chungchi.png) no-repeat;
     width: 100%;
     height: 45px;
     padding-left: 45px;
     padding-top: 5px;
 }
-#box05 .cum{
+
+#box05 .cum {
     background: url(giaithuong.png) no-repeat;
     width: 100%;
     height: 45px;
     padding-left: 45px;
     padding-top: 5px;
 }
-#box06 .cum{
+
+#box06 .cum {
     background: url(sothich.png) no-repeat;
     width: 100%;
     height: 45px;
     padding-left: 45px;
     padding-top: 5px;
 }
-#box07 .cum{
+
+#box07 .cum {
     background: url(people.png) no-repeat;
     width: 100%;
     height: 45px;
     padding-left: 45px;
     padding-top: 5px;
 }
-.footer{
+
+.footer {
     float: left;
     background: url(footer1.png) no-repeat;
     background-size: 100%;
     width: 790px;
     height: 17px;
 }
+
 #cv-top h2 span {
     width: 100%;
     padding: 0;
 }
-.ic4 .icoweb{
+
+.ic4 .icoweb {
     width: 85% !important;
     padding-top: 0 !important;
 }
+
 .exp-content {
     padding-left: 45px;
 }
-div#block02, div#block01 {
+
+div#block02,
+div#block01 {
     background: url(ke1.png) repeat-y;
     background-position: 17px 0;
 }
+
 .ic5 {
     background: none !important;
 }
+
 .icoweb {
     /* border-bottom: 2px solid #fff; */
     position: relative;
     left: -5px;
 }
+
 .ic5 .icoweb {
     border-bottom: none;
 }
-div#box02,div#box03,div#box04,div#box05,div#box06 {
+
+div#box02,
+div#box03,
+div#box04,
+div#box05,
+div#box06 {
     margin-bottom: 20px !important;
 }
-#block02 h3,#block01 h3{
+
+#block02 h3,
+#block01 h3 {
     background: url(dot1.png) no-repeat;
     background-position: 11px 5px;
 }
+
 .ic4 {
     margin-bottom: 1px;
 }
+
 #block05 h3 {
     display: none;
 }
+
 div#prof {
     background: url(bg_ic2.png) no-repeat;
     background-size: 10% 100%;

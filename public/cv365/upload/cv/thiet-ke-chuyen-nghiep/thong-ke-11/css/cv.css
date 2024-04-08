@@ -7,6 +7,7 @@
     line-height: 24px;
     color: #fff;
 }
+
 .watermark {
     float: left;
     width: 100%;
@@ -18,6 +19,7 @@
     font-family: Courier;
     background: #fff;
 }
+
 /*#sortable .cvo-block {
 margin-bottom: 15px;
 margin-top: 8px;
@@ -52,13 +54,15 @@ padding-bottom: 15px;
     padding: 0;
     margin: 0;
     margin-right: 45px;
-        margin-top: -180px;
+    margin-top: -180px;
 }
-#block02 .exp-content{
+
+#block02 .exp-content {
     border-left: solid 2px #fff;
-padding-left: 20px;
-margin-left: 20px;
+    padding-left: 20px;
+    margin-left: 20px;
 }
+
 #cv-main {
     text-align: justify;
     margin: 0;
@@ -146,18 +150,18 @@ p.skill-name input {
 }
 
 #cv-top h1 span {
-    letter-spacing: 1px;
+    ;
 }
 
 #box-hvt {
-    
+
     float: right;
-width: 49%;
-padding: 0;
-margin: 0;
-background: url(gach.png)no-repeat;
-background-position: -1px 114px;
-padding-top: 133px;
+    width: 49%;
+    padding: 0;
+    margin: 0;
+    background: url(gach.png)no-repeat;
+    background-position: -1px 114px;
+    padding-top: 133px;
 }
 
 #sortable #box01 {
@@ -193,17 +197,17 @@ padding-top: 133px;
 
 #cv-top h2 {
     text-transform: uppercase;
-width: 95%;
-font-size: 24px;
-font-family: "Roboto";
-text-align: center;
-margin: 0;
-padding: 0;
-float: left;
-margin-bottom: 0;
-color: #fff;
-height: 70px;
-line-height: 35px;
+    width: 95%;
+    font-size: 24px;
+    font-family: "Roboto";
+    text-align: center;
+    margin: 0;
+    padding: 0;
+    float: left;
+    margin-bottom: 0;
+    color: #fff;
+    height: 70px;
+    line-height: 35px;
 }
 
 .box-01 p {
@@ -236,17 +240,18 @@ line-height: 35px;
     padding: 0px;
     font-weight: unset;
 }
+
 .exp-title {
     width: 100%;
 }
 
 #cv-content .exp-date {
     display: none;
-      float: left;
-background: #fff;
-color: #944848;
-margin-left: -82px!important;
-/* width: 79px; */
+    float: left;
+    background: #fff;
+    color: #944848;
+    margin-left: -82px !important;
+    /* width: 79px; */
 }
 
 #cv-content #block01 .exp-date {
@@ -320,22 +325,23 @@ margin-left: -82px!important;
 }
 
 #cvo-profile-avatar-wraper .wimg {
-  width: 255px;
-height: 315px;
-margin-left: 79px;
-padding-top: 100px;
+    width: 255px;
+    height: 315px;
+    margin-left: 79px;
+    padding-top: 100px;
 }
 
 #cvo-profile-avatar-wraper img {
-   width: 238px;
-height: 294px;    
-object-fit: cover;
+    width: 238px;
+    height: 294px;
+    object-fit: cover;
 }
 
-#cvo-profile-avatar{
-     width: 238px;
-height: 294px;  
+#cvo-profile-avatar {
+    width: 238px;
+    height: 294px;
 }
+
 /* .box-dm {
 width: 288px;
 height: 288px;
@@ -369,11 +375,11 @@ top: -900px;
 }
 
 .bar-exp div {
-   float: left;
-height: 6px;
-background: #944848;
-border-radius: 10px;
-margin-top: 0px;
+    float: left;
+    height: 6px;
+    background: #944848;
+    border-radius: 10px;
+    margin-top: 0px;
 }
 
 .ctbx .skill-name {
@@ -383,7 +389,7 @@ margin-top: 0px;
 }
 
 .bar-exp {
-   background: transparent;
+    background: transparent;
     height: 8px;
     float: none;
     margin-top: 3px;
@@ -407,6 +413,7 @@ margin-top: 0px;
 .icoweb label {
     display: block;
 }
+
 /*#sortable .icoweb {
 width: 87%;
 height: 30px;
@@ -492,24 +499,24 @@ color: #fff;
 }
 
 #cv-content .head {
-  padding: 0;
-margin: 0;
-height: 40px;
-line-height: 40px;
-text-align: left;
-width: 100%;
-background: url(gach1.png)no-repeat;
-background-position: left;
-margin-left: -30px;
-padding-left: 32px;
-z-index: 1;
+    padding: 0;
+    margin: 0;
+    height: 40px;
+    line-height: 40px;
+    text-align: left;
+    width: 100%;
+    background: url(gach1.png)no-repeat;
+    background-position: left;
+    margin-left: -30px;
+    padding-left: 32px;
+    z-index: 1;
 }
 
 #experience-table .ctbx {
     color: #944848;
-font-size: 16px;
-width: 90%;
-font-weight: unset;
+    font-size: 16px;
+    width: 90%;
+    font-weight: unset;
 }
 
 .ifo {
@@ -543,6 +550,7 @@ font-weight: unset;
 }
 
 #exp1 .exp-content {}
+
 /*#icon{
 width: 30px;
 height: 30px;
@@ -555,6 +563,7 @@ border-bottom: 2px solid #fff;
     background: #F58284;
     text-align: left;
 }
+
 /*#prof {
 padding: 5px 35px;
 width: 90%;
@@ -667,10 +676,10 @@ div#cv-boxtitle {
 
 .footer {
     background: url(ft1.png)no-repeat;
-background-size: 100% 100%;
-float: left;
-height: 134px;
-width: 100%;
+    background-size: 100% 100%;
+    float: left;
+    height: 134px;
+    width: 100%;
 }
 
 div#sort_block {

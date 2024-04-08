@@ -54,9 +54,11 @@
 #cv-profile-birthday:before {
   color: #fff;
 }
+
 #block01 .exp-date {
   font-weight: bold;
 }
+
 #cv-main {
   text-align: justify;
   margin: 0;
@@ -183,7 +185,7 @@ p.skill-name input {
 }
 
 #cv-top h1 span {
-  letter-spacing: 1px;
+  ;
   width: 100%;
   line-height: 45px;
 }
@@ -291,7 +293,7 @@ p.skill-name input {
 }
 
 #block01 {
-    padding-top: 70px !important;
+  padding-top: 70px !important;
 }
 
 .ctbx {
@@ -566,8 +568,10 @@ div#sort_block {
   padding: 0px;
 }
 
-.cvo-block .blockControls .down, .cvo-block .blockControls .show-layout-editor, .cvo-block .blockControls .up {
-    display: none;
+.cvo-block .blockControls .down,
+.cvo-block .blockControls .show-layout-editor,
+.cvo-block .blockControls .up {
+  display: none;
 }
 
 #cv-profile-job::before {

@@ -137,7 +137,7 @@ p.skill-name input {
 }
 
 #cv-top h1 span {
-    letter-spacing: 1px;
+    ;
 }
 
 #box-hvt {
@@ -207,14 +207,14 @@ p.skill-name input {
     padding: 0px;
     color: #292929;
 }
+
 #cv-content #block02 .exp-content {
     margin: 0;
     padding: 0;
     padding-left: 0px;
 }
 
-#cv-content #block03 h3 {
-}
+#cv-content #block03 h3 {}
 
 #cv-content .exp-date {
     float: none;
@@ -446,6 +446,7 @@ div#prof {
     width: 100%;
     padding: 10px 0px;
 }
+
 .icf .fa {
     font-size: 20px;
     color: #000;
@@ -480,6 +481,7 @@ div#prof {
     float: left;
     width: 100%;
 }
+
 #experience-table .ctbx {
     /* padding-left: 20px; */
 }
@@ -528,6 +530,7 @@ div#experience-table {
     float: left;
     color: #000;
 }
+
 div#cv-boxtitle {
     font-size: 20px;
     font-weight: bold;
@@ -538,11 +541,13 @@ div#cv-boxtitle {
     /* padding-left: 52px; */
     /* display: none; */
 }
+
 div#box01 {
     float: left;
     width: 100%;
     padding-top: 50px;
 }
+
 .footer {
     background: url(ft.png)no-repeat;
     background-size: 100% 100%;
@@ -550,50 +555,60 @@ div#box01 {
     float: left;
     width: 100%;
 }
+
 div#sort_block {
     padding: 0;
     margin: 0;
 }
+
 .cvo-block .blockControls {
     margin: 0px;
     padding: 0px 5px;
 }
+
 .fieldgroup_controls .remove {
     background-color: #f15c4c;
     font-size: 11px;
     width: 50px;
 }
+
 .fieldgroup_controls .edit {
     font-size: 10px;
     background-color: #b3a329;
     width: 50px;
 }
+
 .fieldgroup_controls .clone {
     font-size: 11px;
     background-color: #3cb371;
     width: 50px;
 }
-.icf1{
+
+.icf1 {
     float: left;
     width: 10%;
     height: 25px;
 }
-.icf2{
+
+.icf2 {
     float: left;
     width: 10%;
     height: 15px;
 }
-.icf3{
+
+.icf3 {
     float: left;
     width: 10%;
     height: 15px;
 }
-.icf4{
+
+.icf4 {
     float: left;
     width: 10%;
     height: 15px;
 }
-.icf5{
+
+.icf5 {
     float: left;
     width: 10%;
     height: 15px;

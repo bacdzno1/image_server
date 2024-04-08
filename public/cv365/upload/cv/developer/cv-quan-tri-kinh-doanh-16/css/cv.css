@@ -46,13 +46,13 @@
 }
 
 #blocktitle {
-    width: 75%;
-    float: left;
-    text-align: left;
-    padding-left: 15px;
-    padding-right: 15px;
-    border-radius: 20px;
-    background-color: var(--color);
+  width: 75%;
+  float: left;
+  text-align: left;
+  padding-left: 15px;
+  padding-right: 15px;
+  border-radius: 20px;
+  background-color: var(--color);
 }
 
 #cv-profile-sex:before {
@@ -73,18 +73,18 @@
 }
 
 .ct_box {
-    width: 100%;
-    float: left;
-    padding-bottom: 15px;
+  width: 100%;
+  float: left;
+  padding-bottom: 15px;
 }
 
 #box07 .ct_box {
-    border-bottom: unset;
+  border-bottom: unset;
 }
 
 #box02 .ct_box {
-    border-bottom: unset;
-    padding-bottom: 0px;
+  border-bottom: unset;
+  padding-bottom: 0px;
 }
 
 .chu {
@@ -195,7 +195,7 @@ p.skill-name input {
 }
 
 #cv-top h1 div {
-  /* letter-spacing: 1px; */
+  /* ; */
   width: 100%;
   line-height: 45px;
   text-align: left;
@@ -252,9 +252,9 @@ div#box01 {
 }
 
 #cv-profile-job {
-    float: left;
-    width: 100%;
-    text-align: left;
+  float: left;
+  width: 100%;
+  text-align: left;
 }
 
 .box-01 p {
@@ -314,7 +314,7 @@ div#box01 {
 }
 
 #cv-content .ir #block01 {
-    padding-top: 15px;
+  padding-top: 15px;
 }
 
 .ctbx {
@@ -687,7 +687,10 @@ div#sort_block {
   display: none;
 }
 
-#sortable #box02 .box-content {border: unset;color: #000;}
+#sortable #box02 .box-content {
+  border: unset;
+  color: #000;
+}
 
 .cum,
 .ski {
@@ -701,24 +704,24 @@ div#sort_block {
 }
 
 #boxtitle {
-    width: max-content;
-    max-width: 260px;
-    float: left;
-    padding-left: 20px;
-    padding-top: 2px;
-    padding-bottom: 2px;
+  width: max-content;
+  max-width: 260px;
+  float: left;
+  padding-left: 20px;
+  padding-top: 2px;
+  padding-bottom: 2px;
 }
 
 #box05 #boxtitle {
-    max-width: 150px;
+  max-width: 150px;
 }
 
 #box06 #boxtitle {
-    max-width: 135px;
+  max-width: 135px;
 }
 
 #box04 #boxtitle {
-    max-width: 170px;
+  max-width: 170px;
 }
 
 #box07 #boxtitle {
@@ -730,27 +733,27 @@ div#sort_block {
 }
 
 #box02 .cum {
-    background-size: 12px 21px, 80px 2px;
+  background-size: 12px 21px, 80px 2px;
 }
 
 #box03 .ski {
-    background-size: 12px 21px, 220px 2px;
+  background-size: 12px 21px, 220px 2px;
 }
 
 #box04 .cum {
-    background-size: 12px 21px, 170px 2px;
+  background-size: 12px 21px, 170px 2px;
 }
 
 #box07 .cum {
-    background-size: 12px 21px, 110px 2px;
+  background-size: 12px 21px, 110px 2px;
 }
 
 #box05 .cum {
-    background-size: 12px 21px, 190px 2px;
+  background-size: 12px 21px, 190px 2px;
 }
 
 #box06 .cum {
-    background-size: 12px 21px, 205px 2px;
+  background-size: 12px 21px, 205px 2px;
 }
 
 #cv-content .exp-date {
@@ -765,7 +768,7 @@ div#sort_block {
 }
 
 #cv-content #block04 .exp-date {
-    display: none;
+  display: none;
 }
 
 .exp-title {
@@ -774,7 +777,12 @@ div#sort_block {
   text-transform: uppercase;
 }
 
-#block01 .exp-title, #block01 .exp-date, #block02 .exp-title, #block02 .exp-date, #block02 p.h3, #block04 .exp-date {
+#block01 .exp-title,
+#block01 .exp-date,
+#block02 .exp-title,
+#block02 .exp-date,
+#block02 p.h3,
+#block04 .exp-date {
   font-weight: bold;
 }
 

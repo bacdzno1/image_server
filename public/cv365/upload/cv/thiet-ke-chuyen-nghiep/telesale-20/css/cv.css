@@ -9,16 +9,16 @@
 }
 
 .ic13 {
-    float: left;
-    width: 100%;
-    padding-bottom: 2px;
+  float: left;
+  width: 100%;
+  padding-bottom: 2px;
 }
 
 .cv_page {
-    padding: 0px;
-    background: var(--page);
-    background-position: 20px 0px;
-    background-size: 280px 95%;
+  padding: 0px;
+  background: var(--page);
+  background-position: 20px 0px;
+  background-size: 280px 95%;
 }
 
 #sortable .cvo-block .box-content {
@@ -179,7 +179,7 @@ p.skill-name input {
 }
 
 #cv-top h1 span {
-  letter-spacing: 1px;
+  ;
   width: 100%;
   line-height: 45px;
 }
@@ -229,8 +229,8 @@ div#box01 {
 }
 
 #cv-profile-job {
-    padding: 0pc 10px;
-    width: 100%;
+  padding: 0pc 10px;
+  width: 100%;
 }
 
 .box-01 p {
@@ -262,7 +262,7 @@ div#box01 {
 }
 
 #cv-content #block04 h3 {
-    background: unset;
+  background: unset;
 }
 
 #cv-content #block03 h3 {
@@ -279,27 +279,27 @@ div#box01 {
 }
 
 #cv-content #block05 .h3 {
-    border-left: unset;
-    padding-left: 0;
-    width: 97%;
-    float: left;
-    margin-left: 7px;
+  border-left: unset;
+  padding-left: 0;
+  width: 97%;
+  float: left;
+  margin-left: 7px;
 }
 
 #cv-content #block04 .h3 {
-    border-left: unset;
-    float: left;
-    width: 97%;
-    padding-left: 0;
-    margin-left: 7px;
+  border-left: unset;
+  float: left;
+  width: 97%;
+  padding-left: 0;
+  margin-left: 7px;
 }
 
 #cv-content #block03 .h3 {
-    border-left: unset;
-    padding-left: 0px;
-    float: left;
-    width: 97%;
-    margin-left: 7px;
+  border-left: unset;
+  padding-left: 0px;
+  float: left;
+  width: 97%;
+  margin-left: 7px;
 }
 
 #cv-content .cvo-block {
@@ -511,15 +511,15 @@ div#prof {
 }
 
 #block04 .ctbx {
-    background: unset;
+  background: unset;
 }
 
 #block05 .ctbx {
-    background: unset;
+  background: unset;
 }
 
 #block03 .ctbx {
-    background: unset;
+  background: unset;
 }
 
 #cv-right h3 {
@@ -555,7 +555,7 @@ div#experience-table {
 }
 
 #block05 #experience-table {
-    background: unset;
+  background: unset;
 }
 
 #cv-boxtitle {
@@ -722,33 +722,33 @@ div#sort_block {
 }
 
 #box03 .ski {
-    background: var(--kinang), var(--doc);
-    background-position: left center, 32px 2px;
-    background-size: 26px 26px, 2px 80%;
+  background: var(--kinang), var(--doc);
+  background-position: left center, 32px 2px;
+  background-size: 26px 26px, 2px 80%;
 }
 
 #box04 .cum {
-    background: var(--giaithuong), var(--doc);
-    background-position: left center, 32px 2px;
-    background-size: 26px 26px, 2px 80%;
+  background: var(--giaithuong), var(--doc);
+  background-position: left center, 32px 2px;
+  background-size: 26px 26px, 2px 80%;
 }
 
 #box05 .cum {
-    background: var(--chungchi), var(--doc);
-    background-position: 5px center, 32px 2px;
-    background-size: 19px 26px, 2px 80%;
+  background: var(--chungchi), var(--doc);
+  background-position: 5px center, 32px 2px;
+  background-size: 19px 26px, 2px 80%;
 }
 
 #box06 .cum {
-    background: var(--sothich), var(--doc);
-    background-position: left center, 32px 2px;
-    background-size: 26px 25px, 2px 80%;
+  background: var(--sothich), var(--doc);
+  background-position: left center, 32px 2px;
+  background-size: 26px 25px, 2px 80%;
 }
 
 #box07 .cum {
-    background: var(--nguoiTC), var(--doc);
-    background-position: 3px center, 32px 2px;
-    background-size: 25px 19px, 2px 80%;
+  background: var(--nguoiTC), var(--doc);
+  background-position: 3px center, 32px 2px;
+  background-size: 25px 19px, 2px 80%;
 }
 
 #cv-content .exp-date {
@@ -760,8 +760,8 @@ div#sort_block {
   text-align: center;
 }
 
-#cv-content  #block04 .exp-date {
-    display: none;
+#cv-content #block04 .exp-date {
+  display: none;
 }
 
 .exp-title {
@@ -773,10 +773,10 @@ div#sort_block {
 }
 
 #block04 .exp-title {
-    border-left: unset;
-    float: left;
-    width: 100%;
-    padding-left: 0;
+  border-left: unset;
+  float: left;
+  width: 100%;
+  padding-left: 0;
 }
 
 .bar-exp div p {
@@ -811,11 +811,11 @@ span.exp-subtitle {
 }
 
 #prof .ic4 .icoweb {
-    padding-left: 30px;
+  padding-left: 30px;
 }
 
 #prof .ic5 .icoweb {
-    padding-left: 30px;
+  padding-left: 30px;
 }
 
 .icright1,
@@ -840,23 +840,23 @@ span.exp-subtitle {
 }
 
 #block04 .exp-content {
-    border-left: unset;
-    width: 97%;
-    float: left;
-    padding-left: 0;
-    margin-left: 7px;
+  border-left: unset;
+  width: 97%;
+  float: left;
+  padding-left: 0;
+  margin-left: 7px;
 }
 
 #block03 .exp-content {
-    border-left: unset;
-    width: 97%;
-    float: left;
-    padding-left: 0;
-    margin-left: 7px;
+  border-left: unset;
+  width: 97%;
+  float: left;
+  padding-left: 0;
+  margin-left: 7px;
 }
 
 #block05 .exp-content {
-    border-left: unset;
+  border-left: unset;
 }
 
 #prof .ic2 .icoweb {

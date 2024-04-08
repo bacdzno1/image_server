@@ -169,7 +169,7 @@ p.skill-name input {
 }
 
 #cv-top h1 span {
-  letter-spacing: 1px;
+  ;
   width: 100%;
   line-height: 45px;
 }
@@ -659,8 +659,9 @@ div#sort_block {
   background-position: center bottom;
   padding-bottom: 2px;
 }
+
 #box02 .cum {
-    display: none;
+  display: none;
 }
 
 #cv-content .exp-date {

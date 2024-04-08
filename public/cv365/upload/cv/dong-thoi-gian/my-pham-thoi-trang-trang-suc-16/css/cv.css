@@ -163,7 +163,7 @@ p.skill-name input {
 }
 
 #cv-top h1 span {
-  letter-spacing: 1px;
+  ;
   width: 100%;
   line-height: 45px;
   text-align: center;
@@ -664,7 +664,9 @@ div#sort_block {
   text-align: center;
 }
 
-#block04 .exp-date {font-weight: unset;}
+#block04 .exp-date {
+  font-weight: unset;
+}
 
 .exp-title {
   float: left;
@@ -744,11 +746,9 @@ span.exp-subtitle {
   display: none;
 }
 
-div#block02 .exp-title {
-}
+div#block02 .exp-title {}
 
-#block02 p.h3 {
-}
+#block02 p.h3 {}
 
 :root {
   --sex: url(sex1.png) no-repeat;

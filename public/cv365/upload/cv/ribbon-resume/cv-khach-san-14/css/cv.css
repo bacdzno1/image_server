@@ -9,9 +9,9 @@
 }
 
 .cv_page {
-    padding: 0;
-    background: var(--cv_page);
-    background-size: 100% 100%;
+  padding: 0;
+  background: var(--cv_page);
+  background-size: 100% 100%;
 }
 
 #sortable .cvo-block .box-content {
@@ -169,7 +169,7 @@ p.skill-name input {
 }
 
 #cv-top h1 span {
-  letter-spacing: 1px;
+  ;
   width: 100%;
   line-height: 45px;
 }
@@ -225,7 +225,7 @@ div#box01 {
 }
 
 #cv-profile-job {
-    width: 100%;
+  width: 100%;
 }
 
 .box-01 p {
@@ -282,7 +282,7 @@ div#box01 {
 }
 
 #cv-content .ir #block01 {
-    margin-top: 0 !important;
+  margin-top: 0 !important;
 }
 
 .ctbx {
@@ -749,24 +749,25 @@ span.exp-subtitle {
 }
 
 #cv-right .ir #sortable #box04 {
-    margin: 0;
-    padding-top: 10px;
+  margin: 0;
+  padding-top: 10px;
 }
 
 #cv-right .ir #sortable #box05 {
-    margin: 0;
-    padding-top: 10px;
+  margin: 0;
+  padding-top: 10px;
 }
 
 #cv-right .ir #sortable #box06 {
-    margin: 0;
-    padding-top: 10px;
+  margin: 0;
+  padding-top: 10px;
 }
 
 #cv-right .ir #sortable #box07 {
-    margin: 0;
-    padding-top: 10px;
+  margin: 0;
+  padding-top: 10px;
 }
+
 #cv-content #block05 p.h3 {
   padding: 0;
 }
@@ -781,7 +782,7 @@ span.exp-subtitle {
   --date: url(date.png) no-repeat;
   --email: url(mail.png) no-repeat;
   --add: url(add.png) no-repeat;
-  --top: url(top1.png) no-repeat, url(  top-ft1.png) no-repeat;
+  --top: url(top1.png) no-repeat, url(top-ft1.png) no-repeat;
   --doc: url(doc1.png) no-repeat;
   --dot: url(dot1.png) no-repeat;
   --color: #f8d5cc;
@@ -794,5 +795,5 @@ span.exp-subtitle {
   --fake: url(fake1-1.png) no-repeat;
   --cv_page: url(bg-form.png) no-repeat;
   --thongtin: url(tt1-1.png) no-repeat;
-  --ifo: url(ifo1.png) no-repeat, url(  ifo1.png) no-repeat;
+  --ifo: url(ifo1.png) no-repeat, url(ifo1.png) no-repeat;
 }

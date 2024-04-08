@@ -167,7 +167,7 @@ p.skill-name input {
 }
 
 #cv-top h1 span {
-  letter-spacing: 1px;
+  ;
   width: 100%;
   line-height: 45px;
 }
@@ -283,27 +283,27 @@ p.skill-name input {
 }
 
 #cv-content .ir #block02 {
-    background: var(--kinhnghiem), var(--doc), var(--block);
-    background-position: 5px center, 12.4% top, right top;
-    background-size: 43px 43px, 3px 100%, 370px 100%;
+  background: var(--kinhnghiem), var(--doc), var(--block);
+  background-position: 5px center, 12.4% top, right top;
+  background-size: 43px 43px, 3px 100%, 370px 100%;
 }
 
 #cv-content .ir #block03 {
-    background: var(--hoatdong), var(--doc), var(--block);
-    background-position: 10px center, 12.4% top, right top;
-    background-size: 32px 32px, 3px 100%, 370px 100%;
+  background: var(--hoatdong), var(--doc), var(--block);
+  background-position: 10px center, 12.4% top, right top;
+  background-size: 32px 32px, 3px 100%, 370px 100%;
 }
 
 #cv-content .ir #block04 {
-    background: var(--duan), var(--doc), var(--block);
-    background-position: 10px center, 12.4% top, right top;
-    background-size: 32px 32px, 3px 100%, 370px 100%;
+  background: var(--duan), var(--doc), var(--block);
+  background-position: 10px center, 12.4% top, right top;
+  background-size: 32px 32px, 3px 100%, 370px 100%;
 }
 
 #cv-content .ir #block05 {
-    background: var(--TTthem), var(--doc), var(--block);
-    background-position: 10px center, 12.4% top, right top;
-    background-size: 32px 32px, 3px 100%, 370px 100%;
+  background: var(--TTthem), var(--doc), var(--block);
+  background-position: 10px center, 12.4% top, right top;
+  background-size: 32px 32px, 3px 100%, 370px 100%;
 }
 
 #cv-content .ir #block05 {
@@ -611,11 +611,11 @@ div#sort_block {
 }
 
 #cv-content #block01 .head {
-    padding-left: 50px;
-    padding-bottom: 5px;
-    padding-top: 5px;
-    background: var(--hocvan), var(--ngang);
-    background-position: left center, left bottom;
+  padding-left: 50px;
+  padding-bottom: 5px;
+  padding-top: 5px;
+  background: var(--hocvan), var(--ngang);
+  background-position: left center, left bottom;
 }
 
 .ic1,
@@ -690,39 +690,39 @@ div#sort_block {
 }
 
 #box02 .cum {
-    background: var(--muctieu), var(--ngang);
-    background-position: left bottom, 10px bottom;
-    background-size: 31px 31px, 87% 3px;
+  background: var(--muctieu), var(--ngang);
+  background-position: left bottom, 10px bottom;
+  background-size: 31px 31px, 87% 3px;
 }
 
 #box03 .ski {
-    background: var(--kinang), var(--ngang);
-    background-position: left bottom, 10px bottom;
-    background-size: 31px 31px, 87% 3px;
+  background: var(--kinang), var(--ngang);
+  background-position: left bottom, 10px bottom;
+  background-size: 31px 31px, 87% 3px;
 }
 
 #box04 .cum {
-    background: var(--giaithuong), var(--ngang);
-    background-position: left bottom, 10px bottom;
-    background-size: 31px 31px, 87% 3px;
+  background: var(--giaithuong), var(--ngang);
+  background-position: left bottom, 10px bottom;
+  background-size: 31px 31px, 87% 3px;
 }
 
 #box05 .cum {
-    background: var(--chungchi), var(--ngang);
-    background-position: left bottom, 10px bottom;
-    background-size: 31px 31px, 87% 3px;
+  background: var(--chungchi), var(--ngang);
+  background-position: left bottom, 10px bottom;
+  background-size: 31px 31px, 87% 3px;
 }
 
 #box06 .cum {
-    background: var(--sothich), var(--ngang);
-    background-position: left bottom, 10px bottom;
-    background-size: 31px 31px, 87% 3px;
+  background: var(--sothich), var(--ngang);
+  background-position: left bottom, 10px bottom;
+  background-size: 31px 31px, 87% 3px;
 }
 
 #box07 .cum {
-    background: var(--nguoiTC), var(--ngang);
-    background-position: left bottom, 10px bottom;
-    background-size: 31px 31px, 87% 3px;
+  background: var(--nguoiTC), var(--ngang);
+  background-position: left bottom, 10px bottom;
+  background-size: 31px 31px, 87% 3px;
 }
 
 #cv-content .exp-date {
@@ -735,8 +735,9 @@ div#sort_block {
   text-align: left;
 }
 
-#cv-content #block02 .exp-date, #block04 .exp-date {
-    display: none;
+#cv-content #block02 .exp-date,
+#block04 .exp-date {
+  display: none;
 }
 
 #block04 .exp-date {
@@ -749,7 +750,9 @@ div#sort_block {
   font-weight: bold;
 }
 
-#block02 .exp-title {text-transform: uppercase;}
+#block02 .exp-title {
+  text-transform: uppercase;
+}
 
 .bar-exp div p {
   color: #F44336;

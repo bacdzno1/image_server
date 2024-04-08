@@ -23,6 +23,7 @@
   margin-top: 10px;
   border-radius: 10px;
 }
+
 .exp.content-edit.skill {
   margin-top: 10px;
   border-radius: 10px;
@@ -31,8 +32,9 @@
 
 
 #cvo-profile {
-display: block;
+  display: block;
 }
+
 #cv-content {
   width: 53.4%;
   text-align: justify;
@@ -55,11 +57,10 @@ display: block;
   border-right: 2px solid #599135;
 }
 
-#cv-right .ir {
-}
+#cv-right .ir {}
 
 p.skill-name input {
-color: #fff !important;
+  color: #fff !important;
 }
 
 #cv-right #box03 .ctbx {
@@ -92,9 +93,11 @@ color: #fff !important;
   text-align: right;
   width: 85%;
 }
+
 #cv-top h1 span {
-  letter-spacing: 1px;
+  ;
 }
+
 #box-hvt {
   float: right;
   width: 50%;
@@ -120,20 +123,20 @@ color: #fff !important;
 }
 
 #box01 ul {
-list-style: none;
-padding-left: 20px
+  list-style: none;
+  padding-left: 20px
 }
 
 #cv-right .cvo-block .head div {
-color: #fff;
+  color: #fff;
 }
 
 .innertext {
-margin: 0px;
-padding: 0px;
-width: 29%;
-float: left;
-color: white;
+  margin: 0px;
+  padding: 0px;
+  width: 29%;
+  float: left;
+  color: white;
 }
 
 #cv-top h2 {
@@ -150,30 +153,34 @@ color: white;
 }
 
 .box-01 p {
-overflow: hidden;
+  overflow: hidden;
 }
+
 .all {
-  border-bottom: none; 
+  border-bottom: none;
   margin-top: 20px;
 }
+
 #cv-content p {
-margin-bottom: 5px
+  margin-bottom: 5px
 }
 
 #cv-content .ir a {
-color: #2ebb2f
+  color: #2ebb2f
 }
 
-#cv-right h3, #cv-content .head {
-font-size: 20px;
-text-transform: uppercase;
-color: #000;
-font-weight: bold;
-text-align: left;
-margin: 0px auto 10px;
-line-height: 20px;
-padding-top: 0px;
+#cv-right h3,
+#cv-content .head {
+  font-size: 20px;
+  text-transform: uppercase;
+  color: #000;
+  font-weight: bold;
+  text-align: left;
+  margin: 0px auto 10px;
+  line-height: 20px;
+  padding-top: 0px;
 }
+
 #cv-content h3 {
   font-size: 16px;
   line-height: 24px;
@@ -184,42 +191,44 @@ padding-top: 0px;
 }
 
 
-#cv-content #block02 .exp-content{
-margin: 0;
-padding: 0;
-padding-left: 10px;
+#cv-content #block02 .exp-content {
+  margin: 0;
+  padding: 0;
+  padding-left: 10px;
 }
-#cv-content #block03 h3{
-font-weight: bold;
+
+#cv-content #block03 h3 {
+  font-weight: bold;
 }
+
 #cv-content #block04 h3 {
-font-weight: bold;
-padding-bottom: 15px;
+  font-weight: bold;
+  padding-bottom: 15px;
 }
 
 #cv-content .exp-date {
-float: none;
+  float: none;
 }
 
 #cv-content #block01 .exp-date {
-display: none;
+  display: none;
 }
 
 #cv-content #block03 .exp-date {
-display: none;
+  display: none;
 }
 
 #cv-content #block04 .exp-date {
-display: none;
+  display: none;
 }
 
 #cv-content #block05 .exp-date {
-display: none;
+  display: none;
 }
 
 #cv-content p.h3 {
-margin: 0px;
-padding: 0px;
+  margin: 0px;
+  padding: 0px;
 }
 
 /*#cv-content .cvo-block {
@@ -230,38 +239,38 @@ padding: 0px;
 
 */
 .ctbx {
-padding-left: 10px;
-padding-right: 10px
+  padding-left: 10px;
+  padding-right: 10px
 }
 
 
 #cv-content span {
-display: inline-block;
-z-index: 9999;
+  display: inline-block;
+  z-index: 9999;
 }
 
 #cv-content #block02 h3 {
-font-weight: bold;
+  font-weight: bold;
 }
 
 .ctbx {
-margin-bottom: 10px;
-padding-left: 0;
-padding-right: 0;
-position: relative;
+  margin-bottom: 10px;
+  padding-left: 0;
+  padding-right: 0;
+  position: relative;
 }
 
 
 .ctbx:hover {
-box-shadow: 0 0 1px #999;
+  box-shadow: 0 0 1px #999;
 }
 
 .ctbx:hover .fieldgroup_controls {
-display: block;
+  display: block;
 }
 
 [cvo-form-field] {
-cursor: text;
+  cursor: text;
 }
 
 #cvo-profile-avatar-wraper {
@@ -271,7 +280,9 @@ cursor: text;
   margin: 0;
   float: right;
   padding-top: 25px;
-  padding-left: 20px /* margin: auto;*/;
+  padding-left: 20px
+    /* margin: auto;*/
+  ;
 }
 
 #cvo-profile-avatar-wraper .wimg {
@@ -282,6 +293,7 @@ cursor: text;
   margin-top: 0px;
   border: 7px solid #69a743;
 }
+
 #cvo-profile-avatar-wraper img {
   width: 170px;
   height: 170px;
@@ -291,7 +303,7 @@ cursor: text;
 }
 
 #line-seperate {
-height: 25px;
+  height: 25px;
 }
 
 .bar-exp div {
@@ -300,6 +312,7 @@ height: 25px;
   background: #599135;
   margin-top: 0px;
 }
+
 .ctbx .skill-name {
   margin: 0px;
   padding: 0px;
@@ -317,16 +330,16 @@ height: 25px;
 }
 
 .bar-value-exp {
-width: 100%
+  width: 100%
 }
 
 .bar-value-exp input[type="text"] {
-color: #000;
-width: 95%
+  color: #000;
+  width: 95%
 }
 
 .icoweb label {
-display: block;
+  display: block;
 }
 
 /*#sortable .icoweb {
@@ -340,11 +353,14 @@ display: block;
 #page-cv #cv-content span {
   width: 100%;
 }
+
 #prof [contentEditable=true] {
   width: 100%;
   float: left;
 }
-#prof .icoweb, #prof .icoweb span {
+
+#prof .icoweb,
+#prof .icoweb span {
   height: auto;
 }
 
@@ -355,16 +371,17 @@ display: block;
 }
 
 .ic {
-width: 100%;
-float: left;
+  width: 100%;
+  float: left;
 }
+
 #form-cv .icf {
-float: left;
-border-radius: 5px;
-line-height: 30px;
-margin-bottom: 0;
-width: 28px;
-text-align: center;
+  float: left;
+  border-radius: 5px;
+  line-height: 30px;
+  margin-bottom: 0;
+  width: 28px;
+  text-align: center;
 }
 
 .ic .icoweb {
@@ -382,20 +399,22 @@ text-align: center;
 }
 
 .container {
-width: 100%;
+  width: 100%;
 }
 
 .sum {
-margin: 0;
-padding: 0;
-width: 100%;
-height: 30px;
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  height: 30px;
 }
+
 #cv-right .block {
   position: relative;
   padding: 0;
   padding-bottom: 5px;
 }
+
 #cv-content .head {
   height: 40px;
   width: 87%;
@@ -406,23 +425,23 @@ height: 30px;
   border-radius: 15px;
 }
 
-#experience-table .ctbx {
-}
+#experience-table .ctbx {}
 
 .ifo {
-margin: 0;
-padding: 0;
-width: 100%;
-height: 30px;
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  height: 30px;
 }
 
-.ifoic{
-border: #599135 3px solid;
-width: 87%;
-margin-left: 5%;
-height: 40px;
-border-radius: 15px;
+.ifoic {
+  border: #599135 3px solid;
+  width: 87%;
+  margin-left: 5%;
+  height: 40px;
+  border-radius: 15px;
 }
+
 #cv-right h3 {
   width: 78%;
   height: 30px;
@@ -435,36 +454,43 @@ border-radius: 15px;
 }
 
 #cv-content .head #cvo-experience-blocktitle {
-   color: #599135;
-   text-align: center;
-   width: 78%;
+  color: #599135;
+  text-align: center;
+  width: 78%;
 }
-#experience-table #exp2{
+
+#experience-table #exp2 {
   padding-left: 10px;
   padding-top: 12px;
 }
+
 #block02 #experience-table .ctbx {
   padding-left: 10px;
   padding-top: 12px;
 }
+
 #block01 #experience-table .ctbx {
   padding-left: 10px;
   padding-top: 12px;
 }
-#block03 #experience-table .ctbx{
+
+#block03 #experience-table .ctbx {
   padding-left: 10px;
   padding-top: 12px;
 }
-#block04 #experience-table .ctbx{
+
+#block04 #experience-table .ctbx {
   padding-left: 10px;
   padding-top: 12px;
 }
-#block05 #experience-table .ctbx{
+
+#block05 #experience-table .ctbx {
   padding-left: 10px;
   padding-top: 12px;
 }
-#exp1 .exp-content{
-}
+
+#exp1 .exp-content {}
+
 /*#icon{
   width: 30px;
   height: 30px;
@@ -472,9 +498,9 @@ border-radius: 15px;
   float: left;
   border-bottom: 2px solid #fff;
 }*/
-#bg{
-background: #F58284;
-text-align: left;
+#bg {
+  background: #F58284;
+  text-align: left;
 }
 
 
@@ -496,6 +522,7 @@ div#experience-table {
   border: 3px solid #599135;
   padding-left: 10px;
 }
+
 div#cv-boxtitle {
   font-size: 18px;
   font-weight: bold;
@@ -513,6 +540,7 @@ div#cv-boxtitle {
   padding-left: 10px;
   border-radius: 15px;
 }
+
 .cum {
   height: 40px;
   width: 87%;
@@ -532,12 +560,14 @@ div#cv-boxtitle {
   position: relative;
   background-color: #599135;
 }
+
 div#sort_block {
   padding: 0;
   margin: 0;
   border-left: 2px solid #599135;
   margin-left: -2px;
 }
+
 /*#cv-content .cvo-block {
   position: unset;
   padding: 0;
@@ -546,39 +576,46 @@ div#sort_block {
 #cv-content #sort_block #block01 {
   padding-bottom: 10px;
 }
+
 #cv-content #sort_block #block02 {
   padding-bottom: 10px;
 }
+
 #cv-content #sort_block #block03 {
   padding-bottom: 10px;
 }
+
 #cv-content #sort_block #block04 {
   padding-bottom: 10px;
 }
+
 #cv-content #sort_block #block05 {
   padding-bottom: 10px;
 }
 
-.cvo-block .blockControls{
-margin: 0px;
-padding: 0px;
+.cvo-block .blockControls {
+  margin: 0px;
+  padding: 0px;
 }
-.icon1{
-width: 30px;
-height: 40px;
-background: url(icon1.png)no-repeat;
-float: left;
-background-position: left center;
-margin-left: 10px;
+
+.icon1 {
+  width: 30px;
+  height: 40px;
+  background: url(icon1.png)no-repeat;
+  float: left;
+  background-position: left center;
+  margin-left: 10px;
 }
-.cumic2{
-width: 40px;
-height: 40px;
-background: url(icon2.png)no-repeat;
-float: left;
-background-position: left center;
+
+.cumic2 {
+  width: 40px;
+  height: 40px;
+  background: url(icon2.png)no-repeat;
+  float: left;
+  background-position: left center;
 }
-.skic{
+
+.skic {
   width: 40px;
   height: 40px;
   background: url(icon3.png)no-repeat;
@@ -586,39 +623,44 @@ background-position: left center;
   background-position: left center;
   border-radius: 15px;
 }
-.cumic4{
-    width: 40px;
-    height: 40px;
-    background: url(icon4.png)no-repeat;
-    float: left;
-    background-position: left center;
-    border-radius: 15px;
+
+.cumic4 {
+  width: 40px;
+  height: 40px;
+  background: url(icon4.png)no-repeat;
+  float: left;
+  background-position: left center;
+  border-radius: 15px;
 }
+
 .cumic5 {
-width: 40px;
-height: 40px;
-background: url(icon5.png)no-repeat;
-float: left;
-background-position: left center;
-border-radius: 15px;
+  width: 40px;
+  height: 40px;
+  background: url(icon5.png)no-repeat;
+  float: left;
+  background-position: left center;
+  border-radius: 15px;
 }
+
 .cumic6 {
-width: 40px;
-height: 40px;
-background: url(icon6.png)no-repeat;
-float: left;
-background-position: left center;
-border-radius: 15px;
+  width: 40px;
+  height: 40px;
+  background: url(icon6.png)no-repeat;
+  float: left;
+  background-position: left center;
+  border-radius: 15px;
 }
+
 .cumic7 {
-width: 40px;
-height: 40px;
-background: url(icon7.png)no-repeat;
-float: left;
-background-position: left center;
-border-radius: 15px;
+  width: 40px;
+  height: 40px;
+  background: url(icon7.png)no-repeat;
+  float: left;
+  background-position: left center;
+  border-radius: 15px;
 }
-.ic-1{
+
+.ic-1 {
   width: 40px;
   height: 40px;
   background: url(icon8.png)no-repeat;
@@ -626,49 +668,55 @@ border-radius: 15px;
   background-position: left center;
   border-radius: 15px;
 }
+
 .ic-2 {
-width: 40px;
-height: 40px;
-background: url(icon9.png)no-repeat;
-float: left;
-background-position: left center;
-border-radius: 15px;
+  width: 40px;
+  height: 40px;
+  background: url(icon9.png)no-repeat;
+  float: left;
+  background-position: left center;
+  border-radius: 15px;
 }
+
 .ic-3 {
-width: 40px;
-height: 40px;
-background: url(icon10.png)no-repeat;
-float: left;
-background-position: left center;
-border-radius: 15px;
+  width: 40px;
+  height: 40px;
+  background: url(icon10.png)no-repeat;
+  float: left;
+  background-position: left center;
+  border-radius: 15px;
 }
+
 .ic-4 {
-width: 40px;
-height: 40px;
-background: url(icon11.png)no-repeat;
-float: left;
-background-position: left center;
-border-radius: 15px;
+  width: 40px;
+  height: 40px;
+  background: url(icon11.png)no-repeat;
+  float: left;
+  background-position: left center;
+  border-radius: 15px;
 }
+
 .ic-5 {
-width: 40px;
-height: 40px;
-background: url(icon12.png)no-repeat;
-float: left;
-background-position: left center;
-border-radius: 15px;
+  width: 40px;
+  height: 40px;
+  background: url(icon12.png)no-repeat;
+  float: left;
+  background-position: left center;
+  border-radius: 15px;
 }
-#cv-profile-fullname::before{
-color: #fff;
+
+#cv-profile-fullname::before {
+  color: #fff;
 }
+
 .watermark {
-float: left;
-width: 100%;
-/* height: 22px; */
-color: #999;
-text-align: right;
-padding-right: 22px;
-font-size: 15px;
-font-family: Courier;
-padding-top: 14px;
+  float: left;
+  width: 100%;
+  /* height: 22px; */
+  color: #999;
+  text-align: right;
+  padding-right: 22px;
+  font-size: 15px;
+  font-family: Courier;
+  padding-top: 14px;
 }

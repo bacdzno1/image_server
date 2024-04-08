@@ -144,7 +144,7 @@ p.skill-name input {
 }
 
 #cv-top h1 span {
-    letter-spacing: 1px;
+    ;
 }
 
 #box-hvt {
@@ -829,6 +829,7 @@ div#block05 .head {
     /* z-index: 999; */
     /* opacity: 0; */
 }
+
 .ic5 .icoweb {
     width: 90%;
 }

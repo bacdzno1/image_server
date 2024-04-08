@@ -138,7 +138,7 @@ p.skill-name input {
 }
 
 #cv-top h1 span {
-    letter-spacing: 1px;
+    ;
 }
 
 #box-hvt {
@@ -249,6 +249,7 @@ p.skill-name input {
     font-weight: 400;
     width: 100%;
 }
+
 #cv-content p.h3 {
     margin: 0px;
     padding: 0px;
@@ -695,13 +696,14 @@ div#sort_block {
     background: url(bg_12.png)no-repeat left;
     background-size: 100% 100%;
 }
+
 .exp-title {
     float: left;
     font-weight: bold;
 }
-span.exp-subtitle {
-    
-}
+
+span.exp-subtitle {}
+
 .ic2 .icoweb {
     padding-top: 5px;
 }

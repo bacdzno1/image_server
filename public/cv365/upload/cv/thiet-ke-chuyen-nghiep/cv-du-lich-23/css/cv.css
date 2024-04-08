@@ -163,7 +163,7 @@ p.skill-name input {
 }
 
 #cv-top h1 span {
-  letter-spacing: 1px;
+  ;
   width: 100%;
   line-height: 1.5;
 }
@@ -418,11 +418,13 @@ div#box01 {
   text-align: left;
   width: 81%;
 }
-#prof .icoweb div{
+
+#prof .icoweb div {
   text-align: left;
   width: 100%;
   padding-left: 10px;
 }
+
 div#prof {
   float: left;
   width: 100%;
@@ -744,9 +746,11 @@ div#box02 .box-content {
 span#cv-profile-job {
   width: 100%;
 }
+
 div#block05 .exp-title {
   display: none;
 }
+
 div#block03 .exp-title {
   width: 100%;
 }

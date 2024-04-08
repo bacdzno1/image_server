@@ -177,7 +177,7 @@ p.skill-name input {
 }
 
 #cv-top h1 span {
-  letter-spacing: 1px;
+  ;
   width: 100%;
   line-height: 45px;
   text-align: center;
@@ -230,8 +230,8 @@ div#box01 {
 }
 
 #cv-profile-job {
-    width: max-content;
-    max-width: 420px;
+  width: max-content;
+  max-width: 420px;
 }
 
 
@@ -260,15 +260,17 @@ div#box01 {
   flex-direction: column;
 }
 
-#cv-content #block01 h3, #cv-content #block02 h3 {
-    display: flex;
-    flex-direction: row;
+#cv-content #block01 h3,
+#cv-content #block02 h3 {
+  display: flex;
+  flex-direction: row;
 }
 
-#cv-content #block01 h3 .exp-title, #cv-content #block02 h3 .exp-title {
-    width: max-content;
-    max-width: 60%;
-    padding-right: 10px;
+#cv-content #block01 h3 .exp-title,
+#cv-content #block02 h3 .exp-title {
+  width: max-content;
+  max-width: 60%;
+  padding-right: 10px;
 }
 
 #cv-content #block03 h3 {
@@ -283,7 +285,7 @@ div#box01 {
 }
 
 #cv-content #block02 p.h3 {
-    font-weight: bold;
+  font-weight: bold;
 }
 
 #cv-content .cvo-block {
@@ -699,14 +701,15 @@ div#sort_block {
 }
 
 #cv-content #block02 .exp-date {
-    /* display: none; */
+  /* display: none; */
 }
 
-#cv-content #block01 h3 .exp-date, #cv-content #block02 h3 .exp-date {
-    width: 35%;
-    padding-left: 10px;
-    padding-right: 8px;
-    text-align: center;
+#cv-content #block01 h3 .exp-date,
+#cv-content #block02 h3 .exp-date {
+  width: 35%;
+  padding-left: 10px;
+  padding-right: 8px;
+  text-align: center;
 }
 
 .exp-title {
@@ -745,27 +748,27 @@ span.exp-subtitle {
 }
 
 #prof .ic4 .icoweb {
-    width: 100%;
-    margin-left: 0;
-    padding-left: 10px;
-    background: #fff;
-    border-bottom-left-radius: 15px;
-    border-top-left-radius: 15px;
+  width: 100%;
+  margin-left: 0;
+  padding-left: 10px;
+  background: #fff;
+  border-bottom-left-radius: 15px;
+  border-top-left-radius: 15px;
 }
 
 #prof .ic3 .icoweb {
-    width: 100%;
-    margin-left: 0;
-    padding-right: 10px;
-    float: right;
-    text-align: right;
-    background: #fff;
-    border-bottom-right-radius: 15px;
-    border-top-right-radius: 15px;
+  width: 100%;
+  margin-left: 0;
+  padding-right: 10px;
+  float: right;
+  text-align: right;
+  background: #fff;
+  border-bottom-right-radius: 15px;
+  border-top-right-radius: 15px;
 }
 
 #prof .ic1 .icoweb {
-    width: 65%;
+  width: 65%;
 }
 
 .icright1,
@@ -821,7 +824,7 @@ span.exp-subtitle {
   --all: url(all1.png) no-repeat;
   --fake: url(fake1.png) no-repeat;
   --page: url(page-1.png) no-repeat;
-  --hocvan: url(hocvan1.png) no-repeat;  
+  --hocvan: url(hocvan1.png) no-repeat;
   --top: url(top1.png) no-repeat;
   --top-b: url(top-b1.png) no-repeat;
   --skill: url(skill1.png) no-repeat;

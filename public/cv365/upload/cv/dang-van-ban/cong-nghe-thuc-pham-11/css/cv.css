@@ -9,9 +9,9 @@
 }
 
 .cv_page {
-    background: url(all1.png) no-repeat;
-    background-position: right 0;
-    background-size: 10px 100%;
+  background: url(all1.png) no-repeat;
+  background-position: right 0;
+  background-size: 10px 100%;
 }
 
 .cv_page {
@@ -45,32 +45,31 @@
 }
 
 #block01 #experience-table #tt-content {
-    float: left;
-    background: var(--exp1);
-    background-position: 25px 0px;
-    background-size: 2px 100%;
+  float: left;
+  background: var(--exp1);
+  background-position: 25px 0px;
+  background-size: 2px 100%;
 }
 
-#block02 #experience-table #tt-content {
-}
+#block02 #experience-table #tt-content {}
 
 #block03 #experience-table #tt-content {
-    float: left;
-    width: 100%;
+  float: left;
+  width: 100%;
 }
 
 #block04 #experience-table #tt-content {
-    float: left;
-    background: var(--exp1);
-    background-position: 25px 0px;
-    background-size: 2px 100%;
+  float: left;
+  background: var(--exp1);
+  background-position: 25px 0px;
+  background-size: 2px 100%;
 }
 
 #block05 #experience-table #tt-content {
-    float: left;
-    background: var(--exp1);
-    background-position: 25px 0px;
-    background-size: 2px 100%;
+  float: left;
+  background: var(--exp1);
+  background-position: 25px 0px;
+  background-size: 2px 100%;
 }
 
 #cv-profile-sex:before {
@@ -91,8 +90,8 @@
 }
 
 .ct_box {
-    padding-left: 20px;
-    padding-top: 20px;
+  padding-left: 20px;
+  padding-top: 20px;
 }
 
 .chu {
@@ -200,7 +199,7 @@ p.skill-name input {
 }
 
 #cv-top h1 span {
-  letter-spacing: 1px;
+  ;
   width: 100%;
   line-height: 45px;
 }
@@ -255,7 +254,9 @@ div#box01 {
   background-size: 4px 100%;
 }
 
-#cv-top h2 #cv-profile-job {width: 100%;}
+#cv-top h2 #cv-profile-job {
+  width: 100%;
+}
 
 .box-01 p {
   overflow: hidden;
@@ -534,12 +535,11 @@ div#prof {
 }
 
 #block05 .head #cvo-experience-blocktitle {
-    background: var(--TTthem), #dadada;
-    background-position: right center;
+  background: var(--TTthem), #dadada;
+  background-position: right center;
 }
 
-.cv_page #cv-content .ir #block05 {
-}
+.cv_page #cv-content .ir #block05 {}
 
 #cv-content .head #cvo-experience-blocktitle {
   border-top-left-radius: 15px;
@@ -716,7 +716,15 @@ div#sort_block {
   background-position: 10px 8px, -1px 19px;
 }
 
-.ic3 {width: 34%;padding-left: 23px;padding-right: 10px;padding-bottom: 5px;background: url(phone1.png) no-repeat, url(doc-tt1.png) no-repeat, #fff;background-position: 10px 8px, 23px 0px;background-size: 30px 30px, 6px 10px;}
+.ic3 {
+  width: 34%;
+  padding-left: 23px;
+  padding-right: 10px;
+  padding-bottom: 5px;
+  background: url(phone1.png) no-repeat, url(doc-tt1.png) no-repeat, #fff;
+  background-position: 10px 8px, 23px 0px;
+  background-size: 30px 30px, 6px 10px;
+}
 
 .ic4 {
   margin-left: 221px;

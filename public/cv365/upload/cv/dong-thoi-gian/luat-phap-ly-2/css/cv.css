@@ -8,7 +8,12 @@
   color: #000;
 }
 
-.cv_page {padding: 0;background: var(--page);background-position: 20px 0px;background-size: 338px 95%;}
+.cv_page {
+  padding: 0;
+  background: var(--page);
+  background-position: 20px 0px;
+  background-size: 338px 95%;
+}
 
 #sortable .cvo-block .box-content {
   margin: 0;
@@ -105,13 +110,13 @@
 }
 
 #cv-right .ir #sortable #box02 {
-    padding-left: 15px;
-    padding-right: 10px;
-    padding-bottom: 15px;
-    background-color: var(--muctieu);
-    border-bottom-right-radius: 30px;
-    border-top-right-radius: 30px;
-    box-shadow: 3px 3px 8px -2px #666;
+  padding-left: 15px;
+  padding-right: 10px;
+  padding-bottom: 15px;
+  background-color: var(--muctieu);
+  border-bottom-right-radius: 30px;
+  border-top-right-radius: 30px;
+  box-shadow: 3px 3px 8px -2px #666;
 }
 
 p.skill-name input {
@@ -176,7 +181,7 @@ p.skill-name input {
 }
 
 #cv-top h1 span {
-  letter-spacing: 1px;
+  ;
   width: 100%;
   line-height: 45px;
 }
@@ -227,7 +232,7 @@ div#box01 {
 }
 
 #cv-profile-job {
-    width: 100%;
+  width: 100%;
 }
 
 .box-01 p {
@@ -535,7 +540,9 @@ div#experience-table {
   line-height: 30px;
 }
 
-#box02 .cum {display: none;}
+#box02 .cum {
+  display: none;
+}
 
 div#sort_block {
   padding: 0;
@@ -784,23 +791,23 @@ span.exp-subtitle {
 }
 
 #cv-right .ir #sortable #box04 {
-    margin-left: 15px;
-    width: 95%;
+  margin-left: 15px;
+  width: 95%;
 }
 
 #cv-right .ir #sortable #box05 {
-    margin-left: 15px;
-    width: 95%;
+  margin-left: 15px;
+  width: 95%;
 }
 
 #cv-right .ir #sortable #box06 {
-    margin-left: 15px;
-    width: 95%;
+  margin-left: 15px;
+  width: 95%;
 }
 
 #cv-right .ir #sortable #box07 {
-    margin-left: 15px;
-    width: 95%;
+  margin-left: 15px;
+  width: 95%;
 }
 
 #cv-content #block05 p.h3 {

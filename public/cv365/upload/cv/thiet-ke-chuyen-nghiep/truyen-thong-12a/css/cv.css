@@ -104,12 +104,12 @@
 }
 
 #cv-right .ir #sortable #box02 {
-    padding-top: 0;
+  padding-top: 0;
 }
 
 .ct_bo {
-    float: left;
-    width: 100%;
+  float: left;
+  width: 100%;
 }
 
 p.skill-name input {
@@ -175,7 +175,7 @@ p.skill-name input {
 }
 
 #cv-top h1 span {
-  letter-spacing: 1px;
+  ;
   width: 100%;
   line-height: 45px;
 }
@@ -254,7 +254,7 @@ div#box01 {
 }
 
 #cv-content #block04 h3 {
-    font-weight: unset;
+  font-weight: unset;
 }
 
 #cv-content #block02 h3 {
@@ -291,7 +291,7 @@ div#box01 {
 }
 
 #cv-content .ir #block01 {
-    padding-top: 0;
+  padding-top: 0;
 }
 
 .ctbx {
@@ -724,11 +724,11 @@ span.exp-subtitle {
 }
 
 #prof .ic2 .icoweb {
-    width: 60%;
+  width: 60%;
 }
 
 #prof .ic1 .icoweb {
-    width: 63%;
+  width: 63%;
 }
 
 .icright1,
@@ -756,7 +756,7 @@ span.exp-subtitle {
 }
 
 #block04 #exp1 {
-    margin-top: 0 !important;
+  margin-top: 0 !important;
 }
 
 #cv-right .ir #sortable #box03 {

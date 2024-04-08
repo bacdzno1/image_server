@@ -16,63 +16,77 @@
   color: #000;
   padding-bottom: 15px;
 }
+
 .exp.content-edit.skill {
   border-radius: 10px;
   float: left;
   padding: 10px 0;
 }
 
-#block01 .head .block-title{
+#block01 .head .block-title {
   font-size: 25px;
   color: #000;
 }
-#block02 .head .block-title{
+
+#block02 .head .block-title {
   font-size: 20px;
   color: #6666cc;
 }
-#block03 .head .block-title{
+
+#block03 .head .block-title {
   font-size: 20px;
   color: #6666cc;
 }
-#block04 .head .block-title{
+
+#block04 .head .block-title {
   font-size: 20px;
   color: #6666cc;
 }
-#block05 .head .block-title{
+
+#block05 .head .block-title {
   font-size: 20px;
   color: #6666cc;
 }
-#box01 .tt-box1 #cv-boxtitle{
-   font-size: 25px;
+
+#box01 .tt-box1 #cv-boxtitle {
+  font-size: 25px;
   color: #fff
 }
-#box02 .cum #cv-boxtitle{
-   font-size: 20px;
+
+#box02 .cum #cv-boxtitle {
+  font-size: 20px;
   color: #6666cc
 }
-#box03 .ski #cv-boxtitle{
-   font-size: 20px;
+
+#box03 .ski #cv-boxtitle {
+  font-size: 20px;
   color: #6666cc
 }
-#box04 .cum #cv-boxtitle{
-   font-size: 20px;
+
+#box04 .cum #cv-boxtitle {
+  font-size: 20px;
   color: #6666cc
 }
-#box05 .cum #cv-boxtitle{
-   font-size: 20px;
+
+#box05 .cum #cv-boxtitle {
+  font-size: 20px;
   color: #6666cc
 }
-#box06 .cum #cv-boxtitle{
-   font-size: 20px;
+
+#box06 .cum #cv-boxtitle {
+  font-size: 20px;
   color: #6666cc
 }
-#box07 .cum #cv-boxtitle{
-   font-size: 20px;
+
+#box07 .cum #cv-boxtitle {
+  font-size: 20px;
   color: #6666cc
 }
+
 #cvo-profile {
-display: block;
+  display: block;
 }
+
 #cv-content {
   width: 45%;
   text-align: justify;
@@ -81,50 +95,59 @@ display: block;
   margin-top: -50px;
 }
 
-#cv-profile-phone:before{
-color: #000;
+#cv-profile-phone:before {
+  color: #000;
 }
-#cv-profile-email:before{
-color: #000;
+
+#cv-profile-email:before {
+  color: #000;
 }
-#cv-profile-address:before{
-color: #000;
+
+#cv-profile-address:before {
+  color: #000;
 }
-#cv-profile-sex:before{
-color: #000;
+
+#cv-profile-sex:before {
+  color: #000;
 }
-#cv-profile-birthday:before{
-color: #000;
+
+#cv-profile-birthday:before {
+  color: #000;
 }
+
 #cv-main {
   text-align: justify;
-      /* margin-top: -50px; */
+  /* margin-top: -50px; */
   position: relative;
   float: right;
   width: 54%;
 }
 
 #cv-right .ir {
-padding: 0;
-margin: 0;
+  padding: 0;
+  margin: 0;
 }
-#cv-main #cv-right{
-padding: 0;
-margin: 0;
-margin-top: -50px;
+
+#cv-main #cv-right {
+  padding: 0;
+  margin: 0;
+  margin-top: -50px;
 }
-#cv-main #cv-right .ir #sortable{
-padding: 0;
-margin: 0;
+
+#cv-main #cv-right .ir #sortable {
+  padding: 0;
+  margin: 0;
 }
-#cv-right .ir #sortable .block{
-padding: 0;
-margin: 0;
-float:left;
-width: 100%;
+
+#cv-right .ir #sortable .block {
+  padding: 0;
+  margin: 0;
+  float: left;
+  width: 100%;
 }
+
 p.skill-name input {
-color: #fff !important;
+  color: #fff !important;
 }
 
 #cv-right #box03 .ctbx {
@@ -133,13 +156,15 @@ color: #fff !important;
   margin: 0;
   border: 0;
   padding-bottom: 10px;
-  float:left;
+  float: left;
 }
-#box03 .exp{
-float: left;
-padding-top: 10px;
-width: 100%;
+
+#box03 .exp {
+  float: left;
+  padding-top: 10px;
+  width: 100%;
 }
+
 #cv-top {
   width: 100%;
   height: 450px;
@@ -148,20 +173,23 @@ width: 100%;
   background-repeat: no-repeat;
   position: relative;
 }
-.all{
-float: left;
-clear: both;
-background: url(main1.png)no-repeat;
-background-size: 100% 100%;
-width: 100%;
-/* margin-top: -50px!important; */
-padding-bottom: 20px;
+
+.all {
+  float: left;
+  clear: both;
+  background: url(main1.png)no-repeat;
+  background-size: 100% 100%;
+  width: 100%;
+  /* margin-top: -50px!important; */
+  padding-bottom: 20px;
 }
-.chu{
-float: right;
-width: 63%;
-padding-top: 145px;
+
+.chu {
+  float: right;
+  width: 63%;
+  padding-top: 145px;
 }
+
 #cv-top h1 {
   padding: 0;
   margin: 0;
@@ -176,9 +204,11 @@ padding-top: 145px;
   width: 100%;
   float: left;
 }
+
 #cv-top h1 span {
-  letter-spacing: 1px;
+  ;
 }
+
 #box-hvt {
   float: left;
   width: 42%;
@@ -187,6 +217,7 @@ padding-top: 145px;
   padding-left: 0px;
   padding-top: 10px;
 }
+
 #sortable #box01 #prof {
   padding: 0;
   margin: 0;
@@ -197,24 +228,26 @@ padding-top: 145px;
 }
 
 #box01 ul {
-list-style: none;
-padding-left: 20px
+  list-style: none;
+  padding-left: 20px
 }
 
 #cv-right .cvo-block .head div {
-color: #fff;
+  color: #fff;
 }
 
 .innertext {
-margin: 0px;
-padding: 0px;
-width: 29%;
-float: left;
-color: white;
+  margin: 0px;
+  padding: 0px;
+  width: 29%;
+  float: left;
+  color: white;
 }
-#cv-profile-fullname::before{
-color: #fff;
+
+#cv-profile-fullname::before {
+  color: #fff;
 }
+
 #cv-top h2 {
   margin: 0;
   padding: 0;
@@ -228,28 +261,30 @@ color: #fff;
 }
 
 .box-01 p {
-overflow: hidden;
+  overflow: hidden;
 }
 
 #cv-content p {
-margin-bottom: 5px
+  margin-bottom: 5px
 }
 
 #cv-content .ir a {
-color: #2ebb2f
+  color: #2ebb2f
 }
 
-#cv-right h3, #cv-content .head {
-font-size: 20px;
-text-transform: uppercase;
-color: #000;
-font-weight: bold;
-text-align: left;
-line-height: 20px;
-padding-top: 0px;
+#cv-right h3,
+#cv-content .head {
+  font-size: 20px;
+  text-transform: uppercase;
+  color: #000;
+  font-weight: bold;
+  text-align: left;
+  line-height: 20px;
+  padding-top: 0px;
 }
+
 #cv-content h3 {
-font-weight: unset;
+  font-weight: unset;
   font-size: 14px;
   line-height: 24px;
   margin: 0px;
@@ -258,37 +293,39 @@ font-weight: unset;
 }
 
 
-#cv-content #block02 .exp-content{
-margin: 0;
-padding: 0;
-padding-left: 10px;
+#cv-content #block02 .exp-content {
+  margin: 0;
+  padding: 0;
+  padding-left: 10px;
 }
-#cv-content #block03 h3{
-font-weight: unset;
+
+#cv-content #block03 h3 {
+  font-weight: unset;
 }
+
 #cv-content .exp-date {
-float: none;
+  float: none;
 }
 
 #cv-content #block01 .exp-date {
-display: none;
+  display: none;
 }
 
 #cv-content #block03 .exp-date {
-display: none;
+  display: none;
 }
 
 #cv-content #block04 .exp-date {
-display: none;
+  display: none;
 }
 
 #cv-content #block05 .exp-date {
-display: none;
+  display: none;
 }
 
 #cv-content p.h3 {
-margin: 0px;
-padding: 0px;
+  margin: 0px;
+  padding: 0px;
 }
 
 #cv-content .cvo-block {
@@ -296,46 +333,50 @@ padding: 0px;
   float: left;
   width: 100%;
 }
-#cv-content .ir .cvo-block{
-padding: 0;
+
+#cv-content .ir .cvo-block {
+  padding: 0;
 }
+
 .ctbx {
-padding-left: 10px;
-padding-right: 10px
+  padding-left: 10px;
+  padding-right: 10px
 }
 
 
 #cv-content span {
-display: inline-block;
-z-index: 9999;
+  display: inline-block;
+  z-index: 9999;
 }
+
 #cv-content #block02 h3 {
-font-weight: unset;
-float: left;
-width: 100%;
-text-transform: unset;
-font-size: 15px;
+  font-weight: unset;
+  float: left;
+  width: 100%;
+  text-transform: unset;
+  font-size: 15px;
 }
-#block02 #experience-table #exp2{
-}
+
+#block02 #experience-table #exp2 {}
+
 .ctbx {
-margin-bottom: 10px;
-padding-left: 0;
-padding-right: 0;
-position: relative;
+  margin-bottom: 10px;
+  padding-left: 0;
+  padding-right: 0;
+  position: relative;
 }
 
 
 .ctbx:hover {
-box-shadow: 0 0 1px #999;
+  box-shadow: 0 0 1px #999;
 }
 
 .ctbx:hover .fieldgroup_controls {
-display: block;
+  display: block;
 }
 
 [cvo-form-field] {
-cursor: text;
+  cursor: text;
 }
 
 #cvo-profile-avatar-wraper {
@@ -355,13 +396,15 @@ cursor: text;
   float: right;
   display: unset !important;
 }
+
 #cvo-profile-avatar-wraper img {
- width: 290px;
+  width: 290px;
   height: 387px;
   float: none;
 }
+
 .box-dm {
- width: 300px;
+  width: 300px;
   height: 389px;
   padding: 0;
   margin: 0;
@@ -376,21 +419,25 @@ cursor: text;
   position: absolute;
   top: -800px;
 }
-#cvo-profile-avatar{
-   width: 290px;
+
+#cvo-profile-avatar {
+  width: 290px;
   height: 396px;
 }
+
 .box-01 {
   float: left;
   width: 100%;
 }
+
 #cvo-profile {
   display: block;
   float: left;
   width: 100%;
 }
+
 #line-seperate {
-height: 25px;
+  height: 25px;
 }
 
 .bar-exp div {
@@ -398,8 +445,9 @@ height: 25px;
   height: 7px;
   background: #666699;
   margin-top: 0px;
-  border-radius:10px;
+  border-radius: 10px;
 }
+
 .ctbx .skill-name {
   margin: 0px;
   padding: 0px;
@@ -418,20 +466,20 @@ height: 25px;
   border: 1px solid #666699;
   float: right;
   width: 100%;
-  border-radius:10px;
+  border-radius: 10px;
 }
 
 .bar-value-exp {
-width: 100%
+  width: 100%
 }
 
 .bar-value-exp input[type="text"] {
-color: #000;
-width: 95%
+  color: #000;
+  width: 95%
 }
 
 .icoweb label {
-display: block;
+  display: block;
 }
 
 /*#sortable .icoweb {
@@ -456,37 +504,43 @@ color: #fff;
   float: left;
   color: #000;
 }
+
 .ic {
-width: 100%;
-float: left;
-color: #000;
+  width: 100%;
+  float: left;
+  color: #000;
 }
 
-#prof span {
-}
+#prof span {}
+
 #prof [contentEditable=true] {
   width: 100%;
   float: left;
 }
-#prof .icoweb, #prof .icoweb span {
+
+#prof .icoweb,
+#prof .icoweb span {
   height: auto;
 }
+
 #sortable .ic {
-margin: 0px;
-padding-top: 5px;
+  margin: 0px;
+  padding-top: 5px;
 }
+
 div#prof {
   float: left;
   width: 90%;
 }
+
 #form-cv .icf {
-float: left;
-border-radius: 50%;
-line-height: 20px;
-margin-bottom: 0;
-width: 90px;
-height: 20px;
-text-align: left;
+  float: left;
+  border-radius: 50%;
+  line-height: 20px;
+  margin-bottom: 0;
+  width: 90px;
+  height: 20px;
+  text-align: left;
 }
 
 
@@ -498,21 +552,23 @@ text-align: left;
 }
 
 .container {
-width: 100%;
+  width: 100%;
 }
 
 .sum {
-margin: 0;
-padding: 0;
-width: 100%;
-height: 30px;
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  height: 30px;
 }
+
 #cv-right .block {
   margin-bottom: 10px;
   position: relative;
   padding: 0;
   padding-bottom: 20px;
 }
+
 #cv-content .head {
   padding: 0;
   margin: 0 auto;
@@ -522,14 +578,14 @@ height: 30px;
   width: 68%;
   margin-left: 50px;
 }
-#experience-table .ctbx {
-}
+
+#experience-table .ctbx {}
 
 .ifo {
-margin: 0;
-padding: 0;
-width: 100%;
-height: 30px;
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  height: 30px;
 }
 
 
@@ -544,11 +600,12 @@ height: 30px;
   text-align: center;
   background: #b82731;
 }
-#experience-table #exp2{
-margin-top: 10px;
+
+#experience-table #exp2 {
+  margin-top: 10px;
 }
-#exp1 .exp-content{
-}
+
+#exp1 .exp-content {}
 
 div#experience-table {
   margin: 0px;
@@ -569,6 +626,7 @@ div#experience-table {
   float: right;
   line-height: 40px;
 }
+
 div#cv-boxtitle {
   font-size: 19px;
   font-weight: bold;
@@ -584,6 +642,7 @@ div#cv-boxtitle {
   float: left;
   line-height: 40px;
 }
+
 .cum {
   padding: 0;
   margin: 0;
@@ -594,33 +653,37 @@ div#cv-boxtitle {
 }
 
 .nen {
-  background:url(anh1.png)no-repeat;
+  background: url(anh1.png)no-repeat;
   background-size: 100% 100%;
-  height:288px; 
+  height: 288px;
   float: left;
   width: 100%;
 }
+
 div#sort_block {
   padding: 0;
   margin: 0;
 }
-.cvo-block .blockControls{
-margin: 0px;
-padding: 0px;
-    
-margin-top:-50px;
-top: 50px;
+
+.cvo-block .blockControls {
+  margin: 0px;
+  padding: 0px;
+
+  margin-top: -50px;
+  top: 50px;
 }
-#cv-profile-job::before{
-color: #fff;
+
+#cv-profile-job::before {
+  color: #fff;
 }
+
 .watermark {
-float: left;
-width: 100%;
-/* height: 22px; */
-color: #999;
-text-align: right;
-padding-right: 22px;
-font-size: 15px;
-font-family: Courier;
+  float: left;
+  width: 100%;
+  /* height: 22px; */
+  color: #999;
+  text-align: right;
+  padding-right: 22px;
+  font-size: 15px;
+  font-family: Courier;
 }

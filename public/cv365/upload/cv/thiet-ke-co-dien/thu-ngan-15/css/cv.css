@@ -103,13 +103,13 @@
 }
 
 .ct_bo {
-    float: left;
-    width: 100%;
-    padding-left: 15px;
-    padding-right: 10px;
-    background: var(--ct-main);
-    background-position: left;
-    background-size: 100% 100%;
+  float: left;
+  width: 100%;
+  padding-left: 15px;
+  padding-right: 10px;
+  background: var(--ct-main);
+  background-position: left;
+  background-size: 100% 100%;
 }
 
 p.skill-name input {
@@ -176,7 +176,7 @@ p.skill-name input {
 }
 
 #cv-top h1 span {
-  letter-spacing: 1px;
+  ;
   width: 100%;
   line-height: 45px;
 }
@@ -253,7 +253,7 @@ div#box01 {
 }
 
 #cv-content #block04 h3 {
-    font-weight: unset;
+  font-weight: unset;
 }
 
 #cv-content #block02 h3 {
@@ -546,33 +546,33 @@ div#experience-table {
 }
 
 #box02 #cv-boxtitle {
-    background: var(--muctieu);
-    background-position: right center;
+  background: var(--muctieu);
+  background-position: right center;
 }
 
 #box03 #cv-boxtitle {
-    background: var(--kinang);
-    background-position: right center;
+  background: var(--kinang);
+  background-position: right center;
 }
 
 #box04 #cv-boxtitle {
-    background: var(--giaithuong);
-    background-position: right center;
+  background: var(--giaithuong);
+  background-position: right center;
 }
 
 #box05 #cv-boxtitle {
-    background: var(--chungchi);
-    background-position: right center;
+  background: var(--chungchi);
+  background-position: right center;
 }
 
 #box06 #cv-boxtitle {
-    background: var(--sothich);
-    background-position: right center;
+  background: var(--sothich);
+  background-position: right center;
 }
 
 #box07 #cv-boxtitle {
-    background: var(--nguoiTC);
-    background-position: right center;
+  background: var(--nguoiTC);
+  background-position: right center;
 }
 
 .ski {
@@ -800,7 +800,7 @@ span.exp-subtitle {
 }
 
 #block04 #exp1 {
-    margin-top: 0 !important;
+  margin-top: 0 !important;
 }
 
 #cv-right .ir #sortable #box03 {

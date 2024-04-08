@@ -15,6 +15,7 @@
   color: #000;
   margin-bottom: 20px;
 }
+
 #box03 .exp {
   float: left;
   margin: 0;
@@ -26,14 +27,15 @@
 #cvo-profile {
   display: block;
 }
+
 .chu {
   float: right;
   width: 68.5%;
   margin-right: 10px;
 }
+
 #cv-content {
   width: 49.9%;
-  text-align: justify;
   float: right;
   position: relative;
   padding: 0;
@@ -55,22 +57,26 @@
   padding: 0;
   margin: 0;
 }
+
 #cv-main #cv-right {
   padding: 0;
   margin: 0;
   float: left;
   width: 100%;
 }
+
 #cv-main #cv-right .ir #sortable {
   padding: 0;
   margin: 0;
 }
+
 #cv-right .ir #sortable .block {
   padding: 0;
   margin: 0;
   float: left;
   width: 100%;
 }
+
 p.skill-name input {
   color: #fff !important;
 }
@@ -94,6 +100,7 @@ p.skill-name input {
   position: relative;
   overflow: hidden;
 }
+
 .all {
   padding-top: 20px;
   float: left;
@@ -102,6 +109,7 @@ p.skill-name input {
   background: url(main.png) no-repeat;
   background-size: 100% 100%;
 }
+
 #cv-top h1 {
   padding: 0;
   margin: 0;
@@ -117,9 +125,11 @@ p.skill-name input {
   float: left;
   padding-bottom: 5px;
 }
+
 #cv-top h1 span {
-  letter-spacing: 1px;
+  ;
 }
+
 #box-hvt {
   float: right;
   width: 54%;
@@ -127,6 +137,7 @@ p.skill-name input {
   margin: 0;
   padding-top: 64px;
 }
+
 #cv-right .cvo-block .head div {
   color: #fff;
 }
@@ -174,6 +185,7 @@ p.skill-name input {
   line-height: 20px;
   padding-top: 0px;
 }
+
 #cv-content h3 {
   font-size: 14px;
   line-height: 24px;
@@ -189,16 +201,19 @@ p.skill-name input {
 #cv-content #block01 h3 {
   color: #000000;
   text-transform: uppercase;
-  width: 84%;
+  width: 100%;
 }
+
 #cv-content #block02 h3 {
   color: #000000;
   text-transform: uppercase;
 }
+
 #cv-content #block04 h3 {
   color: #000000;
   text-transform: uppercase;
 }
+
 #cv-content #block05 h3 {
   color: #000000;
   text-transform: uppercase;
@@ -209,11 +224,13 @@ p.skill-name input {
   padding: 0;
   padding-left: 0px;
 }
+
 #cv-content #block03 h3 {
   color: #000000;
   font-weight: unset;
   text-transform: unset;
 }
+
 #cv-content .exp-date {
   float: none;
 }
@@ -244,6 +261,7 @@ p.skill-name input {
   float: left;
   width: 100%;
 }
+
 #cv-content .ir .cvo-block {
   padding: 0;
 }
@@ -284,15 +302,19 @@ p.skill-name input {
 #cv-profile-sex::before {
   color: #000;
 }
+
 #cv-profile-birthday::before {
   color: #000;
 }
+
 #cv-profile-address::before {
   color: #000;
 }
+
 #cv-profile-email::before {
   color: #000;
 }
+
 #cv-profile-phone::before {
   color: #000;
 }
@@ -304,11 +326,13 @@ p.skill-name input {
   display: unset;
   border: 10px solid #fff;
 }
+
 #cvo-profile-avatar-wraper img {
   width: 164px;
   height: 166px;
   float: left;
 }
+
 #cvo-profile .box-dm {
   width: 251px;
   height: 255px;
@@ -323,20 +347,24 @@ p.skill-name input {
   top: -800px;
   position: absolute;
 }
+
 .box-01 {
   float: left;
   width: 100%;
   height: 300px;
 }
+
 #cvo-profile {
   display: block;
   float: left;
   width: 100%;
   height: 255px;
 }
+
 #line-seperate {
   height: 25px;
 }
+
 .ctbx .skill-name {
   margin: 0px;
   padding: 0px;
@@ -383,9 +411,11 @@ p.skill-name input {
   float: left;
   color: #000;
 }
+
 #sortable .ic {
   margin: 0;
 }
+
 .ic {
   width: 100%;
   float: left;
@@ -393,19 +423,23 @@ p.skill-name input {
   margin: 0;
   padding-bottom: 10px;
 }
+
 #prof [contentEditable="true"] {
   width: 100%;
   float: left;
 }
+
 #prof .icoweb,
 #prof .icoweb span {
   height: auto;
 }
+
 div#prof {
   float: left;
   width: 100%;
   padding: 15px 0px;
 }
+
 #form-cv .icf1 {
   float: left;
   margin-bottom: 0;
@@ -417,6 +451,7 @@ div#prof {
   background-position: left;
   background-size: 100% 100%;
 }
+
 #form-cv .icf2 {
   float: left;
   margin-bottom: 0;
@@ -428,6 +463,7 @@ div#prof {
   background-position: left;
   background-size: 100% 100%;
 }
+
 #form-cv .icf3 {
   float: left;
   margin-bottom: 0;
@@ -439,6 +475,7 @@ div#prof {
   background-position: left;
   background-size: 100% 100%;
 }
+
 #form-cv .icf4 {
   float: left;
   margin-bottom: 0;
@@ -449,8 +486,8 @@ div#prof {
   background: url(ic_10.png) no-repeat;
   background-position: left;
   background-size: 100% 100%;
-  margin-top: 5px;
 }
+
 #form-cv .icf5 {
   float: left;
   margin-bottom: 0;
@@ -483,12 +520,14 @@ div#prof {
   width: 100%;
   height: 30px;
 }
+
 #cv-right .block {
   margin-bottom: 10px;
   position: relative;
   padding: 0;
   padding-bottom: 20px;
 }
+
 #cv-content .head {
   padding: 0;
   margin: 0 auto;
@@ -498,8 +537,7 @@ div#prof {
   width: 100%;
 }
 
-#experience-table .ctbx {
-}
+#experience-table .ctbx {}
 
 .ifo {
   margin: 0;
@@ -532,8 +570,7 @@ div#prof {
   padding-bottom: 5px;
 }
 
-#exp1 .exp-content {
-}
+#exp1 .exp-content {}
 
 #bg {
   background: #f58284;
@@ -555,6 +592,7 @@ div#experience-table {
   line-height: 35px;
   color: #3f5b66;
 }
+
 div#cv-boxtitle {
   font-size: 18px;
   font-weight: bold;
@@ -564,6 +602,7 @@ div#cv-boxtitle {
   width: 100%;
   /*display: none;*/
 }
+
 .ski {
   padding: 0;
   margin: 0 auto;
@@ -573,6 +612,7 @@ div#cv-boxtitle {
   line-height: 35px;
   color: #3f5b66;
 }
+
 .cum {
   padding: 0;
   margin: 0 auto;
@@ -596,10 +636,12 @@ div#box01 {
   float: left;
   width: 100%;
 }
+
 div#sort_block {
   padding: 0;
   margin: 0;
 }
+
 .cvo-block .blockControls {
   margin: 0px;
   padding: 0px 5px;
@@ -636,6 +678,7 @@ div#sort_block {
   float: left;
   border-radius: 10px;
 }
+
 .bar-exp div {
   float: left;
   padding: 0px;
@@ -647,6 +690,7 @@ div#sort_block {
   margin-top: 0px;
   border-radius: 10px;
 }
+
 #cvo-profile-avatar {
   width: 190px;
   height: 190px;

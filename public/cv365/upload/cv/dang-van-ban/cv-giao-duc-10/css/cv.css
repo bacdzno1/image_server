@@ -7,6 +7,7 @@
     line-height: 24px;
     color: #eccf82;
 }
+
 .watermark {
     float: left;
     width: 100%;
@@ -18,6 +19,7 @@
     font-family: Courier;
     background: #fff;
 }
+
 .watermark {
     float: left;
     width: 100%;
@@ -149,7 +151,7 @@ p.skill-name input {
 }
 
 #cv-top h1 span {
-    letter-spacing: 1px;
+    ;
 }
 
 #box-hvt {

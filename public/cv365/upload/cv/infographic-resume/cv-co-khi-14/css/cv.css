@@ -8,6 +8,7 @@
     color: #000;
     background: #fff;
 }
+
 .watermark {
     float: left;
     width: 100%;
@@ -19,6 +20,7 @@
     font-family: Courier;
     background: #fff;
 }
+
 #cv-right .ir #sortable .block {
     padding: 0;
     float: left;
@@ -129,7 +131,7 @@ p.skill-name input {
 }
 
 #cv-top h1 span {
-    letter-spacing: 1px;
+    ;
 }
 
 #box-hvt {
@@ -189,7 +191,8 @@ div#prof {
     color: #2ebb2f
 }
 
-#cv-right h3, #cv-content .head {
+#cv-right h3,
+#cv-content .head {
     font-size: 20px;
     text-transform: uppercase;
     color: #000;
@@ -282,11 +285,13 @@ div#prof {
 [cvo-form-field] {
     cursor: text;
 }
+
 #cvo-profile .box-contact {
     float: left;
     width: 43%;
     padding-top: 8px;
 }
+
 #cvo-profile-avatar-wraper {
     width: 46%;
     padding: 0;
@@ -315,6 +320,7 @@ div#prof {
     width: 255px;
     height: 255px;
 }
+
 .box-dm {
     width: 324px;
     height: 324px;
@@ -330,6 +336,7 @@ div#prof {
     top: -900px;
     position: absolute;
 }
+
 .box-01 {
     float: left;
     width: 100%;
@@ -623,7 +630,8 @@ div#sort_block {
     border-bottom: 3px dashed #90ab3e;
 }
 
-#box02, #box04 .box-content {
+#box02,
+#box04 .box-content {
     color: #dde19f;
 }
 
@@ -641,76 +649,97 @@ div#sort_block {
     margin-bottom: 20px;
 
 }
-#box04 .cum{
+
+#box04 .cum {
     color: #90ab3e;
 }
+
 #box05 .box-content {
     color: #90ab3e;
 }
+
 #box05 .cum {
     color: #000;
 }
+
 #box05 {
     background: #dde19f;
     border-radius: 20px;
 }
+
 #box06 {
     background: #dde19f;
     border-radius: 20px;
 }
+
 #box06 .box-content {
     color: #90ab3e;
 }
+
 #box07 {
     background: #dde19f;
     border-radius: 20px;
 }
+
 #box07 .box-content {
     color: #90ab3e;
 }
+
 #block01 {
     background: #dde19f;
     border-radius: 20px;
 }
-#block01 #experience-table{
+
+#block01 #experience-table {
     color: #90ab3e;
 }
+
 #block02 {
     background: #dde19f;
     border-radius: 20px;
 }
-#block02 #experience-table{
+
+#block02 #experience-table {
     color: #90ab3e;
     border-left: 3px dashed #000;
     margin-left: 10px;
     padding-left: 5px;
 }
+
 #block03 {
     border-radius: 20px;
     border: 3px solid #dde19f;
 }
-#block03 .head{
+
+#block03 .head {
     color: #90ab3e;
 }
-#block03 #experience-table{
+
+#block03 #experience-table {
     color: #dde19f;
 }
+
 #block04 {
     border-radius: 20px;
     border: 3px solid #dde19f;
 }
-#block04 .head{
+
+#block04 .head {
     color: #90ab3e;
 }
-#block04 #experience-table{
+
+#block04 #experience-table {
     color: #dde19f;
 }
+
 #block05 {
     border-radius: 20px;
 }
-#block05 .head{
+
+#block05 .head {
     color: #90ab3e;
 }
-#block05 #experience-table{
+
+#block05 #experience-table {
     color: #dde19f;
 }

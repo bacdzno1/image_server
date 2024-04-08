@@ -20,6 +20,7 @@
     font-family: Courier;
     /* background: #fff; */
 }
+
 /*#sortable .cvo-block {
     margin-bottom: 15px;
     margin-top: 8px;
@@ -168,7 +169,7 @@ p.skill-name input {
 }
 
 #cv-top h1 span {
-    letter-spacing: 1px;
+    ;
     border-bottom: 2px solid #000;
 }
 

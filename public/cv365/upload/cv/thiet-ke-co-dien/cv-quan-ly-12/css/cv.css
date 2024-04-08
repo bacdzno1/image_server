@@ -187,7 +187,7 @@ p.skill-name input {
 }
 
 #cv-top h1 span {
-    letter-spacing: 1px;
+    ;
 }
 
 div#box01 {
@@ -373,10 +373,12 @@ div#box01 {
     height: 390px;
     /* display: unset !important; */
 }
-#cvo-profile-avatar{
+
+#cvo-profile-avatar {
     width: 290px;
     height: 390px;
 }
+
 .box-01 {
     float: left;
     width: 100%;
@@ -463,32 +465,36 @@ div#box01 {
 .ic1 .icoweb {
     width: 70%;
 }
-.ic2{
+
+.ic2 {
     width: 68%;
 }
+
 .ic2 .icoweb {
     width: 85%;
 }
+
 .ic3 {
     width: 30%;
 }
-.ic3 .icoweb{
 
-}
-.ic4{
+.ic3 .icoweb {}
 
-width: 30%;
-}
-.ic4 .icoweb{
+.ic4 {
 
+    width: 30%;
 }
-.ic5{
 
-width: 68%;
+.ic4 .icoweb {}
+
+.ic5 {
+
+    width: 68%;
 }
-.ic5 .icoweb{
-    
-width: 85%;
+
+.ic5 .icoweb {
+
+    width: 85%;
 }
 
 #prof span {}

@@ -182,7 +182,7 @@ p.skill-name input {
 }
 
 #cv-top h1 span {
-    letter-spacing: 1px;
+    ;
 }
 
 div#box01 {
@@ -645,7 +645,7 @@ div#sort_block {
     width: 100%;
 }
 
-.exp-fake{
+.exp-fake {
     /* float: left; */
     /* width: 100%; */
     /* height: 33px; */
@@ -654,6 +654,7 @@ div#sort_block {
     /* margin-top: -32px; */
     /* z-index: 9; */
 }
+
 .box-dm {
     padding: 0;
     margin: 0;
@@ -670,78 +671,112 @@ div#sort_block {
     margin-top: -176px;
     margin-left: 43px;
 }
-#cvo-profile-avatar{
+
+#cvo-profile-avatar {
     width: 155px;
     height: 155px;
 }
+
 /* trÃƒÂ¡i */
-#box02 .cum{
-width: 100%;
-float: left;
-height: 44px;
-background: url(goals.png)no-repeat;
-background-size: 100% 100%;
+#box02 .cum {
+    width: 100%;
+    float: left;
+    height: 44px;
+    background: url(goals.png)no-repeat;
+    background-size: 100% 100%;
 }
-#box03 .ski{
-width: 100%;
-float: left;
-height: 44px;
-background: url(skill.png)no-repeat;
-background-size: 100% 100%;
+
+#box03 .ski {
+    width: 100%;
+    float: left;
+    height: 44px;
+    background: url(skill.png)no-repeat;
+    background-size: 100% 100%;
 }
-#box04 .cum{
-width: 100%;
-float: left;
-height: 44px;
-background: url(medal.png)no-repeat;
-background-size: 100% 100%;
+
+#box04 .cum {
+    width: 100%;
+    float: left;
+    height: 44px;
+    background: url(medal.png)no-repeat;
+    background-size: 100% 100%;
 }
-#box05 .cum{
-width: 100%;
-float: left;
-height: 44px;
-background: url(doc.png)no-repeat;
-background-size: 100% 100%;
+
+#box05 .cum {
+    width: 100%;
+    float: left;
+    height: 44px;
+    background: url(doc.png)no-repeat;
+    background-size: 100% 100%;
 }
-#box06 .cum{
-width: 100%;
-float: left;
-height: 44px;
-background: url(like.png)no-repeat;
-background-size: 100% 100%;
+
+#box06 .cum {
+    width: 100%;
+    float: left;
+    height: 44px;
+    background: url(like.png)no-repeat;
+    background-size: 100% 100%;
 }
-#box07 .cum{
-width: 100%;
-float: left;
-height: 44px;
-background: url(refer.png)no-repeat;
-background-size: 100% 100%;
+
+#box07 .cum {
+    width: 100%;
+    float: left;
+    height: 44px;
+    background: url(refer.png)no-repeat;
+    background-size: 100% 100%;
 }
+
 /* phÃ¡ÂºÂ£i */
 
-#block01, #block02, #block03, #block04, #block05{float: left;width: 100%;background: #ffecd6;border-radius: 10px;margin-bottom: 15px;}
-#block01 .head, #block02 .head, #block03 .head, #block04 .head, #block05 .head{float: left;width: 75%;height: 32px;background: #f9af56;border-radius: 10px 10px 25px 25px;}
-#block01 #experience-table{
+#block01,
+#block02,
+#block03,
+#block04,
+#block05 {
+    float: left;
+    width: 100%;
+    background: #ffecd6;
+    border-radius: 10px;
+    margin-bottom: 15px;
+}
+
+#block01 .head,
+#block02 .head,
+#block03 .head,
+#block04 .head,
+#block05 .head {
+    float: left;
+    width: 75%;
+    height: 32px;
+    background: #f9af56;
+    border-radius: 10px 10px 25px 25px;
+}
+
+#block01 #experience-table {
     float: left;
     background: url(hv.png)no-repeat;
     background-position: right;
 }
-#block02 #experience-table{
+
+#block02 #experience-table {
     float: left;
     background: url(exp.png)no-repeat;
     background-position: right;
 }
-#block03 #experience-table{
+
+#block03 #experience-table {
     float: left;
     background: url(act.png)no-repeat;
     background-position: right;
 }
-#block04 #experience-table{
+
+#block04 #experience-table {
     float: left;
     background: url(da.png)no-repeat;
     background-position: right;
 }
-#block05 #experience-table{
+
+#block05 #experience-table {
     float: left;
     background: url(more.png)no-repeat;
     background-position: right;

@@ -184,7 +184,7 @@ p.skill-name input {
 }
 
 #cv-top h1 span {
-	letter-spacing: 1px;
+	;
 }
 
 div#box01 {
@@ -325,8 +325,7 @@ div#box01 {
 	font-size: 15px;
 }
 
-#block02 #experience-table #exp2 {
-}
+#block02 #experience-table #exp2 {}
 
 .ctbx {
 	margin-bottom: 10px;
@@ -477,8 +476,7 @@ div#box01 {
 	width: 95%;
 }
 
-#prof span {
-}
+#prof span {}
 
 #prof [contentEditable='true'] {
 	width: 100%;
@@ -651,36 +649,42 @@ div#sort_block {
 	float: left;
 	width: 100%;
 }
+
 .icr1 {
 	float: left;
 	width: 10%;
 	height: 30px;
 	background: url(hv.png) no-repeat;
 }
+
 .icr2 {
 	float: left;
 	width: 10%;
 	height: 30px;
 	background: url(exp.png) no-repeat;
 }
+
 .icr3 {
 	float: left;
 	width: 10%;
 	height: 30px;
 	background: url(act.png) no-repeat;
 }
+
 .icr4 {
 	float: left;
 	width: 10%;
 	height: 30px;
 	background: url(da.png) no-repeat;
 }
+
 .icr5 {
 	float: left;
 	width: 10%;
 	height: 30px;
 	background: url(info.png) no-repeat;
 }
+
 .exp-fake {
 	float: left;
 	width: 100%;
@@ -691,6 +695,7 @@ div#sort_block {
 	z-index: 9;
 	display: none;
 }
+
 .box-dm {
 	padding: 0;
 	margin: 0;
@@ -707,6 +712,7 @@ div#sort_block {
 	margin-top: -311px;
 	/* margin-left: 27px; */
 }
+
 #cvo-profile-avatar {
 	width: 260px;
 	height: 260px;

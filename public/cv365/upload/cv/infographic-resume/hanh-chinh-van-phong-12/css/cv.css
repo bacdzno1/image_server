@@ -30,10 +30,12 @@
     margin-bottom: 5px;
     padding: 0 15px;
 }
-.tt-box1{
 
-display: none;
+.tt-box1 {
+
+    display: none;
 }
+
 #box03 .exp {
     float: left;
     margin: 0;
@@ -145,7 +147,7 @@ p.skill-name input {
 }
 
 #cv-top h1 span {
-    letter-spacing: 1px;
+    ;
 }
 
 #box-hvt {
@@ -214,6 +216,7 @@ p.skill-name input {
     padding: 0px;
     color: #292929;
 }
+
 #cv-content #block02 .exp-content {
     margin: 0;
     /* padding: 0; */
@@ -387,9 +390,7 @@ p.skill-name input {
     /* margin-top: 1px; */
 }
 
-.exp-fake {
-    
-}
+.exp-fake {}
 
 .ctbx .skill-name {
     margin: 0px;
@@ -431,9 +432,12 @@ p.skill-name input {
 #sortable .ic {
     /* margin: 0; */
 }
-.ic4, .ic5 {
+
+.ic4,
+.ic5 {
     width: 100%;
 }
+
 .ic {
     float: left;
     margin: 0;
@@ -455,6 +459,7 @@ div#prof {
     float: left;
     width: 100%;
 }
+
 .icf .fa {
     font-size: 20px;
     color: #000;
@@ -491,6 +496,7 @@ div#prof {
     background: #529ec7;
     text-align: center;
 }
+
 #experience-table .ctbx {
     /* padding-left: 20px; */
 }
@@ -540,6 +546,7 @@ div#experience-table {
     float: left;
     color: #000;
 }
+
 div#cv-boxtitle {
     font-size: 20px;
     font-weight: bold;
@@ -552,10 +559,12 @@ div#cv-boxtitle {
     padding: 5px 0;
     padding-left: 10px;
 }
+
 div#box01 {
     float: left;
     width: 100%;
 }
+
 /* .footer {
     height: 30px;
     float: left;
@@ -566,33 +575,43 @@ div#sort_block {
     margin: 0;
     float: left;
 }
+
 .cvo-block .blockControls {
     margin: 0px;
     padding: 0px 5px;
 }
+
 .fieldgroup_controls .remove {
     /* background-color: #f15c4c; */
     /* font-size: 11px; */
     /* width: 50px; */
 }
+
 .fieldgroup_controls .edit {
     /* font-size: 10px; */
     /* background-color: #b3a329; */
     /* width: 50px; */
 }
+
 .fieldgroup_controls .clone {
     /* font-size: 11px; */
     /* background-color: #3cb371; */
     /* width: 50px; */
 }
-.icf1, .icf2, .icf3, .icf4, .icf5{
+
+.icf1,
+.icf2,
+.icf3,
+.icf4,
+.icf5 {
     float: left;
     width: 13%;
     height: 22px;
     color: #32a6c5;
 }
 
-.cum, .ski {
+.cum,
+.ski {
     float: left;
     width: 100%;
     /* padding-left: 25px; */
@@ -608,37 +627,44 @@ div#sort_block {
     width: 100%;
     background-size: 100% 100%;
 }
+
 .anh {
     float: left;
     width: 26%;
     padding-top: 20px;
     margin-left: 20px;
 }
+
 .ic1 .icf {
     background: url(sex1.png) no-repeat;
     width: 25px;
     height: 25px;
 }
+
 .ic2 .icf {
     background: url(date1.png) no-repeat;
     width: 25px;
     height: 25px;
 }
+
 .ic3 .icf {
     background: url(phone1.png) no-repeat;
     width: 25px;
     height: 25px;
 }
+
 .ic4 .icf {
     background: url(mail1.png) no-repeat;
     width: 25px;
     height: 25px;
 }
+
 .ic5 .icf {
     background: url(add1.png) no-repeat;
     width: 25px;
     height: 25px;
 }
+
 .icf {
     float: left;
 }
@@ -655,17 +681,22 @@ div#sort_block {
     width: 35%;
 }
 
-.ic4 .icoweb, .ic5 .icoweb {
+.ic4 .icoweb,
+.ic5 .icoweb {
     width: 90%;
 }
+
 .box-infor {
     float: right;
     width: 70%;
 }
+
 .exp-title {
     font-weight: bold;
 }
-#block02 .exp-content, #block03 .exp-content {
+
+#block02 .exp-content,
+#block03 .exp-content {
     /* background: url(dot.png) no-repeat;
     padding-left: 10px;
     background-position: left 10px; */

@@ -172,7 +172,7 @@ p.skill-name input {
 }
 
 #cv-top h1 span {
-  letter-spacing: 1px;
+  ;
   width: 100%;
   line-height: 45px;
 }
@@ -249,7 +249,7 @@ div#box01 {
 }
 
 #cv-content #block04 h3 {
-    font-weight: unset;
+  font-weight: unset;
 }
 
 #cv-content #block03 h3 {
@@ -835,7 +835,8 @@ span.exp-subtitle {
   display: none;
 }
 
-#block01 .exp-date, #block01 .exp-title {
+#block01 .exp-date,
+#block01 .exp-title {
   font-weight: bold;
 }
 

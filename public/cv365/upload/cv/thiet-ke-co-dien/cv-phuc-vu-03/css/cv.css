@@ -107,7 +107,7 @@
 }
 
 #cv-right .ir #sortable #box05 {
-    display: none;
+  display: none;
 }
 
 p.skill-name input {
@@ -168,7 +168,7 @@ p.skill-name input {
 }
 
 #cv-top h1 span {
-  letter-spacing: 1px;
+  ;
   width: 100%;
   line-height: 45px;
 }
@@ -253,7 +253,7 @@ div#box01 {
 }
 
 #cv-content #block04 h3 {
-    font-weight: unset;
+  font-weight: unset;
 }
 
 #cv-content #block02 h3 {
@@ -519,10 +519,12 @@ div#prof {
   background: var(--hoatdong);
   background-position: left center;
 }
+
 #block04 .head {
   background: var(--duan);
   background-position: left center;
 }
+
 #block05 .head {
   background: var(--TTthem);
   background-position: left center;
@@ -567,28 +569,28 @@ div#experience-table {
 }
 
 #box02 .cum {
-    background: var(--muctieu);
-    background-position: left center;
+  background: var(--muctieu);
+  background-position: left center;
 }
 
 #box03 .ski {
-    background: var(--kinang);
-    background-position: left center;
+  background: var(--kinang);
+  background-position: left center;
 }
 
 #box04 .cum {
-    background: var(--giaithuong);
-    background-position: left center;
+  background: var(--giaithuong);
+  background-position: left center;
 }
 
 #box06 .cum {
-    background: var(--sothich);
-    background-position: left center;
+  background: var(--sothich);
+  background-position: left center;
 }
 
 #box07 .cum {
-    background: var(--nguoiTC);
-    background-position: left center;
+  background: var(--nguoiTC);
+  background-position: left center;
 }
 
 div#sort_block {

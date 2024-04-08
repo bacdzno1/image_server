@@ -157,7 +157,7 @@ p.skill-name input {
 }
 
 #cv-top h1 span {
-  letter-spacing: 1px;
+  ;
   width: 100%;
   line-height: 45px;
 }
@@ -735,8 +735,9 @@ span.exp-subtitle {
   display: none;
 }
 
-#block03 #experience-table .ctbx, #block05 #experience-table .ctbx {
-    background: unset;
+#block03 #experience-table .ctbx,
+#block05 #experience-table .ctbx {
+  background: unset;
 }
 
 :root {

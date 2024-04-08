@@ -163,7 +163,7 @@ p.skill-name input {
 }
 
 #cv-top h1 span {
-  letter-spacing: 1px;
+  ;
   width: 100%;
   line-height: 45px;
   text-align: left;
@@ -749,7 +749,7 @@ span.exp-subtitle {
   display: none;
 }
 
-:is(div#block01,div#block02) .exp-title {
+:is(div#block01, div#block02) .exp-title {
   font-weight: bold;
 }
 

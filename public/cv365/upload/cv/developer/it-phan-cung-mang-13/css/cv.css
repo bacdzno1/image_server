@@ -185,7 +185,7 @@ p.skill-name input {
 }
 
 #cv-top h1 span {
-    letter-spacing: 1px;
+    ;
 }
 
 div#box01 {
@@ -265,7 +265,9 @@ div#box01 {
     padding: 0;
 }
 
-#cv-content #block03 h3 {font-weight: bold;}
+#cv-content #block03 h3 {
+    font-weight: bold;
+}
 
 #cv-content .exp-date {
     float: none;
@@ -624,7 +626,17 @@ div#cv-boxtitle {
     text-align: center;
 }
 
-.cumicc2, .skic, .cumicc4, .cumicc5, .cumicc6, .cumicc7, .icr1, .icr2, .icr3, .icr4, .icr5 {
+.cumicc2,
+.skic,
+.cumicc4,
+.cumicc5,
+.cumicc6,
+.cumicc7,
+.icr1,
+.icr2,
+.icr3,
+.icr4,
+.icr5 {
     display: none;
 }
 
@@ -649,7 +661,8 @@ div#sort_block {
     float: left;
     width: 100%;
 }
-.exp-fake{
+
+.exp-fake {
     float: left;
     width: 100%;
     height: 16px;
@@ -658,6 +671,7 @@ div#sort_block {
     margin-top: -16px;
     z-index: 9;
 }
+
 .box-dm {
     padding: 0;
     margin: 0;
@@ -674,12 +688,17 @@ div#sort_block {
     margin-top: -238px;
     margin-left: 34px;
 }
-#cvo-profile-avatar{
+
+#cvo-profile-avatar {
     width: 186px;
     height: 186px;
 }
 
-#block01 .ctbx, #block02 .ctbx,#block03 .ctbx, #block04 .ctbx, #block05 .ctbx {
+#block01 .ctbx,
+#block02 .ctbx,
+#block03 .ctbx,
+#block04 .ctbx,
+#block05 .ctbx {
     padding-left: 10px;
 }
 

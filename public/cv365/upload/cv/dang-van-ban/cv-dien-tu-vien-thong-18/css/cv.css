@@ -9,25 +9,25 @@
 }
 
 #img-ifo {
-    width: 46%;
-    float: left;
-    margin-left: 35px;
-    background: var(--color);
+  width: 46%;
+  float: left;
+  margin-left: 35px;
+  background: var(--color);
 }
 
 #title-tt {
-    width: 100%;
-    float: left;
-    font-size: 20px;
-    font-weight: bold;
-    text-transform: uppercase;
-    line-height: 30px;
-    padding-left: 70px;
-    padding-top: 5px;
-    padding-bottom: 5px;
-    background: var(--thongtin), var(--color);
-    background-position: 21px center, 10px center;
-    color: #fff;
+  width: 100%;
+  float: left;
+  font-size: 20px;
+  font-weight: bold;
+  text-transform: uppercase;
+  line-height: 30px;
+  padding-left: 70px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  background: var(--thongtin), var(--color);
+  background-position: 21px center, 10px center;
+  color: #fff;
 }
 
 .cv_page {
@@ -130,16 +130,16 @@
 }
 
 .ct_bo {
-    width: 100%;
-    float: left;
-    background: var(--color);
-    padding: 0px 20px;
+  width: 100%;
+  float: left;
+  background: var(--color);
+  padding: 0px 20px;
 }
 
 #box02 .ct_bo {
-    padding: 10px 40px 10px 40px;
-    background: var(--muctieu), var(--color);
-    background-position: 8px 8px;
+  padding: 10px 40px 10px 40px;
+  background: var(--muctieu), var(--color);
+  background-position: 8px 8px;
 }
 
 p.skill-name input {
@@ -201,7 +201,7 @@ p.skill-name input {
 }
 
 #cv-top h1 span {
-  letter-spacing: 1px;
+  ;
   width: 100%;
   line-height: 45px;
   text-align: center;
@@ -735,7 +735,7 @@ div#sort_block {
 }
 
 #box02 .cum {
-    display: none;
+  display: none;
 }
 
 #cv-content .exp-date {
@@ -749,7 +749,7 @@ div#sort_block {
 }
 
 #cv-content #block04 .exp-date {
-    display: none;
+  display: none;
 }
 
 .exp-title {
@@ -759,7 +759,7 @@ div#sort_block {
 }
 
 #block04 .exp-title {
-    font-weight: unset;
+  font-weight: unset;
 }
 
 #block01 .exp-date {

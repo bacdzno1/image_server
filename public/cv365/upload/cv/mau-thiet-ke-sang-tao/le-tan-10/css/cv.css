@@ -7,6 +7,7 @@
     line-height: 26px;
     color: #fff;
 }
+
 .watermark {
     float: left;
     width: 100%;
@@ -18,6 +19,7 @@
     font-family: Courier;
     background: #fff;
 }
+
 /*#sortable .cvo-block {
 margin-bottom: 15px;
 margin-top: 8px;
@@ -140,7 +142,7 @@ p.skill-name input {
 }
 
 #cv-top h1 span {
-    letter-spacing: 1px;
+    ;
 }
 
 #box-hvt {
@@ -227,6 +229,7 @@ p.skill-name input {
     padding: 0px;
     font-weight: unset;
 }
+
 /*#cv-content #block02 .exp-content{
 margin: 0;
 padding: 0;
@@ -361,6 +364,7 @@ padding-left: 55px; */
     height: 350px;
     float: none;
 }
+
 /* .box-dm {
 width: 288px;
 height: 288px;
@@ -437,6 +441,7 @@ top: -900px;
 .icoweb label {
     display: block;
 }
+
 /*#sortable .icoweb {
 width: 87%;
 height: 30px;
@@ -565,6 +570,7 @@ color: #fff;
 }
 
 #exp1 .exp-content {}
+
 /*#icon{
 width: 30px;
 height: 30px;
@@ -577,6 +583,7 @@ border-bottom: 2px solid #fff;
     background: #F58284;
     text-align: left;
 }
+
 /*#prof {
 padding: 5px 35px;
 width: 90%;

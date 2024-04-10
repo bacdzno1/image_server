@@ -25,7 +25,7 @@ const Thong_tin_them = ({
 		const newSkill = {
 			title: '',
 			date: '',
-			subtitle: 'Thêm những thông tin khác ( nếu cần )',
+			subtitle: 'Thêm những thông tin khác (nếu cần)',
 			content: '\n                               \n                               ',
 		}
 		const updatedHocVan = [...htmldefault.experiences[4].content.content, newSkill]

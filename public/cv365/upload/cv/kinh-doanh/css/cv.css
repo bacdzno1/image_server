@@ -9,6 +9,10 @@
   background-color: #e0e0e2;
 }
 
+.cv_page {
+  padding-top: 0;
+}
+
 #sortable .cvo-block .box-content {
   margin: 0;
   width: 100%;

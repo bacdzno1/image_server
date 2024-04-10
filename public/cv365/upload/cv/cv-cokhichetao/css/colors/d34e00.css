@@ -1,0 +1,49 @@
+.all {
+  background-color: #f2e9e8;
+}
+
+.all::before {
+  background-color: #d34e00;
+}
+
+.all::before {
+  background-color: #d34e00;
+}
+
+#cv-top h1 {
+  color: #d34e00;
+}
+
+#cv-top h2 {
+  color: #d34e00;
+}
+
+.dot-img {
+  background-color: #d34e00;
+}
+
+#cvo-experience-blocktitle {
+  color: #d34e00;
+}
+
+.box-title::after,
+.block-title::after {
+  background-color: #d34e00;
+}
+
+div#cv-boxtitle {
+  color: #d34e00;
+}
+
+.cum::before,
+.ski::before {
+  background-color: #d34e00;
+}
+
+.head::after {
+  background-color: #d34e00;
+}
+
+#cvo-profile-avatar-wraper .wimg {
+  background-color: #ffada9;
+}

@@ -126,9 +126,7 @@ p.skill-name input {
   padding-bottom: 5px;
 }
 
-#cv-top h1 span {
-  ;
-}
+#cv-top h1 span {}
 
 #box-hvt {
   float: right;
@@ -235,7 +233,7 @@ p.skill-name input {
   float: none;
 }
 
-#cv-content #block01 .exp-date {
+/* #cv-content #block01 .exp-date {
   display: none;
 }
 
@@ -249,7 +247,7 @@ p.skill-name input {
 
 #cv-content #block05 .exp-date {
   display: none;
-}
+} */
 
 #cv-content p.h3 {
   margin: 0px;

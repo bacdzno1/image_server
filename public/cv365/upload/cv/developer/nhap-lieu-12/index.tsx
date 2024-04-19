@@ -579,7 +579,7 @@ const CV = () => {
 													<div className="clone">Thêm</div>
 													<div className="remove">Xóa</div>
 												</div>
-												<p className="h3">Thêm những thông tin khác ( nếu cần )</p>
+												<p className="h3">Thêm những thông tin khác (nếu cần)</p>
 												<div
 													className="exp-content"
 													contentEditable="true"

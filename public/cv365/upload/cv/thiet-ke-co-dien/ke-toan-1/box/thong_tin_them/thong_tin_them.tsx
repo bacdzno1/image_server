@@ -20,11 +20,11 @@ const Thong_tin_them = ({
 	useEffect(() => {
 		setfaketitle(htmldefault?.experiences[4]?.content?.title)
 	}, [lang])
-	const handleAddHocVan = () => {	
+	const handleAddHocVan = () => {
 		const newSkill = {
 			title: '',
 			date: '',
-			subtitle: 'Thêm những thông tin khác ( nếu cần )',
+			subtitle: 'Thêm những thông tin khác (nếu cần)',
 			content: '\n                               \n                               ',
 		}
 		const updatedHocVan = [...htmldefault.experiences[4].content.content, newSkill]
@@ -47,7 +47,7 @@ const Thong_tin_them = ({
 		const skillsDiv2 = document.getElementById('block05') // Select the first element
 		const skillsDiv = skillsDiv2?.querySelector('#experience-table') // Select an element with the id 'experience-table' inside the 'block02' element
 
-	
+
 	}
 
 	const handleRemoveHocVan = (index: any) => {
@@ -172,12 +172,12 @@ const Thong_tin_them = ({
 										lang === 'vi'
 											? 'Thời gian làm việc'
 											: lang === 'en'
-											? 'Working time'
-											: lang === 'jp'
-											? '勤務期間'
-											: lang === 'cn'
-											? '工作时间 '
-											: '근무시간 '
+												? 'Working time'
+												: lang === 'jp'
+													? '勤務期間'
+													: lang === 'cn'
+														? '工作时间 '
+														: '근무시간 '
 									}
 									onClick={() => {
 										setfake1(' '), setindexc(index)
@@ -197,12 +197,12 @@ const Thong_tin_them = ({
 										lang === 'vi'
 											? 'Tên công ty'
 											: lang === 'en'
-											? 'Company namet'
-											: lang === 'jp'
-											? '会社名'
-											: lang === 'cn'
-											? '公司名称 '
-											: '회사명 '
+												? 'Company namet'
+												: lang === 'jp'
+													? '会社名'
+													: lang === 'cn'
+														? '公司名称 '
+														: '회사명 '
 									}
 									dangerouslySetInnerHTML={{ __html: (index === indexc && fake) || item?.title }}
 									onClick={() => {
@@ -220,12 +220,12 @@ const Thong_tin_them = ({
 										lang === 'vi'
 											? 'Vị trí công việc'
 											: lang === 'en'
-											? 'Job position'
-											: lang === 'jp'
-											? '職位'
-											: lang === 'cn'
-											? '工作岗位 '
-											: '작업 위치 '
+												? 'Job position'
+												: lang === 'jp'
+													? '職位'
+													: lang === 'cn'
+														? '工作岗位 '
+														: '작업 위치 '
 									}
 									contentEditable="true"
 									suppressContentEditableWarning
@@ -251,12 +251,12 @@ const Thong_tin_them = ({
 									lang === 'vi'
 										? 'Mô tả chi tiết công việc, những gì đạt được trong quá trình làm việc.'
 										: lang === 'en'
-										? 'Job description and task achievements.'
-										: lang === 'jp'
-										? '職歴の詳細内容'
-										: lang === 'cn'
-										? '描述具体工作, 在工作期间所得到的收获 '
-										: ' 업무에서 달성되는 업무 세부 사항을 설명한다. '
+											? 'Job description and task achievements.'
+											: lang === 'jp'
+												? '職歴の詳細内容'
+												: lang === 'cn'
+													? '描述具体工作, 在工作期间所得到的收获 '
+													: ' 업무에서 달성되는 업무 세부 사항을 설명한다. '
 								}
 								dangerouslySetInnerHTML={{ __html: (index === indexc && fake3) || item?.content }}
 								onInput={(e: any) => {

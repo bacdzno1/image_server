@@ -687,7 +687,7 @@ const CV = () => {
 												</div>
 												<p className="h3">
 													<span className="exp-subtitle" cvo-placeholder="Vị trí công việc" contentEditable="true">
-														Thêm những thông tin khác ( nếu cần )
+														Thêm những thông tin khác (nếu cần)
 													</span>
 												</p>
 												<div

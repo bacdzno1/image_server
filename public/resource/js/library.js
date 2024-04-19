@@ -62,7 +62,7 @@ function refreshDatePicker(e, t, a, r) {
 		i++
 	)
 		A += h + dayArrayShort[i] + b
-	for (A += D, A += l, i = 0; i < s.getDay(); i++) A += p + '&nbsp;' + b
+	for (A += D, A += l, i = 0; i < s.getDay(); i++) A += p + '' + b
 	do
 		(dayNum = s.getDate()),
 			(TD_onclick = ' onclick="updateDateField(\'' + e + "', '" + getDateString(s) + '\');">'),
@@ -75,7 +75,7 @@ function refreshDatePicker(e, t, a, r) {
 			6 == s.getDay() && (A += D + l),
 			s.setDate(s.getDate() + 1)
 	while (s.getDate() > 1)
-	if (s.getDay() > 0) for (i = 6; i > s.getDay(); i--) A += p + '&nbsp;' + b
+	if (s.getDay() > 0) for (i = 6; i > s.getDay(); i--) A += p + '' + b
 	A += D
 	{
 		var I = new Date()

@@ -85,7 +85,7 @@ $(function () {
 	//         elm_iframe_id = "idframe_" + tab_id,
 	//         elm_iframe_src = $(this).find("a").attr("href");
 
-	//     var elm_tab_title = "<span class='relo hide' title='Reload Tab'>&nbsp;</span>";
+	//     var elm_tab_title = "<span class='relo hide' title='Reload Tab'></span>";
 	//     if (tab_title != "") elm_tab_title += tab_title + "<span id='raquo'>&raquo;</span>";
 	//     elm_tab_title += $(this).find("a").text()
 

@@ -1,5 +1,6 @@
 <div id="page-cv">
-    <div id="cv-title" class="non-printable" contenteditable="true" cvo-validatable="true" cvo-placeholder="Tiêu đề CV"></div>
+    <div id="cv-title" class="non-printable" contenteditable="true" cvo-validatable="true" cvo-placeholder="Tiêu đề CV">
+    </div>
     <div id="form-cv">
         <div id="cv-top">
             <div id="cvo-profile">
@@ -10,7 +11,8 @@
 
                     <div id="box-hvt">
                         <h1><span id="cv-profile-fullname" cvo-placeholder="Họ tên" contenteditable="true"></span></h1>
-                        <h2><span id="cv-profile-job" contenteditable="true" cvo-placeholder="Vị trí công việc bạn muốn ứng tuyển"></span></h2>
+                        <h2><span id="cv-profile-job" contenteditable="true"
+                                cvo-placeholder="Vị trí công việc bạn muốn ứng tuyển"></span></h2>
                         <p><span id="cv-profile-about"></span></p>
                     </div>
 
@@ -21,237 +23,337 @@
         <div id="cv-main">
             <div id="cv-content">
                 <div class="ir ui-sortable" id="sort_block">
-                                                <div id="block01" class="cvo-block ui-sortable-handle">
-                                <div class="blockControls">
-                        <div title="Di chuyển khối" class="show-layout-editor"><i class="fa fa-bars"></i></div>
-                        <div title="Chuyển mục này lên trên" class="up">▲</div>
-                        <div title="Chuyển mục này xuống dưới" class="down">▼</div>
-                        <div title="Ẩn mục này" class="hide"><i class="fa fa-minus"></i> Ẩn</div>
-                    </div>                                <p class="head">
-                                    <span id="cvo-experience-blocktitle" class="block-title" cvo-placeholder="Tiêu đề mục lớn" contenteditable="true">TRÌNH ĐỘ HỌC VẤN</span>
+                    <div id="block01" class="cvo-block ui-sortable-handle">
+                        <div class="blockControls">
+                            <div title="Di chuyển khối" class="show-layout-editor"><i class="fa fa-bars"></i></div>
+                            <div title="Chuyển mục này lên trên" class="up">▲</div>
+                            <div title="Chuyển mục này xuống dưới" class="down">▼</div>
+                            <div title="Ẩn mục này" class="hide"><i class="fa fa-minus"></i> Ẩn</div>
+                        </div>
+                        <p class="head">
+                            <span id="cvo-experience-blocktitle" class="block-title" cvo-placeholder="Tiêu đề mục lớn"
+                                contenteditable="true">TRÌNH ĐỘ HỌC VẤN</span>
+                        </p>
+                        <div id="experience-table">
+                            <div id="exp1" class="ctbx experience">
+                                <div class="fieldgroup_controls">
+                                    <div class="clone"><i class="fa fa-plus"></i> Thêm</div>
+                                    <div class="remove"><i class="fa fa-minus"></i> Xóa</div>
+                                </div>
+                                <h3>
+                                    <span class="exp-title err_cv_content" contenteditable="true"
+                                        cvo-placeholder="Tên công ty">Đại học CV365</span>
+                                </h3>
+                                <p class="h3"><span class="exp-subtitle" cvo-placeholder="Vị trí công việc"
+                                        contenteditable="true">Chuyên ngành: Quản trị nhân lực (10/2010 -
+                                        05/2014)&nbsp;</span>
                                 </p>
-                                <div id="experience-table">
-                                    <div id="exp1" class="ctbx experience">                                        <div class="fieldgroup_controls">
-                                            <div class="clone"><i class="fa fa-plus"></i> Thêm</div>
-                                            <div class="remove"><i class="fa fa-minus"></i> Xóa</div>
-                                        </div>
-                                                                                    <h3>
-                                                <span class="exp-title err_cv_content" contenteditable="true" cvo-placeholder="Tên công ty">Đại học CV365</span>
-                                                                                            </h3>
-                                                                                                                            <p class="h3"><span class="exp-subtitle" cvo-placeholder="Vị trí công việc" contenteditable="true">Chuyên ngành: Quản trị nhân lực (10/2010 - 05/2014)&nbsp;</span>
-                                            </p>
-                                        
-                                        <div class="exp-content" contenteditable="true" cvo-placeholder="Mô tả chi tiết công việc, những gì đạt được trong quá trình làm việc.">
-                                            Xếp loại: Giỏi
-                                          </div>
-                                    </div>                                </div>
+
+                                <div class="exp-content" contenteditable="true"
+                                    cvo-placeholder="Mô tả chi tiết công việc, những gì đạt được trong quá trình làm việc.">
+                                    Xếp loại: Giỏi
+                                </div>
                             </div>
-                                                <div id="block02" class="cvo-block ui-sortable-handle">
-                                <div class="blockControls">
-                        <div title="Di chuyển khối" class="show-layout-editor"><i class="fa fa-bars"></i></div>
-                        <div title="Chuyển mục này lên trên" class="up">▲</div>
-                        <div title="Chuyển mục này xuống dưới" class="down">▼</div>
-                        <div title="Ẩn mục này" class="hide"><i class="fa fa-minus"></i> Ẩn</div>
-                    </div>                                <p class="head">
-                                    <span id="cvo-experience-blocktitle" class="block-title" cvo-placeholder="Tiêu đề mục lớn" contenteditable="true">KINH NGHIỆM LÀM VIỆC</span>
+                        </div>
+                    </div>
+                    <div id="block02" class="cvo-block ui-sortable-handle">
+                        <div class="blockControls">
+                            <div title="Di chuyển khối" class="show-layout-editor"><i class="fa fa-bars"></i></div>
+                            <div title="Chuyển mục này lên trên" class="up">▲</div>
+                            <div title="Chuyển mục này xuống dưới" class="down">▼</div>
+                            <div title="Ẩn mục này" class="hide"><i class="fa fa-minus"></i> Ẩn</div>
+                        </div>
+                        <p class="head">
+                            <span id="cvo-experience-blocktitle" class="block-title" cvo-placeholder="Tiêu đề mục lớn"
+                                contenteditable="true">KINH NGHIỆM LÀM VIỆC</span>
+                        </p>
+                        <div id="experience-table">
+                            <div id="exp1" class="ctbx experience">
+                                <div class="fieldgroup_controls">
+                                    <div class="clone"><i class="fa fa-plus"></i> Thêm</div>
+                                    <div class="remove"><i class="fa fa-minus"></i> Xóa</div>
+                                </div>
+                                <h3>
+                                    <span class="exp-title err_cv_content" contenteditable="true"
+                                        cvo-placeholder="Tên công ty">Công ty cổ phần CV365</span>
+                                </h3>
+                                <p class="h3"><span class="exp-subtitle" cvo-placeholder="Vị trí công việc"
+                                        contenteditable="true">Vị trí: Chuyên viên tuyển dụng</span>
                                 </p>
-                                <div id="experience-table">
-                                    <div id="exp1" class="ctbx experience">                                        <div class="fieldgroup_controls">
-                                            <div class="clone"><i class="fa fa-plus"></i> Thêm</div>
-                                            <div class="remove"><i class="fa fa-minus"></i> Xóa</div>
-                                        </div>
-                                                                                    <h3>
-                                                <span class="exp-title err_cv_content" contenteditable="true" cvo-placeholder="Tên công ty">Công ty cổ phần CV365</span>
-                                                                                            </h3>
-                                                                                                                            <p class="h3"><span class="exp-subtitle" cvo-placeholder="Vị trí công việc" contenteditable="true">Vị trí: Chuyên viên tuyển dụng</span>
-                                            </p>
-                                        
-                                        <div class="exp-content err_cv_content" contenteditable="true" cvo-placeholder="Mô tả chi tiết công việc, những gì đạt được trong quá trình làm việc.">
-                                            - Có kinh nghiệm làm việc, xây dựng mối quan hệ với các trường Đại học khu vực, trung tâm giới thiệu việc làm.<br>- Lập kế hoạch, phân tích nhu cầu tuyển dụng của các phòng ban trong công ty<br>- Tuyển dụng theo ý kiến cấp trên hoặc đề xuất của các trưởng phòng ban<br>- Triển khai kế hoạch tuyển dụng thông qua các kênh: Mạng xã hội, Website timviec365.vn …<br>- Tiếp nhận, sàng lọc hồ sơ ứng viên phù hợp theo yêu cầu tuyển dụng từng vị trí.<br>- Phỏng vấn ứng viên (vòng 1)<br>- Hỗ trợ nhân viên mới trong quá trình thử việc.<br>- Thực hiện các công việc, nghiệp vụ khác do trưởng phòng phân công<br>                                        </div>
-                                    </div><div id="exp2" class="ctbx experience">                                        <div class="fieldgroup_controls">
-                                            <div class="clone"><i class="fa fa-plus"></i> Thêm</div>
-                                            <div class="remove"><i class="fa fa-minus"></i> Xóa</div>
-                                        </div>
-                                                                                    <h3>
-                                                <span class="exp-title err_cv_content" contenteditable="true" cvo-placeholder="Tên công ty">Công ty Bất động sản CV 365</span>
-                                                                                            </h3>
-                                                                                                                            <p class="h3"><span class="exp-subtitle" cvo-placeholder="Vị trí công việc" contenteditable="true">Vị trí: TTS Nhân sự (Hỗ trợ trưởng phòng nhân sự)</span>
-                                            </p>
-                                        
-                                        <div class="exp-content err_cv_content" contenteditable="true" cvo-placeholder="Mô tả chi tiết công việc, những gì đạt được trong quá trình làm việc.">
-                                            - Tuyển dụng nhân sự cho phòng kinh doanh<br>- Đăng tin tuyển dụng, sàng lọc ứng viên<br>- Tiếp đón, hỗ trợ ứng viên khi đến phỏng vấn<br>- Hỗ trợ công việc hành chính văn phòng<br>- Soạn thảo văn bản, hợp đồng theo chỉ đạo và hướng dẫn của trưởng phòng.<br>- Theo dõi và quản lý văn phòng phẩm của công ty.<br>                                        </div>
-                                    </div>                                </div>
+
+                                <div class="exp-content err_cv_content" contenteditable="true"
+                                    cvo-placeholder="Mô tả chi tiết công việc, những gì đạt được trong quá trình làm việc.">
+                                    - Có kinh nghiệm làm việc, xây dựng mối quan hệ với các trường Đại học khu vực,
+                                    trung tâm giới thiệu việc làm.<br>- Lập kế hoạch, phân tích nhu cầu tuyển dụng của
+                                    các phòng ban trong công ty<br>- Tuyển dụng theo ý kiến cấp trên hoặc đề xuất của
+                                    các trưởng phòng ban<br>- Triển khai kế hoạch tuyển dụng thông qua các kênh: Mạng xã
+                                    hội, Website timviec365.vn …<br>- Tiếp nhận, sàng lọc hồ sơ ứng viên phù hợp theo
+                                    yêu cầu tuyển dụng từng vị trí.<br>- Phỏng vấn ứng viên (vòng 1)<br>- Hỗ trợ nhân
+                                    viên mới trong quá trình thử việc.<br>- Thực hiện các công việc, nghiệp vụ khác do
+                                    trưởng phòng phân công<br> </div>
                             </div>
-                                                <div id="block03" class="cvo-block ui-sortable-handle">
-                                <div class="blockControls">
-                        <div title="Di chuyển khối" class="show-layout-editor"><i class="fa fa-bars"></i></div>
-                        <div title="Chuyển mục này lên trên" class="up">▲</div>
-                        <div title="Chuyển mục này xuống dưới" class="down">▼</div>
-                        <div title="Ẩn mục này" class="hide"><i class="fa fa-minus"></i> Ẩn</div>
-                    </div>                                <p class="head">
-                                    <span id="cvo-experience-blocktitle" class="block-title" cvo-placeholder="Tiêu đề mục lớn" contenteditable="true">HOẠT ĐỘNG</span>
+                            <div id="exp2" class="ctbx experience">
+                                <div class="fieldgroup_controls">
+                                    <div class="clone"><i class="fa fa-plus"></i> Thêm</div>
+                                    <div class="remove"><i class="fa fa-minus"></i> Xóa</div>
+                                </div>
+                                <h3>
+                                    <span class="exp-title err_cv_content" contenteditable="true"
+                                        cvo-placeholder="Tên công ty">Công ty Bất động sản CV 365</span>
+                                </h3>
+                                <p class="h3"><span class="exp-subtitle" cvo-placeholder="Vị trí công việc"
+                                        contenteditable="true">Vị trí: TTS Nhân sự (Hỗ trợ trưởng phòng nhân sự)</span>
                                 </p>
-                                <div id="experience-table">
-                                    <div id="exp1" class="ctbx experience">                                        <div class="fieldgroup_controls">
-                                            <div class="clone"><i class="fa fa-plus"></i> Thêm</div>
-                                            <div class="remove"><i class="fa fa-minus"></i> Xóa</div>
-                                        </div>
-                                                                                    <h3>
-                                                <span class="exp-title err_cv_content" contenteditable="true" cvo-placeholder="Tên công ty">Nhóm tình nguyện – Mùa hè xanh: “ Mùa hè yêu thương”</span>
-                                                                                            </h3>
-                                                                                                                            <p class="h3"><span class="exp-subtitle" cvo-placeholder="Vị trí công việc" contenteditable="true">Tình nguyện viên</span>
-                                            </p>
-                                        
-                                        <div class="exp-content err_cv_content" contenteditable="true" cvo-placeholder="Mô tả chi tiết công việc, những gì đạt được trong quá trình làm việc.">
-                                            - Hỗ trợ xây dựng mới nhà cho 1 hộ dân nghèo tại xã<br>- Tổ chức sinh hoạt hè cho trẻ em địa phương trong thời gian tham gia tình nguyện.<br>                                        </div>
-                                    </div>                                </div>
+
+                                <div class="exp-content err_cv_content" contenteditable="true"
+                                    cvo-placeholder="Mô tả chi tiết công việc, những gì đạt được trong quá trình làm việc.">
+                                    - Tuyển dụng nhân sự cho phòng kinh doanh<br>- Đăng tin tuyển dụng, sàng lọc ứng
+                                    viên<br>- Tiếp đón, hỗ trợ ứng viên khi đến phỏng vấn<br>- Hỗ trợ công việc hành
+                                    chính văn phòng<br>- Soạn thảo văn bản, hợp đồng theo chỉ đạo và hướng dẫn của
+                                    trưởng phòng.<br>- Theo dõi và quản lý văn phòng phẩm của công ty.<br> </div>
                             </div>
-                                                <div id="block04" class="cvo-block ui-sortable-handle">
-                                <div class="blockControls">
-                        <div title="Di chuyển khối" class="show-layout-editor"><i class="fa fa-bars"></i></div>
-                        <div title="Chuyển mục này lên trên" class="up">▲</div>
-                        <div title="Chuyển mục này xuống dưới" class="down">▼</div>
-                        <div title="Ẩn mục này" class="hide"><i class="fa fa-minus"></i> Ẩn</div>
-                    </div>                                <p class="head">
-                                    <span id="cvo-experience-blocktitle" class="block-title" cvo-placeholder="Tiêu đề mục lớn" contenteditable="true">DỰ ÁN THAM GIA</span>
+                        </div>
+                    </div>
+                    <div id="block03" class="cvo-block ui-sortable-handle">
+                        <div class="blockControls">
+                            <div title="Di chuyển khối" class="show-layout-editor"><i class="fa fa-bars"></i></div>
+                            <div title="Chuyển mục này lên trên" class="up">▲</div>
+                            <div title="Chuyển mục này xuống dưới" class="down">▼</div>
+                            <div title="Ẩn mục này" class="hide"><i class="fa fa-minus"></i> Ẩn</div>
+                        </div>
+                        <p class="head">
+                            <span id="cvo-experience-blocktitle" class="block-title" cvo-placeholder="Tiêu đề mục lớn"
+                                contenteditable="true">HOẠT ĐỘNG</span>
+                        </p>
+                        <div id="experience-table">
+                            <div id="exp1" class="ctbx experience">
+                                <div class="fieldgroup_controls">
+                                    <div class="clone"><i class="fa fa-plus"></i> Thêm</div>
+                                    <div class="remove"><i class="fa fa-minus"></i> Xóa</div>
+                                </div>
+                                <h3>
+                                    <span class="exp-title err_cv_content" contenteditable="true"
+                                        cvo-placeholder="Tên công ty">Nhóm tình nguyện – Mùa hè xanh: “ Mùa hè yêu
+                                        thương”</span>
+                                </h3>
+                                <p class="h3"><span class="exp-subtitle" cvo-placeholder="Vị trí công việc"
+                                        contenteditable="true">Tình nguyện viên</span>
                                 </p>
-                                <div id="experience-table">
-                                    <div id="exp1" class="ctbx experience">                                        <div class="fieldgroup_controls">
-                                            <div class="clone"><i class="fa fa-plus"></i> Thêm</div>
-                                            <div class="remove"><i class="fa fa-minus"></i> Xóa</div>
-                                        </div>
-                                                                                    <h3>
-                                                <span class="exp-title err_cv_content" contenteditable="true" cvo-placeholder="Tên công ty">Kết nối các nhà tuyển dụng với sinh viên</span>
-                                                                                            </h3>
-                                                                                                                            <p class="h3"><span class="exp-subtitle" cvo-placeholder="Vị trí công việc" contenteditable="true">Vị trí công việc: Cộng tác viên</span>
-                                            </p>
-                                        
-                                        <div class="exp-content err_cv_content" contenteditable="true" cvo-placeholder="Mô tả chi tiết công việc, những gì đạt được trong quá trình làm việc.">
-                                            - Hỗ trợ sinh viên trong quá trình họ tham dự các buổi giao lưu với nhà tuyển dụng                                        </div>
-                                    </div>                                </div>
+
+                                <div class="exp-content err_cv_content" contenteditable="true"
+                                    cvo-placeholder="Mô tả chi tiết công việc, những gì đạt được trong quá trình làm việc.">
+                                    - Hỗ trợ xây dựng mới nhà cho 1 hộ dân nghèo tại xã<br>- Tổ chức sinh hoạt hè cho
+                                    trẻ em địa phương trong thời gian tham gia tình nguyện.<br> </div>
                             </div>
-                                                <div id="block05" class="cvo-block ui-sortable-handle">
-                                <div class="blockControls">
-                        <div title="Di chuyển khối" class="show-layout-editor"><i class="fa fa-bars"></i></div>
-                        <div title="Chuyển mục này lên trên" class="up">▲</div>
-                        <div title="Chuyển mục này xuống dưới" class="down">▼</div>
-                        <div title="Ẩn mục này" class="hide"><i class="fa fa-minus"></i> Ẩn</div>
-                    </div>                                <p class="head">
-                                    <span id="cvo-experience-blocktitle" class="block-title" cvo-placeholder="Tiêu đề mục lớn" contenteditable="true">THÔNG TIN THÊM</span>
+                        </div>
+                    </div>
+                    <div id="block04" class="cvo-block ui-sortable-handle">
+                        <div class="blockControls">
+                            <div title="Di chuyển khối" class="show-layout-editor"><i class="fa fa-bars"></i></div>
+                            <div title="Chuyển mục này lên trên" class="up">▲</div>
+                            <div title="Chuyển mục này xuống dưới" class="down">▼</div>
+                            <div title="Ẩn mục này" class="hide"><i class="fa fa-minus"></i> Ẩn</div>
+                        </div>
+                        <p class="head">
+                            <span id="cvo-experience-blocktitle" class="block-title" cvo-placeholder="Tiêu đề mục lớn"
+                                contenteditable="true">DỰ ÁN THAM GIA</span>
+                        </p>
+                        <div id="experience-table">
+                            <div id="exp1" class="ctbx experience">
+                                <div class="fieldgroup_controls">
+                                    <div class="clone"><i class="fa fa-plus"></i> Thêm</div>
+                                    <div class="remove"><i class="fa fa-minus"></i> Xóa</div>
+                                </div>
+                                <h3>
+                                    <span class="exp-title err_cv_content" contenteditable="true"
+                                        cvo-placeholder="Tên công ty">Kết nối các nhà tuyển dụng với sinh viên</span>
+                                </h3>
+                                <p class="h3"><span class="exp-subtitle" cvo-placeholder="Vị trí công việc"
+                                        contenteditable="true">Vị trí công việc: Cộng tác viên</span>
                                 </p>
-                                <div id="experience-table">
-                                    <div id="exp1" class="ctbx experience">                                        <div class="fieldgroup_controls">
-                                            <div class="clone"><i class="fa fa-plus"></i> Thêm</div>
-                                            <div class="remove"><i class="fa fa-minus"></i> Xóa</div>
-                                        </div>
-                                                                                    <h3>
-                                                <span class="exp-title err_cv_content" contenteditable="true" cvo-placeholder="Tên công ty">Đại học CV365</span>
-                                                                                            </h3>
-                                                                                                                            <p class="h3"><span class="exp-subtitle" cvo-placeholder="Vị trí công việc" contenteditable="true">Thêm những thông tin khác ( nếu cần )</span>
-                                            </p>
-                                        
-                                        <div class="exp-content" contenteditable="true" cvo-placeholder="Mô tả chi tiết công việc, những gì đạt được trong quá trình làm việc.">
-                                                                                    </div>
-                                    </div>                                </div>
+
+                                <div class="exp-content err_cv_content" contenteditable="true"
+                                    cvo-placeholder="Mô tả chi tiết công việc, những gì đạt được trong quá trình làm việc.">
+                                    - Hỗ trợ sinh viên trong quá trình họ tham dự các buổi giao lưu với nhà tuyển dụng
+                                </div>
                             </div>
-                                    </div>
+                        </div>
+                    </div>
+                    <div id="block05" class="cvo-block ui-sortable-handle">
+                        <div class="blockControls">
+                            <div title="Di chuyển khối" class="show-layout-editor"><i class="fa fa-bars"></i></div>
+                            <div title="Chuyển mục này lên trên" class="up">▲</div>
+                            <div title="Chuyển mục này xuống dưới" class="down">▼</div>
+                            <div title="Ẩn mục này" class="hide"><i class="fa fa-minus"></i> Ẩn</div>
+                        </div>
+                        <p class="head">
+                            <span id="cvo-experience-blocktitle" class="block-title" cvo-placeholder="Tiêu đề mục lớn"
+                                contenteditable="true">THÔNG TIN THÊM</span>
+                        </p>
+                        <div id="experience-table">
+                            <div id="exp1" class="ctbx experience">
+                                <div class="fieldgroup_controls">
+                                    <div class="clone"><i class="fa fa-plus"></i> Thêm</div>
+                                    <div class="remove"><i class="fa fa-minus"></i> Xóa</div>
+                                </div>
+                                <h3>
+                                    <span class="exp-title err_cv_content" contenteditable="true"
+                                        cvo-placeholder="Tên công ty">Đại học CV365</span>
+                                </h3>
+                                <p class="h3"><span class="exp-subtitle" cvo-placeholder="Vị trí công việc"
+                                        contenteditable="true">Thêm những thông tin khác (nếu cần)</span>
+                                </p>
+
+                                <div class="exp-content" contenteditable="true"
+                                    cvo-placeholder="Mô tả chi tiết công việc, những gì đạt được trong quá trình làm việc.">
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
             </div>
 
             <div id="cv-right">
                 <div class="ir">
                     <div id="sortable" class="ui-sortable">
-                        <div id="box01" class="block cvo-block box-contact ui-sortable-handle">                                                                    <h3><span id="cv-boxtitle" cv-form-field="true" contenteditable="true" cvo-placeholder="Tiêu đề" class="box-title">THÔNG TIN LIÊN HỆ</span></h3>
-                                    <p class="icoweb cvi-envelope-square"><span id="cv-profile-email" cvo-placeholder="Email" contenteditable="true">test@gmail.com</span></p>
-                                    <p class="icoweb cvi-phone"><span id="cv-profile-phone" cvo-placeholder="Điện thoại" contenteditable="true"></span></p>
-                                    <p class="icoweb cvi-date"><span id="cv-profile-birthday" cvo-placeholder="Ngày sinh" contenteditable="true">19/05/1992</span></p>
-                                    <p class="icoweb cvi-map-marker"><span id="cv-profile-address" cvo-placeholder="Địa chỉ" contenteditable="true"></span></p>
-                                </div><div id="box02" class="block cvo-block ui-sortable-handle">                                                                    <div class="blockControls">
-                        <div title="Di chuyển khối" class="show-layout-editor"><i class="fa fa-bars"></i></div>
-                        <div title="Chuyển mục này lên trên" class="up">▲</div>
-                        <div title="Chuyển mục này xuống dưới" class="down">▼</div>
-                        <div title="Ẩn mục này" class="hide"><i class="fa fa-minus"></i> Ẩn</div>
-                    </div>                                    <h3>
-                                        <span id="cv-boxtitle" cv-form-field="true" contenteditable="true" cvo-placeholder="Tiêu đề" class="box-title">MỤC TIÊU NGHỀ NGHIỆP</span>
-                                    </h3>
-                                    <p><span class="box-content err_cv_content" cvo-placeholder="Nội dung" contenteditable="true">
-                                            Học hỏi, tích lũy những kiến thức từ quá trình học tập tại trường đại học, tham gia khóa học X- Hunter, hội thảo xu hướng việc làm, quá trình làm việc về ngành Hành chính – Nhân sự nói chung và lĩnh vực tuyển dụng nói riêng.Với những kiến thức đó cộng sự nghiêm túc là hành trang để tôi trở thành Chuyên viên tuyển dụng cống hiến hết sức mình trong công việc.<br>                                        </span></p>
-                        </div><div id="box03" class="block cvo-block box-skills ui-sortable-handle">                                                                    <div class="blockControls">
-                        <div title="Di chuyển khối" class="show-layout-editor"><i class="fa fa-bars"></i></div>
-                        <div title="Chuyển mục này lên trên" class="up">▲</div>
-                        <div title="Chuyển mục này xuống dưới" class="down">▼</div>
-                        <div title="Ẩn mục này" class="hide"><i class="fa fa-minus"></i> Ẩn</div>
-                    </div>                                    <h3><span id="cv-boxtitle" cv-form-field="true" contenteditable="true" cvo-placeholder="Tiêu đề" class="box-title">KỸ NĂNG</span></h3>
-                                    <div class="exp content-edit skill">
-                                                                                    <div class="ctbx">
-                                                <div class="fieldgroup_controls">
-                                                    <div class="clone"><i class="fa fa-plus"></i> Thêm</div>
-                                                    <div class="edit js-edit-content"> Sửa</div>
-                                                    <div class="remove"><i class="fa fa-minus"></i> Xóa</div>
-                                                </div>
-                                                <p class="skill-name" cv-form-field="true" contenteditable="true">Tin học văn phòng</p>
-                                                <div class="bar-exp">
-                                                    <div style="width: 50%"></div>
-                                                </div>
-                                                <div class="bar-value-exp"><input min="0" max="100" type="text" value="50"></div>
-                                            </div>
-                                                                                    <div class="ctbx">
-                                                <div class="fieldgroup_controls">
-                                                    <div class="clone"><i class="fa fa-plus"></i> Thêm</div>
-                                                    <div class="edit js-edit-content"> Sửa</div>
-                                                    <div class="remove"><i class="fa fa-minus"></i> Xóa</div>
-                                                </div>
-                                                <p class="skill-name" cv-form-field="true" contenteditable="true">Tiếng anh giao tiếp</p>
-                                                <div class="bar-exp">
-                                                    <div style="width: 80%"></div>
-                                                </div>
-                                                <div class="bar-value-exp"><input min="0" max="100" type="text" value="80"></div>
-                                            </div>
-                                                                                <div class="clr"></div>
+                        <div id="box01" class="block cvo-block box-contact ui-sortable-handle">
+                            <h3><span id="cv-boxtitle" cv-form-field="true" contenteditable="true"
+                                    cvo-placeholder="Tiêu đề" class="box-title">THÔNG TIN LIÊN HỆ</span></h3>
+                            <p class="icoweb cvi-envelope-square"><span id="cv-profile-email" cvo-placeholder="Email"
+                                    contenteditable="true">test@gmail.com</span></p>
+                            <p class="icoweb cvi-phone"><span id="cv-profile-phone" cvo-placeholder="Điện thoại"
+                                    contenteditable="true"></span></p>
+                            <p class="icoweb cvi-date"><span id="cv-profile-birthday" cvo-placeholder="Ngày sinh"
+                                    contenteditable="true">19/05/1992</span></p>
+                            <p class="icoweb cvi-map-marker"><span id="cv-profile-address" cvo-placeholder="Địa chỉ"
+                                    contenteditable="true"></span></p>
+                        </div>
+                        <div id="box02" class="block cvo-block ui-sortable-handle">
+                            <div class="blockControls">
+                                <div title="Di chuyển khối" class="show-layout-editor"><i class="fa fa-bars"></i></div>
+                                <div title="Chuyển mục này lên trên" class="up">▲</div>
+                                <div title="Chuyển mục này xuống dưới" class="down">▼</div>
+                                <div title="Ẩn mục này" class="hide"><i class="fa fa-minus"></i> Ẩn</div>
+                            </div>
+                            <h3>
+                                <span id="cv-boxtitle" cv-form-field="true" contenteditable="true"
+                                    cvo-placeholder="Tiêu đề" class="box-title">MỤC TIÊU NGHỀ NGHIỆP</span>
+                            </h3>
+                            <p><span class="box-content err_cv_content" cvo-placeholder="Nội dung"
+                                    contenteditable="true">
+                                    Học hỏi, tích lũy những kiến thức từ quá trình học tập tại trường đại học, tham gia
+                                    khóa học X- Hunter, hội thảo xu hướng việc làm, quá trình làm việc về ngành Hành
+                                    chính – Nhân sự nói chung và lĩnh vực tuyển dụng nói riêng.Với những kiến thức đó
+                                    cộng sự nghiêm túc là hành trang để tôi trở thành Chuyên viên tuyển dụng cống hiến
+                                    hết sức mình trong công việc.<br> </span></p>
+                        </div>
+                        <div id="box03" class="block cvo-block box-skills ui-sortable-handle">
+                            <div class="blockControls">
+                                <div title="Di chuyển khối" class="show-layout-editor"><i class="fa fa-bars"></i></div>
+                                <div title="Chuyển mục này lên trên" class="up">▲</div>
+                                <div title="Chuyển mục này xuống dưới" class="down">▼</div>
+                                <div title="Ẩn mục này" class="hide"><i class="fa fa-minus"></i> Ẩn</div>
+                            </div>
+                            <h3><span id="cv-boxtitle" cv-form-field="true" contenteditable="true"
+                                    cvo-placeholder="Tiêu đề" class="box-title">KỸ NĂNG</span></h3>
+                            <div class="exp content-edit skill">
+                                <div class="ctbx">
+                                    <div class="fieldgroup_controls">
+                                        <div class="clone"><i class="fa fa-plus"></i> Thêm</div>
+                                        <div class="edit js-edit-content"> Sửa</div>
+                                        <div class="remove"><i class="fa fa-minus"></i> Xóa</div>
                                     </div>
-                                </div><div id="box04" class="block cvo-block ui-sortable-handle">                                                                    <div class="blockControls">
-                        <div title="Di chuyển khối" class="show-layout-editor"><i class="fa fa-bars"></i></div>
-                        <div title="Chuyển mục này lên trên" class="up">▲</div>
-                        <div title="Chuyển mục này xuống dưới" class="down">▼</div>
-                        <div title="Ẩn mục này" class="hide"><i class="fa fa-minus"></i> Ẩn</div>
-                    </div>                                    <h3>
-                                        <span id="cv-boxtitle" cv-form-field="true" contenteditable="true" cvo-placeholder="Tiêu đề" class="box-title">GIẢI THƯỞNG</span>
-                                    </h3>
-                                    <p><span class="box-content err_cv_content" cvo-placeholder="Nội dung" contenteditable="true">
-                                            - Nhân viên đạt thành tích tốt trong quá trình làm việc quý 2 năm 2018<br>- Giấy khen của Đoàn trường<br>                                        </span></p>
-                        </div><div id="box05" class="block cvo-block ui-sortable-handle">                                                                    <div class="blockControls">
-                        <div title="Di chuyển khối" class="show-layout-editor"><i class="fa fa-bars"></i></div>
-                        <div title="Chuyển mục này lên trên" class="up">▲</div>
-                        <div title="Chuyển mục này xuống dưới" class="down">▼</div>
-                        <div title="Ẩn mục này" class="hide"><i class="fa fa-minus"></i> Ẩn</div>
-                    </div>                                    <h3>
-                                        <span id="cv-boxtitle" cv-form-field="true" contenteditable="true" cvo-placeholder="Tiêu đề" class="box-title">CHỨNG CHỈ</span>
-                                    </h3>
-                                    <p><span class="box-content err_cv_content" cvo-placeholder="Nội dung" contenteditable="true">
-                                            - Chứng chỉ tốt nghiệp khóa học X – Hunter<br>- Chứng chỉ ứng dụng công nghệ thông tin cơ bản<br>- IELTS 5.0<br>                                        </span></p>
-                        </div><div id="box06" class="block cvo-block ui-sortable-handle">                                                                    <div class="blockControls">
-                        <div title="Di chuyển khối" class="show-layout-editor"><i class="fa fa-bars"></i></div>
-                        <div title="Chuyển mục này lên trên" class="up">▲</div>
-                        <div title="Chuyển mục này xuống dưới" class="down">▼</div>
-                        <div title="Ẩn mục này" class="hide"><i class="fa fa-minus"></i> Ẩn</div>
-                    </div>                                    <h3>
-                                        <span id="cv-boxtitle" cv-form-field="true" contenteditable="true" cvo-placeholder="Tiêu đề" class="box-title">SỞ THÍCH</span>
-                                    </h3>
-                                    <p><span class="box-content err_cv_content" cvo-placeholder="Nội dung" contenteditable="true">
-                                            - Nghe nhạc- Xem phim- Đọc sách&nbsp;                                         </span></p>
-                        </div><div id="box07" class="block cvo-block ui-sortable-handle">                                                                    <div class="blockControls">
-                        <div title="Di chuyển khối" class="show-layout-editor"><i class="fa fa-bars"></i></div>
-                        <div title="Chuyển mục này lên trên" class="up">▲</div>
-                        <div title="Chuyển mục này xuống dưới" class="down">▼</div>
-                        <div title="Ẩn mục này" class="hide"><i class="fa fa-minus"></i> Ẩn</div>
-                    </div>                                    <h3>
-                                        <span id="cv-boxtitle" cv-form-field="true" contenteditable="true" cvo-placeholder="Tiêu đề" class="box-title">NGƯỜI THAM CHIẾU</span>
-                                    </h3>
-                                    <p><span class="box-content err_cv_content" cvo-placeholder="Nội dung" contenteditable="true">
-                                            Nguyễn Văn B – PGĐ<br>Công ty CP CV365<br>SĐT: 0123456789                                        </span></p>
-                        </div>                    </div>
+                                    <p class="skill-name" cv-form-field="true" contenteditable="true">Tin học văn phòng
+                                    </p>
+                                    <div class="bar-exp">
+                                        <div style="width: 50%"></div>
+                                    </div>
+                                    <div class="bar-value-exp"><input min="0" max="100" type="text" value="50"></div>
+                                </div>
+                                <div class="ctbx">
+                                    <div class="fieldgroup_controls">
+                                        <div class="clone"><i class="fa fa-plus"></i> Thêm</div>
+                                        <div class="edit js-edit-content"> Sửa</div>
+                                        <div class="remove"><i class="fa fa-minus"></i> Xóa</div>
+                                    </div>
+                                    <p class="skill-name" cv-form-field="true" contenteditable="true">Tiếng anh giao
+                                        tiếp</p>
+                                    <div class="bar-exp">
+                                        <div style="width: 80%"></div>
+                                    </div>
+                                    <div class="bar-value-exp"><input min="0" max="100" type="text" value="80"></div>
+                                </div>
+                                <div class="clr"></div>
+                            </div>
+                        </div>
+                        <div id="box04" class="block cvo-block ui-sortable-handle">
+                            <div class="blockControls">
+                                <div title="Di chuyển khối" class="show-layout-editor"><i class="fa fa-bars"></i></div>
+                                <div title="Chuyển mục này lên trên" class="up">▲</div>
+                                <div title="Chuyển mục này xuống dưới" class="down">▼</div>
+                                <div title="Ẩn mục này" class="hide"><i class="fa fa-minus"></i> Ẩn</div>
+                            </div>
+                            <h3>
+                                <span id="cv-boxtitle" cv-form-field="true" contenteditable="true"
+                                    cvo-placeholder="Tiêu đề" class="box-title">GIẢI THƯỞNG</span>
+                            </h3>
+                            <p><span class="box-content err_cv_content" cvo-placeholder="Nội dung"
+                                    contenteditable="true">
+                                    - Nhân viên đạt thành tích tốt trong quá trình làm việc quý 2 năm 2018<br>- Giấy
+                                    khen của Đoàn trường<br> </span></p>
+                        </div>
+                        <div id="box05" class="block cvo-block ui-sortable-handle">
+                            <div class="blockControls">
+                                <div title="Di chuyển khối" class="show-layout-editor"><i class="fa fa-bars"></i></div>
+                                <div title="Chuyển mục này lên trên" class="up">▲</div>
+                                <div title="Chuyển mục này xuống dưới" class="down">▼</div>
+                                <div title="Ẩn mục này" class="hide"><i class="fa fa-minus"></i> Ẩn</div>
+                            </div>
+                            <h3>
+                                <span id="cv-boxtitle" cv-form-field="true" contenteditable="true"
+                                    cvo-placeholder="Tiêu đề" class="box-title">CHỨNG CHỈ</span>
+                            </h3>
+                            <p><span class="box-content err_cv_content" cvo-placeholder="Nội dung"
+                                    contenteditable="true">
+                                    - Chứng chỉ tốt nghiệp khóa học X – Hunter<br>- Chứng chỉ ứng dụng công nghệ thông
+                                    tin cơ bản<br>- IELTS 5.0<br> </span></p>
+                        </div>
+                        <div id="box06" class="block cvo-block ui-sortable-handle">
+                            <div class="blockControls">
+                                <div title="Di chuyển khối" class="show-layout-editor"><i class="fa fa-bars"></i></div>
+                                <div title="Chuyển mục này lên trên" class="up">▲</div>
+                                <div title="Chuyển mục này xuống dưới" class="down">▼</div>
+                                <div title="Ẩn mục này" class="hide"><i class="fa fa-minus"></i> Ẩn</div>
+                            </div>
+                            <h3>
+                                <span id="cv-boxtitle" cv-form-field="true" contenteditable="true"
+                                    cvo-placeholder="Tiêu đề" class="box-title">SỞ THÍCH</span>
+                            </h3>
+                            <p><span class="box-content err_cv_content" cvo-placeholder="Nội dung"
+                                    contenteditable="true">
+                                    - Nghe nhạc- Xem phim- Đọc sách&nbsp; </span></p>
+                        </div>
+                        <div id="box07" class="block cvo-block ui-sortable-handle">
+                            <div class="blockControls">
+                                <div title="Di chuyển khối" class="show-layout-editor"><i class="fa fa-bars"></i></div>
+                                <div title="Chuyển mục này lên trên" class="up">▲</div>
+                                <div title="Chuyển mục này xuống dưới" class="down">▼</div>
+                                <div title="Ẩn mục này" class="hide"><i class="fa fa-minus"></i> Ẩn</div>
+                            </div>
+                            <h3>
+                                <span id="cv-boxtitle" cv-form-field="true" contenteditable="true"
+                                    cvo-placeholder="Tiêu đề" class="box-title">NGƯỜI THAM CHIẾU</span>
+                            </h3>
+                            <p><span class="box-content err_cv_content" cvo-placeholder="Nội dung"
+                                    contenteditable="true">
+                                    Nguyễn Văn B – PGĐ<br>Công ty CP CV365<br>SĐT: 0123456789 </span></p>
+                        </div>
+                    </div>
                 </div>
             </div>
         </div>
-         <div class="ft"><div class="watermark">© Timviec365.vn</div></div>               
+        <div class="ft">
+            <div class="watermark">© Timviec365.vn</div>
+        </div>
     </div>
 </div>

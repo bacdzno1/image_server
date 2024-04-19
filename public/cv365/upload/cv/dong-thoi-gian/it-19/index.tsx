@@ -750,7 +750,7 @@ const CV = () => {
 												{/* <div class="icon-dot"></div> */}
 												<p className="h3">
 													<span className="exp-subtitle" cvo-placeholder="Vị trí công việc" contentEditable="true">
-														Thêm những thông tin khác ( nếu cần )
+														Thêm những thông tin khác (nếu cần)
 													</span>
 												</p>
 												<div
@@ -758,7 +758,7 @@ const CV = () => {
 													contentEditable="true"
 													cvo-placeholder="Mô tả chi tiết công việc, những gì đạt được trong quá trình làm việc."
 												>
-													Thêm những thông tin khác ( nếu cần ){' '}
+													Thêm những thông tin khác (nếu cần){' '}
 												</div>
 											</div>{' '}
 										</div>

@@ -9,6 +9,7 @@
 }
 
 .cv_page {
+    position: relative;
     padding: 0;
 }
 
@@ -28,10 +29,6 @@
     padding-top: 10px;
 }
 
-#cvo-profile {
-    display: block;
-}
-
 .chu {
     float: right;
     width: 68.5%;
@@ -43,17 +40,15 @@
     text-align: justify;
     float: right;
     position: relative;
-    margin: 16px 16px 0 0;
-    padding-left: 16px;
+    padding: 24px 32px 0 40px;
 }
 
 #cv-content {
     text-align: justify;
-    margin: 16px 0 0 16px;
-    padding-left: 32px;
     position: relative;
     float: left;
-    width: 42%;
+    width: 50%;
+    padding: 24px 40px 0;
 }
 
 #cv-right .ir {
@@ -96,12 +91,47 @@ p.skill-name input {
 
 #cv-top {
     width: 100%;
-    height: 296px;
-    background-image: url(header_background.png);
-    background-size: 100% 100%;
-    background-repeat: no-repeat;
     position: relative;
     overflow: hidden;
+}
+
+#cv-top::before {
+    content: "";
+    display: block;
+    position: absolute;
+    width: 0;
+    height: 0;
+    border-top: 296px solid #fa893e;
+    border-left: 296px solid transparent;
+    top: 0;
+    right: 0;
+}
+
+#cv-top::after {
+    content: "";
+    display: block;
+    position: absolute;
+    width: 0;
+    height: 0;
+    border-top: 148px solid #360015;
+    border-left: 148px solid transparent;
+    top: 0;
+    right: 0;
+}
+
+#cvo-profile {
+    float: left;
+    width: 50%;
+    padding-top: 40px;
+}
+
+#intro {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    float: right;
+    width: 50%;
 }
 
 .all {
@@ -109,45 +139,25 @@ p.skill-name input {
     float: left;
     clear: both;
     width: 100%;
-    background-color: #e3f2ed;
-}
-
-.all::before {
-    content: "";
-    position: absolute;
-    display: block;
-    width: 2px;
-    height: calc(100% - 24px);
-    background-color: #008b7a;
-    top: 24px;
-    left: 25px;
-}
-
-.all::after {
-    content: "";
-    position: absolute;
-    display: block;
-    width: 2px;
-    height: calc(100% - 24px);
-    background-color: #008b7a;
-    top: 24px;
-    left: 372px;
+    background-image: url(all_background_mau1.png);
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    margin-top: 24px;
+    margin-bottom: 16px;
 }
 
 #cv-top h1 {
-    padding: 0;
+    padding: 16px 0 24px 0;
     margin: 0;
     font-size: 32px;
     font-family: "Roboto";
     line-height: 35px;
     text-transform: uppercase;
-    margin-bottom: 0;
-    color: #008b7a;
+    color: #000a51;
     font-weight: bold;
     text-align: left;
     width: 100%;
     float: left;
-    padding-bottom: 5px;
 }
 
 #cv-top h1 span {
@@ -155,11 +165,9 @@ p.skill-name input {
 }
 
 #box-hvt {
-    float: right;
-    width: 54%;
-    padding: 0;
+    float: left;
+    padding: 0 0 56px 56px;
     margin: 0;
-    padding-top: 102px;
 }
 
 #cv-right .cvo-block .head div {
@@ -181,9 +189,8 @@ p.skill-name input {
     width: 100%;
     font-weight: unset;
     font-size: 22px;
-    color: #008b7a;
+    color: #000a51;
     text-align: left;
-    padding-top: 5px;
     float: left;
 }
 
@@ -329,11 +336,10 @@ p.skill-name input {
 
 #cvo-profile-avatar-wraper {
     position: relative;
-    width: 27%;
-    float: left;
+    width: 186px;
+    height: 186px;
     display: table;
-    padding-top: 40px;
-    padding-left: 72px;
+    margin: 40px 0;
 }
 
 #cv-profile-sex::before {
@@ -357,60 +363,34 @@ p.skill-name input {
 }
 
 #cvo-profile-avatar-wraper .wimg {
-    background-color: #8beac7;
-    width: 186px;
-    height: 186px;
+    overflow: hidden;
+    width: 100%;
+    height: 100%;
     float: left;
     display: flex;
     flex-direction: column;
-    border-radius: 4px;
-    /* border: 10px solid #fff; */
-}
-
-.box-dot {
-    display: flex;
-    gap: 4px;
-    align-self: flex-start;
-    justify-content: flex-start;
-    margin: 8px 18px;
-}
-
-.dot-img {
-    background-color: #008b7a;
-    width: 8px;
-    height: 8px;
-    border-radius: 50%;
 }
 
 #cvo-profile-avatar-wraper img {
-    width: 154px;
-    height: 154px;
+    position: relative;
+    width: 100%;
+    height: 100%;
     align-self: center;
     float: left;
-    border: 1px solid #000;
-    border-radius: 8px;
 }
 
-.star-4-wings-big {
+#cvo-profile-avatar-wraper .wimg::before {
+    content: "";
+    display: block;
     position: absolute;
-    width: 52px;
-    height: 52px;
-    background-image: url(star_4_wings.png);
-    background-size: 100% 100%;
-    background-repeat: no-repeat;
-    top: 26px;
-    right: -38px;
-}
-
-.star-4-wings-small {
-    position: absolute;
-    width: 28px;
-    height: 28px;
-    background-image: url(star_4_wings.png);
-    background-size: 100% 100%;
-    background-repeat: no-repeat;
-    top: 108px;
-    left: 34px;
+    width: 0;
+    height: 0;
+    border-top: 93px solid red;
+    border-left: 46.5px solid transparent;
+    top: 0;
+    right: 0;
+    z-index: 1;
+    opacity: 0;
 }
 
 #cvo-profile .box-dm {
@@ -431,14 +411,6 @@ p.skill-name input {
 .box-01 {
     float: left;
     width: 100%;
-    height: 300px;
-}
-
-#cvo-profile {
-    display: block;
-    float: left;
-    width: 100%;
-    height: 255px;
 }
 
 #line-seperate {
@@ -493,7 +465,7 @@ p.skill-name input {
     text-align: left;
     /* padding-left: 10px; */
     float: left;
-    color: #000;
+    color: #fff;
 }
 
 #sortable .ic {
@@ -501,12 +473,9 @@ p.skill-name input {
 }
 
 .ic {
-    width: 100%;
     float: left;
-    color: #000;
+    color: #fff;
     margin: 0;
-    padding-bottom: 8px;
-    /* padding-bottom: 10px; */
 }
 
 #prof [contentEditable="true"] {
@@ -514,8 +483,9 @@ p.skill-name input {
     float: left;
 }
 
-.box-birthday-gender {
+.box-gender-birthday {
     display: flex;
+    gap: 60px;
 }
 
 #prof .icoweb,
@@ -524,9 +494,14 @@ p.skill-name input {
 }
 
 div#prof {
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
     float: left;
     width: 100%;
-    padding: 15px 0px;
+    background-color: #fa893e;
+    background: linear-gradient(to right, #fa893e, #f75f28);
+    padding-left: 56px;
 }
 
 #form-cv .icf1 {
@@ -650,15 +625,13 @@ div#prof {
 }
 
 #cvo-experience-blocktitle {
-    color: #008b7a;
+    color: #510006;
     text-align: left;
     float: left;
     text-transform: uppercase;
     font-weight: bold;
     width: 70%;
     font-size: 18px;
-    margin-top: 15px;
-    padding-bottom: 5px;
     line-height: 35px;
 }
 
@@ -691,7 +664,7 @@ div#experience-table {
     display: block;
     width: 300px;
     height: 1px;
-    background-color: #008b7a;
+    background-color: #10195c;
 }
 
 div#cv-boxtitle {
@@ -701,7 +674,7 @@ div#cv-boxtitle {
     /* text-align: center; */
     float: left;
     width: 100%;
-    color: #008b7a;
+    color: #510006;
     /*display: none;*/
 }
 
@@ -730,35 +703,9 @@ div#cv-boxtitle {
     color: #3f5b66;
 }
 
-.cum::before,
-.ski::before {
-    content: "";
-    position: absolute;
-    display: block;
-    background-color: #008b7a;
-    width: 20px;
-    height: 20px;
-    border-radius: 50%;
-    top: 8px;
-    left: -32px;
-}
-
-.head::after {
-    content: "";
-    position: absolute;
-    display: block;
-    background-color: #008b7a;
-    width: 20px;
-    height: 20px;
-    border-radius: 50%;
-    top: 22px;
-    left: -32px;
-}
-
 div#box01 {
     float: left;
     width: 100%;
-    padding-top: 50px;
 }
 
 .footer {
@@ -777,6 +724,12 @@ div#sort_block {
 .cvo-block .blockControls {
     margin: 0px;
     padding: 0px 5px;
+}
+
+#box02 .box-content {
+    text-align: center;
+    width: 78%;
+    margin-left: 56px;
 }
 
 /*  #block01{
@@ -826,4 +779,24 @@ div#sort_block {
 #cvo-profile-avatar {
     width: 190px;
     height: 190px;
+}
+
+.all-page-1 {
+    height: calc(60% - 40px);
+}
+
+.all-page-2 {
+    height: calc(100% - 40px);
+}
+
+.all-page-3 {
+    height: calc(100% - 40px);
+}
+
+.footer-background {
+    position: absolute;
+    width: 100%;
+    height: 16px;
+    background-color: #fa893e;
+    bottom: 0;
 }

@@ -297,26 +297,6 @@ p.skill-name input {
   overflow: hidden;
 }
 
-#cv-profile-sex::before {
-  color: #000;
-}
-
-#cv-profile-birthday::before {
-  color: #000;
-}
-
-#cv-profile-address::before {
-  color: #000;
-}
-
-#cv-profile-email::before {
-  color: #000;
-}
-
-#cv-profile-phone::before {
-  color: #000;
-}
-
 #cvo-profile-avatar-wraper img {
   width: 226px;
   height: 228px;

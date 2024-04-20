@@ -1,0 +1,23 @@
+#cv-top {
+  background-image: url(header2.png);
+}
+
+#form-cv .icf1,
+#form-cv .icf2,
+#form-cv .icf3,
+#form-cv .icf4,
+#form-cv .icf5 {
+  background-color: #f5ad73;
+}
+
+.cum,
+.ski,
+#cvo-experience-blocktitle {
+  color: #8391e7;
+}
+
+.cum::after,
+.ski::after,
+#cv-content .head::after {
+  background-color: #8391e7;
+}

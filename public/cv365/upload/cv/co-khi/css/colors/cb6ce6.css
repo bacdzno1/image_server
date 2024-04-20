@@ -1,0 +1,25 @@
+#cv-top h1 {
+    background-color: #cb6ce6;
+}
+
+.ic {
+    color: #cb6ce6;
+}
+
+.head::after,
+.cum::after,
+.ski::after {
+    background-color: #cb6ce6;
+}
+
+.right_bar,
+.footer {
+    position: absolute;
+    background-image: url(background_rightside_mau2.png);
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    width: 47px;
+    height: 100%;
+    top: 0;
+    right: 0;
+}

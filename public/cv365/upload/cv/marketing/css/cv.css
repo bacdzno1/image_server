@@ -219,7 +219,7 @@ p.skill-name input {
 }
 
 #cv-content #block01 .exp-date {
-  display: none;
+  /* display: none; */
 }
 
 #cv-content #block03 .exp-date {

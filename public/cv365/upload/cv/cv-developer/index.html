@@ -32,55 +32,84 @@
 
                     <div class="box-01">
 
-                        <div id="box01" class="block cvo-block box-contact ui-sortable-handle">
+                        <div class="sortable ui-sortable">
 
-                            <div class="blockControls" style="display: none;">
+                            <div id="box01" class="block cvo-block box-contact ui-sortable-handle">
 
-                                <div title="Di chuyển khối" class="show-layout-editor">
-                                    <i class="fa fa-bars"></i>
-                                </div>
-                                <div title="Chuyển mục này lên trên" class="up">▲</div>
-                                <div title="Chuyển mục này xuống dưới" class="down">▼</div>
-                                <div title="Ẩn mục này" class="hide">
-                                    <i class="fa fa-minus"></i> Ẩn
-                                </div>
+                                <div class="blockControls" style="display: none;">
 
-                            </div>
-
-                            <!-- <div class="ifoic"></div> -->
-
-                            <div class="tt-box1">
-
-                                <div class="cumicc1"></div>
-
-                                <div id="cv-boxtitle" cv-form-field="true" contenteditable="true"
-                                    cvo-placeholder="Tiêu đề" class="box-title">
-                                    Thông tin liên hệ
-                                </div>
-
-                            </div>
-
-                            <div id="prof">
-
-                                <div class="box-profile box-gender-mail-addr">
-
-                                    <div class="ic">
-                                        <div class="icf1"><i class="fa fa-user"></i></div>
-                                        <div class="icoweb">
-                                            <span id="cv-profile-sex" cvo-placeholder="Giới tính"
-                                                contenteditable="true">
-                                                Nữ
-                                            </span>
-                                        </div>
+                                    <div title="Di chuyển khối" class="show-layout-editor">
+                                        <i class="fa fa-bars"></i>
+                                    </div>
+                                    <div title="Chuyển mục này lên trên" class="up">▲</div>
+                                    <div title="Chuyển mục này xuống dưới" class="down">▼</div>
+                                    <div title="Ẩn mục này" class="hide">
+                                        <i class="fa fa-minus"></i> Ẩn
                                     </div>
 
-                                    <div class="ic">
-                                        <div class="icf4"><i class="fa fa-envelope"></i></div>
-                                        <div class="icoweb">
-                                            <span id="cv-profile-email" cvo-placeholder="Email" contenteditable="true">
-                                                abc@gmail.com
-                                            </span>
+                                </div>
+
+                                <!-- <div class="ifoic"></div> -->
+
+                                <!-- <div class="tt-box1">
+    
+                                    <div class="cumicc1"></div>
+    
+                                    <div id="cv-boxtitle" cv-form-field="true" contenteditable="true"
+                                        cvo-placeholder="Tiêu đề" class="box-title">
+                                        Thông tin liên hệ
+                                    </div>
+    
+                                </div> -->
+
+                                <div id="prof">
+
+                                    <div class="box-profile box-gender-phone">
+
+                                        <div class="ic">
+                                            <div class="icf1"><i class="fa fa-user"></i></div>
+                                            <div class="icoweb">
+                                                <span id="cv-profile-sex" cvo-placeholder="Giới tính"
+                                                    contenteditable="true">
+                                                    Nữ
+                                                </span>
+                                            </div>
                                         </div>
+
+                                        <div class="ic">
+                                            <div class="icf3"><i class="fa "></i></div>
+                                            <div class="icoweb">
+                                                <span id="cv-profile-phone" cvo-placeholder="Điện thoại"
+                                                    contenteditable="true">
+                                                    034 567 8919
+                                                </span>
+                                            </div>
+                                        </div>
+
+                                    </div>
+
+                                    <div class="box-profile box-email-birthday">
+
+                                        <div class="ic">
+                                            <div class="icf4"><i class="fa fa-envelope"></i></div>
+                                            <div class="icoweb">
+                                                <span id="cv-profile-email" cvo-placeholder="Email"
+                                                    contenteditable="true">
+                                                    abc@gmail.com
+                                                </span>
+                                            </div>
+                                        </div>
+
+                                        <div class="ic">
+                                            <div class="icf2"><i class="fa fa-calendar"></i></div>
+                                            <div class="icoweb">
+                                                <span id="cv-profile-birthday" cvo-placeholder="Ngày sinh"
+                                                    contenteditable="true">
+                                                    01/01/1995
+                                                </span>
+                                            </div>
+                                        </div>
+
                                     </div>
 
                                     <div class="ic">
@@ -93,37 +122,14 @@
                                         </div>
                                     </div>
 
-                                </div>
-
-                                <div class="box-profile box-phone-birthday">
-
-                                    <div class="ic">
-                                        <div class="icf3"><i class="fa "></i></div>
-                                        <div class="icoweb">
-                                            <span id="cv-profile-phone" cvo-placeholder="Điện thoại"
-                                                contenteditable="true">
-                                                034 567 8919
-                                            </span>
-                                        </div>
-                                    </div>
-
-                                    <div class="ic">
-                                        <div class="icf2"><i class="fa fa-calendar"></i></div>
-                                        <div class="icoweb">
-                                            <span id="cv-profile-birthday" cvo-placeholder="Ngày sinh"
-                                                contenteditable="true">
-                                                01/01/1995
-                                            </span>
-                                        </div>
-                                    </div>
+                                    <!-- <div class="clr"></div> -->
 
                                 </div>
-
-                                <!-- <div class="clr"></div> -->
 
                             </div>
 
                         </div>
+
 
                         <div id="box-hvt">
                             <!--php UTVT  -->
@@ -325,15 +331,15 @@
                                         <span class="label-text">Vị trí: &nbsp;</span>
                                         <span class="exp-subtitle" cvo-placeholder="Vị trí công việc"
                                             contenteditable="true">
-                                            Thực tập sinh lập trình 
+                                            Thực tập sinh lập trình
                                         </span>
                                     </p>
 
                                     <div class="exp-content err_cv_content" contenteditable="true"
                                         cvo-placeholder="Mô tả chi tiết công việc, những gì đạt được trong quá trình làm việc.">
-                                        - Tìm hiểu PHP, MySQL, HTML, CSS, ... 
+                                        - Tìm hiểu PHP, MySQL, HTML, CSS, ...
                                         <br />
-                                        - Viết Website Thương mại điện tử bằng PHP 
+                                        - Viết Website Thương mại điện tử bằng PHP
                                     </div>
 
                                 </div>
@@ -352,7 +358,7 @@
 
             </div>
 
-            <div class="watermark_js">© Timviec365.vn</div>
+            <div class="watermark_js">© Timviechay.vn</div>
 
         </div>
 
@@ -403,7 +409,7 @@
                                             </div>
 
                                             <p class="skill-name" cv-form-field="true" contenteditable="true">
-                                                - Khả năng làm việc nhóm và độc lâp 
+                                                - Khả năng làm việc nhóm và độc lâp
                                             </p>
 
                                             <div class="bar-exp">
@@ -429,8 +435,8 @@
                                             </div>
 
                                             <p class="skill-name" cv-form-field="true" contenteditable="true">
-                                                - Sử dụng thành thạo các công cụ: HTML, 
-                                                CSS3, Adobe illustrator, Analyst user need, 
+                                                - Sử dụng thành thạo các công cụ: HTML,
+                                                CSS3, Adobe illustrator, Analyst user need,
                                                 Javascript,...
                                             </p>
 
@@ -475,8 +481,8 @@
 
                                     <div class="box-content err_cv_content" cvo-placeholder="Nội dung"
                                         contenteditable="true">
-                                        - Giải nhì cuộc thi "Lập trình viên tài ba" của 
-                                        khoa Công nghệ thông tin - Đại học Bách Khoa 
+                                        - Giải nhì cuộc thi "Lập trình viên tài ba" của
+                                        khoa Công nghệ thông tin - Đại học Bách Khoa
                                         <br />
                                     </div>
 
@@ -509,7 +515,7 @@
                                         <br />
                                         - Chứng chỉ tin học văn phòng
                                         <br />
-                                        - Chứng chỉ Kỹ thuật viên máy tính 
+                                        - Chứng chỉ Kỹ thuật viên máy tính
                                     </div>
 
                                 </div>
@@ -539,7 +545,7 @@
                                         contenteditable="true">
                                         - Đọc sách
                                         <br />
-                                        - Nghe nhạc 
+                                        - Nghe nhạc
                                         <br />
                                     </div>
 
@@ -634,7 +640,7 @@
                                     <h3>
                                         <div class="exp-title err_cv_content" contenteditable="true"
                                             cvo-placeholder="Tên công ty">
-                                            - Hoạt động trong CLB "Lập trình viên" 
+                                            - Hoạt động trong CLB "Lập trình viên"
                                             của trường
                                         </div>
                                     </h3>
@@ -690,7 +696,7 @@
                                     <h3>
                                         <div class="exp-title err_cv_content" contenteditable="true"
                                             cvo-placeholder="Tên công ty">
-                                            Ứng dụng hỗ trợ quản lý nhân viên 
+                                            Ứng dụng hỗ trợ quản lý nhân viên
                                         </div>
                                     </h3>
 
@@ -698,7 +704,7 @@
                                         <span class="label-text">Vai trò: &nbsp;</span>
                                         <span class="exp-subtitle" cvo-placeholder="Vị trí công việc"
                                             contenteditable="true">
-                                            Người lập trình chính cho dự án 
+                                            Người lập trình chính cho dự án
                                         </span>
                                     </p>
 
@@ -707,7 +713,7 @@
                                         <span class="exp-content err_cv_content" contenteditable="true"
                                             cvo-placeholder="Mô tả chi tiết công việc, những gì đạt được trong quá trình làm việc.">
                                             Hoàn thành đúng thời gian dự kiến,
-                                            dự án sau khi bàn giao cho doanh nghiệp đi 
+                                            dự án sau khi bàn giao cho doanh nghiệp đi
                                             vào hoạt động tốt.
                                         </span>
                                     </p>
@@ -778,7 +784,7 @@
 
             </div>
 
-            <div class="watermark_js">© Timviec365.vn</div>
+            <div class="watermark_js">© Timviechay.vn</div>
 
         </div>
 
@@ -848,7 +854,7 @@
                 <!--  -->
             </div>
 
-            <div class="watermark_js">© Timviec365.vn</div>
+            <div class="watermark_js">© Timviechay.vn</div>
 
         </div>
 

@@ -10,6 +10,10 @@
     background-color: #0a68bf;
 }
 
+.all::after {
+    background-color: #0a68bf;
+}
+
 #cv-top h1 {
     color: #0a68bf;
 }

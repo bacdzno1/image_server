@@ -21,3 +21,11 @@
 #cv-content .head::after {
   background-color: #8391e7;
 }
+
+.bar-exp {
+  background: #CED4F9;
+}
+
+.bar-exp div {
+  background: #8391e7;
+}

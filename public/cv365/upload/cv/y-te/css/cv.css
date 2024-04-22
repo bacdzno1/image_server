@@ -53,8 +53,8 @@
   padding: 0;
   position: relative;
   float: left;
-  width: 30.5%;
-  margin-left: 61px;
+  width: 36%;
+  margin-left: 44px;
 }
 
 #cv-right .ir {
@@ -537,7 +537,7 @@ div#prof {
 }
 
 #exp1 .exp-content {
-  margin-top: 15px;
+  /* margin-top: 15px; */
 }
 
 #bg {
@@ -597,8 +597,7 @@ div#cv-boxtitle {
 }
 
 div#box01 {
-  float: right;
-  width: 70%;
+  width: 90%;
 }
 
 div#box01:hover {

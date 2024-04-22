@@ -213,6 +213,7 @@ p.skill-name input {
 #cv-content h3 {
     font-size: 14px;
     line-height: 24px;
+    font-weight: bold;
     text-transform: unset;
     margin: 0px;
     padding: 0px;
@@ -224,7 +225,7 @@ p.skill-name input {
 #cv-content #block01 h3 {
     color: #000000;
     text-transform: uppercase;
-    width: 84%;
+    width: 100%;
 }
 
 #cv-content #block02 h3 {
@@ -257,8 +258,6 @@ p.skill-name input {
 
 #cv-content #block03 h3 {
     color: #000000;
-    font-weight: unset;
-    text-transform: unset;
 }
 
 #cv-content .exp-date {

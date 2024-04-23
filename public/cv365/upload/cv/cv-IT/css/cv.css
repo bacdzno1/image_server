@@ -134,11 +134,16 @@ p.skill-name input {
     letter-spacing: 1px;
 }
 
+.box-introduce-wrapper {
+    display: flex;
+    flex-direction: column;
+}
+
 #box-hvt {
     position: relative;
     /* float: right; */
     width: 70%;
-    padding: 24px 40px 16px 16px;
+    padding: 24px 40px 0px 16px;
     margin: 0;
 }
 

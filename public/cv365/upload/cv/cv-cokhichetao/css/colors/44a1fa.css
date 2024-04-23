@@ -1,0 +1,24 @@
+div#cv-boxtitle,
+#cvo-experience-blocktitle {
+    color: #0005a1;
+}
+
+#cv-top::after {
+    border-top: 148px solid #001136;
+}
+
+#cv-top::before {
+    border-top: 296px solid #44a1fa;
+}
+
+div#prof {
+    background: linear-gradient(to right, #44a1fa, #2ebff8);
+}
+
+.all {
+    background-image: url(all_background_mau2.png);
+}
+
+.footer-background {
+    background-color: #44a1fa;
+}

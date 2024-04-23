@@ -563,6 +563,11 @@ div#prof {
     font-size: 18px;
 }
 
+#form-cv .fa.fa-bars,
+#form-cv .fa.fa-minus {
+    font-size: 12px;
+}
+
 .container {
     width: 100%;
 }

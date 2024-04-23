@@ -137,8 +137,10 @@ p.skill-name input {
     background-color: #5ce1e6;
 }
 
-#cv-top h1 span {
+#cv-top h1 span,
+#cv-top h2 span {
     letter-spacing: 1px;
+    width: 84%;
 }
 
 #box-hvt {
@@ -239,7 +241,7 @@ p.skill-name input {
 }
 
 #cv-content #block04 .exp-subtitle {
-    display: none;
+    /* display: none; */
 }
 
 #cv-content #block03 h3 {
@@ -273,7 +275,7 @@ p.skill-name input {
 #cv-content p.h3 {
     margin: 0px;
     padding: 0px;
-    display: flex;
+    /* display: flex; */
 }
 
 .label-text {
@@ -597,6 +599,11 @@ div#prof {
     font-size: 18px;
 }
 
+#form-cv .fa.fa-bars,
+#form-cv .fa.fa-minus {
+    font-size: 12px;
+}
+
 .container {
     width: 100%;
 }
@@ -831,7 +838,7 @@ div#cv-boxtitle {
 
 div#box01 {
     /* float: left; */
-    width: 100%;
+    width: 60%;
     /* padding-top: 50px; */
 }
 

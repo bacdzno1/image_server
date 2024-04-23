@@ -237,6 +237,10 @@ p.skill-name input {
 }
 
 #cv-content #block04 p.h3 {
+    /* display: none; */
+}
+
+#cv-content #block04 p.h3:nth-child(4) {
     display: none;
 }
 
@@ -279,7 +283,7 @@ p.skill-name input {
 }
 
 #cv-content #block04 .exp-date {
-    display: none;
+    /* display: none; */
 }
 
 #cv-content #block05 .exp-date {
@@ -500,6 +504,7 @@ p.skill-name input {
 }
 
 .ic {
+    display: flex;
     width: 100%;
     float: left;
     color: #000;

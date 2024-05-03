@@ -313,8 +313,8 @@ p.skill-name input {
 }
 
 #cv-content span {
-    display: inline-block;
-    z-index: 9999;
+    display: inline;
+    /* z-index: 9999; */
 }
 
 .ctbx {
@@ -503,7 +503,6 @@ div#prof {
     gap: 8px;
     float: left;
     width: 100%;
-    background-color: #fa893e;
     background: linear-gradient(to right, #fa893e, #f75f28);
     padding-left: 56px;
 }
@@ -604,7 +603,7 @@ div#prof {
     /* line-height: ; */
     float: left;
     width: 100%;
-    list-style: 35px;
+    /* list-style: 35px; */
 }
 
 #experience-table .ctbx {}
@@ -639,12 +638,14 @@ div#prof {
     line-height: 35px;
 }
 
-#exp1 .exp-content {}
+#exp1 .exp-content {
+    display: inline;
+}
 
-#bg {
+/* #bg {
     background: #f58284;
     text-align: left;
-}
+} */
 
 div#experience-table {
     margin-top: 16px;
@@ -662,11 +663,14 @@ div#experience-table {
     color: #3f5b66;
 }
 
-.box-title::after,
-.block-title::after {
+.cum::after,
+.ski::after,
+.head::after {
     content: "";
-    display: block;
-    width: 300px;
+    position: absolute;
+    left: 0;
+    right: 0;
+    bottom: 0;
     height: 1px;
     background-color: #10195c;
 }
@@ -686,25 +690,19 @@ div#cv-boxtitle {
     visibility: hidden;
 }
 
-.ski {
-    padding: 0;
-    margin: 0 auto;
-    height: 35px;
-    width: 100%;
-    float: left;
-    line-height: 35px;
-    color: #3f5b66;
-}
-
-.cum {
+.cum,
+.ski,
+.head {
     position: relative;
+    display: flex;
+    gap: 12px;
+    align-items: center;
     padding: 0;
     margin: 0 auto;
     height: 35px;
     width: 100%;
     float: left;
     line-height: 35px;
-    color: #3f5b66;
 }
 
 div#box01 {
@@ -730,10 +728,15 @@ div#sort_block {
     padding: 0px 5px;
 }
 
+#box02 {
+    position: relative;
+    margin: 0 32px;
+}
+
 #box02 .box-content {
+    margin-bottom: 4px;
     text-align: justify;
-    width: 78%;
-    margin-left: 56px;
+    width: 100%;
 }
 
 /*  #block01{
@@ -771,8 +774,7 @@ div#sort_block {
 .bar-exp div {
     float: left;
     padding: 0px;
-    float: left;
-    width: 98%t;
+    width: 98%;
     height: 5px;
     background: #62747f;
     background-position: right;
@@ -781,8 +783,21 @@ div#sort_block {
 }
 
 #cvo-profile-avatar {
-    width: 190px;
-    height: 190px;
+    width: 231px;
+    height: 230px;
+    clip-path: polygon(25% 0%,
+            /* Điểm trên cùng bên trái */
+            75% 0%,
+            /* Điểm trên cùng bên phải */
+            100% 50%,
+            /* Điểm phải */
+            75% 100%,
+            /* Điểm dưới cùng bên phải */
+            25% 100%,
+            /* Điểm dưới cùng bên trái */
+            0% 50%
+            /* Điểm trái */
+        );
 }
 
 .all-page-1 {
@@ -803,4 +818,22 @@ div#sort_block {
     height: 16px;
     background-color: #fa893e;
     bottom: 0;
+}
+
+#block01 .icright1,
+#block02 .icright2,
+#block03 .icright3,
+#block04 .icright4,
+#block05 .icright5,
+#box03 .cumicc3,
+#box04 .cumicc4,
+#box05 .cumicc5,
+#box06 .cumicc6,
+#box07 .cumicc7 {
+    width: 0;
+    height: 0;
+    border-top: 9px solid transparent;
+    border-left: 9px solid transparent;
+    border-bottom: 9px solid #fa893e;
+    border-right: 9px solid #fa893e;
 }

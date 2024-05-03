@@ -22,3 +22,17 @@ div#prof {
 .footer-background {
   background-color: #35c3b4;
 }
+
+#block01 .icright1,
+#block02 .icright2,
+#block03 .icright3,
+#block04 .icright4,
+#block05 .icright5,
+#box03 .cumicc3,
+#box04 .cumicc4,
+#box05 .cumicc5,
+#box06 .cumicc6,
+#box07 .cumicc7 {
+  border-bottom: 10px solid #35c3b4;
+  border-right: 10px solid #35c3b4;
+}

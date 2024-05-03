@@ -1,5 +1,5 @@
 .page_end {
-    display: none!important;
+    display: none !important;
 }
 
 #cv-title.non-printable {
@@ -74,7 +74,7 @@
 
 div#experience-table {
     clear: both;
-    padding: 0 10px 0 10px;
+    padding: 20px 10px 0 10px;
 }
 
 #cv-main {

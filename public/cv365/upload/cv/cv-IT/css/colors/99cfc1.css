@@ -11,3 +11,11 @@
 .head::after {
     background-color: #99cfc1;
 }
+
+.bar-exp {
+    border: 2px solid #99cfc1;
+}
+
+.bar-exp div {
+    background: #99cfc1;
+}

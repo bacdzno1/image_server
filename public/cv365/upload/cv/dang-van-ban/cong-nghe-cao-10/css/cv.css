@@ -180,7 +180,7 @@ p.skill-name input {
   color: #000;
   font-weight: bold;
   text-align: left;
-  line-height: 20px;
+  line-height: 25px;
   padding-top: 0px;
 }
 
@@ -231,6 +231,7 @@ p.skill-name input {
 
 #cv-content .exp-date {
   float: none;
+  margin-bottom: 10px;
 }
 
 /* #cv-content #block01 .exp-date {
@@ -250,7 +251,7 @@ p.skill-name input {
 } */
 
 #cv-content p.h3 {
-  margin: 0px;
+  margin: 0 0 10px;
   padding: 0px;
 }
 
@@ -272,7 +273,6 @@ p.skill-name input {
 .ctbx {
   margin-bottom: 15px;
   padding-left: 0;
-  padding-right: 0;
   position: relative;
   padding-right: 20px;
 }
@@ -370,16 +370,6 @@ p.skill-name input {
   float: left;
   width: 100%;
   padding-top: 5px;
-}
-
-.bar-exp {
-  background: #564636;
-  height: 10px;
-  float: left;
-  margin-bottom: 0px;
-  padding: 0px;
-  float: left;
-  width: 98%;
 }
 
 .bar-value-exp {
@@ -533,6 +523,7 @@ div#prof {
   /* line-height: ; */
   float: left;
   width: 100%;
+  padding-right: 20px;
 }
 
 #experience-table .ctbx {}
@@ -562,10 +553,9 @@ div#prof {
   float: left;
   text-transform: uppercase;
   font-weight: bold;
-  width: 70%;
+  width: 100%;
   font-size: 18px;
-  margin-top: 15px;
-  padding-bottom: 5px;
+  margin-top: 10px;
 }
 
 #exp1 .exp-content {}
@@ -669,6 +659,9 @@ div#sort_block {
   }
  */
 .bar-exp {
+  margin-bottom: 0;
+  padding: 0;
+  width: 98%;
   border: 2px solid #62747f;
   background: #f0f1f3;
   background-size: 100% 100%;
@@ -682,7 +675,7 @@ div#sort_block {
   padding: 0px;
   float: left;
   width: 98%t;
-  height: 5px;
+  height: 3px;
   background: #62747f;
   background-position: right;
   margin-top: 0px;

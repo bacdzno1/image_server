@@ -5,3 +5,12 @@
 .all {
   background-image: url(body2.png);
 }
+
+.bar-exp {
+  border: 2px solid #ad354b;
+}
+
+.bar-exp div {
+  background: #ad354b;
+
+}

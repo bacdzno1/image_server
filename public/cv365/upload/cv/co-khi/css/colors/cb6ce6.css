@@ -23,3 +23,12 @@
     top: 0;
     right: 0;
 }
+
+
+.bar-exp {
+    border: 2px solid #cb6ce6;
+}
+
+.bar-exp div {
+    background: #cb6ce6;
+}

@@ -9,3 +9,11 @@ div#cv-boxtitle {
 #cvo-experience-blocktitle {
   color: #f69320;
 }
+
+.bar-exp {
+  border: 2px solid #f69320;
+}
+
+.bar-exp div {
+  background: #f69320;
+}

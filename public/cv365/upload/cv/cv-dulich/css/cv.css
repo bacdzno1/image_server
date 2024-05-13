@@ -9,6 +9,7 @@
 }
 
 .cv_page {
+    height: 1122px;
     padding: 0;
 }
 
@@ -20,7 +21,7 @@
 
 #box03 .exp {
     float: left;
-    margin: 0;
+    margin: 12px 0 0;
     width: 100%;
 }
 
@@ -113,6 +114,14 @@ p.skill-name input {
     margin-left: 16px;
 }
 
+.cv_page.height_page .all {
+    max-height: 70%;
+}
+
+.cv_page.page_more .all {
+    max-height: 96%;
+}
+
 .all {
     position: relative;
     float: left;
@@ -148,7 +157,9 @@ p.skill-name input {
     float: left;
 }
 
-#cv-top h1 span {
+#cv-top h1 span,
+#cv-top h2 span {
+    width: 100%;
     letter-spacing: 1px;
 }
 
@@ -222,7 +233,7 @@ p.skill-name input {
     line-height: 24px;
     font-weight: bold;
     text-transform: unset;
-    margin: 0px;
+    margin: 0 0 5px;
     padding: 0px;
     color: #000000;
 }
@@ -230,7 +241,7 @@ p.skill-name input {
 #cv-content #block01 h3 {
     color: #000000;
     text-transform: uppercase;
-    width: 84%;
+    width: 100%;
 }
 
 #cv-content #block02 h3 {
@@ -273,15 +284,15 @@ p.skill-name input {
 }
 
 #cv-content #block04 .exp-date {
-    display: none;
+    /* display: none; */
 }
 
 #cv-content #block05 .exp-date {
-    display: none;
+    /* display: none; */
 }
 
 #cv-content p.h3 {
-    margin: 0px;
+    margin: 0 0 5px;
     padding: 0px;
 }
 
@@ -474,6 +485,10 @@ p.skill-name input {
     float: left;
 }
 
+[contentEditable="true"] {
+    width: 100%;
+}
+
 #prof .icoweb,
 #prof .icoweb span {
     height: auto;
@@ -563,9 +578,13 @@ div#prof {
     font-size: 18px;
 }
 
-#form-cv .fa.fa-bars,
-#form-cv .fa.fa-minus {
+#form-cv .fa.fa-bars {
     font-size: 12px;
+}
+
+#form-cv .fa.fa-minus,
+#form-cv .fa.fa-plus {
+    display: none;
 }
 
 .container {
@@ -609,7 +628,7 @@ div#prof {
 #experience-table .ctbx {
     display: flex;
     flex-direction: column;
-    margin-top: 8px;
+    margin-top: 12px;
 }
 
 .ifo {
@@ -655,10 +674,6 @@ div#experience-table {
     width: 100%;
     float: left;
     color: #000;
-}
-
-.label-text {
-    font-weight: bold;
 }
 
 .tt-box1 {
@@ -770,14 +785,12 @@ div#sort_block {
     }
    */
 .bar-exp {
-    border: 2px solid #62747f;
+    border: 2px solid #ffea2c;
     background: #f0f1f3;
     background-size: 100% 100%;
     height: 5px;
     float: left;
     border-radius: 10px;
-
-    display: none;
 }
 
 .bar-exp div {
@@ -785,8 +798,8 @@ div#sort_block {
     padding: 0px;
     float: left;
     width: 98%t;
-    height: 5px;
-    background: #62747f;
+    height: 3px;
+    background: #ffea2c;
     background-position: right;
     margin-top: 0px;
     border-radius: 10px;

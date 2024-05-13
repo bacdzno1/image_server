@@ -20,7 +20,7 @@
 
 #box03 .exp {
   float: left;
-  width: 90%;
+  width: 100%;
   padding: 10px 0;
 }
 
@@ -52,6 +52,7 @@
 }
 
 #cv-right .ir {
+  width: 100%;
   padding: 0;
   margin: 0;
 }
@@ -64,6 +65,7 @@
 }
 
 #cv-main #cv-right .ir #sortable {
+  width: 100%;
   padding: 0;
   margin: 0;
 }
@@ -99,6 +101,14 @@ p.skill-name input {
   position: relative;
 }
 
+.cv_page.height_page .all {
+  max-height: 64%;
+}
+
+.cv_page.page_more .all {
+  max-height: 96%;
+}
+
 .all {
   float: left;
   clear: both;
@@ -127,7 +137,6 @@ p.skill-name input {
 #cv-top h1 span,
 #cv-top h2 span {
   float: left;
-  width: auto;
 }
 
 #box-hvt {
@@ -222,7 +231,7 @@ p.skill-name input {
 }
 
 #cv-content #block03 .exp-date {
-  display: none;
+  /* display: none; */
 }
 
 #cv-content #block04 .exp-date {
@@ -230,11 +239,11 @@ p.skill-name input {
 }
 
 #cv-content #block05 .exp-date {
-  display: none;
+  /* display: none; */
 }
 
 #cv-content p.h3 {
-  margin: 0px;
+  margin: 0 0 10px;
   padding: 0px;
 }
 
@@ -246,7 +255,7 @@ p.skill-name input {
 }
 
 #cv-content span {
-  display: inline;
+  display: inline-block;
   z-index: 9999;
 }
 
@@ -337,16 +346,6 @@ p.skill-name input {
   padding-top: 5px;
 }
 
-.bar-exp {
-  background: #564636;
-  height: 10px;
-  float: left;
-  margin-bottom: 0px;
-  padding: 0px;
-  float: left;
-  width: 98%;
-}
-
 .bar-value-exp {
   width: 100%;
 }
@@ -368,7 +367,7 @@ p.skill-name input {
 }
 
 .ic .icoweb {
-  width: 85%;
+  width: 100%;
   text-align: left;
   padding-left: 10px;
   float: left;
@@ -618,12 +617,15 @@ div#sort_block {
   }
  */
 .bar-exp {
-  border: 2px solid #62747f;
-  background: #f0f1f3;
+  border: 2px solid #5f6060;
+  background: #fff;
   background-size: 100% 100%;
   height: 5px;
   float: left;
   border-radius: 10px;
+  margin-bottom: 0px;
+  padding: 0px;
+  width: 98%;
 }
 
 .bar-exp div {
@@ -631,8 +633,8 @@ div#sort_block {
   padding: 0px;
   float: left;
   width: 98%t;
-  height: 5px;
-  background: #62747f;
+  height: 3px;
+  background: #5f6060;
   background-position: right;
   margin-top: 0px;
   border-radius: 10px;

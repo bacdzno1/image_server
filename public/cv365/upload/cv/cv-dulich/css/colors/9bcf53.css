@@ -1,3 +1,11 @@
 #cv-top {
     border-top: 16px solid #9bcf53;
 }
+
+.bar-exp {
+    border: 2px solid #9bcf53;
+}
+
+.bar-exp div {
+    background: #9bcf53;
+}

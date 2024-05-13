@@ -57,3 +57,11 @@
 .head::after {
     background-color: #12372a;
 }
+
+.bar-exp {
+    border: 2px solid #12372a;
+}
+
+.bar-exp div {
+    background: #12372a;
+}

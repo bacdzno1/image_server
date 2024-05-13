@@ -9,7 +9,13 @@
 }
 
 .cv_page {
+    height: 1122px;
     padding: 0;
+}
+
+#form-cv .fa.fa-minus,
+#form-cv .fa.fa-plus {
+    display: none;
 }
 
 #sortable .cvo-block .box-content {
@@ -102,6 +108,14 @@ p.skill-name input {
     background-repeat: no-repeat;
     position: relative;
     overflow: hidden;
+}
+
+.cv_page.height_page .all {
+    max-height: 70%;
+}
+
+.cv_page.page_more .all {
+    max-height: 96%;
 }
 
 .all {
@@ -215,11 +229,9 @@ p.skill-name input {
     line-height: 24px;
     font-weight: bold;
     text-transform: unset;
-    margin: 0px;
     padding: 0px;
     color: #000000;
-    padding-top: 10px;
-    margin-bottom: 10px;
+    margin: 8px 0;
 }
 
 #cv-content #block01 h3 {
@@ -241,11 +253,11 @@ p.skill-name input {
 }
 
 #cv-content #block04 p.h3:nth-child(4) {
-    display: none;
+    /* display: none; */
 }
 
 #cv-content #block04 .exp-content {
-    display: none;
+    /* display: none; */
 }
 
 #cv-content #block05 h3 {
@@ -254,7 +266,7 @@ p.skill-name input {
 }
 
 #cv-content #block02 .exp-content {
-    display: none;
+    /* display: none; */
     margin: 0;
     padding: 0;
     padding-left: 0px;
@@ -279,19 +291,15 @@ p.skill-name input {
 }
 
 #cv-content #block03 .exp-date {
-    display: none;
+    /* display: none; */
 }
 
 #cv-content #block04 .exp-date {
     /* display: none; */
 }
 
-#cv-content #block05 .exp-date {
-    display: none;
-}
-
 #cv-content p.h3 {
-    margin: 0px;
+    margin: 0 0 8px;
     padding: 0px;
 }
 
@@ -306,6 +314,7 @@ p.skill-name input {
 }
 
 #cv-content span {
+    width: 100%;
     display: inline-block;
     z-index: 9999;
 }
@@ -465,13 +474,11 @@ p.skill-name input {
     padding: 0px;
     float: left;
     width: 98%;
-
-    display: none;
+    /* display: none; */
 }
 
 .bar-value-exp {
     width: 100%;
-
     display: none;
 }
 
@@ -632,13 +639,19 @@ div#prof {
     list-style: 35px;
 }
 
-#experience-table .ctbx {}
+#experience-table .ctbx {
+    margin-top: 12px;
+}
 
 .ifo {
     margin: 0;
     padding: 0;
     width: 100%;
     height: 30px;
+}
+
+[contentEditable="true"] {
+    width: 100%;
 }
 
 #cv-right h3 {
@@ -659,11 +672,9 @@ div#prof {
     float: left;
     text-transform: uppercase;
     font-weight: bold;
-    width: 70%;
+    width: 100%;
     font-size: 18px;
-    margin-top: 15px;
-    padding-bottom: 5px;
-    line-height: 35px;
+    line-height: 30px;
 }
 
 #exp1 .exp-content {}
@@ -674,7 +685,6 @@ div#prof {
 }
 
 div#experience-table {
-    margin-top: 16px;
     width: 100%;
     float: left;
     color: #000;
@@ -693,7 +703,7 @@ div#experience-table {
 .block-title::after {
     content: "";
     display: block;
-    width: 300px;
+    width: 100%;
     height: 1px;
     background-color: #008b7a;
 }
@@ -719,7 +729,7 @@ div#cv-boxtitle {
     height: 35px;
     width: 100%;
     float: left;
-    line-height: 35px;
+    line-height: 30px;
     color: #3f5b66;
 }
 
@@ -730,33 +740,22 @@ div#cv-boxtitle {
     height: 35px;
     width: 100%;
     float: left;
-    line-height: 35px;
+    line-height: 30px;
     color: #3f5b66;
 }
 
 .cum::before,
-.ski::before {
+.ski::before,
+.head::before {
     content: "";
     position: absolute;
     display: block;
     background-color: #008b7a;
-    width: 20px;
-    height: 20px;
+    width: 18px;
+    height: 18px;
     border-radius: 50%;
-    top: 8px;
-    left: -32px;
-}
-
-.head::after {
-    content: "";
-    position: absolute;
-    display: block;
-    background-color: #008b7a;
-    width: 20px;
-    height: 20px;
-    border-radius: 50%;
-    top: 22px;
-    left: -32px;
+    top: 6px;
+    left: -31px;
 }
 
 div#box01 {
@@ -766,8 +765,6 @@ div#box01 {
 }
 
 .footer {
-    background: url(footer1.png) no-repeat;
-    background-size: 100% 100%;
     height: 60px;
     float: left;
     width: 100%;
@@ -807,7 +804,7 @@ div#sort_block {
     }
    */
 .bar-exp {
-    border: 2px solid #62747f;
+    border: 2px solid #008b7a;
     background: #f0f1f3;
     background-size: 100% 100%;
     height: 5px;
@@ -819,9 +816,9 @@ div#sort_block {
     float: left;
     padding: 0px;
     float: left;
-    width: 98%t;
-    height: 5px;
-    background: #62747f;
+    width: 98%;
+    height: 3px;
+    background: #008b7a;
     background-position: right;
     margin-top: 0px;
     border-radius: 10px;

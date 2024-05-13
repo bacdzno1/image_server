@@ -40,14 +40,19 @@ div#cv-boxtitle {
 }
 
 .cum::before,
-.ski::before {
-  background-color: #d34e00;
-}
-
-.head::after {
+.ski::before,
+.head::before {
   background-color: #d34e00;
 }
 
 #cvo-profile-avatar-wraper .wimg {
   background-color: #ffada9;
+}
+
+.bar-exp {
+  border: 2px solid #d34e00;
+}
+
+.bar-exp div {
+  background: #d34e00;
 }

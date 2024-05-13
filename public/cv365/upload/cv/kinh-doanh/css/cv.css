@@ -131,13 +131,13 @@ p.skill-name input {
 
 #cv-top h1 span,
 #cv-top h2 span {
-  float: right;
-  width: auto;
+  display: flex;
+  justify-content: flex-end;
 }
 
 #box-hvt {
   float: right;
-  width: 40%;
+  width: 52%;
   padding: 0;
   margin: 0;
   margin: 30px 30px 0 0;
@@ -231,19 +231,15 @@ p.skill-name input {
 }
 
 #cv-content #block03 .exp-date {
-  display: none;
+  /* display: none; */
 }
 
 #cv-content #block04 .exp-date {
-  display: none;
-}
-
-#cv-content #block05 .exp-date {
-  display: none;
+  /* display: none; */
 }
 
 #cv-content p.h3 {
-  margin: 0px;
+  margin: 0 0 10px;
   padding: 0px;
 }
 
@@ -255,7 +251,7 @@ p.skill-name input {
 }
 
 #cv-content span {
-  display: inline;
+  display: inline-block;
   z-index: 9999;
 }
 
@@ -343,16 +339,6 @@ p.skill-name input {
   float: left;
   width: 100%;
   padding-top: 5px;
-}
-
-.bar-exp {
-  background: #564636;
-  height: 10px;
-  float: left;
-  margin-bottom: 0px;
-  padding: 0px;
-  float: left;
-  width: 98%;
 }
 
 .bar-value-exp {
@@ -541,7 +527,7 @@ div#prof .ic_group {
   float: left;
   text-transform: uppercase;
   font-weight: bold;
-  width: 70%;
+  width: 100%;
   font-size: 18px;
 }
 
@@ -746,7 +732,10 @@ div#sort_block {
   }
  */
 .bar-exp {
-  border: 2px solid #62747f;
+  margin-bottom: 0px;
+  padding: 0px;
+  width: 98%;
+  border: 2px solid #3d4853;
   background: #f0f1f3;
   background-size: 100% 100%;
   height: 5px;
@@ -759,8 +748,8 @@ div#sort_block {
   padding: 0px;
   float: left;
   width: 98%t;
-  height: 5px;
-  background: #62747f;
+  height: 3px;
+  background: #3d4853;
   background-position: right;
   margin-top: 0px;
   border-radius: 10px;

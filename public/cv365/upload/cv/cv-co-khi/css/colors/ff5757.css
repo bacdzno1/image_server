@@ -1,0 +1,25 @@
+.cv_page {
+    background-image: url(background_rightside_mau3.png);
+}
+
+#cv-top h1 {
+    background-color: #ff5757;
+}
+
+.ic {
+    color: #ff5757;
+}
+
+.head::after,
+.cum::after,
+.ski::after {
+    background-color: #ff5757;
+}
+
+.bar-exp {
+    border: 2px solid #ff5757;
+}
+
+.bar-exp div {
+    background: #ff5757;
+}

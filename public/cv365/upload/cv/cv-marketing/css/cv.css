@@ -1,0 +1,688 @@
+#form-cv {
+  font-family: "Roboto", sans-serif;
+  width: 100%;
+  float: left;
+  position: relative;
+  font-size: 14px;
+  line-height: 24px;
+  color: #000;
+}
+
+.cv_page {
+  padding: 0;
+}
+
+#sortable .cvo-block .box-content {
+  width: 85%;
+  margin: 15px 0 20px 30px;
+  color: #000;
+}
+
+#box03 .exp {
+  float: left;
+  margin-left: 30px;
+  width: 90%;
+  padding: 10px 0;
+}
+
+#cvo-profile {
+  display: block;
+}
+
+.chu {
+  float: right;
+  width: 68.5%;
+  margin-right: 10px;
+}
+
+#cv-content {
+  width: 53%;
+  text-align: justify;
+  float: right;
+  position: relative;
+  padding: 30px 0 0;
+}
+
+.cv_page.page_more #cv-content {
+  padding: 0;
+}
+
+#cv-main {
+  height: 100%;
+  text-align: justify;
+  margin: 0;
+  padding: 0;
+  position: relative;
+  float: left;
+  width: 47%;
+}
+
+#cv-right .ir {
+  width: 100%;
+  padding: 0;
+  margin: 0;
+}
+
+#cv-main #cv-right {
+  padding: 0;
+  margin: 0;
+  float: left;
+  width: 100%;
+}
+
+#cv-main #cv-right .ir #sortable {
+  width: 100%;
+  padding: 0;
+  margin: 0;
+}
+
+#cv-right .ir #sortable .block {
+  width: 100%;
+  padding: 0;
+  margin: 0;
+  float: left;
+  width: 100%;
+  margin-bottom: 12px;
+}
+
+p.skill-name input {
+  color: #fff !important;
+}
+
+#cv-right #box03 .ctbx {
+  width: 100%;
+  padding: 0;
+  margin: 0;
+  border: 0;
+
+  padding-bottom: 5px;
+  float: left;
+}
+
+#cv-top {
+  width: 100%;
+  height: 296px;
+  background-image: url(header.png);
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  position: relative;
+}
+
+.cv_page.height_page .all {
+  max-height: 70%;
+}
+
+.cv_page.page_more .all {
+  max-height: 95%;
+  height: 95%;
+}
+
+.all {
+  float: left;
+  clear: both;
+  width: 100%;
+  background-image: url(background.png);
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+}
+
+#cv-top h1 {
+  padding: 0;
+  margin: 0;
+  font-size: 32px;
+  font-family: "Roboto";
+  line-height: 35px;
+  text-transform: uppercase;
+  margin-bottom: 0;
+  color: #000;
+  font-weight: bold;
+  text-align: left;
+  width: 100%;
+  float: left;
+  padding-bottom: 5px;
+}
+
+#cv-top h1 span,
+#cv-top h2 span {
+  float: left;
+}
+
+#box-hvt {
+  float: right;
+  width: 100%;
+  padding-left: 22px;
+}
+
+#cv-right .cvo-block .head div {
+  color: #fff;
+}
+
+.innertext {
+  margin: 0px;
+  padding: 0px;
+  width: 29%;
+  float: left;
+  color: white;
+}
+
+#cv-top h2 {
+  margin: 0;
+  padding: 0;
+  text-transform: uppercase;
+  width: 100%;
+  font-weight: unset;
+  font-size: 22px;
+  color: #000;
+  text-align: left;
+  padding-top: 5px;
+  float: left;
+}
+
+.box-01 p {
+  overflow: hidden;
+}
+
+#cv-content p {
+  margin-bottom: 5px;
+}
+
+#cv-content .ir a {
+  color: #2ebb2f;
+}
+
+#cv-right h3,
+#cv-content .head {
+  font-size: 20px;
+  text-transform: uppercase;
+  color: #000;
+  font-weight: bold;
+  text-align: left;
+  line-height: 20px;
+  padding-top: 0px;
+}
+
+#cv-content h3 {
+  font-size: 14px;
+  line-height: 24px;
+  font-weight: bold;
+  text-transform: unset;
+  margin: 0px;
+  padding: 0px;
+  color: #000000;
+  padding-top: 10px;
+  margin-bottom: 10px;
+}
+
+#cv-content #block01 h3,
+#cv-content #block02 h3,
+#cv-content #block04 h3,
+#cv-content #block05 h3 {
+  color: #000000;
+}
+
+#cv-content #block02 .exp-content {
+  margin: 0;
+  padding: 0;
+  padding-left: 0px;
+}
+
+#cv-content #block03 h3 {
+  color: #000000;
+  font-weight: unset;
+  text-transform: unset;
+}
+
+#cv-content .exp-date {
+  float: none;
+}
+
+#cv-content #block01 .exp-date {
+  /* display: none; */
+}
+
+#cv-content #block03 .exp-date {
+  /* display: none; */
+}
+
+#cv-content #block04 .exp-date {
+  /* display: none; */
+}
+
+#cv-content #block05 .exp-date {
+  /* display: none; */
+}
+
+#cv-content p.h3 {
+  margin: 0 0 10px;
+  padding: 0px;
+}
+
+#cv-content .cvo-block {
+  float: left;
+  width: 100%;
+  padding: 0;
+  margin-bottom: 12px;
+}
+
+#cv-content span {
+  display: inline-block;
+  z-index: 9999;
+}
+
+.ctbx {
+  margin: 0 0 10px 60px;
+  position: relative;
+  padding-right: 20px;
+}
+
+.ctbx:hover {
+  box-shadow: 0 0 1px #999;
+}
+
+.ctbx:hover .fieldgroup_controls {
+  display: block;
+}
+
+[cvo-form-field] {
+  cursor: text;
+}
+
+#cvo-profile-avatar-wraper {}
+
+#cvo-profile-info {
+  width: 50%;
+  margin-top: 76px;
+  display: flex;
+  gap: 8px;
+  flex-direction: column;
+}
+
+#cv-profile-sex::before {
+  color: #000;
+}
+
+#cv-profile-birthday::before {
+  color: #000;
+}
+
+#cv-profile-address::before {
+  color: #000;
+}
+
+#cv-profile-email::before {
+  color: #000;
+}
+
+#cv-profile-phone::before {
+  color: #000;
+}
+
+#cvo-profile-avatar-wraper .wimg {
+  margin-top: 60px;
+  float: left;
+  border-radius: 50%;
+  overflow: hidden;
+}
+
+#cvo-profile-avatar-wraper img {
+  width: 164px;
+  height: 166px;
+  float: left;
+}
+
+.box-01 {
+  display: flex;
+  float: left;
+  gap: 147px;
+  width: 100%;
+  height: 296px;
+  justify-content: flex-end;
+}
+
+#cvo-profile {
+  display: block;
+  float: left;
+  width: 100%;
+}
+
+#line-seperate {
+  height: 25px;
+}
+
+.ctbx .skill-name {
+  margin: 0px;
+  padding: 0px;
+  color: #000;
+  float: left;
+  width: 94%;
+  padding-top: 5px;
+}
+
+.bar-value-exp {
+  float: left;
+  width: 95%;
+}
+
+.bar-value-exp input[type="text"] {
+  color: #000;
+}
+
+.icoweb label {
+  display: block;
+}
+
+#cv-right .block {
+  position: relative !important;
+  padding: 0;
+  margin: 0;
+}
+
+.ic .icoweb {
+  width: 85%;
+  text-align: left;
+  padding-left: 10px;
+  float: left;
+  color: #000;
+}
+
+#sortable .ic {
+  margin: 0;
+}
+
+.ic {
+  display: flex;
+  align-items: center;
+  width: 100%;
+  float: left;
+  margin: 0;
+  padding-bottom: 10px;
+}
+
+#prof [contentEditable="true"] {
+  width: 100%;
+  float: left;
+}
+
+#prof .icoweb,
+#prof .icoweb span {
+  height: auto;
+}
+
+div#prof {
+  float: left;
+  width: 100%;
+}
+
+div#prof .ic_group {
+  display: flex;
+  gap: 10px;
+}
+
+#form-cv .icf1 {
+  float: left;
+  margin-bottom: 0;
+  width: 25px;
+  line-height: 25px;
+  height: 25px;
+  text-align: left;
+  background: url(user.svg) no-repeat;
+  background-position: left;
+  background-size: 80% 80%;
+}
+
+#form-cv .icf2 {
+  float: left;
+  margin-bottom: 0;
+  width: 25px;
+  line-height: 25px;
+  height: 25px;
+  text-align: left;
+  background: url(birthday.svg) no-repeat;
+  background-position: left;
+  background-size: 80% 80%;
+}
+
+#form-cv .icf3 {
+  float: left;
+  margin-bottom: 0;
+  width: 25px;
+  line-height: 25px;
+  height: 25px;
+  text-align: left;
+  background: url(phone.svg) no-repeat;
+  background-position: left;
+  background-size: 80% 80%;
+}
+
+#form-cv .icf4 {
+  float: left;
+  margin-bottom: 0;
+  width: 25px;
+  line-height: 16px;
+  height: 25px;
+  text-align: left;
+  background: url(address.svg) no-repeat;
+  background-position: left;
+  background-size: 80% 80%;
+}
+
+#form-cv .icf5 {
+  float: left;
+  margin-bottom: 0;
+  width: 25px;
+  line-height: 25px;
+  height: 25px;
+  text-align: left;
+  background: url(email.svg) no-repeat;
+  background-position: left;
+  background-size: 80% 80%;
+}
+
+.icf .fa {
+  font-size: 20px;
+  color: #000;
+  margin: 0;
+}
+
+#form-cv .fa {
+  font-size: 14px;
+}
+
+.container {
+  width: 100%;
+}
+
+.sum {
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  height: 30px;
+}
+
+#cv-right .block {
+  margin-bottom: 10px;
+  position: relative;
+  padding: 0;
+  padding-bottom: 20px;
+}
+
+#cv-content .head {
+  position: relative;
+  padding-left: 60px;
+  margin: 0 auto;
+  height: 35px;
+  float: left;
+  width: 100%;
+  background-image: url(block.png);
+  background-repeat: no-repeat;
+  background-size: 120%;
+}
+
+#cv-content .head::after {
+  position: absolute;
+  content: "";
+  left: -8px;
+  background: url(decor.svg) no-repeat;
+  top: 50%;
+  transform: translateY(-50%);
+  width: 56px;
+  height: 18px;
+}
+
+#experience-table .ctbx {}
+
+.ifo {
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  height: 30px;
+}
+
+#cv-right h3 {
+  width: 100%;
+  height: 30px;
+  margin: 0;
+  color: #ffffff;
+  padding: 0;
+  float: left;
+  line-height: 30px;
+  text-align: center;
+  background: #b82731;
+}
+
+#cvo-experience-blocktitle {
+  color: #fff;
+  text-align: left;
+  float: left;
+  text-transform: uppercase;
+  font-weight: bold;
+  width: 90%;
+  font-size: 18px;
+}
+
+#exp1 .exp-content {}
+
+#bg {
+  background: #f58284;
+  text-align: left;
+}
+
+div#experience-table {
+  margin-top: 10px;
+  width: 100%;
+  float: left;
+  color: #000;
+}
+
+div#cv-boxtitle {
+  font-size: 18px;
+  font-weight: bold;
+  text-transform: uppercase;
+  float: left;
+  width: 100%;
+  /*display: none;*/
+}
+
+.cum,
+.ski,
+.head {
+  position: relative;
+  display: flex;
+  align-items: center;
+  padding-left: 30px;
+  margin: 0 auto;
+  height: 35px;
+  width: 100%;
+  float: left;
+  line-height: 35px;
+  color: #000;
+}
+
+.cum,
+.ski {
+  background-image: url(box.png);
+  background-repeat: no-repeat;
+  background-size: 120%;
+}
+
+div#box01 {
+  float: left;
+  width: 80%;
+}
+
+div#box01:hover {
+  box-shadow: none;
+}
+
+.footer {
+  height: 60px;
+  float: left;
+  width: 100%;
+  background-image: url(footer.png);
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+}
+
+div#sort_block {
+  padding: 0;
+  margin: 0;
+}
+
+div#sort_block [contentEditable="true"] {
+  width: 100%;
+}
+
+.cvo-block .blockControls {
+  margin: 0px;
+  padding: 0px 5px;
+}
+
+/*  #block01{
+  	background: url(bg_03.png)no-repeat;
+  	background-position: right top;
+  }
+  #block02{
+  	background: url(bg_06.png)no-repeat;
+  	background-position: right top;
+  } */
+/*   #box01{
+    background: url(bg_02.png)no-repeat left;
+    background-size: 100%;
+  } */
+/*   #box02{
+    background: url(bg_08.png)no-repeat left;
+  } */
+/* #box04{
+    background: url(bg_10.png)no-repeat left;
+  }
+    #box07{
+    background: url(bg_12.png)no-repeat left;
+    background-size: 100% 100%;
+  }
+ */
+.bar-exp {
+  border: 2px solid #62747f;
+  background: #f0f1f3;
+  background-size: 100% 100%;
+  height: 5px;
+  float: left;
+  border-radius: 10px;
+  width: 95%;
+}
+
+.bar-exp div {
+  float: left;
+  padding: 0px;
+  float: left;
+  width: 98%;
+  height: 3px;
+  background: #62747f;
+  background-position: right;
+  margin-top: 0px;
+  border-radius: 10px;
+}
+
+#cvo-profile-avatar {
+  width: 190px;
+  height: 190px;
+}

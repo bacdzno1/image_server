@@ -9,27 +9,24 @@
 }
 
 .cv_page {
-    padding: 24px 32px 32px !important;
-    background-color: #eeefea;
+    position: relative;
+    padding: 0;
 }
 
 #sortable .cvo-block .box-content {
-    width: 100%;
-    color: #000;
     margin: 0;
-    margin-top: 8px;
-    margin-bottom: 16px;
+    width: 100%;
+    margin-top: 15px;
+    color: #000;
+    margin-bottom: 20px;
 }
 
 #box03 .exp {
     float: left;
     margin: 0;
-    margin-top: 8px;
     width: 100%;
-}
-
-#cvo-profile {
-    display: block;
+    padding-bottom: 30px;
+    padding-top: 10px;
 }
 
 .chu {
@@ -38,27 +35,23 @@
     margin-right: 10px;
 }
 
-#cv-content {
+#cv-main {
     width: 50%;
     text-align: justify;
     float: right;
     position: relative;
-    padding: 0;
-    margin: 0;
-    padding-left: 32px;
+    padding: 24px 32px 0 40px;
 }
 
-#cv-main {
-    text-align: justify;
-    margin: 0;
-    padding: 0;
+#cv-content {
+    /* text-align: justify; */
     position: relative;
     float: left;
     width: 50%;
+    padding: 24px 40px 0;
 }
 
 #cv-right .ir {
-    width: 100%;
     padding: 0;
     margin: 0;
 }
@@ -71,7 +64,6 @@
 }
 
 #cv-main #cv-right .ir #sortable {
-    width: 100%;
     padding: 0;
     margin: 0;
 }
@@ -97,52 +89,79 @@ p.skill-name input {
     float: left;
 }
 
-/* .cv-top-wrapper {
-    width: 100%;
-    height: 240px;
-    background-color: #fff;
-    border-radius: 16px;
-} */
-
 #cv-top {
-    display: flex;
     width: 100%;
-    height: 228px;
     position: relative;
-    background-color: #4454a3;
-    margin-bottom: 16px;
-    border-radius: 16px;
-    /* overflow: hidden; */
+    overflow: hidden;
+}
+
+#cv-top::before {
+    content: "";
+    display: block;
+    position: absolute;
+    width: 0;
+    height: 0;
+    border-top: 296px solid #fa893e;
+    border-left: 296px solid transparent;
+    top: 0;
+    right: 0;
+}
+
+#cv-top::after {
+    content: "";
+    display: block;
+    position: absolute;
+    width: 0;
+    height: 0;
+    border-top: 148px solid #360015;
+    border-left: 148px solid transparent;
+    top: 0;
+    right: 0;
+}
+
+#cvo-profile {
+    float: left;
+    width: 50%;
+    padding-top: 40px;
+}
+
+#intro {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    float: right;
+    width: 50%;
+}
+
+.cv_page.height_page .all {
+    max-height: 64%;
 }
 
 .cv_page.page_more .all {
-    height: 98%;
+    max-height: 96%;
 }
 
 .all {
+    position: relative;
     float: left;
     clear: both;
     width: 100%;
-    background-image: url(all_background.png);
+    background-image: url(all_background_mau1.png);
     background-size: 100% 100%;
     background-repeat: no-repeat;
-    /* background-color: #fff; */
-    padding: 32px 24px 16px 16px;
-    border-radius: 16px;
-}
-
-#all-page-1 {
-    height: 76%;
+    margin-top: 24px;
+    margin-bottom: 16px;
 }
 
 #cv-top h1 {
+    padding: 16px 0 24px 0;
     margin: 0;
-    margin-bottom: 8px;
     font-size: 32px;
     font-family: "Roboto";
     line-height: 35px;
     text-transform: uppercase;
-    color: #fff;
+    color: #000a51;
     font-weight: bold;
     text-align: left;
     width: 100%;
@@ -156,12 +175,9 @@ p.skill-name input {
 }
 
 #box-hvt {
-    position: relative;
-    border: 1px solid #fff;
-    /* float: right; */
-    width: 100%;
+    float: left;
+    padding: 0 0 56px 32px;
     margin: 0;
-    padding: 8px;
 }
 
 #cv-right .cvo-block .head div {
@@ -180,11 +196,10 @@ p.skill-name input {
     margin: 0;
     padding: 0;
     text-transform: uppercase;
-    white-space: nowrap;
-    width: fit-content;
+    width: 100%;
     font-weight: unset;
     font-size: 22px;
-    color: #fff;
+    color: #000a51;
     text-align: left;
     float: left;
 }
@@ -217,9 +232,11 @@ p.skill-name input {
     line-height: 24px;
     font-weight: bold;
     text-transform: unset;
-    margin: 0 0 10px;
+    margin: 0px;
     padding: 0px;
     color: #000000;
+    padding-top: 10px;
+    margin-bottom: 10px;
 }
 
 #cv-content #block01 h3 {
@@ -230,12 +247,18 @@ p.skill-name input {
 
 #cv-content #block02 h3 {
     color: #000000;
-    text-transform: uppercase;
 }
 
 #cv-content #block04 h3 {
     color: #000000;
-    /* text-transform: uppercase; */
+}
+
+#cv-content #block04 p.h3 {
+    /* display: none; */
+}
+
+#cv-content #block04 .exp-content {
+    /* display: none; */
 }
 
 #cv-content #block05 h3 {
@@ -249,27 +272,23 @@ p.skill-name input {
     padding-left: 0px;
 }
 
-#cv-content #block03 .exp-subtitle {
-    /* display: none; */
-}
-
-#cv-content #block04 .exp-subtitle {
-    /* display: none; */
-}
-
 #cv-content #block03 h3 {
     color: #000000;
     font-weight: unset;
     text-transform: unset;
 }
 
-
-
 #cv-content .exp-date {
-    float: left;
+    float: none;
 }
 
 #cv-content #block01 .exp-date {
+    font-weight: bold;
+    /* display: none; */
+}
+
+#cv-content #block02 .exp-date {
+    font-weight: bold;
     /* display: none; */
 }
 
@@ -282,8 +301,8 @@ p.skill-name input {
 }
 
 #cv-content p.h3 {
-    margin: 0 0 10px;
-    padding: 0px;
+    margin: 0 0 10px 0;
+    padding: 0;
 }
 
 #cv-content .cvo-block {
@@ -297,14 +316,14 @@ p.skill-name input {
 }
 
 #cv-content span {
-    display: inline-block;
-    z-index: 9999;
+    /* z-index: 9999; */
 }
 
 .ctbx {
-    margin-bottom: 16px;
-    padding-left: 0;
+    margin-bottom: 10px;
+    padding-left: 4px;
     position: relative;
+    padding-right: 20px;
 }
 
 .ctbx:hover {
@@ -320,26 +339,11 @@ p.skill-name input {
 }
 
 #cvo-profile-avatar-wraper {
-    width: 45%;
-    float: left;
-    display: table;
-    padding: 16px 32px 0 40px;
-}
-
-.box-info-wrapper {
     position: relative;
-    float: right;
-    width: 55%;
-}
-
-.box-info-wrapper::before {
-    content: "";
-    position: absolute;
-    display: block;
-    width: 2px;
-    height: 234px;
-    background-color: #000;
-    top: 16px;
+    /* width: 186px;
+    height: 186px; */
+    display: table;
+    margin: 40px 0;
 }
 
 #cv-profile-sex::before {
@@ -363,45 +367,23 @@ p.skill-name input {
 }
 
 #cvo-profile-avatar-wraper .wimg {
-    position: relative;
+    overflow: hidden;
     width: 100%;
     height: 100%;
-    /* float: left; */
+    float: left;
     display: flex;
-    justify-content: center;
-    align-items: center;
-}
-
-.label-main {
-    position: absolute;
-    width: 32px;
-    height: 64px;
-    background-image: url(label_main.svg);
-    background-size: 100% 100%;
-    background-repeat: no-repeat;
-    top: -24px;
-    left: 16px;
-}
-
-.label-sub {
-    position: absolute;
-    background-image: url(label_sub.svg);
-    background-size: 100% 100%;
-    background-repeat: no-repeat;
-    width: 9px;
-    height: 9px;
-    top: 0px;
-    left: -8px;
+    flex-direction: column;
 }
 
 #cvo-profile-avatar-wraper img {
-    width: 100%;
-    height: auto;
-    border-radius: 16px;
-    /* float: left; */
+    position: relative;
+    /* width: 100%;
+    height: 100%; */
+    align-self: center;
+    float: left;
 }
 
-/* #cvo-profile .box-dm {
+#cvo-profile .box-dm {
     width: 251px;
     height: 255px;
     margin-left: 55px;
@@ -414,26 +396,11 @@ p.skill-name input {
     z-index: 1;
     top: -800px;
     position: absolute;
-} */
+}
 
 .box-01 {
-    display: flex;
-    flex-direction: column;
     float: left;
-    height: 100%;
-    justify-content: flex-end;
-}
-
-#box-introduce {
-    padding-top: 16px;
-}
-
-#cvo-profile {
-    display: block;
-    float: left;
-    width: 55%;
-    height: 100%;
-    padding: 16px 6px 24px 0;
+    width: 100%;
 }
 
 #line-seperate {
@@ -446,11 +413,24 @@ p.skill-name input {
     color: #000;
     float: left;
     width: 100%;
+    padding-top: 5px;
+}
+
+.bar-exp {
+    background: #564636;
+    height: 10px;
+    float: left;
+    margin-bottom: 0px;
+    padding: 0px;
+    float: left;
+    width: 98%;
+    /* display: none; */
 }
 
 .bar-value-exp {
-    display: none;
     width: 100%;
+
+    display: none;
 }
 
 .bar-value-exp input[type="text"] {
@@ -470,10 +450,11 @@ p.skill-name input {
 }
 
 .ic .icoweb {
-    width: 100%;
+    /* width: 85%; */
     text-align: left;
-    padding-left: 10px;
+    /* padding-left: 10px; */
     float: left;
+    color: #fff;
 }
 
 #sortable .ic {
@@ -481,18 +462,20 @@ p.skill-name input {
 }
 
 .ic {
-    width: 100%;
     display: flex;
     float: left;
     color: #fff;
     margin: 0;
-    padding-bottom: 8px;
 }
 
 #prof [contentEditable="true"] {
     width: 100%;
     float: left;
-    color: #fff;
+}
+
+.box-gender-birthday {
+    display: flex;
+    gap: 60px;
 }
 
 #prof .icoweb,
@@ -503,14 +486,11 @@ p.skill-name input {
 div#prof {
     display: flex;
     flex-direction: column;
+    gap: 8px;
+    float: left;
     width: 100%;
-}
-
-.box-gender-phone,
-.box-email-birthday {
-    display: flex;
-    gap: 10px;
-    justify-content: space-between;
+    background: linear-gradient(to right, #fa893e, #f75f28);
+    padding-left: 56px;
 }
 
 #form-cv .icf1 {
@@ -520,9 +500,9 @@ div#prof {
     line-height: 25px;
     height: 25px;
     text-align: left;
-    background: url(ic_01.png) no-repeat;
+    /* background: url(ic_01.png) no-repeat;
     background-position: left;
-    background-size: 100% 100%;
+    background-size: 100% 100%; */
 }
 
 #form-cv .icf2 {
@@ -532,9 +512,9 @@ div#prof {
     line-height: 25px;
     height: 25px;
     text-align: left;
-    background: url(ic_06.png) no-repeat;
+    /* background: url(ic_06.png) no-repeat;
     background-position: left;
-    background-size: 100% 100%;
+    background-size: 100% 100%; */
 }
 
 #form-cv .icf3 {
@@ -544,9 +524,9 @@ div#prof {
     line-height: 25px;
     height: 25px;
     text-align: left;
-    background: url(ic_03.png) no-repeat;
+    /* background: url(ic_03.png) no-repeat;
     background-position: left;
-    background-size: 100% 100%;
+    background-size: 100% 100%; */
 }
 
 #form-cv .icf4 {
@@ -556,9 +536,9 @@ div#prof {
     line-height: 16px;
     height: 25px;
     text-align: left;
-    background: url(ic_10.png) no-repeat;
+    /* background: url(ic_10.png) no-repeat;
     background-position: left;
-    background-size: 100% 100%;
+    background-size: 100% 100%; */
     margin-top: 5px;
 }
 
@@ -569,9 +549,9 @@ div#prof {
     line-height: 25px;
     height: 25px;
     text-align: left;
-    background: url(ic_12.png) no-repeat;
+    /* background: url(ic_12.png) no-repeat;
     background-position: left;
-    background-size: 100% 100%;
+    background-size: 100% 100%; */
 }
 
 .icf .fa {
@@ -581,12 +561,7 @@ div#prof {
 }
 
 #form-cv .fa {
-    font-size: 18px;
-}
-
-#form-cv .fa.fa-bars,
-#form-cv .fa.fa-minus {
-    font-size: 12px;
+    font-size: 14px;
 }
 
 .container {
@@ -608,73 +583,16 @@ div#prof {
 }
 
 #cv-content .head {
-    display: flex;
-    align-items: center;
-    position: relative;
     padding: 0;
     margin: 0 auto;
     height: 35px;
+    /* line-height: ; */
     float: left;
     width: 100%;
+    /* list-style: 35px; */
 }
 
-.head::after,
-.cum::after,
-.ski::after {
-    content: "";
-    position: absolute;
-    display: block;
-    width: 50%;
-    height: 2px;
-    background-color: #000;
-    bottom: 0;
-}
-
-/* .icright1 {
-    width: 24px;
-    height: 24px;
-    background-image: url(trinhDoHocVanIcon.svg);
-    background-size: 100% 100%;
-    background-repeat: no-repeat;
-}
-
-.icright2 {
-    width: 24px;
-    height: 24px;
-    background-image: url(kinhNghiemLamViecIcon.svg);
-    background-size: 100% 100%;
-    background-repeat: no-repeat;
-}
-
-.icright3 {
-    width: 24px;
-    height: 24px;
-    background-image: url(hoatDongIcon.svg);
-    background-size: 100% 100%;
-    background-repeat: no-repeat;
-}
-
-.icright4 {
-    width: 24px;
-    height: 24px;
-    background-image: url(duAnThamGiaIcon.svg);
-    background-size: 100% 100%;
-    background-repeat: no-repeat;
-}
-
-.icright5 {
-    width: 24px;
-    height: 24px;
-    background-image: url(thongTinThemIcon.svg);
-    background-size: 100% 100%;
-    background-repeat: no-repeat;
-} */
-
-#experience-table .ctbx {
-    display: flex;
-    flex-direction: column;
-    margin-top: 8px;
-}
+#experience-table .ctbx {}
 
 .ifo {
     margin: 0;
@@ -696,23 +614,23 @@ div#prof {
 }
 
 #cvo-experience-blocktitle {
-    color: #4454a3;
+    color: #510006;
+    text-align: left;
     float: left;
     text-transform: uppercase;
     font-weight: bold;
     width: 100%;
     font-size: 18px;
+    line-height: 35px;
 }
 
-#exp1 .exp-content {}
-
-#bg {
+/* #bg {
     background: #f58284;
     text-align: left;
-}
+} */
 
 div#experience-table {
-    margin: 0px;
+    margin-top: 16px;
     width: 100%;
     float: left;
     color: #000;
@@ -725,25 +643,41 @@ div#experience-table {
     float: left;
     line-height: 35px;
     color: #3f5b66;
+}
 
-    /* display: none; */
+.cum::after,
+.ski::after,
+.head::after {
+    content: "";
+    position: absolute;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    height: 1px;
+    background-color: #10195c;
 }
 
 div#cv-boxtitle {
-    /* display: flex;
-    align-items: center;
-    gap: 8px; */
     font-size: 18px;
     font-weight: bold;
     text-transform: uppercase;
+    /* text-align: center; */
+    float: left;
     width: 100%;
-    color: #4454a3;
+    color: #510006;
     /*display: none;*/
 }
 
-.ski {
+.tt-box1-title {
+    visibility: hidden;
+}
+
+.cum,
+.ski,
+.head {
     position: relative;
     display: flex;
+    gap: 12px;
     align-items: center;
     padding: 0;
     margin: 0 auto;
@@ -751,80 +685,9 @@ div#cv-boxtitle {
     width: 100%;
     float: left;
     line-height: 35px;
-    color: #000;
 }
-
-.cum {
-    position: relative;
-    display: flex;
-    align-items: center;
-    padding: 0;
-    margin: 0 auto;
-    height: 35px;
-    width: 100%;
-    float: left;
-    line-height: 35px;
-    color: #000;
-}
-
-/* .cumicc2 {
-    width: 24px;
-    height: 24px;
-    background-image: url(mucTieuNgheNghiepIcon.svg);
-    background-size: 100% 100%;
-    background-repeat: no-repeat;
-}
-
-.cumicc3 {
-    width: 24px;
-    height: 24px;
-    background-image: url(kyNangIcon.svg);
-    background-size: 100% 100%;
-    background-repeat: no-repeat;
-}
-
-.cumicc4 {
-    width: 24px;
-    height: 24px;
-    background-image: url(giaiThuongIcon.svg);
-    background-size: 100% 100%;
-    background-repeat: no-repeat;
-}
-
-.cumicc5 {
-    width: 24px;
-    height: 24px;
-    background-image: url(chungChiIcon.svg);
-    background-size: 100% 100%;
-    background-repeat: no-repeat;
-}
-
-.cumicc6 {
-    width: 24px;
-    height: 24px;
-    background-image: url(soThichIcon.svg);
-    background-size: 100% 100%;
-    background-repeat: no-repeat;
-}
-
-.cumicc7 {
-    width: 24px;
-    height: 24px;
-    background-image: url(nguoiThamChieuIcon.svg);
-    background-size: 100% 100%;
-    background-repeat: no-repeat;
-} */
 
 div#box01 {
-    /* float: left; */
-    width: 100%;
-    /* padding-top: 50px; */
-}
-
-.footer {
-    background: url(footer1.png) no-repeat;
-    background-size: 100% 100%;
-    height: 60px;
     float: left;
     width: 100%;
 }
@@ -837,6 +700,18 @@ div#sort_block {
 .cvo-block .blockControls {
     margin: 0px;
     padding: 0px 5px;
+}
+
+#box02 {
+    width: 330px;
+    position: relative;
+    margin: 0 32px;
+}
+
+#box02 .box-content {
+    margin-bottom: 2px;
+    text-align: justify;
+    width: 100%;
 }
 
 /*  #block01{
@@ -863,30 +738,76 @@ div#sort_block {
     }
    */
 .bar-exp {
-    border: 2px solid #4454a3;
+    border: 2px solid #fa893e;
     background: #f0f1f3;
     background-size: 100% 100%;
     height: 5px;
     float: left;
     border-radius: 10px;
-    width: 98%;
-    margin-bottom: 0px;
-    padding: 0px;
 }
 
 .bar-exp div {
     float: left;
     padding: 0px;
-    float: left;
-    width: 98%t;
+    width: 98%;
     height: 3px;
-    background: #4454a3;
+    background: #fa893e;
     background-position: right;
     margin-top: 0px;
     border-radius: 10px;
 }
 
 #cvo-profile-avatar {
-    width: 190px;
-    height: 190px;
+    width: 231px;
+    height: 200px;
+    clip-path: polygon(25% 0%,
+            /* Điểm trên cùng bên trái */
+            75% 0%,
+            /* Điểm trên cùng bên phải */
+            100% 50%,
+            /* Điểm phải */
+            75% 100%,
+            /* Điểm dưới cùng bên phải */
+            25% 100%,
+            /* Điểm dưới cùng bên trái */
+            0% 50%
+            /* Điểm trái */
+        );
+}
+
+.footer,
+.footer-background {
+    position: absolute;
+    width: 100%;
+    height: 16px;
+    background-color: #fa893e;
+    bottom: 0;
+}
+
+#form-cv .fa.fa-minus,
+#form-cv .fa.fa-plus {
+    display: none;
+}
+
+#block01 .icright1,
+#block02 .icright2,
+#block03 .icright3,
+#block04 .icright4,
+#block05 .icright5,
+#box03 .cumicc3,
+#box04 .cumicc4,
+#box05 .cumicc5,
+#box06 .cumicc6,
+#box07 .cumicc7 {
+    width: 0;
+    height: 0;
+    border-top: 9px solid transparent;
+    border-left: 9px solid transparent;
+    border-bottom: 9px solid #fa893e;
+    border-right: 9px solid #fa893e;
+}
+
+.watermark_js {
+    bottom: -6px;
+    z-index: 1;
 }

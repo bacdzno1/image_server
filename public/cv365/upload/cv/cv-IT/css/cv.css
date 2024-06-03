@@ -9,7 +9,6 @@
 }
 
 .cv_page {
-    height: 1122px;
     padding: 0;
 }
 
@@ -109,11 +108,11 @@ p.skill-name input {
 }
 
 .cv_page .all {
-    max-height: 72%;
+    max-height: 70%;
 }
 
 .cv_page.height_page .all {
-    max-height: 72%;
+    max-height: 70%;
 }
 
 .cv_page.page_more .all {
@@ -193,7 +192,7 @@ p.skill-name input {
 }
 
 #cv-content p {
-    margin-bottom: 5px;
+    margin-bottom: 10px;
 }
 
 #cv-content .ir a {
@@ -216,7 +215,7 @@ p.skill-name input {
     line-height: 24px;
     font-weight: bold;
     text-transform: unset;
-    margin: 0px 0 5px;
+    margin: 0px 0 10px;
     padding: 0px;
     color: #000000;
 }
@@ -830,7 +829,7 @@ div#box01 {
 }
 
 .footer {
-    height: 60px;
+    height: 26px;
     float: left;
     width: 100%;
 }

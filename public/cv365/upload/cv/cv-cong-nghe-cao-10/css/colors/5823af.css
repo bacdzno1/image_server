@@ -1,0 +1,43 @@
+#cv-top h1 {
+  color: #5823af;
+}
+
+#cv-top {
+  background-image: url(hd2.png);
+}
+
+.all {
+  background-image: url(main2.png);
+}
+
+.tt-box1 {
+  color: #5823af;
+}
+
+.cum {
+  color: #5823af;
+}
+
+.ski {
+  color: #5823af;
+}
+
+#cvo-experience-blocktitle {
+  color: #5823af;
+}
+
+.footer {
+  background: url(footer2.png) no-repeat;
+}
+
+.bar-exp {
+  border: 2px solid #834fcc;
+}
+
+.bar-exp div {
+  background: #5823af;
+}
+
+#cvo-profile .box-dm {
+  background: url(avata2.png) no-repeat;
+}

@@ -17,3 +17,7 @@ div#cv-boxtitle {
 .bar-exp div {
     background: #ac4664;
 }
+
+.cv_page::after {
+    background-color: #ac4664;
+}

@@ -45,16 +45,16 @@
     padding: 0;
     margin: 0;
     padding-left: 24px;
+    margin-bottom: 24px;
 }
 
 #cv-main {
     text-align: justify;
-    margin: 0;
     padding: 0;
     position: relative;
     float: left;
     width: 48%;
-    padding-right: 32px;
+    padding: 0 32px 24px 0;
 }
 
 #cv-right .ir {
@@ -71,6 +71,7 @@
 }
 
 #cv-main #cv-right .ir #sortable {
+    width: 100%;
     padding: 0;
     margin: 0;
 }
@@ -107,16 +108,12 @@ p.skill-name input {
     /* overflow: hidden; */
 }
 
-.cv_page .all {
-    max-height: 70%;
-}
-
 .cv_page.height_page .all {
-    max-height: 70%;
+    height: 75.7%;
 }
 
 .cv_page.page_more .all {
-    max-height: 96%;
+    height: 100%;
 }
 
 .all {

@@ -78,7 +78,7 @@ div#experience-table {
 }
 
 #cv-main {
-    margin: 0;
+    margin-bottom: 24px;
     padding: 0;
     width: 100%;
     text-align: justify;

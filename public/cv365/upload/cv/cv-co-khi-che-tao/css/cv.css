@@ -52,6 +52,7 @@
 }
 
 #cv-right .ir {
+    width: 100%;
     padding: 0;
     margin: 0;
 }
@@ -135,11 +136,11 @@ p.skill-name input {
 }
 
 .cv_page.height_page .all {
-    max-height: 64%;
+    height: 62%;
 }
 
 .cv_page.page_more .all {
-    max-height: 96%;
+    height: 100%;
 }
 
 .all {
@@ -368,11 +369,25 @@ p.skill-name input {
 
 #cvo-profile-avatar-wraper .wimg {
     overflow: hidden;
-    width: 100%;
-    height: 100%;
+    width: 231px;
+    height: 200px;
     float: left;
     display: flex;
+    justify-content: center;
     flex-direction: column;
+    clip-path: polygon(25% 0%,
+            /* Điểm trên cùng bên trái */
+            75% 0%,
+            /* Điểm trên cùng bên phải */
+            100% 50%,
+            /* Điểm phải */
+            75% 100%,
+            /* Điểm dưới cùng bên phải */
+            25% 100%,
+            /* Điểm dưới cùng bên trái */
+            0% 50%
+            /* Điểm trái */
+        );
 }
 
 #cvo-profile-avatar-wraper img {
@@ -758,21 +773,8 @@ div#sort_block {
 }
 
 #cvo-profile-avatar {
-    width: 231px;
-    height: 200px;
-    clip-path: polygon(25% 0%,
-            /* Điểm trên cùng bên trái */
-            75% 0%,
-            /* Điểm trên cùng bên phải */
-            100% 50%,
-            /* Điểm phải */
-            75% 100%,
-            /* Điểm dưới cùng bên phải */
-            25% 100%,
-            /* Điểm dưới cùng bên trái */
-            0% 50%
-            /* Điểm trái */
-        );
+    width: 100%;
+    height: auto;
 }
 
 .footer,
@@ -781,7 +783,7 @@ div#sort_block {
     width: 100%;
     height: 16px;
     background-color: #fa893e;
-    bottom: 0;
+    bottom: 6px;
 }
 
 #form-cv .fa.fa-minus,
@@ -808,6 +810,5 @@ div#sort_block {
 }
 
 .watermark_js {
-    bottom: -6px;
     z-index: 1;
 }

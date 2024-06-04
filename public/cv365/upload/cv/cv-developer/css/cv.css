@@ -120,6 +120,8 @@ p.skill-name input {
 }
 
 .all {
+    z-index: 1;
+    position: relative;
     float: left;
     clear: both;
     width: 100%;
@@ -131,8 +133,20 @@ p.skill-name input {
     border-radius: 16px;
 }
 
+.cv_page::after {
+    content: "";
+    position: absolute;
+    bottom: 46px;
+    left: 32px;
+    right: 32px;
+    height: 24px;
+    background-color: #4454a3;
+    border-bottom-left-radius: 18px;
+    border-bottom-right-radius: 18px;
+}
+
 #all-page-1 {
-    height: 76%;
+    height: 75%;
 }
 
 #cv-top h1 {
@@ -819,14 +833,6 @@ div#box01 {
     /* float: left; */
     width: 100%;
     /* padding-top: 50px; */
-}
-
-.footer {
-    background: url(footer1.png) no-repeat;
-    background-size: 100% 100%;
-    height: 60px;
-    float: left;
-    width: 100%;
 }
 
 div#sort_block {

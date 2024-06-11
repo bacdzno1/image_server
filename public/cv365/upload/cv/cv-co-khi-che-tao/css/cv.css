@@ -136,7 +136,7 @@ p.skill-name input {
 }
 
 .cv_page.height_page .all {
-    height: 62%;
+    height: 70%;
 }
 
 .cv_page.page_more .all {
@@ -151,7 +151,6 @@ p.skill-name input {
     background-image: url(all_background_mau1.png);
     background-size: 100% 100%;
     background-repeat: no-repeat;
-    margin-top: 24px;
     margin-bottom: 16px;
 }
 

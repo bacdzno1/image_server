@@ -41,6 +41,7 @@
   float: right;
   position: relative;
   padding: 30px 0 0;
+  margin-bottom: 24px;
 }
 
 .cv_page.page_more #cv-content {
@@ -48,13 +49,13 @@
 }
 
 #cv-main {
-  height: 100%;
   text-align: justify;
   margin: 0;
   padding: 0;
   position: relative;
   float: left;
   width: 47%;
+  margin-bottom: 24px;
 }
 
 #cv-right .ir {
@@ -109,19 +110,19 @@ p.skill-name input {
 }
 
 .cv_page.height_page .all {
-  max-height: 70%;
+  height: 73.7%;
 }
 
 .cv_page.page_more .all {
-  max-height: 95%;
-  height: 95%;
+  height: 100%;
 }
 
 .all {
+  padding-top: 20px;
   float: left;
   clear: both;
   width: 100%;
-  background-image: url(background.png);
+  background-image: url(main.png);
   background-size: 100% 100%;
   background-repeat: no-repeat;
 }
@@ -612,15 +613,6 @@ div#box01 {
 
 div#box01:hover {
   box-shadow: none;
-}
-
-.footer {
-  height: 60px;
-  float: left;
-  width: 100%;
-  background-image: url(footer.png);
-  background-repeat: no-repeat;
-  background-size: 100% 100%;
 }
 
 div#sort_block {

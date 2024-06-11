@@ -40,11 +40,13 @@
   float: right;
   position: relative;
   padding: 0;
+  margin-bottom: 24px;
 }
 
 #cv-main {
   text-align: justify;
   margin-left: 32px;
+  margin-bottom: 24px;
   padding: 0;
   position: relative;
   float: left;
@@ -102,15 +104,15 @@ p.skill-name input {
 }
 
 .cv_page.height_page .all {
-  max-height: 70%;
+  height: 71%;
 }
 
 .cv_page.page_more .all {
-  max-height: 96%;
+  height: 97%;
 }
 
 .all {
-  margin-top: 24px;
+  padding-top: 24px;
   float: left;
   clear: both;
   width: 100%;
@@ -667,5 +669,6 @@ div#sort_block {
 }
 
 .watermark_js {
+  bottom: 6px;
   height: 20px;
 }

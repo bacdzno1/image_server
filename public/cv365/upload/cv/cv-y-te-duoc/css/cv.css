@@ -189,7 +189,7 @@ p.skill-name input {
   color: #000;
   font-weight: bold;
   text-align: left;
-  line-height: 20px;
+  line-height: 30px;
   padding-top: 0px;
 }
 
@@ -504,8 +504,6 @@ div#prof {
   align-items: center;
   padding: 0;
   margin: 0 auto;
-  height: 35px;
-  /* line-height: ; */
   float: left;
   width: 100%;
 }

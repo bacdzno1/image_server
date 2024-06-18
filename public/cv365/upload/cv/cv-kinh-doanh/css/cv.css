@@ -78,9 +78,9 @@
 
 #cv-right .ir #sortable .block {
   padding: 0;
-  margin: 0;
   float: left;
   width: 100%;
+  margin-top: 0 !important;
   margin-bottom: 12px;
 }
 
@@ -321,6 +321,10 @@ p.skill-name input {
   float: left;
   width: 100%;
   height: 300px;
+}
+
+.box-01 #sortable {
+  width: 40%;
 }
 
 #cvo-profile {

@@ -152,7 +152,6 @@ p.skill-name input {
 #box-hvt {
     display: flex;
     justify-content: center;
-    align-items: center;
     height: 84px;
     position: relative;
     float: right;
@@ -175,11 +174,13 @@ p.skill-name input {
 }
 
 #cv-top h2 {
+    display: flex;
     z-index: 1;
     position: absolute;
     background-color: #eab2a7;
-    bottom: -14px;
+    top: 48px;
     left: 50%;
+    height: 57px;
     transform: translateX(-50%);
     margin: 0;
     padding: 0;
@@ -190,6 +191,7 @@ p.skill-name input {
     text-align: left;
     padding-top: 5px;
     float: left;
+    align-items: center;
 }
 
 .box-01 p {

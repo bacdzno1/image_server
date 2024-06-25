@@ -628,6 +628,14 @@ div#cv-boxtitle {
   background-position-y: 4px;
 }
 
+.cumicc4 {
+  width: 30px;
+  background: url(giaithuong.svg) center no-repeat;
+  background-size: 100% 90%;
+  height: 25px;
+  background-position-y: 4px;
+}
+
 
 .cumicc5 {
   width: 30px;

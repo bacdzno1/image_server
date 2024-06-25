@@ -1,0 +1,24 @@
+.cv_page {
+    padding: 0;
+    background: url(bg2.svg) no-repeat;
+}
+
+#cv-content .head {
+    background: #f5efbb;
+}
+
+
+
+.cumicc-container::after,
+.skic::after {
+    background-color: #5f5c5c;
+}
+
+.cumicc-container,
+.skic {
+    background: #b3c78f;
+}
+
+.page_more{
+    background: none;
+}

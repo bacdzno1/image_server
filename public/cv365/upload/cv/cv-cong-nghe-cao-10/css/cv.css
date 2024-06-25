@@ -108,7 +108,7 @@ p.skill-name input {
 }
 
 .cv_page.page_more .all {
-  height: 100%;
+  height: 94.6%;
 }
 
 .all {
@@ -274,6 +274,11 @@ p.skill-name input {
 
 #cv-content .ir .cvo-block {
   padding: 0;
+}
+
+#cv-content .cvo-block#block01 {
+  padding: 12px 0 12px 32px !important;
+  background-color: #e9ecef;
 }
 
 #cv-content span {

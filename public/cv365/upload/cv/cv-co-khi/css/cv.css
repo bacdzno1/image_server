@@ -21,7 +21,6 @@
     color: #000;
     margin: 0;
     margin-top: 8px;
-    margin-bottom: 16px;
 }
 
 #box03 .exp {
@@ -81,7 +80,7 @@
 
 #cv-right .ir #sortable .block {
     padding: 0;
-    margin: 0;
+    margin: 0 0 16px;
     float: left;
     width: 100%;
 }
@@ -95,8 +94,6 @@ p.skill-name input {
     padding: 0;
     margin: 0;
     border: 0;
-
-    padding-bottom: 5px;
     float: left;
 }
 

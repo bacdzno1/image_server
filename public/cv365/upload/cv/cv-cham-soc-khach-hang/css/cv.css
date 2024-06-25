@@ -18,7 +18,6 @@
   width: 80%;
   margin-top: 15px;
   color: #000;
-  /* margin-bottom: 20px; */
 }
 
 #box03 .exp {
@@ -32,61 +31,6 @@
   display: block;
 }
 
-/* #box04-left {
-  width: 100%;
-} */
-
-/* #box04-left .cvo-block .blockControls {
-  margin: 0px;
-  padding: 0px 5px;
-  font-family: arial, sans-serif;
-  position: absolute;
-  width: 100%;
-  z-index: 998;
-  height: 36px;
-  top: -36px;
-  left: 0;
-  text-align: center;
-  padding: 0 8px;
-  text-shadow: none;
-  display: block;
-  background-color: #ccc;
-  opacity: 1;
-  border-radius: 4px 4px 0 0;
-  -moz-border-radius: 4px 4px 0 0;
-  -webkit-border-radius: 4px 4px 0 0;
-} */
-
-/* #box04-left .cum,
-.ski,
-.head {
-  position: relative;
-  display: flex;
-  gap: 12px;
-  align-items: center;
-  padding: 0;
-  margin: 0 auto;
-  height: 35px;
-  width: 100%;
-  float: left;
-  line-height: 35px;
-  color: #3d4853;
-}
-
-#box04-left #sortable .cvo-block .box-content {
-  margin: 0;
-  width: 100%;
-  margin-top: 15px;
-  color: #000;
-  margin-bottom: 20px;
-} */
-
-.page_more #cv-content {}
-
-.page_more #cv-main {}
-
-.page_more .all {}
-
 .page_more #sortable {
   width: 100%;
 }
@@ -98,10 +42,6 @@
 .page_more .ctbx .skill-name {
   width: 82%;
 }
-
-.page_more #cv-content .ir {}
-
-.page_more #cv-main .ir {}
 
 .chu {
   float: right;
@@ -115,20 +55,18 @@
   float: right;
   position: relative;
   padding: 0;
-  margin: 0;
-  margin-right: 30px;
+  margin: 0 30px 24px 0;
   background: #c9dce3;
   /* height: max-content; */
 }
 
 #cv-main {
   text-align: justify;
-  margin: 0;
+  margin: 0 0 24px 30px;
   padding: 0;
   position: relative;
   float: left;
   width: 52.5%;
-  margin-left: 30px;
 }
 
 #cv-right .ir {
@@ -174,7 +112,6 @@ p.skill-name input {
 #cv-top {
   width: 100%;
   height: 296px;
-  /* background-image: url(header.png); */
   background-size: 100% 100%;
   background-repeat: no-repeat;
   position: relative;
@@ -210,12 +147,10 @@ p.skill-name input {
 }
 
 #box-hvt {
-  /* float: right; */
   width: 100%;
   position: absolute;
   top: 215px;
   display: flex;
-  /* justify-items: center; */
   flex-direction: column;
   align-items: center;
 }
@@ -305,18 +240,6 @@ p.skill-name input {
   margin-bottom: 10px;
 }
 
-#cv-content #block01 .exp-date {
-  /* display: none; */
-}
-
-#cv-content #block03 .exp-date {
-  /* display: none; */
-}
-
-#cv-content #block04 .exp-date {
-  /* display: none; */
-}
-
 #cv-content p.h3 {
   margin: 0 0 0px;
   padding: 0px;
@@ -326,7 +249,6 @@ p.skill-name input {
   float: left;
   width: 100%;
   padding: 0;
-  /* margin-bottom: 12px; */
   padding-top: 15px;
 }
 
@@ -423,7 +345,6 @@ p.skill-name input {
   padding: 0px;
   color: #000;
   float: left;
-  /* width: 80%; */
   padding-top: 5px;
   margin-left: 5px;
 }
@@ -459,7 +380,7 @@ p.skill-name input {
 }
 
 .dot-icon {
-  background: url("./cskh_dot.png") center no-repeat;
+  background: url("cskh_dot.png") center no-repeat;
   width: 5px;
   height: 6px;
   margin-top: 16px;
@@ -502,7 +423,6 @@ p.skill-name input {
   display: flex;
   align-items: center;
   width: 100%;
-  /* float: left; */
   color: #fff;
   margin: 0;
   padding-bottom: 10px;
@@ -667,7 +587,6 @@ div#prof .ic_group {
 }
 
 div#experience-table {
-  /* margin-top: 10px; */
   width: 100%;
   float: left;
   color: #000;
@@ -710,112 +629,10 @@ div#cv-boxtitle {
   background-color: #3d4853;
 }
 
-#form-cv .cumicc2 {
-  /* width: 25px;
-  height: 25px;
-  background-image: url(target.svg);
-  background-position: left;
-  background-size: 100% 100%;
-  background-repeat: no-repeat; */
-}
-
-#form-cv .cumicc3 {
-  /* width: 25px;
-  height: 25px;
-  background-image: url(skill.svg);
-  background-position: left;
-  background-size: 100% 100%;
-  background-repeat: no-repeat; */
-}
-
-#form-cv .cumicc4 {
-  /* width: 25px;
-  height: 25px;
-  background-image: url(reward.svg);
-  background-position: left;
-  background-size: 100% 100%;
-  background-repeat: no-repeat; */
-}
-
-#form-cv .cumicc5 {
-  /* width: 25px;
-  height: 25px;
-  background-image: url(certificate.svg);
-  background-position: left;
-  background-size: 100% 100%;
-  background-repeat: no-repeat; */
-}
-
-#form-cv .cumicc6 {
-  /* width: 25px;
-  height: 25px;
-  background-image: url(hobby.svg);
-  background-position: left;
-  background-size: 100% 100%;
-  background-repeat: no-repeat; */
-}
-
-#form-cv .cumicc7 {
-  /* width: 25px;
-  height: 25px;
-  background-image: url(reference.svg);
-  background-position: left;
-  background-size: 100% 100%;
-  background-repeat: no-repeat; */
-}
-
-#form-cv .icright1 {
-  /* width: 25px;
-  height: 25px;
-  background-image: url(graduate.svg);
-  background-position: left;
-  background-size: 100% 100%;
-  background-repeat: no-repeat; */
-}
-
-#form-cv .icright2 {
-  /* width: 25px;
-  height: 25px;
-  background-image: url(experience.svg);
-  background-position: left;
-  background-size: 100% 100%;
-  background-repeat: no-repeat; */
-}
-
-#form-cv .icright3 {
-  /* width: 25px;
-  height: 25px;
-  background-image: url(activity.svg);
-  background-position: left;
-  background-size: 100% 100%;
-  background-repeat: no-repeat; */
-}
-
-#form-cv .icright4 {
-  /* width: 25px;
-  height: 25px;
-  background-image: url(project.svg);
-  background-position: left;
-  background-size: 100% 100%;
-  background-repeat: no-repeat; */
-}
-
-#form-cv .icright5 {
-  /* width: 25px;
-  height: 25px;
-  background-image: url(more.svg);
-  background-position: left;
-  background-size: 100% 100%;
-  background-repeat: no-repeat; */
-}
-
 div#box011 {
   float: left;
   width: 30%;
-  /* margin-left: 30px;
-  margin-top: 30px !important; */
   padding-top: 60px;
-  /* padding-left: 40px; */
   margin-left: 35px;
 }
 
@@ -826,8 +643,6 @@ div#box011:hover {
 div#box012 {
   float: right;
   width: 30%;
-  /* margin-left: 30px;
-  margin-top: 30px !important; */
   padding-top: 95px;
   margin-right: 35px;
 }
@@ -836,13 +651,10 @@ div#box012:hover {
   box-shadow: none;
 }
 
-.footer {
-  height: 60px;
-  float: left;
-  width: 100%;
-}
+.footer {}
 
 div#sort_block {
+  width: 100%;
   padding: 0;
   margin: 0;
 }
@@ -852,29 +664,6 @@ div#sort_block {
   padding: 0px 5px;
 }
 
-/*  #block01{
-  	background: url(bg_03.png)no-repeat;
-  	background-position: right top;
-  }
-  #block02{
-  	background: url(bg_06.png)no-repeat;
-  	background-position: right top;
-  } */
-/*   #box01{
-    background: url(bg_02.png)no-repeat left;
-    background-size: 100%;
-  } */
-/*   #box02{
-    background: url(bg_08.png)no-repeat left;
-  } */
-/* #box04{
-    background: url(bg_10.png)no-repeat left;
-  }
-    #box07{
-    background: url(bg_12.png)no-repeat left;
-    background-size: 100% 100%;
-  }
- */
 .bar-exp {
   margin-bottom: 0px;
   padding: 0px;

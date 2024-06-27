@@ -776,15 +776,6 @@ div#sort_block {
     height: auto;
 }
 
-/* .footer,
-.footer-background {
-    position: absolute;
-    width: 100%;
-    height: 16px;
-    background-color: #fa893e;
-    bottom: 6px;
-} */
-
 #form-cv .fa.fa-minus,
 #form-cv .fa.fa-plus {
     display: none;

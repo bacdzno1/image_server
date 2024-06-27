@@ -399,6 +399,7 @@ div#prof {
   padding: 0px 0px;
   display: flex;
   flex-direction: row;
+  flex-wrap: wrap;
   align-items: center;
   border-top: 2px solid #8b8889;
   border-bottom: 2px solid #8b8889;

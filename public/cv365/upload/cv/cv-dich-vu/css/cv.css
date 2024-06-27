@@ -16,10 +16,20 @@
   /* margin-bottom: 20px; */
 }
 
-
 .cv_page {
   padding: 0;
   background: url(bg.svg) no-repeat;
+  background-size: auto 100%;
+  background-position: left;
+}
+
+.inner-div {
+  width: 56%;
+  height: 100%;
+  position: absolute;
+  top: 0;
+  right: 0;
+  background-color: white;
 }
 
 #box03 .exp {

@@ -21,7 +21,7 @@
     /* margin: 0 0 16px 16px; */
 }
 
-#cv-right .ir #sortable .block::after {
+#cv-right .ir #sortable .block:not(#box01)::after {
     content: "";
     position: absolute;
     display: block;
@@ -111,6 +111,7 @@
 }
 
 #cv-main #cv-right .ir #sortable {
+    width: 100%;
     padding: 0;
     margin: 0;
 }
@@ -121,12 +122,12 @@
     float: left;
     width: 100%;
     border: none;
-    margin-bottom: 25px;
+    margin-bottom: 16px;
 }
 
 
 
-#cv-right .ir #sortable .block::before {
+#cv-right .ir #sortable .block:not(#box01)::before {
     content: "";
     position: absolute;
     display: block;
@@ -179,16 +180,12 @@ p.skill-name input {
     outline: none;
 }
 
-.cv_page .all {
-    max-height: 72%;
-}
-
 .cv_page.height_page .all {
-    max-height: 72%;
+    height: 68%;
 }
 
 .cv_page.page_more .all {
-    max-height: 96%;
+    height: 95%;
 }
 
 .page_more .all {
@@ -276,9 +273,7 @@ p.skill-name input {
 }
 
 #cv-top h2 {
-    /* margin: 0;
-    padding: 0 0 12px 16px; */
-    margin-bottom: 30px;
+    margin-bottom: 16px;
     text-transform: uppercase;
     width: 100%;
     font-weight: unset;
@@ -395,7 +390,6 @@ p.skill-name input {
 }
 
 #cv-content .ir .cvo-block {
-    margin-top: 25px;
     padding: 0;
 }
 
@@ -726,7 +720,7 @@ div#prof {
 #experience-table .ctbx {
     display: flex;
     flex-direction: column;
-    /* margin-top: 12px; */
+    margin-top: 12px;
 }
 
 .ifo {
@@ -843,18 +837,10 @@ div#cv-boxtitle {
 
 div#box01 {
     /* float: left; */
-    width: 88%;
+    width: 100%;
     /* padding-top: 50px; */
     border: 2px solid black;
     /* margin-top: 30px; */
-    position: absolute;
-    top: 130px;
-}
-
-.footer {
-    height: 44px;
-    float: left;
-    width: 100%;
 }
 
 div#sort_block {

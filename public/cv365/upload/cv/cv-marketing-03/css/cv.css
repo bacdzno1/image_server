@@ -18,8 +18,7 @@
 
 .sortable.ui-sortable {
   width: 50%;
-  /* position: absolute; */
-  margin-left: 50%;
+  float: right;
   margin-top: 48px;
 }
 
@@ -242,7 +241,7 @@ p.skill-name input {
   color: black;
   font-weight: bold;
   text-align: left;
-  width: 86%;
+  width: 100%;
   float: left;
   padding-bottom: 5px;
 }
@@ -251,11 +250,11 @@ p.skill-name input {
 
 #box-hvt {
   float: right;
-  width: 50%;
+  width: 56%;
   padding: 0;
   margin: 0;
-  position: absolute;
-  top: 36px;
+  margin-top: 36px;
+  margin-left: 16px;
 }
 
 #cv-right .cvo-block .head div {
@@ -414,7 +413,7 @@ p.skill-name input {
 
 .box-01 {
   float: right;
-  width: 95%;
+  width: 100%;
   display: flex;
   flex-direction: row;
   justify-content: space-between;
@@ -496,7 +495,7 @@ p.skill-name input {
 
 div#prof {
   float: left;
-  width: 95%;
+  width: 100%;
   padding: 0px 0px;
   /* margin-top: 36px; */
   padding-left: 10px;

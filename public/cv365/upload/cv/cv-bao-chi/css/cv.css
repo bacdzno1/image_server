@@ -43,6 +43,7 @@
   width: 48.9%;
   float: right;
   position: relative;
+  top: -24px;
   padding: 0;
   margin-bottom: 24px;
   margin-top: 0px;
@@ -53,6 +54,7 @@
   text-align: justify;
   padding: 0;
   position: relative;
+  top: -24px;
   float: left;
   width: 40%;
   margin: 0px 0px 24px 50px;
@@ -109,7 +111,7 @@ p.skill-name input {
 #cv-top {
   position: relative;
   width: 100%;
-  height: 274px;
+  height: 292px;
   /* background-image: url(header.png); */
   background-size: 100% 100%;
   background-repeat: no-repeat;
@@ -131,8 +133,8 @@ p.skill-name input {
   clear: both;
   width: 100%;
   background: url(baochi_allbackground.png) no-repeat;
-  background-size: 94% 94%;
-  background-position: 24px;
+  background-size: 94% 100%;
+  background-position: center;
   /* border: 1px solid black;
   background: #fff; */
   /* margin-left: 20px; */
@@ -535,7 +537,7 @@ div#prof {
   height: 35px;
   /* line-height: ; */
   float: left;
-  width: 90%;
+  width: 100%;
   /* border: 1px solid red; */
   background: #f1e8d9;
 }
@@ -614,7 +616,7 @@ div#cv-boxtitle {
   padding: 0;
   margin: 0 auto;
   height: 35px;
-  width: 90%;
+  width: 100%;
   float: left;
   line-height: 35px;
   color: black;

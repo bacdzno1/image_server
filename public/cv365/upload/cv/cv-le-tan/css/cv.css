@@ -122,6 +122,7 @@ p.skill-name input {
 .cv_page.page_more .all {
     height: 100%;
     font-size: small;
+    padding-top: 50px;
 }
 
 .all {

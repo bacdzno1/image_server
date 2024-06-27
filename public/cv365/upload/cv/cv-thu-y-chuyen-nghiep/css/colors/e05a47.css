@@ -1,0 +1,39 @@
+.cv_page {
+  background: url(bg1.svg) center no-repeat;
+}
+
+.cv_page.page_more.height_page {
+  background: url(pagemore_bg1.svg) end no-repeat;
+}
+
+#orm-cv {
+  color: #e05a47;
+}
+
+#form-cv .icf1 {
+  background: url(gioitinh1.svg) center no-repeat;
+}
+
+#form-cv .icf2 {
+  background: url(ngaysinh1.svg) center no-repeat;
+}
+
+#form-cv .icf3 {
+  background: url(dienthoai1.svg) center no-repeat;
+}
+
+form-cv .icf4 {
+  background: url(mail1.svg) center no-repeat;
+}
+
+form-cv .icf5 {
+  background: url(diachi1.svg) center no-repeat;
+}
+
+cv-top h1 {
+  color: #e05a47;
+}
+
+cv-top h2 {
+  color: #215890;
+}

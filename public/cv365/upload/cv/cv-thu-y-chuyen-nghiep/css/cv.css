@@ -680,7 +680,6 @@ div#sort_block {
   padding-top: 40px;
 }
 
-.cv_page.page_more.height_page {
-  background: url(pagemore_bg1.svg) center no-repeat;
-  background-position-y: 98%;
+.page_more{
+  background: none;
 }

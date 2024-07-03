@@ -393,12 +393,12 @@ p.skill-name input {
 }
 
 .ic {
-  display: flex;
+  display: -webkit-box;
   align-items: center;
   width: 100%;
   float: left;
   margin: 0;
-  gap: 5px;
+  gap: 10px;
 }
 
 
@@ -427,7 +427,7 @@ div#prof {
 }
 
 #form-cv .icf1 {
-  width: 25px;
+  width: 20px;
   height: 25px;
   background: url(gioitinh.svg) center no-repeat;
   background-size: 80% 80%;

@@ -2,10 +2,6 @@
     background: url(bg2.svg) center no-repeat;
 }
 
-.cv_page.page_more.height_page {
-    background: url(pagemore_bg1.svg) end no-repeat;
-}
-
 #form-cv {
     color: #34b289;
 }
@@ -36,4 +32,8 @@
 
 #cv-top h2 {
     color: #0b2d41;
+}
+
+.page_more {
+    background: none;
 }

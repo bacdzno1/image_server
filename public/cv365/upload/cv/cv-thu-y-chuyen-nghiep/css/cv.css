@@ -18,8 +18,9 @@
 
 
 .cv_page {
+  /* background: url(bg1.svg) center no-repeat;
+              background-size: 100% 100%; */
   padding: 0;
-  background: url(bg1.svg) center no-repeat;
 }
 
 #box03 .exp {
@@ -102,21 +103,21 @@ p.skill-name input {
 #cv-top {
   position: relative;
   width: 100%;
-  height: 296px;
-  /* background-image: url(header.png);
+  height: 240px;
+    background-image: url(header.png);
   background-size: 100% 100%;
   background-repeat: no-repeat;
-  position: relative; */
+  position: relative;
   color: gray;
 }
 
 
 .cv_page.height_page .all {
-  height: 73.7%;
+  height: 69.7%;
 }
 
 .cv_page.page_more .all {
-  height: 100.2%;
+  height: 100%;
 }
 
 .all {
@@ -126,6 +127,9 @@ p.skill-name input {
   width: 100%;
   padding-left: 35px;
   padding-right: 35px;
+  background-image: url(main.png);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
 }
 
 #cv-top h1 {
@@ -175,7 +179,7 @@ p.skill-name input {
   margin: 0;
   padding: 0;
   text-transform: uppercase;
-  width: 40%;
+  width: 65%;
   font-weight: unset;
   font-size: 22px;
   color: #215890;
@@ -414,7 +418,7 @@ div#prof {
   width: 20px;
   height: 20px;
   background: url(gioitinh1.svg) center no-repeat;
-  background-size: 80% 80%;
+  background-size: 100% 100%;
 
 }
 
@@ -422,7 +426,7 @@ div#prof {
   width: 20px;
   height: 20px;
   background: url(ngaysinh1.svg) center no-repeat;
-  background-size: 80% 80%;
+  background-size: 100% 100%;
 
 }
 
@@ -430,7 +434,7 @@ div#prof {
   width: 20px;
   height: 20px;
   background: url(dienthoai1.svg) center no-repeat;
-  background-size: 80% 80%;
+  background-size: 100% 100%;
 
 }
 
@@ -680,6 +684,6 @@ div#sort_block {
   padding-top: 40px;
 }
 
-.page_more{
+.page_more {
   background: none;
 }

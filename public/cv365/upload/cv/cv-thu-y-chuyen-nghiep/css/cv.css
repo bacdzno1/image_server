@@ -117,6 +117,7 @@ p.skill-name input {
   background-size: 100% 100%;
   background-repeat: no-repeat;
   position: relative;
+  position: relative;
   color: gray;
 }
 
@@ -192,6 +193,7 @@ p.skill-name input {
   margin: 0;
   padding: 0;
   text-transform: uppercase;
+  width: 65%;
   width: 65%;
   font-weight: unset;
   font-size: 22px;
@@ -430,6 +432,7 @@ div#prof {
   height: 20px;
   background: url(gioitinh1.svg) center no-repeat;
   background-size: 100% 100%;
+  background-size: 100% 100%;
 
 }
 
@@ -438,6 +441,7 @@ div#prof {
   height: 20px;
   background: url(ngaysinh1.svg) center no-repeat;
   background-size: 100% 100%;
+  background-size: 100% 100%;
 
 }
 
@@ -445,6 +449,7 @@ div#prof {
   width: 20px;
   height: 20px;
   background: url(dienthoai1.svg) center no-repeat;
+  background-size: 100% 100%;
   background-size: 100% 100%;
 
 }

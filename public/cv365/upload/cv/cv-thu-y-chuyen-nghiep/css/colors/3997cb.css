@@ -1,9 +1,19 @@
-.cv_page {
-    background: url(bg3.svg) center no-repeat;
+#cv-top {
+    background-image: url(header3.png);
+    background-size: 100% 100%;
 }
 
-.cv_page.page_more.height_page {
-    background: url(pagemore_bg3.svg) end no-repeat;
+.decor {
+    background-image: url(decor3.svg);
+}
+
+.cv_page.page_more .all {
+    background-image: url(bg3.png);
+}
+
+.all {
+    background-image: url(main3.png);
+    background-size: 100% 100%;
 }
 
 #form-cv {
@@ -36,4 +46,8 @@
 
 #cv-top h2 {
     color: #333236;
+}
+
+.page_more {
+    background: none;
 }

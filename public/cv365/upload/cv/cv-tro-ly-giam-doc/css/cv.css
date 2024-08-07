@@ -96,17 +96,17 @@ p.skill-name input {
   width: 100%;
   height: 368px;
   background-image: url(header.png);
-  background-size: 790px;
+  background-size: 100% 100%;
   background-repeat: no-repeat;
   position: relative;
 }
 
 .cv_page.height_page .all {
-  max-height: 64%;
+  height: 67.8%;
 }
 
 .cv_page.page_more .all {
-  max-height: 96%;
+  height: 101%;
 }
 
 .all {
@@ -324,7 +324,6 @@ p.skill-name input {
   position: relative;
   float: left;
   width: 100%;
-  height: 296px;
 }
 
 #cvo-profile {
@@ -575,7 +574,7 @@ div#cv-boxtitle {
 
 div#box01 {
   float: left;
-  width: 80%;
+  width: 86%;
   margin-top: 50px;
 }
 
@@ -584,6 +583,7 @@ div#box01:hover {
 }
 
 div#sort_block {
+  width: 100%;
   padding: 0;
   margin: 0;
 }

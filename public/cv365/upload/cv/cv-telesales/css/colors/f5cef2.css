@@ -1,4 +1,7 @@
 .cv_page {
-    padding: 0;
-    background: url(bg3.svg);
+    background: url(bg3.png);
+}
+
+.watermark_js {
+    color: #000;
 }

@@ -14,11 +14,9 @@
 }
 
 #sortable .cvo-block .box-content {
-    margin: 0;
+    margin: 20px 0;
     width: 100%;
-    margin-top: 15px;
     color: #000;
-    margin-bottom: 20px;
 }
 
 #box03 .exp {
@@ -67,6 +65,7 @@
 #cv-main #cv-right .ir #sortable {
     padding: 0;
     margin: 0;
+    width: 100%;
 }
 
 #cv-right .ir #sortable .block {
@@ -707,6 +706,7 @@ div#box01 {
 }
 
 div#sort_block {
+  width: 100%;
     padding: 0;
     margin: 0;
 }

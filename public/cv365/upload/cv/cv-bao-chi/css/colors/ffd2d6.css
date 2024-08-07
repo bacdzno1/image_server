@@ -1,9 +1,13 @@
-#form-cv {
+.cv_page {
   background: #ffd2d6;
 }
 
 #cv-content .head {
   background: #ff99a1;
+}
+
+.all {
+  background-image: url(main3.png);
 }
 
 .cum,

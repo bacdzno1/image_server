@@ -32,7 +32,7 @@
     display: block;
     float: left;
     width: 100%;
-    height: 255px;
+    /* height: 255px; */
 }
 
 .chu {
@@ -105,7 +105,7 @@ p.skill-name input {
 
 #cv-top {
     width: 100%;
-    height: 430px;
+    /* height: 430px; */
     /* background-image: url(hd.png);
     background-size: 100% 100%;
     background-repeat: no-repeat; */
@@ -151,10 +151,6 @@ p.skill-name input {
     float: left;
 }
 
-.watermark_js {
-    bottom: 20px;
-}
-
 #cv-top h1 span {
     letter-spacing: 1px;
     color: black;
@@ -195,11 +191,10 @@ span#cv-profile-fullname {
 
 #cv-top h2 {
     min-width: 56%;
-    /* margin: 0; */
+    max-width: 96%;
     margin-left: 15px;
     padding: 8px;
     text-transform: uppercase;
-    white-space: nowrap;
     font-weight: unset;
     font-size: 22px;
     color: #000000;
@@ -213,13 +208,14 @@ span#cv-profile-fullname {
     overflow: hidden;
 }
 
-
 #cv-content .ir a {
     color: #2ebb2f;
 }
 
 #cv-right h3,
 #cv-content .head {
+    display: flex;
+    align-items: center;
     text-transform: uppercase;
     color: #000;
     font-weight: bold;
@@ -238,12 +234,10 @@ span#cv-profile-fullname {
     font-size: 14px;
     line-height: 24px;
     text-transform: unset;
-    margin: 0px 0px 0px;
+    margin: 0 0 10px;
     padding: 0px;
     color: #000000;
 }
-
-
 
 #cv-content #block01 h3 {
     color: #000000;
@@ -284,7 +278,6 @@ span#cv-profile-fullname {
     color: #000000;
 }
 
-
 #cv-content .exp-date {
     /* display: none; */
     float: left;
@@ -308,6 +301,7 @@ span#cv-profile-fullname {
 
 #cv-content p.h3 {
     padding: 0px;
+    margin-bottom: 10px;
     /* height: 20px; */
 }
 
@@ -442,26 +436,11 @@ h1 {
     display: none;
 }
 
-/* #cvo-profile .box-dm {
-    width: 251px;
-    height: 255px;
-    margin-left: 55px;
-    margin-top: -228.1px;
-    float: left;
-    display: table;
-    background: url(avata.png) no-repeat;
-    background-size: 100% 100%;
-    clear: both;
-    z-index: 1;
-    top: -800px;
-    position: absolute;
-} */
-
 .box-01 {
     position: relative;
     float: left;
     width: 100%;
-    height: 272px;
+    /* height: 272px; */
 }
 
 #box-introduce {
@@ -473,7 +452,7 @@ h1 {
     border: 1px solid black;
     border-radius: 15px;
     width: 85%;
-    height: 70%;
+    /* height: 70%; */
     display: flex;
     flex-direction: row;
     justify-content: space-around;
@@ -483,78 +462,53 @@ h1 {
 }
 
 div#box02 {
-    width: 92%;
-}
-
-.err_cv_content {
-    outline: none;
-}
-
-
-.noi-dung-muc-tieu-nghe-nghiep {
-    height: 100%;
     width: 100%;
-    align-content: center;
-    margin-left: 35px;
 }
 
 .muc-tieu-nghe-nghiep-container {
-    /* border: 1px solid blue; */
+    position: relative;
     background-color: #fde2e0;
     width: 100%;
-    height: 140px;
+    min-height: 140px;
     justify-content: center;
     display: flex;
-    flex-direction: row;
+    align-items: center;
 }
 
 .ngoac-mo-container {
-    /* border: 1px solid black; */
+    position: absolute;
     display: flex;
-    flex-direction: row;
-    width: 60px;
+    align-items: center;
+    left: 42px;
+    top: 18px;
+    width: 36px;
     height: 27px;
     background-color: #fde2e0;
-    margin-top: 1%;
     z-index: 1;
-    justify-content: flex-end;
 }
 
 .ngoac-mo {
-    width: 30%;
+    width: 100%;
     height: 100%;
-    /* border: 1px solid red; */
     background: url(letan_ngoacmo.svg) no-repeat;
 }
 
-
 .ngoac-dong-container {
-    /* border: 1px solid black; */
+    position: absolute;
     display: flex;
-    flex-direction: row;
-    width: 60px;
+    align-items: center;
+    bottom: 18px;
+    right: 42px;
+    width: 36px;
     height: 27px;
-    margin-top: 14%;
     background-color: #fde2e0;
 }
 
 .ngoac-dong {
-    width: 26%;
+    width: 100%;
     height: 100%;
-    /* border: 1px solid red; */
     background: url(letan_ngoacdong.svg) no-repeat;
     margin-left: 5%;
-}
-
-
-
-
-
-#cvo-profile {
-    display: block;
-    float: left;
-    width: 100%;
-    height: 255px;
 }
 
 #line-seperate {
@@ -601,7 +555,7 @@ div#box02 {
 }
 
 .ic .icoweb {
-    width: 85%;
+    width: 100%;
     text-align: left;
     padding-left: 10px;
     float: left;
@@ -613,7 +567,7 @@ div#box02 {
 }
 
 .ic {
-    /* width: 100%; */
+    width: 100%;
     display: flex;
     float: left;
     color: #000;
@@ -737,12 +691,10 @@ div#prof {
 }
 
 #cv-content .head {
-    display: flex;
-    align-items: center;
     position: relative;
     padding: 0;
     margin: 0 auto;
-    /* height: 30px; */
+    height: 35px;
     float: left;
     width: 100%;
 }
@@ -875,9 +827,6 @@ div#experience-table {
 }
 
 div#cv-boxtitle {
-    display: flex;
-    align-items: center;
-    gap: 8px;
     font-size: 18px;
     font-weight: bold;
     text-transform: uppercase;
@@ -887,8 +836,6 @@ div#cv-boxtitle {
 
 .ski {
     position: relative;
-    display: flex;
-    align-items: center;
     padding: 0;
     margin: 0 auto;
     height: 35px;
@@ -900,9 +847,6 @@ div#cv-boxtitle {
 
 .cum {
     position: relative;
-    display: flex;
-    align-items: center;
-    /* gap: 8px; */
     padding: 0;
     margin: 0 auto;
     height: 35px;
@@ -973,6 +917,7 @@ div#box01 {
 }
 
 div#sort_block {
+  width: 100%;
     width: 100%;
     padding: 0;
     margin: 0;

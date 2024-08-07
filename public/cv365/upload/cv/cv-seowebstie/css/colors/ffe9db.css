@@ -1,3 +1,11 @@
-.cv_page{
-    background: url(bg2.svg) center no-repeat;
+#cv-top {
+    background-image: url(header2.png);
+}
+
+.all {
+    background-image: url(main2.png);
+}
+
+.cv_page.page_more .all {
+    background-image: url(bg2.png);
 }

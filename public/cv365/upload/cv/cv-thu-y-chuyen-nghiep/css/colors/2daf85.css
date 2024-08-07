@@ -1,11 +1,17 @@
 #cv-top {
-    background-image: url(haeder2.png);
-    background-size: 100% 100%;
+    background-image: url(header2.png);
 }
 
-.all{
+.decor {
+    background-image: url(decor2.svg);
+}
+
+.cv_page.page_more .all {
+    background-image: url(bg2.png);
+}
+
+.all {
     background-image: url(main2.png);
-        background-size: 100% 100%;
 }
 
 #form-cv {
@@ -38,6 +44,10 @@
 
 #cv-top h2 {
     color: #0b2d41;
+}
+
+.page_more {
+    background: none;
 }
 
 .page_more {

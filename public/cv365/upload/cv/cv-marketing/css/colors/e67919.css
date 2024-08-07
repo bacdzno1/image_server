@@ -1,11 +1,15 @@
+.cv_page::after {
+    background-image: url(footer3.svg);
+}
+
 #cv-top {
     background-image: url(header3.png);
 }
 
-#cv-content .head {
-    background-image: url(block3.png);
+#cv-top::after {
+    background-image: url(decor_top3.svg);
 }
 
-.all {
-    background-image: url(main3.png);
+#cv-content .head {
+    background-image: url(block3.png);
 }

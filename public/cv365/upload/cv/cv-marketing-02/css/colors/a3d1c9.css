@@ -1,8 +1,8 @@
-#cv-top {
-    background-image: url(header2.png);
+.cv_page::after {
+    background-image: url(decor2.svg);
 }
 
-#cv-top h2 {
+#cvo-profile {
     background-color: #a3d1c9;
 }
 

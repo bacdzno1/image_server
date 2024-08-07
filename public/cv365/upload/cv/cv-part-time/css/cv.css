@@ -35,11 +35,12 @@
 }
 
 #cv-content {
-  width: 53%;
+  width: 44%;
   text-align: justify;
   float: right;
   position: relative;
   padding: 0;
+  margin-right: 56px;
   margin-bottom: 24px;
 }
 

@@ -18,9 +18,8 @@
 
 .sortable.ui-sortable {
   width: 50%;
-  /* position: absolute; */
-  margin-left: 50%;
-  margin-top: 48px;
+  float: right;
+  margin-top: 32px;
 }
 
 .cv_page {
@@ -29,7 +28,7 @@
 
 .background-shape {
   width: 70px;
-  height: 210px;
+  height: 320px;
   position: absolute;
   background: #d0d6df;
   margin-left: 150px;
@@ -70,8 +69,6 @@
   /* margin: 0 0 24px 44px; */
   margin-bottom: 24px;
 }
-
-.cumicc1 {}
 
 .cumicc2 {
   width: 60px;
@@ -186,7 +183,7 @@
   margin: 0;
   float: left;
   width: 100%;
-  margin-bottom: 15px;
+  margin-bottom: 28px;
 }
 
 p.skill-name input {
@@ -205,25 +202,22 @@ p.skill-name input {
 
 #cv-top {
   position: relative;
+  display: flex;
+  flex-direction: column-reverse;
   width: 100%;
-  height: 296px;
-  /* background-image: url(header.png);
-  background-size: 100% 100%;
-  background-repeat: no-repeat;
-  position: relative; */
+  height: auto;
 }
 
-
 .cv_page.height_page .all {
-  height: 73.7%;
+  height: 67.1%;
 }
 
 .cv_page.page_more .all {
-  height: 100.2%;
+  height: 100%;
 }
 
 .all {
-  padding-top: 50px;
+  padding-top: 28px;
   float: left;
   clear: both;
   width: 100%;
@@ -242,20 +236,18 @@ p.skill-name input {
   color: black;
   font-weight: bold;
   text-align: left;
-  width: 86%;
+  width: 100%;
   float: left;
   padding-bottom: 5px;
 }
 
-#cv-top h1 span {}
-
 #box-hvt {
   float: right;
-  width: 50%;
+  width: 56%;
   padding: 0;
   margin: 0;
-  position: absolute;
-  top: 36px;
+  margin-top: 36px;
+  margin-left: 16px;
 }
 
 #cv-right .cvo-block .head div {
@@ -282,8 +274,6 @@ p.skill-name input {
   padding-top: 5px;
   float: left;
 }
-
-
 
 #cv-content .ir a {
   color: #2ebb2f;
@@ -332,15 +322,11 @@ p.skill-name input {
   text-transform: uppercase;
 }
 
-
-
 #cv-content #block03 h3 {
   color: #000000;
   font-weight: unset;
   text-transform: unset;
 }
-
-
 
 #cv-content #block01 .exp-date {
   /* display: none; */
@@ -354,12 +340,10 @@ p.skill-name input {
   /* display: none; */
 }
 
-
-
 #cv-content .ir .cvo-block {
   padding: 0;
   width: 100%;
-  margin-bottom: 15px;
+  margin-bottom: 28px;
 }
 
 #cv-content span {
@@ -384,17 +368,16 @@ p.skill-name input {
 }
 
 #cvo-profile-avatar-wraper {
-  position: absolute;
-  top: 120px;
-  left: 82px;
+  margin-left: 82px;
+  width: 210px;
   border-radius: 50%;
-  overflow: hidden;
 }
 
 #cvo-profile-avatar-wraper img {
   width: 210px;
   height: 210px;
   float: left;
+  border-radius: 50%;
 }
 
 #cvo-profile .box-dm {
@@ -414,7 +397,7 @@ p.skill-name input {
 
 .box-01 {
   float: right;
-  width: 95%;
+  width: 100%;
   display: flex;
   flex-direction: row;
   justify-content: space-between;
@@ -464,7 +447,7 @@ p.skill-name input {
 }
 
 .ic .icoweb {
-  width: 90%;
+  width: 100%;
   text-align: left;
   /* padding-left: 10px; */
   float: left;
@@ -496,11 +479,13 @@ p.skill-name input {
 
 div#prof {
   float: left;
-  width: 95%;
+  width: 100%;
   padding: 0px 0px;
-  /* margin-top: 36px; */
   padding-left: 10px;
   padding-right: 10px;
+  display: flex;
+  flex-direction: column;
+  gap: 5px;
 }
 
 #form-cv .ic_group {
@@ -585,10 +570,6 @@ div#prof {
   width: 100%;
   border: 2px solid black;
   border-radius: 12px;
-}
-
-.err_cv_content {
-  outline: none;
 }
 
 .ifo {
@@ -694,15 +675,8 @@ div#box01:hover {
   box-shadow: none;
 }
 
-.footer {
-  background: url(footer1.png) no-repeat;
-  background-size: 100% 100%;
-  height: 60px;
-  float: left;
-  width: 100%;
-}
-
 div#sort_block {
+  width: 100%;
   padding: 0;
   margin: 0;
 }
@@ -763,12 +737,3 @@ div#sort_block {
 .page_more #cv-main #cv-right {
   margin-top: 0;
 }
-
-.page_more #cv-content,
-.page_more #cv-main,
-.page_more .all,
-.page_more #sort_block,
-.page_more #sortable,
-.page_more #cv-main #cv-right,
-.page_more #cv-content .ir,
-.page_more #cv-main .ir {}

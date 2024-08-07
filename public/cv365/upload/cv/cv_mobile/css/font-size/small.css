@@ -1,27 +1,32 @@
 #form-cv {
-    font-size: 13px
+    font-size: 13px !important;
 }
 
 .box-01 {
-    font-size: 13px
-}
-
-#cv-content .head {
-    font-size: 16px
-}
-
-#cv-right .h3 {
-    font-size: 16px
-}
-
-#cv-content h3 {
-    font-size: 13px
+    font-size: 13px !important;
 }
 
 #cv-top h2 {
-    font-size: 14px
+    font-size: 20px !important;
 }
 
 #cv-top h1 {
-    font-size: 30px;
+    font-size: 30px !important;
+}
+
+#cv-content .head {
+    font-size: 17px !important;
+}
+
+#cv-right .h3 {
+    font-size: 17px !important;
+}
+
+#cv-content h3 {
+    font-size: 13px !important;
+}
+
+.block-title,
+.box-title {
+    font-size: 16px !important;
 }

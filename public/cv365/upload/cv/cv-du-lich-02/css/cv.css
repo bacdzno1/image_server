@@ -11,11 +11,9 @@
 #sortable .cvo-block .box-content {
   margin: 0;
   width: 100%;
-  margin-top: 15px;
+  margin-top: 4px;
   color: #000;
-  /* margin-bottom: 20px; */
 }
-
 
 .cv_page {
   padding: 0;
@@ -26,7 +24,7 @@
   float: left;
   margin: 0;
   width: 100%;
-  margin-top: 10px;
+  margin-top: 2px;
 }
 
 #cvo-profile {
@@ -45,7 +43,6 @@
   position: relative;
   padding: 0;
   margin-bottom: 24px;
-  padding-top: 22px;
 }
 
 #cv-main {
@@ -258,7 +255,7 @@ p.skill-name input {
 #cv-content .ir .cvo-block {
   padding: 0;
   width: 100%;
-  margin-bottom: 15px;
+  margin-bottom: 28px;
 }
 
 #cv-content span {
@@ -399,6 +396,7 @@ div#prof {
   padding: 0px 0px;
   display: flex;
   flex-direction: row;
+  flex-wrap: wrap;
   align-items: center;
   border-top: 2px solid #8b8889;
   border-bottom: 2px solid #8b8889;
@@ -490,10 +488,6 @@ div#prof {
   text-align: center;
 }
 
-.err_cv_content {
-  outline: none;
-}
-
 .ifo {
   margin: 0;
   padding: 0;
@@ -576,8 +570,7 @@ div#cv-boxtitle {
 
 }
 
-
-#cv-right .ir #sortable .block::after {
+#cv-right .ir #sortable .block:not(:last-child):after {
   content: "";
   position: absolute;
   display: block;
@@ -586,7 +579,6 @@ div#cv-boxtitle {
   top: 32px;
   left: -7.7%;
   background-color: #848182;
-
 }
 
 .cum,
@@ -663,15 +655,8 @@ div#box01:hover {
   box-shadow: none;
 }
 
-.footer {
-  background: url(footer1.png) no-repeat;
-  background-size: 100% 100%;
-  height: 60px;
-  float: left;
-  width: 100%;
-}
-
 div#sort_block {
+  width: 100%;
   padding: 0;
   margin: 0;
 }

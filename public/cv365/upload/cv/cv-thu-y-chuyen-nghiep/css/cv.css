@@ -18,9 +18,18 @@
 
 
 .cv_page {
-  /* background: url(bg1.svg) center no-repeat;
-              background-size: 100% 100%; */
+  position: relative;
   padding: 0;
+}
+
+.cv_page::after {
+  content: "";
+  position: absolute;
+  bottom: 22px;
+  right: 100px;
+  width: 504px;
+  height: 22px;
+  background-image: url(decor_footer.svg);
 }
 
 #box03 .exp {
@@ -45,7 +54,7 @@
   float: right;
   position: relative;
   padding: 0;
-  /* margin-bottom: 24px; */
+  margin-bottom: 48px;
 }
 
 #cv-main {
@@ -55,7 +64,7 @@
   float: left;
   width: 45%;
   /* margin: 0 0 24px 44px; */
-  margin-bottom: 24px;
+  margin-bottom: 48px;
   margin-left: 15px;
 }
 
@@ -104,20 +113,23 @@ p.skill-name input {
   position: relative;
   width: 100%;
   height: 240px;
-    background-image: url(header.png);
+  background-image: url(header.png);
   background-size: 100% 100%;
   background-repeat: no-repeat;
+  position: relative;
   position: relative;
   color: gray;
 }
 
 
 .cv_page.height_page .all {
-  height: 69.7%;
+  height: 69.8%;
 }
 
 .cv_page.page_more .all {
+  padding-top: 40px;
   height: 100%;
+  background-image: url(bg.png);
 }
 
 .all {
@@ -128,39 +140,41 @@ p.skill-name input {
   padding-left: 35px;
   padding-right: 35px;
   background-image: url(main.png);
-    background-repeat: no-repeat;
-    background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
 }
 
 #cv-top h1 {
   padding: 0;
-  margin: 0;
+  margin: 25px 0 0;
   font-size: 32px;
   font-family: "Roboto";
   line-height: 35px;
   text-transform: uppercase;
-  /* margin-bottom: 10px; */
   color: #e05a47;
   font-weight: bold;
   text-align: left;
   width: 65%;
   float: left;
-  /* padding-bottom: 5px; */
-  margin-top: 25px;
-  margin-bottom: 25px;
 }
 
 
 #box-hvt {
   float: right;
   width: 100%;
-  /* padding: 0;
-  margin: 0; */
   margin-bottom: 40px;
   margin-top: 35px;
   padding-left: 50px;
   display: flex;
   flex-direction: column;
+}
+
+.decor {
+  width: 420px;
+  height: 22px;
+  background-image: url(decor.svg);
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
 }
 
 #cv-right .cvo-block .head div {
@@ -179,6 +193,7 @@ p.skill-name input {
   margin: 0;
   padding: 0;
   text-transform: uppercase;
+  width: 65%;
   width: 65%;
   font-weight: unset;
   font-size: 22px;
@@ -309,8 +324,6 @@ p.skill-name input {
   margin-top: -228.1px;
   float: left;
   display: table;
-  background: url(avata.png) no-repeat;
-  background-size: 100% 100%;
   clear: both;
   z-index: 1;
   top: -800px;
@@ -419,6 +432,7 @@ div#prof {
   height: 20px;
   background: url(gioitinh1.svg) center no-repeat;
   background-size: 100% 100%;
+  background-size: 100% 100%;
 
 }
 
@@ -427,6 +441,7 @@ div#prof {
   height: 20px;
   background: url(ngaysinh1.svg) center no-repeat;
   background-size: 100% 100%;
+  background-size: 100% 100%;
 
 }
 
@@ -434,6 +449,7 @@ div#prof {
   width: 20px;
   height: 20px;
   background: url(dienthoai1.svg) center no-repeat;
+  background-size: 100% 100%;
   background-size: 100% 100%;
 
 }
@@ -491,10 +507,6 @@ div#prof {
   float: left;
   width: 100%;
   line-height: 35px;
-}
-
-.err_cv_content {
-  outline: none;
 }
 
 .ifo {
@@ -581,8 +593,6 @@ div#cv-boxtitle {
 
 }
 
-
-
 .cum,
 .ski {
   align-items: center;
@@ -596,20 +606,12 @@ div#cv-boxtitle {
 
 }
 
-
 div#box01:hover {
   box-shadow: none;
 }
 
-.footer {
-  background: url(footer1.png) no-repeat;
-  background-size: 100% 100%;
-  height: 60px;
-  float: left;
-  width: 100%;
-}
-
 div#sort_block {
+  width: 100%;
   padding: 0;
   margin: 0;
 }
@@ -669,21 +671,4 @@ div#sort_block {
 
 .page_more #cv-main #cv-right {
   margin-top: 0;
-}
-
-.page_more #cv-content,
-.page_more #cv-main,
-.page_more .all,
-.page_more #sort_block,
-.page_more #sortable,
-.page_more #cv-main #cv-right,
-.page_more #cv-content .ir,
-.page_more #cv-main .ir {}
-
-.page_more .all {
-  padding-top: 40px;
-}
-
-.page_more {
-  background: none;
 }

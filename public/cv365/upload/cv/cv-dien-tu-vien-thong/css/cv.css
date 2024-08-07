@@ -20,7 +20,7 @@
 #sortable .cvo-block .box-content {
     margin: 0;
     width: 100%;
-    margin-top: 15px;
+    margin-top: 4px;
     color: #000;
     margin-bottom: 20px;
 }
@@ -30,7 +30,6 @@
     margin: 0;
     width: 100%;
     padding-bottom: 30px;
-    padding-top: 10px;
 }
 
 #cvo-profile {
@@ -102,7 +101,6 @@ p.skill-name input {
 
 #cv-top {
     width: 100%;
-    height: 296px;
     background-image: url(header_background.png);
     background-size: 100% 100%;
     background-repeat: no-repeat;
@@ -111,7 +109,7 @@ p.skill-name input {
 }
 
 .cv_page.height_page .all {
-    height: 73.5%;
+    height: 77.6%;
 }
 
 .cv_page.page_more .all {
@@ -345,8 +343,7 @@ p.skill-name input {
     width: 27%;
     float: left;
     display: table;
-    padding-top: 40px;
-    padding-left: 72px;
+    padding: 40px 0 24px 72px;
 }
 
 #cv-profile-sex::before {
@@ -444,14 +441,12 @@ p.skill-name input {
 .box-01 {
     float: left;
     width: 100%;
-    height: 300px;
 }
 
 #cvo-profile {
     display: block;
     float: left;
     width: 100%;
-    height: 255px;
 }
 
 #line-seperate {
@@ -500,25 +495,20 @@ p.skill-name input {
 }
 
 .ic .icoweb {
-    /* width: 85%; */
     text-align: left;
     /* padding-left: 10px; */
     float: left;
     color: #000;
 }
 
-#sortable .ic {
-    margin: 0;
-}
-
 .ic {
     display: flex;
+    align-items: center;
     width: 100%;
     float: left;
     color: #000;
     margin: 0;
     padding-bottom: 8px;
-    /* padding-bottom: 10px; */
 }
 
 #prof [contentEditable="true"] {
@@ -532,6 +522,7 @@ p.skill-name input {
 
 #prof .icoweb,
 #prof .icoweb span {
+    width: 100%;
     height: auto;
 }
 
@@ -641,7 +632,7 @@ div#prof {
 }
 
 #experience-table .ctbx {
-    margin-top: 12px;
+    margin-top: 4px;
 }
 
 .ifo {
@@ -765,17 +756,12 @@ div#box01 {
     padding-top: 50px;
 }
 
-.footer {
-    height: 26px;
-    float: left;
-    width: 100%;
-}
-
 .connectedSortable {
     width: 100%;
 }
 
 div#sort_block {
+  width: 100%;
     width: 100%;
     padding: 0;
     margin: 0;

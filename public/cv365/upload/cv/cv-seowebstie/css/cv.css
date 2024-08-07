@@ -16,30 +16,19 @@
   /* margin-bottom: 20px; */
 }
 
-
 .cv_page {
+  position: relative;
   padding: 0;
-  background: url(bg1.svg) bottom no-repeat;
 }
 
-.background-shape {
-  display: flex;
-  flex-direction: row;
-  justify-content: flex-end;
-  align-items: flex-end;
+.cv_page::after {
+  content: "";
   position: absolute;
-  width: 32%;
-  height: 12%;
-  border-right: 2px solid #000;
-  border-bottom: 2px solid #000;
-  top: 85%;
-  left: 65%;
-}
-
-.background-shape .rectangle {
   width: 30px;
   height: 30px;
   background-color: #000;
+  bottom: 28px;
+  right: 32px;
 }
 
 #box03 .exp {
@@ -121,7 +110,10 @@ p.skill-name input {
 #cv-top {
   position: relative;
   width: 100%;
-  height: 260px;
+  /* height: 271px; */
+  background-image: url(header.png);
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
 }
 
 .top-line {
@@ -133,21 +125,48 @@ p.skill-name input {
 }
 
 .cv_page.height_page .all {
-  height: 73.7%;
+  height: 75.8%;
 }
 
 .cv_page.page_more .all {
-  height: 100.2%;
+  height: 100%;
   padding-top: 40px;
+  background-image: url(bg1.png);
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
 }
 
 .all {
+  position: relative;
   padding-top: 60px;
   float: left;
   clear: both;
   width: 100%;
   padding-right: 35px;
   padding-left: 35px;
+  background-image: url(main.png);
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+}
+
+.all::after {
+  content: "";
+  position: absolute;
+  width: 1px;
+  height: 144px;
+  right: 31px;
+  bottom: 27px;
+  background-color: #000;
+}
+
+.all::before {
+  content: "";
+  position: absolute;
+  width: 244px;
+  height: 1px;
+  right: 31px;
+  bottom: 27px;
+  background-color: #000;
 }
 
 #cv-top h1 {
@@ -500,10 +519,6 @@ div#prof {
   gap: 10px;
 }
 
-.err_cv_content {
-  outline: none;
-}
-
 .ifo {
   margin: 0;
   padding: 0;
@@ -688,15 +703,8 @@ div#box01:hover {
   box-shadow: none;
 }
 
-.footer {
-  background: url(footer1.png) no-repeat;
-  background-size: 100% 100%;
-  height: 60px;
-  float: left;
-  width: 100%;
-}
-
 div#sort_block {
+  width: 100%;
   padding: 0;
   margin: 0;
 }

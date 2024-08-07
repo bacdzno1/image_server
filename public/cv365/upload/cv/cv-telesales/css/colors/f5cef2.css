@@ -1,3 +1,7 @@
-#form-cv {
-    background: url("../bg3.svg");
+.cv_page {
+    background: url(bg3.png);
+}
+
+.watermark_js {
+    color: #000;
 }

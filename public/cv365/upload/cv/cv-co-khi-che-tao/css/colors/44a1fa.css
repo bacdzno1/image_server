@@ -19,11 +19,6 @@ div#prof {
     background-image: url(all_background_mau2.png);
 }
 
-.footer,
-.footer-background {
-    background-color: #44a1fa;
-}
-
 #block01 .icright1,
 #block02 .icright2,
 #block03 .icright3,
@@ -44,4 +39,8 @@ div#prof {
 
 .bar-exp div {
     background: #44a1fa;
+}
+
+.watermark_js {
+    background-color: #44a1fa;
 }

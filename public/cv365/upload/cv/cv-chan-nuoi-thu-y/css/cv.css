@@ -11,12 +11,8 @@
 #sortable .cvo-block .box-content {
   margin: 0;
   width: 100%;
-  margin-top: 15px;
   color: #000;
-  /* margin-bottom: 20px; */
 }
-
-
 
 #cv-top .sortable.ui-sortable {
   background: url(bg1.svg) center no-repeat;
@@ -119,7 +115,6 @@
   margin-top: 36%;
   margin-left: 30%;
 }
-
 
 .cumicc6 {
   background: url(sothich.svg);
@@ -421,15 +416,15 @@ p.skill-name input {
 
 #cvo-profile-avatar-wraper {
   position: absolute;
-  top: 88px;
-  left: 65%;
+  top: 50px;
+  right: 24px;
   border-radius: 50%;
   overflow: hidden;
 }
 
 #cvo-profile-avatar-wraper img {
-  width: 210px;
-  height: 210px;
+  width: 236px;
+  height: 236px;
   float: left;
 }
 
@@ -628,16 +623,13 @@ div#prof {
   position: relative;
   display: flex;
   align-items: center;
+  line-height: 35px;
   padding: 0;
   margin: 0 auto;
   float: left;
   width: 117%;
   margin-left: -17%;
   gap: 15px;
-}
-
-.err_cv_content {
-  outline: none;
 }
 
 .ifo {
@@ -659,17 +651,13 @@ div#prof {
   background: #b82731;
 }
 
-#cvo-experience-blocktitle {
-  /* color: #25c7d8; */
-  /* text-align: center; */
+/* #cvo-experience-blocktitle {
   float: left;
   text-transform: uppercase;
   font-weight: bold;
   width: 100%;
   font-size: 18px;
-  /* height: 35px;
-  margin-top: 8px; */
-}
+} */
 
 
 .exp-date {
@@ -694,12 +682,10 @@ div#prof {
 }
 
 div#experience-table {
-  margin: 0px;
+  margin: 0;
   width: 100%;
   float: left;
   color: #000;
-  margin-top: 10px;
-  /* margin-bottom: 10px; */
 }
 
 span.exp-subtitle {
@@ -715,13 +701,12 @@ span.exp-subtitle {
   color: #3f5b66;
 }
 
-div#cv-boxtitle {
+div#cv-boxtitle, #cvo-experience-blocktitle {
   font-size: 18px;
   font-weight: bold;
   text-transform: uppercase;
   float: left;
   width: 100%;
-
 }
 
 .cum::after,
@@ -746,7 +731,7 @@ div#cv-boxtitle {
   display: flex;
   padding: 0;
   margin: 0 auto;
-  height: 35px;
+  height: 46px;
   width: 117%;
   float: left;
   line-height: 35px;
@@ -782,15 +767,8 @@ div#box01:hover {
   box-shadow: none;
 }
 
-.footer {
-  background: url(footer1.png) no-repeat;
-  background-size: 100% 100%;
-  height: 60px;
-  float: left;
-  width: 100%;
-}
-
 div#sort_block {
+  width: 100%;
   padding: 0;
   margin: 0;
 }

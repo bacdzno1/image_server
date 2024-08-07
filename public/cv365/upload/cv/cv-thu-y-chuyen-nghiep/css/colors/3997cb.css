@@ -3,7 +3,15 @@
     background-size: 100% 100%;
 }
 
-.all{
+.decor {
+    background-image: url(decor3.svg);
+}
+
+.cv_page.page_more .all {
+    background-image: url(bg3.png);
+}
+
+.all {
     background-image: url(main3.png);
     background-size: 100% 100%;
 }
@@ -38,6 +46,10 @@
 
 #cv-top h2 {
     color: #333236;
+}
+
+.page_more {
+    background: none;
 }
 
 .page_more {

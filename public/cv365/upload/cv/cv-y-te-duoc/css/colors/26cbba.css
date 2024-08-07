@@ -10,9 +10,8 @@
     background-color: #fb7569;
 }
 
-.all {
-    background: url(body3.png) no-repeat;
-    background-size: 100% 100%;
+.cv_page {
+    background-image: url(footer3.png);
 }
 
 .cum,
